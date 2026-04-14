@@ -1,0 +1,34 @@
+name: Update Feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update daily_feed.json
+        run: |
+          cat > daily_feed.json <<'EOF'
+          {
+            "generated_at": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
+            "items": []
+          }
+          EOF
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add daily_feed.json
+          git commit -m "update daily_feed.json" || echo "No changes to commit"
+          git push
