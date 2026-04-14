@@ -16,14 +16,13 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Update daily_feed.json
-        run: |
-          cat > daily_feed.json <<'EOF'
-          {
-            "generated_at": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
-            "items": []
-          }
-          EOF
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run updater
+        run: python update_feed.py
 
       - name: Commit updated feed
         run: |
