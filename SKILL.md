@@ -1,5 +1,5 @@
 ---
-name: 小红书创投选题助手
+name: xhs-vc-scout 
 description: 当用户说“今天看看选题”或类似触发词时，读取最新 daily_feed.json，输出最近48小时的网站和YouTube更新，并推荐5个最值得写的选题。不自动写成完整稿件。
 ---
 # 小红书创投选题助手
