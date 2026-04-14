@@ -1,0 +1,71 @@
+{
+  "websites": [
+    {
+      "name": "a16z News",
+      "type": "rss",
+      "url": "https://www.a16z.news/feed"
+    },
+    {
+      "name": "TechCrunch Startups",
+      "type": "rss",
+      "url": "https://techcrunch.com/category/startups/feed/"
+    },
+    {
+      "name": "VC News Daily",
+      "type": "rss",
+      "url": "https://vcnewsdaily.com/feed/"
+    },
+    {
+      "name": "YC Launches",
+      "type": "rss",
+      "url": "https://www.ycombinator.com/launches.rss"
+    },
+    {
+      "name": "Product Hunt",
+      "type": "rss",
+      "url": "https://www.producthunt.com/feed"
+    },
+    {
+      "name": "Sequoia Stories",
+      "type": "rss",
+      "url": "https://www.sequoiacap.com/feed/"
+    }
+  ],
+  "youtube": [
+    {
+      "name": "a16z",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqueEGFAOOJaFSLlRkP1pWg"
+    },
+    {
+      "name": "Sequoia Capital",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHZpIpB3oOHMJFkrFMqT-w"
+    },
+    {
+      "name": "Silicon Valley Girl",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCprmxIpPImFkBKt5HHgXW_A"
+    },
+    {
+      "name": "20VC",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBkNpe1MwwQGPBpYCE04GGg"
+    },
+    {
+      "name": "Latent Space",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHFKBNk_FNYeQS0D7a8YFAQ"
+    },
+    {
+      "name": "Lenny's Podcast",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4pEy7u2TKnXs3FAFoWaZ8Q"
+    },
+    {
+      "name": "YC Official",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg"
+    }
+  ]
+}
