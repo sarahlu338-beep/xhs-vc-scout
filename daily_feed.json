@@ -1,4 +1,109 @@
 {
-  "generated_at": "",
-  "items": []
+  "generated_at": "2026-04-14T10:14:32Z",
+  "items": [
+    {
+      "source": "a16z News",
+      "type": "website",
+      "title": "",
+      "published_at": "",
+      "link": "https://www.a16z.news/feed",
+      "summary": ""
+    },
+    {
+      "source": "TechCrunch Startups",
+      "type": "website",
+      "title": "",
+      "published_at": "",
+      "link": "https://techcrunch.com/category/startups/feed/",
+      "summary": ""
+    },
+    {
+      "source": "VC News Daily",
+      "type": "website",
+      "title": "",
+      "published_at": "",
+      "link": "https://vcnewsdaily.com/feed/",
+      "summary": ""
+    },
+    {
+      "source": "YC Launches",
+      "type": "website",
+      "title": "",
+      "published_at": "",
+      "link": "https://www.ycombinator.com/launches.rss",
+      "summary": ""
+    },
+    {
+      "source": "Product Hunt",
+      "type": "website",
+      "title": "",
+      "published_at": "",
+      "link": "https://www.producthunt.com/feed",
+      "summary": ""
+    },
+    {
+      "source": "Sequoia Stories",
+      "type": "website",
+      "title": "",
+      "published_at": "",
+      "link": "https://www.sequoiacap.com/feed/",
+      "summary": ""
+    },
+    {
+      "source": "a16z",
+      "type": "youtub",
+      "title": "",
+      "published_at": "",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqueEGFAOOJaFSLlRkP1pWg",
+      "summary": ""
+    },
+    {
+      "source": "Sequoia Capital",
+      "type": "youtub",
+      "title": "",
+      "published_at": "",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHZpIpB3oOHMJFkrFMqT-w",
+      "summary": ""
+    },
+    {
+      "source": "Silicon Valley Girl",
+      "type": "youtub",
+      "title": "",
+      "published_at": "",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCprmxIpPImFkBKt5HHgXW_A",
+      "summary": ""
+    },
+    {
+      "source": "20VC",
+      "type": "youtub",
+      "title": "",
+      "published_at": "",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBkNpe1MwwQGPBpYCE04GGg",
+      "summary": ""
+    },
+    {
+      "source": "Latent Space",
+      "type": "youtub",
+      "title": "",
+      "published_at": "",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHFKBNk_FNYeQS0D7a8YFAQ",
+      "summary": ""
+    },
+    {
+      "source": "Lenny's Podcast",
+      "type": "youtub",
+      "title": "",
+      "published_at": "",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4pEy7u2TKnXs3FAFoWaZ8Q",
+      "summary": ""
+    },
+    {
+      "source": "YC Official",
+      "type": "youtub",
+      "title": "",
+      "published_at": "",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+      "summary": ""
+    }
+  ]
 }
