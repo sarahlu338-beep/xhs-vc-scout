@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T03:01:06Z",
+  "generated_at": "2026-04-15T04:10:40Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,9 +36,9 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "FC Tactix",
-      "published_at": "2026-04-13T02:53:12-07:00",
-      "link": "https://www.producthunt.com/products/fc-tactix",
+      "title": "send/links",
+      "published_at": "2026-04-13T17:51:25-07:00",
+      "link": "https://www.producthunt.com/products/send-links",
       "summary": ""
     },
     {
@@ -52,58 +52,58 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "",
+      "title": "AI Feels Like a New Industrial Revolution | Ben Horowitz & Alex Rampell on a16z",
       "published_at": "",
-      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9cn0TuPq4dnbTY-CBsm8XA",
-      "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
+      "link": "https://www.youtube.com/watch?v=IZDJ3jcO5UY",
+      "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "",
+      "title": "From SEO to Agent-Led Growth: Profound's James Cadwallader",
       "published_at": "",
-      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrF0oN6unbXrWsTN7RctTw",
-      "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
+      "link": "https://www.youtube.com/watch?v=RyTwRCKeDo4",
+      "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "",
+      "title": "Duolingo CEO: What I Tell Every Employee About Surviving AI",
       "published_at": "",
-      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiq1FIgtEK7LRAOB1JXTPig",
-      "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
+      "link": "https://www.youtube.com/watch?v=GDeEATJcbJo",
+      "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "",
+      "title": "Anj Midha on Investing $300M into Anthropic & How 21 of 22 VCs Rejected It | China is Winning in AI?",
       "published_at": "",
-      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf0PBRjhf0rF8fWBIxTuoWA",
-      "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
+      "link": "https://www.youtube.com/watch?v=a1ymdW-h33E",
+      "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "",
+      "title": "Notion’s AI Strategy: Agent Harnesses, Retrieval, & MCP/CLI — Simon Last & Sarah Sachs, Notion",
       "published_at": "",
-      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
+      "link": "https://www.youtube.com/watch?v=ATt7QJgt-2k",
+      "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Do we still need PMs?",
-      "published_at": "2026-04-14T11:00:55+00:00",
-      "link": "https://www.youtube.com/shorts/Z_AoFoWkROg",
+      "title": "Unconventional building advice for the new AI era | Keith Rabois (Khosla Ventures)",
+      "published_at": "",
+      "link": "https://www.youtube.com/watch?v=xCd9ykretlg",
       "summary": ""
     },
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "",
+      "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
       "published_at": "",
-      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
-      "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
+      "link": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
+      "summary": ""
     }
   ]
 }
