@@ -31,41 +31,40 @@
       "url": "https://www.sequoiacap.com/feed/"
     }
   ],
-  "youtube": [
-    {
-      "name": "a16z",
-      "type": "rss",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9cn0TuPq4dnbTY-CBsm8XA"
-    },
-    {
-      "name": "Sequoia Capital",
-      "type": "rss",
-      "url":  "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrF0oN6unbXrWsTN7RctTw"
-    },
-    {
-      "name": "Silicon Valley Girl",
-      "type": "rss",
-      "url":  "https://www.youtube.com/feeds/videos.xml?channel_id=UCiq1FIgtEK7LRAOB1JXTPig"
-    },
-    {
-      "name": "20VC",
-      "type": "rss",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf0PBRjhf0rF8fWBIxTuoWA"
-    },
-    {
-      "name": "Latent Space",
-      "type": "rss",
-      "url":"https://www.youtube.com/feeds/videos.xml?channel_id=UCxBcwypKK-W3GHd_RZ9FZrQ"
-    },
-    {
-      "name": "Lenny's Podcast",
-      "type": "rss",
-      "url":"https://www.youtube.com/feeds/videos.xml?channel_id=UC6t1O76G0jYXOAoYCm153dA"
-    },
-    {
-      "name": "YC Official",
-      "type": "rss",
-      "url":  "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg"
-    }
-  ]
-}
+ "youtube": [
+  {
+    "name": "a16z",
+    "type": "youtube_handle",
+    "url": "https://www.youtube.com/@a16z/videos"
+  },
+  {
+    "name": "Sequoia Capital",
+    "type": "youtube_handle",
+    "url": "https://www.youtube.com/@sequoiacapital/videos"
+  },
+  {
+    "name": "Silicon Valley Girl",
+    "type": "youtube_handle",
+    "url": "https://www.youtube.com/@SiliconValleyGirl/videos"
+  },
+  {
+    "name": "20VC",
+    "type": "youtube_handle",
+    "url": "https://www.youtube.com/@20VC/videos"
+  },
+  {
+    "name": "Latent Space",
+    "type": "youtube_handle",
+    "url": "https://www.youtube.com/@LatentSpacePod/videos"
+  },
+  {
+    "name": "Lenny's Podcast",
+    "type": "youtube_handle",
+    "url": "https://www.youtube.com/@LennysPodcast/videos"
+  },
+  {
+    "name": "YC Official",
+    "type": "youtube_handle",
+    "url": "https://www.youtube.com/@ycombinator/videos"
+  }
+]
