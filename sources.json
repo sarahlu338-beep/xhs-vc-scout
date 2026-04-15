@@ -35,37 +35,37 @@
     {
       "name": "a16z",
       "type": "rss",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqueEGFAOOJaFSLlRkP1pWg"
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9cn0TuPq4dnbTY-CBsm8XA"
     },
     {
       "name": "Sequoia Capital",
       "type": "rss",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHZpIpB3oOHMJFkrFMqT-w"
+      "url":  "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrF0oN6unbXrWsTN7RctTw"
     },
     {
       "name": "Silicon Valley Girl",
       "type": "rss",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCprmxIpPImFkBKt5HHgXW_A"
+      "url":  "https://www.youtube.com/feeds/videos.xml?channel_id=UCiq1FIgtEK7LRAOB1JXTPig"
     },
     {
       "name": "20VC",
       "type": "rss",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBkNpe1MwwQGPBpYCE04GGg"
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf0PBRjhf0rF8fWBIxTuoWA"
     },
     {
       "name": "Latent Space",
       "type": "rss",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHFKBNk_FNYeQS0D7a8YFAQ"
+      "url":"https://www.youtube.com/feeds/videos.xml?channel_id=UCxBcwypKK-W3GHd_RZ9FZrQ"
     },
     {
       "name": "Lenny's Podcast",
       "type": "rss",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4pEy7u2TKnXs3FAFoWaZ8Q"
+      "url":"https://www.youtube.com/feeds/videos.xml?channel_id=UC6t1O76G0jYXOAoYCm153dA"
     },
     {
       "name": "YC Official",
       "type": "rss",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg"
+      "url":  "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg"
     }
   ]
 }
