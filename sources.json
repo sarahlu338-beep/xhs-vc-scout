@@ -13,12 +13,12 @@
     {
       "name": "VC News Daily",
       "type": "rss",
-      "url": "https://vcnewsdaily.com/feed/"
+      "url": "http://feeds.feedburner.com/vcnewsdaily"
     },
     {
       "name": "YC Launches",
-      "type": "rss",
-      "url": "https://www.ycombinator.com/launches.rss"
+      "type": "webpage",
+      "url":"https://www.ycombinator.com/launches"
     },
     {
       "name": "Product Hunt",
