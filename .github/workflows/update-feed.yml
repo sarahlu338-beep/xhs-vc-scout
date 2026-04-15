@@ -21,6 +21,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install yt-dlp
+        run: pip install yt-dlp
+
       - name: Run updater
         run: python update_feed.py
 
