@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-14T10:19:00Z",
+  "generated_at": "2026-04-15T03:01:06Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Surviving AI Price Wars Without Destroying Your Business",
-      "published_at": "Mon, 13 Apr 2026 14:03:37 GMT",
-      "link": "https://www.a16z.news/p/surviving-ai-price-wars-without-destroying",
-      "summary": "Five things app companies get wrong &#8212; and what to do instead"
+      "title": "The Evidence Gap: Why Courts Can't Balance State AI Regulation",
+      "published_at": "Tue, 14 Apr 2026 14:02:28 GMT",
+      "link": "https://www.a16z.news/p/the-evidence-gap-why-courts-cant",
+      "summary": "The dormant Commerce Clause&#8217;s evidence problem&#8211;and how to fix it"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "OpenAI has bought AI personal finance startup Hiro",
-      "published_at": "Tue, 14 Apr 2026 00:23:33 +0000",
-      "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning."
+      "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
+      "published_at": "Tue, 14 Apr 2026 21:33:38 +0000",
+      "link": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
+      "summary": "Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic."
     },
     {
       "source": "VC News Daily",
@@ -36,9 +36,9 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "shutup-mcp",
-      "published_at": "2026-04-13T09:42:51-07:00",
-      "link": "https://www.producthunt.com/products/shutup-mcp",
+      "title": "FC Tactix",
+      "published_at": "2026-04-13T02:53:12-07:00",
+      "link": "https://www.producthunt.com/products/fc-tactix",
       "summary": ""
     },
     {
@@ -54,7 +54,7 @@
       "type": "youtube",
       "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqueEGFAOOJaFSLlRkP1pWg",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9cn0TuPq4dnbTY-CBsm8XA",
       "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
     },
     {
@@ -62,7 +62,7 @@
       "type": "youtube",
       "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHZpIpB3oOHMJFkrFMqT-w",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrF0oN6unbXrWsTN7RctTw",
       "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
     },
     {
@@ -70,7 +70,7 @@
       "type": "youtube",
       "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCprmxIpPImFkBKt5HHgXW_A",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiq1FIgtEK7LRAOB1JXTPig",
       "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
     },
     {
@@ -78,7 +78,7 @@
       "type": "youtube",
       "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBkNpe1MwwQGPBpYCE04GGg",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf0PBRjhf0rF8fWBIxTuoWA",
       "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
     },
     {
@@ -86,24 +86,24 @@
       "type": "youtube",
       "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHFKBNk_FNYeQS0D7a8YFAQ",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxBcwypKK-W3GHd_RZ9FZrQ",
       "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "",
-      "published_at": "",
-      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4pEy7u2TKnXs3FAFoWaZ8Q",
-      "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
+      "title": "Do we still need PMs?",
+      "published_at": "2026-04-14T11:00:55+00:00",
+      "link": "https://www.youtube.com/shorts/Z_AoFoWkROg",
+      "summary": ""
     },
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
-      "published_at": "2026-04-06T14:01:12+00:00",
-      "link": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
-      "summary": ""
+      "title": "",
+      "published_at": "",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+      "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
     }
   ]
 }
