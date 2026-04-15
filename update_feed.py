@@ -1,6 +1,7 @@
 import json
 import urllib.request
 import xml.etree.ElementTree as ET
+import subprocess
 from datetime import datetime, timezone
 
 USER_AGENT = "Mozilla/5.0"
@@ -8,7 +9,6 @@ TIMEOUT = 20
 
 NS = {
     "atom": "http://www.w3.org/2005/Atom",
-    "media": "http://search.yahoo.com/mrss/",
 }
 
 def fetch_xml(url: str) -> bytes:
@@ -22,20 +22,19 @@ def get_text(node, tag, default=""):
         return child.text.strip()
     return default
 
-def parse_feed(url: str):
+def parse_rss_feed(url: str):
     try:
         content = fetch_xml(url)
         root = ET.fromstring(content)
 
-        # RSS
         channel = root.find("channel")
         if channel is not None:
             item = channel.find("item")
             if item is not None:
-                title = get_text(item, "title")
-                link = get_text(item, "link", url)
-                published_at = get_text(item, "pubDate")
-                summary = get_text(item, "description")
+                title = item.findtext("title", "").strip()
+                link = item.findtext("link", url).strip()
+                published_at = item.findtext("pubDate", "").strip()
+                summary = item.findtext("description", "").strip()
                 return {
                     "title": title,
                     "published_at": published_at,
@@ -43,7 +42,6 @@ def parse_feed(url: str):
                     "summary": summary[:300]
                 }
 
-        # Atom / YouTube
         entry = root.find("atom:entry", NS)
         if entry is not None:
             title = get_text(entry, "atom:title")
@@ -80,23 +78,84 @@ def parse_feed(url: str):
         "summary": "NO_ITEM_FOUND"
     }
 
+def parse_youtube_with_ytdlp(url: str):
+    try:
+        cmd = [
+            "yt-dlp",
+            "--flat-playlist",
+            "--playlist-end", "1",
+            "--dump-single-json",
+            url
+        ]
+        result = subprocess.run(cmd, capture_output=True, text=True, check=True)
+        data = json.loads(result.stdout)
+
+        entries = data.get("entries", [])
+        if not entries:
+            return {
+                "title": "",
+                "published_at": "",
+                "link": url,
+                "summary": "NO_VIDEO_FOUND"
+            }
+
+        first = entries[0]
+        video_id = first.get("id", "")
+        title = first.get("title", "")
+        upload_date = first.get("upload_date", "")
+
+        published_at = ""
+        if upload_date and len(upload_date) == 8:
+            published_at = f"{upload_date[:4]}-{upload_date[4:6]}-{upload_date[6:8]}"
+
+        link = f"https://www.youtube.com/watch?v={video_id}" if video_id else url
+
+        return {
+            "title": title,
+            "published_at": published_at,
+            "link": link,
+            "summary": ""
+        }
+
+    except Exception as e:
+        return {
+            "title": "",
+            "published_at": "",
+            "link": url,
+            "summary": f"YTDLP_ERROR: {str(e)}"
+        }
+
 def main():
     with open("sources.json", "r", encoding="utf-8") as f:
         sources = json.load(f)
 
     items = []
 
-    for source_type in ["websites", "youtube"]:
-        for source in sources.get(source_type, []):
-            parsed = parse_feed(source["url"])
-            items.append({
-                "source": source["name"],
-                "type": "website" if source_type == "websites" else "youtube",
-                "title": parsed["title"],
-                "published_at": parsed["published_at"],
-                "link": parsed["link"],
-                "summary": parsed["summary"]
-            })
+    for source in sources.get("websites", []):
+        parsed = parse_rss_feed(source["url"])
+        items.append({
+            "source": source["name"],
+            "type": "website",
+            "title": parsed["title"],
+            "published_at": parsed["published_at"],
+            "link": parsed["link"],
+            "summary": parsed["summary"]
+        })
+
+    for source in sources.get("youtube", []):
+        if source.get("type") == "youtube_handle":
+            parsed = parse_youtube_with_ytdlp(source["url"])
+        else:
+            parsed = parse_rss_feed(source["url"])
+
+        items.append({
+            "source": source["name"],
+            "type": "youtube",
+            "title": parsed["title"],
+            "published_at": parsed["published_at"],
+            "link": parsed["link"],
+            "summary": parsed["summary"]
+        })
 
     output = {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
