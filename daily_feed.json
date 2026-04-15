@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T04:10:40Z",
+  "generated_at": "2026-04-15T07:09:02Z",
   "items": [
     {
       "source": "a16z News",
@@ -20,25 +20,25 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "",
-      "published_at": "",
-      "link": "https://vcnewsdaily.com/feed/",
-      "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
+      "title": "Prism Layer Emerges With Pre-Seed Funding",
+      "published_at": "14 Apr 2026 15:04:46 CDT",
+      "link": "https://vcnewsdaily.com/prism-layer/venture-capital-funding/drdsgmmvsx",
+      "summary": "WASHINGTON, DC, Prism Layer, the first AI native platform for enterprise risk management, announced it has emerged from stealth following the close of a pre-seed funding round."
     },
     {
       "source": "YC Launches",
       "type": "website",
       "title": "",
       "published_at": "",
-      "link": "https://www.ycombinator.com/launches.rss",
-      "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
+      "link": "https://www.ycombinator.com/launches",
+      "summary": "FETCH_ERROR: not well-formed (invalid token): line 48, column 2441"
     },
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "send/links",
-      "published_at": "2026-04-13T17:51:25-07:00",
-      "link": "https://www.producthunt.com/products/send-links",
+      "title": "LayerGen AI",
+      "published_at": "2026-04-12T15:41:44-07:00",
+      "link": "https://www.producthunt.com/products/layergen-ai",
       "summary": ""
     },
     {
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "AI Feels Like a New Industrial Revolution | Ben Horowitz & Alex Rampell on a16z",
+      "title": "Ben Horowitz on AI, Venture Capital, and The Future of Startups | The a16z Show",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=IZDJ3jcO5UY",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "From SEO to Agent-Led Growth: Profound's James Cadwallader",
+      "title": "Marketing to Agents vs. Humans: Profound CEO James Cadwallader",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=RyTwRCKeDo4",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Anj Midha on Investing $300M into Anthropic & How 21 of 22 VCs Rejected It | China is Winning in AI?",
+      "title": "The Early Days of Anthropic & How 21 of 22 VCs Rejected It | The Four Bottlenecks in AI | Anj Midha",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=a1ymdW-h33E",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Notion’s AI Strategy: Agent Harnesses, Retrieval, & MCP/CLI — Simon Last & Sarah Sachs, Notion",
+      "title": "Inside Notion AI: The 5 Rebuilds Behind Custom Agents — Simon Last & Sarah Sachs, Notion",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ATt7QJgt-2k",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Unconventional building advice for the new AI era | Keith Rabois (Khosla Ventures)",
+      "title": "Why building in the AI era feels different | Keith Rabois (Khosla Ventures)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=xCd9ykretlg",
       "summary": ""
