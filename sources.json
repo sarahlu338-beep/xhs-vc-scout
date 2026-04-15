@@ -31,40 +31,41 @@
       "url": "https://www.sequoiacap.com/feed/"
     }
   ],
- "youtube": [
-  {
-    "name": "a16z",
-    "type": "youtube_handle",
-    "url": "https://www.youtube.com/@a16z/videos"
-  },
-  {
-    "name": "Sequoia Capital",
-    "type": "youtube_handle",
-    "url": "https://www.youtube.com/@sequoiacapital/videos"
-  },
-  {
-    "name": "Silicon Valley Girl",
-    "type": "youtube_handle",
-    "url": "https://www.youtube.com/@SiliconValleyGirl/videos"
-  },
-  {
-    "name": "20VC",
-    "type": "youtube_handle",
-    "url": "https://www.youtube.com/@20VC/videos"
-  },
-  {
-    "name": "Latent Space",
-    "type": "youtube_handle",
-    "url": "https://www.youtube.com/@LatentSpacePod/videos"
-  },
-  {
-    "name": "Lenny's Podcast",
-    "type": "youtube_handle",
-    "url": "https://www.youtube.com/@LennysPodcast/videos"
-  },
-  {
-    "name": "YC Official",
-    "type": "youtube_handle",
-    "url": "https://www.youtube.com/@ycombinator/videos"
-  }
-]
+  "youtube": [
+    {
+      "name": "a16z",
+      "type": "youtube_handle",
+      "url": "https://www.youtube.com/@a16z/videos"
+    },
+    {
+      "name": "Sequoia Capital",
+      "type": "youtube_handle",
+      "url": "https://www.youtube.com/@sequoiacapital/videos"
+    },
+    {
+      "name": "Silicon Valley Girl",
+      "type": "youtube_handle",
+      "url": "https://www.youtube.com/@SiliconValleyGirl/videos"
+    },
+    {
+      "name": "20VC",
+      "type": "youtube_handle",
+      "url": "https://www.youtube.com/@20VC/videos"
+    },
+    {
+      "name": "Latent Space",
+      "type": "youtube_handle",
+      "url": "https://www.youtube.com/@LatentSpacePod/videos"
+    },
+    {
+      "name": "Lenny's Podcast",
+      "type": "youtube_handle",
+      "url": "https://www.youtube.com/@LennysPodcast/videos"
+    },
+    {
+      "name": "YC Official",
+      "type": "youtube_handle",
+      "url": "https://www.youtube.com/@ycombinator/videos"
+    }
+  ]
+}
