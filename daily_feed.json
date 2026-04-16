@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-15T07:09:02Z",
+  "generated_at": "2026-04-16T07:10:33Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The Evidence Gap: Why Courts Can't Balance State AI Regulation",
-      "published_at": "Tue, 14 Apr 2026 14:02:28 GMT",
-      "link": "https://www.a16z.news/p/the-evidence-gap-why-courts-cant",
-      "summary": "The dormant Commerce Clause&#8217;s evidence problem&#8211;and how to fix it"
+      "title": "Investing in Hilbert",
+      "published_at": "Wed, 15 Apr 2026 15:13:12 GMT",
+      "link": "https://www.a16z.news/p/investing-in-hilbert",
+      "summary": "a16z leads Hilbert's Series A"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
-      "published_at": "Tue, 14 Apr 2026 21:33:38 +0000",
-      "link": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
-      "summary": "Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic."
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "published_at": "Wed, 15 Apr 2026 18:55:12 +0000",
+      "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Prism Layer Emerges With Pre-Seed Funding",
-      "published_at": "14 Apr 2026 15:04:46 CDT",
-      "link": "https://vcnewsdaily.com/prism-layer/venture-capital-funding/drdsgmmvsx",
-      "summary": "WASHINGTON, DC, Prism Layer, the first AI native platform for enterprise risk management, announced it has emerged from stealth following the close of a pre-seed funding round."
+      "title": "Yoga Joint Secures $5.5M Growth Round",
+      "published_at": "15 Apr 2026 15:56:50 CDT",
+      "link": "https://vcnewsdaily.com/yoga-joint/venture-capital-funding/trlkzklfwd",
+      "summary": "NEW YORK, NY, Yoga Joint, the fast-growing infrared fitness brand known for its signature vinyasa yoga and high-intensity strength training, has raised $5.5 million in growth capital."
     },
     {
       "source": "YC Launches",
@@ -36,23 +36,23 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "LayerGen AI",
-      "published_at": "2026-04-12T15:41:44-07:00",
-      "link": "https://www.producthunt.com/products/layergen-ai",
+      "title": "Fellow for iOS",
+      "published_at": "2026-04-14T14:49:10-07:00",
+      "link": "https://www.producthunt.com/products/fellow-app",
       "summary": ""
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "From Hierarchy to Intelligence",
-      "published_at": "Tue, 31 Mar 2026 15:11:54 +0000",
-      "link": "https://sequoiacap.com/article/from-hierarchy-to-intelligence/",
-      "summary": "<p>The post <a href=\"https://sequoiacap.com/article/from-hierarchy-to-intelligence/\">From Hierarchy to Intelligence</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+      "title": "Partnering with Auctor",
+      "published_at": "Wed, 15 Apr 2026 16:00:05 +0000",
+      "link": "https://sequoiacap.com/article/partnering-with-auctor/",
+      "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-auctor/\">Partnering with Auctor</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
     },
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Ben Horowitz on AI, Venture Capital, and The Future of Startups | The a16z Show",
+      "title": "Ben Horowitz on AI Anxiety, Big Tech Transitions & The Future of Startups | a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=IZDJ3jcO5UY",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The Early Days of Anthropic & How 21 of 22 VCs Rejected It | The Four Bottlenecks in AI | Anj Midha",
+      "title": "Anj Midha on Investing $300M into Anthropic & How 21 of 22 VCs Rejected It | China is Winning in AI?",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=a1ymdW-h33E",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Inside Notion AI: The 5 Rebuilds Behind Custom Agents — Simon Last & Sarah Sachs, Notion",
+      "title": "Notion’s Sarah Sachs & Simon Last on Custom Agents, Evals, and the Future of Work",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ATt7QJgt-2k",
       "summary": ""
