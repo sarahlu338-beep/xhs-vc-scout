@@ -1,5 +1,5 @@
 ---
-name: xhs_vc_topic
+name: xhs_vc_scout
 description: Read the latest daily_feed.json from GitHub and turn it into a Xiaohongshu-ready venture and AI topic briefing with top 5 topic ideas. Do not write a full post automatically.
 ---
 
