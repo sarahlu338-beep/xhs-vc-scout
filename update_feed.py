@@ -11,16 +11,19 @@ NS = {
     "atom": "http://www.w3.org/2005/Atom",
 }
 
+
 def fetch_xml(url: str) -> bytes:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
         return resp.read()
+
 
 def get_text(node, tag, default=""):
     child = node.find(tag, NS) if node is not None else None
     if child is not None and child.text:
         return child.text.strip()
     return default
+
 
 def parse_rss_feed(url: str):
     try:
@@ -78,6 +81,7 @@ def parse_rss_feed(url: str):
         "summary": "NO_ITEM_FOUND"
     }
 
+
 def parse_youtube_with_ytdlp(url: str):
     try:
         cmd = [
@@ -125,31 +129,31 @@ def parse_youtube_with_ytdlp(url: str):
             "summary": f"YTDLP_ERROR: {str(e)}"
         }
 
+
 def main():
     with open("sources.json", "r", encoding="utf-8") as f:
         sources = json.load(f)
 
     items = []
 
-   for source in sources.get("websites", []):
-    if source.get("type") == "rss":
-        parsed = parse_rss_feed(source["url"])
-    else:
-        parsed = {
-            "title": "",
-            "published_at": "",
-            "link": source["url"],
-            "summary": "WEBPAGE_SOURCE_PENDING"
-        }
+    for source in sources.get("websites", []):
+        if source.get("type") == "rss":
+            parsed = parse_rss_feed(source["url"])
+        else:
+            parsed = {
+                "title": "",
+                "published_at": "",
+                "link": source["url"],
+                "summary": "WEBPAGE_SOURCE_PENDING"
+            }
 
-    items.append({
-        "source": source["name"],
-        "type": "website",
-        "title": parsed["title"],
-        "published_at": parsed["published_at"],
-        "link": parsed["link"],
-        "summary": parsed["summary"]
-    })
+        items.append({
+            "source": source["name"],
+            "type": "website",
+            "title": parsed["title"],
+            "published_at": parsed["published_at"],
+            "link": parsed["link"],
+            "summary": parsed["summary"]
         })
 
     for source in sources.get("youtube", []):
@@ -174,6 +178,7 @@ def main():
 
     with open("daily_feed.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
+
 
 if __name__ == "__main__":
     main()
