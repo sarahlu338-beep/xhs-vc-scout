@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T01:50:43Z",
+  "generated_at": "2026-04-17T02:00:02Z",
   "items": [
     {
       "source": "a16z News",
@@ -52,58 +52,58 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Claude Feels Different (And What That Means for AI) | The a16z Show",
+      "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Mjc7vwys1vY",
-      "summary": ""
+      "link": "https://www.youtube.com/@a16z/videos",
+      "summary": "YTDLP_ERROR: Command '['yt-dlp', '--playlist-end', '1', '--dump-single-json', 'https://www.youtube.com/@a16z/videos']' returned non-zero exit status 1."
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "How to Steer Through a Crisis and Live: MIT President Sally Kornbluth",
+      "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=e_2opghuq88",
-      "summary": ""
+      "link": "https://www.youtube.com/@sequoiacapital/videos",
+      "summary": "YTDLP_ERROR: Command '['yt-dlp', '--playlist-end', '1', '--dump-single-json', 'https://www.youtube.com/@sequoiacapital/videos']' returned non-zero exit status 1."
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Duolingo CEO: What I Tell Every Employee About Surviving AI",
+      "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=GDeEATJcbJo",
-      "summary": ""
+      "link": "https://www.youtube.com/@SiliconValleyGirl/videos",
+      "summary": "YTDLP_ERROR: Command '['yt-dlp', '--playlist-end', '1', '--dump-single-json', 'https://www.youtube.com/@SiliconValleyGirl/videos']' returned non-zero exit status 1."
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "How OpenAI Could Win the Enterprise Game & SpaceX's Financials Leaked: Is it Worth $2TRN?",
+      "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=UOY8hsBqjJo",
-      "summary": ""
+      "link": "https://www.youtube.com/@20VC/videos",
+      "summary": "YTDLP_ERROR: Command '['yt-dlp', '--playlist-end', '1', '--dump-single-json', 'https://www.youtube.com/@20VC/videos']' returned non-zero exit status 1."
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Notion’s AI Strategy: Agent Harnesses, Retrieval, & MCP/CLI — Simon Last & Sarah Sachs, Notion",
+      "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ATt7QJgt-2k",
-      "summary": ""
+      "link": "https://www.youtube.com/@LatentSpacePod/videos",
+      "summary": "YTDLP_ERROR: Command '['yt-dlp', '--playlist-end', '1', '--dump-single-json', 'https://www.youtube.com/@LatentSpacePod/videos']' returned non-zero exit status 1."
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Unconventional building advice for the new AI era | Keith Rabois (Khosla Ventures)",
+      "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=xCd9ykretlg",
-      "summary": ""
+      "link": "https://www.youtube.com/@LennysPodcast/videos",
+      "summary": "YTDLP_ERROR: Command '['yt-dlp', '--playlist-end', '1', '--dump-single-json', 'https://www.youtube.com/@LennysPodcast/videos']' returned non-zero exit status 1."
     },
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The GPT Moment for Robotics Is Here",
+      "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=4EsUaur0nsQ",
-      "summary": ""
+      "link": "https://www.youtube.com/@ycombinator/videos",
+      "summary": "YTDLP_ERROR: Command '['yt-dlp', '--playlist-end', '1', '--dump-single-json', 'https://www.youtube.com/@ycombinator/videos']' returned non-zero exit status 1."
     }
   ]
 }
