@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-16T07:10:33Z",
+  "generated_at": "2026-04-17T01:50:43Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Investing in Hilbert",
-      "published_at": "Wed, 15 Apr 2026 15:13:12 GMT",
-      "link": "https://www.a16z.news/p/investing-in-hilbert",
-      "summary": "a16z leads Hilbert's Series A"
+      "title": "Prediction Markets: They Grow Up So Fast",
+      "published_at": "Thu, 16 Apr 2026 14:01:35 GMT",
+      "link": "https://www.a16z.news/p/prediction-markets-they-grow-up-so",
+      "summary": "Listen now | The institutions are coming to Kalshi"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-      "published_at": "Wed, 15 Apr 2026 18:55:12 +0000",
-      "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers."
+      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+      "published_at": "Thu, 16 Apr 2026 22:55:30 +0000",
+      "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+      "summary": "The three-year-old startup raised $150 million led by Khosla Ventures."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Yoga Joint Secures $5.5M Growth Round",
-      "published_at": "15 Apr 2026 15:56:50 CDT",
-      "link": "https://vcnewsdaily.com/yoga-joint/venture-capital-funding/trlkzklfwd",
-      "summary": "NEW YORK, NY, Yoga Joint, the fast-growing infrared fitness brand known for its signature vinyasa yoga and high-intensity strength training, has raised $5.5 million in growth capital."
+      "title": "Slash Financial Inks $100M Series C Round",
+      "published_at": "16 Apr 2026 14:56:45 CDT",
+      "link": "https://vcnewsdaily.com/slash-financial/venture-capital-funding/vrpgmvsvjd",
+      "summary": "SAN FRANCISCO, CA, Slash Financial, the banking platform1 built for modern businesses, is now valued at $1.4 billion following a $100 million Series C funding round led by Ribbit Capital."
     },
     {
       "source": "YC Launches",
@@ -31,14 +31,14 @@
       "title": "",
       "published_at": "",
       "link": "https://www.ycombinator.com/launches",
-      "summary": "FETCH_ERROR: not well-formed (invalid token): line 48, column 2441"
+      "summary": "WEBPAGE_SOURCE_PENDING"
     },
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Fellow for iOS",
-      "published_at": "2026-04-14T14:49:10-07:00",
-      "link": "https://www.producthunt.com/products/fellow-app",
+      "title": "Libertify.com",
+      "published_at": "2026-04-12T12:58:03-07:00",
+      "link": "https://www.producthunt.com/products/libertify-com",
       "summary": ""
     },
     {
@@ -52,17 +52,17 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Ben Horowitz on AI Anxiety, Big Tech Transitions & The Future of Startups | a16z",
+      "title": "Why Claude Feels Different (And What That Means for AI) | The a16z Show",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=IZDJ3jcO5UY",
+      "link": "https://www.youtube.com/watch?v=Mjc7vwys1vY",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Marketing to Agents vs. Humans: Profound CEO James Cadwallader",
+      "title": "How to Steer Through a Crisis and Live: MIT President Sally Kornbluth",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=RyTwRCKeDo4",
+      "link": "https://www.youtube.com/watch?v=e_2opghuq88",
       "summary": ""
     },
     {
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Anj Midha on Investing $300M into Anthropic & How 21 of 22 VCs Rejected It | China is Winning in AI?",
+      "title": "How OpenAI Could Win the Enterprise Game & SpaceX's Financials Leaked: Is it Worth $2TRN?",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=a1ymdW-h33E",
+      "link": "https://www.youtube.com/watch?v=UOY8hsBqjJo",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Notion’s Sarah Sachs & Simon Last on Custom Agents, Evals, and the Future of Work",
+      "title": "Notion’s AI Strategy: Agent Harnesses, Retrieval, & MCP/CLI — Simon Last & Sarah Sachs, Notion",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ATt7QJgt-2k",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why building in the AI era feels different | Keith Rabois (Khosla Ventures)",
+      "title": "Unconventional building advice for the new AI era | Keith Rabois (Khosla Ventures)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=xCd9ykretlg",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
+      "title": "The GPT Moment for Robotics Is Here",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
+      "link": "https://www.youtube.com/watch?v=4EsUaur0nsQ",
       "summary": ""
     }
   ]
