@@ -131,15 +131,25 @@ def main():
 
     items = []
 
-    for source in sources.get("websites", []):
+   for source in sources.get("websites", []):
+    if source.get("type") == "rss":
         parsed = parse_rss_feed(source["url"])
-        items.append({
-            "source": source["name"],
-            "type": "website",
-            "title": parsed["title"],
-            "published_at": parsed["published_at"],
-            "link": parsed["link"],
-            "summary": parsed["summary"]
+    else:
+        parsed = {
+            "title": "",
+            "published_at": "",
+            "link": source["url"],
+            "summary": "WEBPAGE_SOURCE_PENDING"
+        }
+
+    items.append({
+        "source": source["name"],
+        "type": "website",
+        "title": parsed["title"],
+        "published_at": parsed["published_at"],
+        "link": parsed["link"],
+        "summary": parsed["summary"]
+    })
         })
 
     for source in sources.get("youtube", []):
