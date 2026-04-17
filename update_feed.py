@@ -84,8 +84,10 @@ def parse_rss_feed(url: str):
 
 def parse_youtube_with_ytdlp(url: str):
     try:
+        # 第一步：先用 flat-playlist 拿到最新一个视频的基础信息
         cmd = [
             "yt-dlp",
+            "--flat-playlist",
             "--playlist-end", "1",
             "--dump-single-json",
             url
@@ -106,7 +108,6 @@ def parse_youtube_with_ytdlp(url: str):
         video_id = first.get("id", "")
         title = first.get("title", "")
         upload_date = first.get("upload_date", "")
-        description = first.get("description", "") or ""
 
         published_at = ""
         if upload_date and len(upload_date) == 8:
@@ -114,11 +115,31 @@ def parse_youtube_with_ytdlp(url: str):
 
         link = f"https://www.youtube.com/watch?v={video_id}" if video_id else url
 
+        # 第二步：再单独抓这个视频的 description
+        summary = ""
+        if video_id:
+            try:
+                detail_cmd = [
+                    "yt-dlp",
+                    "--dump-single-json",
+                    link
+                ]
+                detail_result = subprocess.run(
+                    detail_cmd,
+                    capture_output=True,
+                    text=True,
+                    check=True
+                )
+                detail_data = json.loads(detail_result.stdout)
+                summary = (detail_data.get("description", "") or "")[:500]
+            except Exception:
+                summary = ""
+
         return {
             "title": title,
             "published_at": published_at,
             "link": link,
-            "summary": description[:500]
+            "summary": summary
         }
 
     except Exception as e:
