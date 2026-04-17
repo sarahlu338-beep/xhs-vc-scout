@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T02:05:32Z",
+  "generated_at": "2026-04-17T02:32:45Z",
   "items": [
     {
       "source": "a16z News",
@@ -20,26 +20,26 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Slash Financial Inks $100M Series C Round",
-      "published_at": "16 Apr 2026 14:56:45 CDT",
-      "link": "https://vcnewsdaily.com/slash-financial/venture-capital-funding/vrpgmvsvjd",
-      "summary": "SAN FRANCISCO, CA, Slash Financial, the banking platform1 built for modern businesses, is now valued at $1.4 billion following a $100 million Series C funding round led by Ribbit Capital."
+      "title": "Wealth.com Nabs $65M Series B Round",
+      "published_at": "16 Apr 2026 20:45:00 CDT",
+      "link": "https://vcnewsdaily.com/wealth.com/venture-capital-funding/wycmfbtjts",
+      "summary": "PHOENIX, AZ, Wealth.com, the AI-powered platform modernizing how wealth management firms deliver estate and tax planning, today announced it has raised $65 million in an oversubscribed Series B round."
     },
     {
       "source": "YC Launches",
       "type": "website",
-      "title": "",
+      "title": "authenticity_token\" /> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-51714649-1', 'auto'); ga('require', 'linkid', 'linkid.js'); ga('send', 'pageview'); function parseUrl(url){ var a = document.createElement('a'); a.href = url; return { href: a.href, host: a.host || location.host, port: ('0' === a.port || '' === a.port) ? port(a.protocol) : a.port, hash: a.hash, hostname: a.hostname || location.hostname, pathname: a.pathname.charAt(0) != '/' ? '/' + a.pathname : a.pathname, protocol: !a.protocol || ':' == a.protocol ? location.protocol : a.protocol, search: a.search, query: a.search.slice(1) }; }; function canonical() { var tags = document.getElementsByTagName('link'); for (var i = 0, tag; tag = tags[i]; i++) { if (tag.getAttribute('rel') === 'canonical') { return tag.getAttribute('href'); } } } function canonicalPath() { var canon = canonical(); if (!canon) return window.location.pathname; return parseUrl(canon).pathname; } function canonicalUrl(search) { var canon = canonical(); if (canon) return canon.indexOf('?') !== -1 ? canon : canon + search; var url = window.location.href; var i = url.indexOf('#'); return i === -1 ? url : url.slice(0, i); } <meta content=",
       "published_at": "",
       "link": "https://www.ycombinator.com/launches",
-      "summary": "WEBPAGE_SOURCE_PENDING"
+      "summary": ""
     },
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Libertify.com",
-      "published_at": "2026-04-12T12:58:03-07:00",
-      "link": "https://www.producthunt.com/products/libertify-com",
-      "summary": ""
+      "title": "ClawTab",
+      "published_at": "2026-04-15T02:34:16-07:00",
+      "link": "https://www.producthunt.com/products/clawtab",
+      "summary": "Desktop app to manage 20+ AI coding agents at once Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -47,63 +47,63 @@
       "title": "Partnering with Auctor",
       "published_at": "Wed, 15 Apr 2026 16:00:05 +0000",
       "link": "https://sequoiacap.com/article/partnering-with-auctor/",
-      "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-auctor/\">Partnering with Auctor</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+      "summary": "The post Partnering with Auctor appeared first on Sequoia Capital ."
     },
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Claude Feels Different (And What That Means for AI) | The a16z Show",
+      "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Mjc7vwys1vY",
-      "summary": ""
+      "link": "https://www.youtube.com/@a16z/videos",
+      "summary": "YTDLP_ERROR: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube"
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "How to Steer Through a Crisis and Live: MIT President Sally Kornbluth",
+      "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=e_2opghuq88",
-      "summary": ""
+      "link": "https://www.youtube.com/@sequoiacapital/videos",
+      "summary": "YTDLP_ERROR: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube"
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Duolingo CEO: What I Tell Every Employee About Surviving AI",
+      "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=GDeEATJcbJo",
-      "summary": ""
+      "link": "https://www.youtube.com/@SiliconValleyGirl/videos",
+      "summary": "YTDLP_ERROR: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube"
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Anthropic Unveils Mythos | Meta Debuts Muse Spark: Are They Back in the AI Race?",
+      "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=UOY8hsBqjJo",
-      "summary": ""
+      "link": "https://www.youtube.com/@20VC/videos",
+      "summary": "YTDLP_ERROR: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube"
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Inside Notion AI: The 5 Rebuilds Behind Custom Agents — Simon Last & Sarah Sachs, Notion",
+      "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ATt7QJgt-2k",
-      "summary": ""
+      "link": "https://www.youtube.com/@LatentSpacePod/videos",
+      "summary": "YTDLP_ERROR: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube"
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why building in the AI era feels different | Keith Rabois (Khosla Ventures)",
+      "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=xCd9ykretlg",
-      "summary": ""
+      "link": "https://www.youtube.com/@LennysPodcast/videos",
+      "summary": "YTDLP_ERROR: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube"
     },
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The GPT Moment for Robotics Is Here",
+      "title": "",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=4EsUaur0nsQ",
-      "summary": ""
+      "link": "https://www.youtube.com/@ycombinator/videos",
+      "summary": "YTDLP_ERROR: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube"
     }
   ]
 }
