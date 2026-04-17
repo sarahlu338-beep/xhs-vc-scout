@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T02:32:45Z",
+  "generated_at": "2026-04-17T02:41:24Z",
   "items": [
     {
       "source": "a16z News",
@@ -28,7 +28,7 @@
     {
       "source": "YC Launches",
       "type": "website",
-      "title": "authenticity_token\" /> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-51714649-1', 'auto'); ga('require', 'linkid', 'linkid.js'); ga('send', 'pageview'); function parseUrl(url){ var a = document.createElement('a'); a.href = url; return { href: a.href, host: a.host || location.host, port: ('0' === a.port || '' === a.port) ? port(a.protocol) : a.port, hash: a.hash, hostname: a.hostname || location.hostname, pathname: a.pathname.charAt(0) != '/' ? '/' + a.pathname : a.pathname, protocol: !a.protocol || ':' == a.protocol ? location.protocol : a.protocol, search: a.search, query: a.search.slice(1) }; }; function canonical() { var tags = document.getElementsByTagName('link'); for (var i = 0, tag; tag = tags[i]; i++) { if (tag.getAttribute('rel') === 'canonical') { return tag.getAttribute('href'); } } } function canonicalPath() { var canon = canonical(); if (!canon) return window.location.pathname; return parseUrl(canon).pathname; } function canonicalUrl(search) { var canon = canonical(); if (canon) return canon.indexOf('?') !== -1 ? canon : canon + search; var url = window.location.href; var i = url.indexOf('#'); return i === -1 ? url : url.slice(0, i); } <meta content=",
+      "title": "YC Launches",
       "published_at": "",
       "link": "https://www.ycombinator.com/launches",
       "summary": ""
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "ClawTab",
-      "published_at": "2026-04-15T02:34:16-07:00",
-      "link": "https://www.producthunt.com/products/clawtab",
-      "summary": "Desktop app to manage 20+ AI coding agents at once Discussion | Link"
+      "title": "Chinilla",
+      "published_at": "2026-04-14T20:37:18-07:00",
+      "link": "https://www.producthunt.com/products/chinilla",
+      "summary": "Design systems, simulate them and watch where they break Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,58 +52,58 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "",
+      "title": "Why Claude Feels Different (And What That Means for AI) | The a16z Show",
       "published_at": "",
-      "link": "https://www.youtube.com/@a16z/videos",
-      "summary": "YTDLP_ERROR: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube"
+      "link": "https://www.youtube.com/watch?v=Mjc7vwys1vY",
+      "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "",
+      "title": "How to Steer Through a Crisis and Live: MIT President Sally Kornbluth",
       "published_at": "",
-      "link": "https://www.youtube.com/@sequoiacapital/videos",
-      "summary": "YTDLP_ERROR: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube"
+      "link": "https://www.youtube.com/watch?v=e_2opghuq88",
+      "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "",
+      "title": "Duolingo CEO: What I Tell Every Employee About Surviving AI",
       "published_at": "",
-      "link": "https://www.youtube.com/@SiliconValleyGirl/videos",
-      "summary": "YTDLP_ERROR: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube"
+      "link": "https://www.youtube.com/watch?v=GDeEATJcbJo",
+      "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "",
+      "title": "How OpenAI Could Win the Enterprise Game & SpaceX's Financials Leaked: Is it Worth $2TRN?",
       "published_at": "",
-      "link": "https://www.youtube.com/@20VC/videos",
-      "summary": "YTDLP_ERROR: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube"
+      "link": "https://www.youtube.com/watch?v=UOY8hsBqjJo",
+      "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "",
+      "title": "Notion’s AI Strategy: Agent Harnesses, Retrieval, & MCP/CLI — Simon Last & Sarah Sachs, Notion",
       "published_at": "",
-      "link": "https://www.youtube.com/@LatentSpacePod/videos",
-      "summary": "YTDLP_ERROR: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube"
+      "link": "https://www.youtube.com/watch?v=ATt7QJgt-2k",
+      "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "",
+      "title": "Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)",
       "published_at": "",
-      "link": "https://www.youtube.com/@LennysPodcast/videos",
-      "summary": "YTDLP_ERROR: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube"
+      "link": "https://www.youtube.com/watch?v=xCd9ykretlg",
+      "summary": ""
     },
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "",
+      "title": "The GPT Moment for Robotics Is Here",
       "published_at": "",
-      "link": "https://www.youtube.com/@ycombinator/videos",
-      "summary": "YTDLP_ERROR: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube"
+      "link": "https://www.youtube.com/watch?v=4EsUaur0nsQ",
+      "summary": ""
     }
   ]
 }
