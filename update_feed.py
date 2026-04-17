@@ -66,40 +66,17 @@ def enrich_product_hunt_summary(link: str) -> str:
 def parse_yc_launches_page(url: str):
     try:
         html_text = fetch_text(url)
-
-        # 先找标题 / 一句话介绍
-        title = ""
-        summary = ""
-        link = url
-
-        # 常见 JSON / 页面字段兜底
-        title_match = re.search(r'"name"\s*:\s*"([^"]+)"', html_text)
-        tagline_match = re.search(r'"tagline"\s*:\s*"([^"]+)"', html_text)
-        href_match = re.search(r'href="(/launches/[^"]+)"', html_text)
-
-        if title_match:
-            title = clean_text(title_match.group(1))
-        if tagline_match:
-            summary = clean_text(tagline_match.group(1))
-        if href_match:
-            link = "https://www.ycombinator.com" + href_match.group(1)
-
-        # 如果上面没抓到，就退回页面 meta
-        if not title:
-            title = extract_meta(html_text, "og:title") or "YC Launches"
-        if not summary:
-            summary = extract_meta(html_text, "og:description") or extract_meta(html_text, "description")
-
+        title = "YC Launches"
+        summary = extract_meta(html_text, "og:description") or extract_meta(html_text, "description")
         return {
             "title": title,
             "published_at": "",
-            "link": link,
+            "link": url,
             "summary": summary[:800]
         }
-
     except Exception as e:
         return {
-            "title": "",
+            "title": "YC Launches",
             "published_at": "",
             "link": url,
             "summary": f"WEBPAGE_ERROR: {str(e)}"
@@ -173,82 +150,48 @@ def parse_rss_feed(url: str):
 
 def parse_youtube_with_ytdlp(url: str):
     try:
-        channel_cmd = [
+        cmd = [
             "yt-dlp",
             "--flat-playlist",
             "--playlist-end", "1",
             "--dump-single-json",
             url
         ]
-        channel_result = subprocess.run(
-            channel_cmd,
+        result = subprocess.run(
+            cmd,
             capture_output=True,
             text=True,
             check=True
         )
-        channel_data = json.loads(channel_result.stdout)
+        data = json.loads(result.stdout)
 
-        entries = channel_data.get("entries", [])
+        entries = data.get("entries", [])
         if not entries:
             return {
                 "title": "",
                 "published_at": "",
                 "link": url,
-                "summary": "NO_VIDEO_FOUND"
+                "summary": ""
             }
 
         first = entries[0]
         video_id = first.get("id", "")
         title = first.get("title", "")
-        link = f"https://www.youtube.com/watch?v={video_id}" if video_id else url
-
-        detail_cmd = [
-            "yt-dlp",
-            "--no-playlist",
-            "--dump-single-json",
-            link
-        ]
-        detail_result = subprocess.run(
-            detail_cmd,
-            capture_output=True,
-            text=True,
-            check=True
-        )
-        detail_data = json.loads(detail_result.stdout)
+        upload_date = first.get("upload_date", "")
 
         published_at = ""
-
-        upload_date = detail_data.get("upload_date", "") or ""
         if upload_date and len(upload_date) == 8:
             published_at = f"{upload_date[:4]}-{upload_date[4:6]}-{upload_date[6:8]}"
-        else:
-            ts = detail_data.get("timestamp") or detail_data.get("release_timestamp")
-            if ts:
-                published_at = datetime.fromtimestamp(
-                    ts, tz=timezone.utc
-                ).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-        summary = (
-            detail_data.get("description", "") or
-            detail_data.get("fulltitle", "") or
-            ""
-        ).strip()
+        link = f"https://www.youtube.com/watch?v={video_id}" if video_id else url
 
         return {
-            "title": title or detail_data.get("title", ""),
+            "title": title,
             "published_at": published_at,
             "link": link,
-            "summary": summary[:800]
+            "summary": ""
         }
 
-    except subprocess.CalledProcessError as e:
-        err = (e.stderr or "").strip()
-        return {
-            "title": "",
-            "published_at": "",
-            "link": url,
-            "summary": f"YTDLP_ERROR: {err[:500] or str(e)}"
-        }
     except Exception as e:
         return {
             "title": "",
@@ -269,8 +212,6 @@ def main():
             parsed = parse_yc_launches_page(source["url"])
         elif source.get("type") == "rss":
             parsed = parse_rss_feed(source["url"])
-
-            # Product Hunt 如果 RSS 没给 summary，就去详情页补
             if source.get("name") == "Product Hunt" and parsed["link"] and not parsed["summary"]:
                 parsed["summary"] = enrich_product_hunt_summary(parsed["link"])
         else:
