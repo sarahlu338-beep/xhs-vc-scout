@@ -42,7 +42,7 @@ def parse_rss_feed(url: str):
                     "title": title,
                     "published_at": published_at,
                     "link": link,
-                    "summary": summary[:300]
+                    "summary": summary[:500]
                 }
 
         entry = root.find("atom:entry", NS)
@@ -63,7 +63,7 @@ def parse_rss_feed(url: str):
                 "title": title,
                 "published_at": published_at,
                 "link": link,
-                "summary": summary[:300]
+                "summary": summary[:500]
             }
 
     except Exception as e:
@@ -86,7 +86,6 @@ def parse_youtube_with_ytdlp(url: str):
     try:
         cmd = [
             "yt-dlp",
-            "--flat-playlist",
             "--playlist-end", "1",
             "--dump-single-json",
             url
@@ -107,6 +106,7 @@ def parse_youtube_with_ytdlp(url: str):
         video_id = first.get("id", "")
         title = first.get("title", "")
         upload_date = first.get("upload_date", "")
+        description = first.get("description", "") or ""
 
         published_at = ""
         if upload_date and len(upload_date) == 8:
@@ -118,7 +118,7 @@ def parse_youtube_with_ytdlp(url: str):
             "title": title,
             "published_at": published_at,
             "link": link,
-            "summary": ""
+            "summary": description[:500]
         }
 
     except Exception as e:
