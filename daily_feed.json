@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T02:41:24Z",
+  "generated_at": "2026-04-17T07:10:32Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Chinilla",
-      "published_at": "2026-04-14T20:37:18-07:00",
-      "link": "https://www.producthunt.com/products/chinilla",
-      "summary": "Design systems, simulate them and watch where they break Discussion | Link"
+      "title": "Proxima",
+      "published_at": "2026-04-16T13:12:10-07:00",
+      "link": "https://www.producthunt.com/products/proxima-agentic-training-partner",
+      "summary": "AI-Native Workout Programming Companion Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "How to Steer Through a Crisis and Live: MIT President Sally Kornbluth",
+      "title": "Waver on Excellence, and You’ll Suck Forever: MIT President Sally Kornbluth",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=e_2opghuq88",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "How OpenAI Could Win the Enterprise Game & SpaceX's Financials Leaked: Is it Worth $2TRN?",
+      "title": "SpaceX's Financials Leaked: Is it Worth $2TN | Meta Debuts Muse Spark: Are They Back in the AI Race?",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=UOY8hsBqjJo",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Notion’s AI Strategy: Agent Harnesses, Retrieval, & MCP/CLI — Simon Last & Sarah Sachs, Notion",
+      "title": "Inside Notion AI: The 5 Rebuilds Behind Custom Agents — Simon Last & Sarah Sachs, Notion",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ATt7QJgt-2k",
       "summary": ""
