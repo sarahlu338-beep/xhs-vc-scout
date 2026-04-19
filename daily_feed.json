@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T06:01:59Z",
+  "generated_at": "2026-04-19T06:54:49Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "published_at": "Fri, 17 Apr 2026 19:17:26 +0000",
-      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-      "summary": "Returning backers a16z and Thrive are expected to lead the round."
+      "title": "AI chip startup Cerebras files for IPO",
+      "published_at": "Sat, 18 Apr 2026 19:19:11 +0000",
+      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Noa",
-      "published_at": "2026-04-16T00:57:07-07:00",
-      "link": "https://www.producthunt.com/products/noa-4",
-      "summary": "Your life admin for quick availability and scheduling Discussion | Link"
+      "title": "Lounge",
+      "published_at": "2026-04-17T07:46:56-07:00",
+      "link": "https://www.producthunt.com/products/lounge-2",
+      "summary": "macOS Tahoe menu bar manager with notch-aware icon control Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Waver on Excellence, and You’ll Suck Forever: MIT President Sally Kornbluth",
+      "title": "What Founders Can Learn About Excellence From MIT President Sally Kornbluth",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=e_2opghuq88",
       "summary": ""
@@ -76,17 +76,17 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Anthropic Unveils Mythos | Meta Debuts Muse Spark: Are They Back in the AI Race?",
+      "title": "Jake Paul: Traditional VC is Toast & Attention is More Valuable than Cash",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=UOY8hsBqjJo",
+      "link": "https://www.youtube.com/watch?v=rWn3KgO9Dvk",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Notion’s Sarah Sachs & Simon Last on Custom Agents, Evals, and the Future of Work",
+      "title": "⚡️ How to turn Documents into Knowledge: Graphs in Modern AI — Emil Eifrem, CEO Neo4J",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ATt7QJgt-2k",
+      "link": "https://www.youtube.com/watch?v=yyuVR-ML9X8",
       "summary": ""
     },
     {
