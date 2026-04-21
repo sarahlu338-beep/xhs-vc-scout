@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T01:57:18Z",
+  "generated_at": "2026-04-21T07:12:17Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Silex",
-      "published_at": "2026-04-15T17:42:26-07:00",
-      "link": "https://www.producthunt.com/products/silex-2",
-      "summary": "Swiss legal AI, built by lawyers for lawyers Discussion | Link"
+      "title": "YourMemory",
+      "published_at": "2026-04-20T11:25:47-07:00",
+      "link": "https://www.producthunt.com/products/yourmemory",
+      "summary": "Cut token waste by 84% with self pruning MCP memory Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "What Founders Can Learn About Excellence From MIT President Sally Kornbluth",
+      "title": "Waver on Excellence, and You’ll Suck Forever: MIT President Sally Kornbluth",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=e_2opghuq88",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why AI could replace 50% of product managers | Nikhyl Singhal (Meta, Google)",
+      "title": "The state of the PM industry in 2026 | Nikhyl Singhal (Meta, Google)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=yUohoaC8_Hs",
       "summary": ""
