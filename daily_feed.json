@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-20T07:31:10Z",
+  "generated_at": "2026-04-21T01:57:18Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "It takes too long to do things in the government",
-      "published_at": "Fri, 17 Apr 2026 14:02:02 GMT",
-      "link": "https://www.a16z.news/p/it-takes-too-long-to-do-things-in",
-      "summary": "It's time to build."
+      "title": "Monitoring the Situation",
+      "published_at": "Mon, 20 Apr 2026 15:10:20 GMT",
+      "link": "https://www.a16z.news/p/monitoring-the-situation",
+      "summary": "Thrilled to announce our investment in a new media company called MTS"
     },
     {
       "source": "TechCrunch Startups",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Dune",
-      "published_at": "2026-04-16T02:42:20-07:00",
-      "link": "https://www.producthunt.com/products/dune-4",
-      "summary": "Context-aware Mac keypad to automate workflows + meetings Discussion | Link"
+      "title": "Silex",
+      "published_at": "2026-04-15T17:42:26-07:00",
+      "link": "https://www.producthunt.com/products/silex-2",
+      "summary": "Swiss legal AI, built by lawyers for lawyers Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "How to Steer Through a Crisis and Live: MIT President Sally Kornbluth",
+      "title": "What Founders Can Learn About Excellence From MIT President Sally Kornbluth",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=e_2opghuq88",
       "summary": ""
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Jake Paul: Traditional VC is Toast & Attention is More Valuable than Cash",
+      "title": "Are SaaS Companies Cooked: Which Thrive & Which Die | Aaron Levie",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=rWn3KgO9Dvk",
+      "link": "https://www.youtube.com/watch?v=qrxQikecJL0",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "⚡️ How to turn Documents into Knowledge: Graphs in Modern AI — Emil Eifrem, CEO Neo4J",
+      "title": "🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa & Daniel Bear, Noetik",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=yyuVR-ML9X8",
+      "link": "https://www.youtube.com/watch?v=uqM8qjbLRHA",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How AI is reshaping (not replacing) product management | Nikhyl Singhal (Meta, Google)",
+      "title": "Why AI could replace 50% of product managers | Nikhyl Singhal (Meta, Google)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=yUohoaC8_Hs",
       "summary": ""
