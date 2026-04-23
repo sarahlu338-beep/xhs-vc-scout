@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T03:16:24Z",
+  "generated_at": "2026-04-23T07:14:33Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Seeknal",
-      "published_at": "2026-04-21T09:02:49-07:00",
-      "link": "https://www.producthunt.com/products/seeknal",
-      "summary": "Data & AI/ML CLI for pipelines and NL queries Discussion | Link"
+      "title": "ASI:One",
+      "published_at": "2026-02-17T09:35:38-08:00",
+      "link": "https://www.producthunt.com/products/asi",
+      "summary": "A personal AI with memory that plans and acts for you Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Memes and Media with Marc Andreessen | The a16z Show",
+      "title": "Marc Andreessen on how the internet changed news, politics, and outrage | The a16z Show",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=82HsvG1_Nqk",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The state of the PM industry in 2026 | Nikhyl Singhal (Meta, Google)",
+      "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=yUohoaC8_Hs",
       "summary": ""
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Lessons From Stripe’s Website Redesign",
+      "title": "Stripe Head of Design Katie Dill Breaks Down Their New Website",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ypzNhwpmOD4",
       "summary": ""
