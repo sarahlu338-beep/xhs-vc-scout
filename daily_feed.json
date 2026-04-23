@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-22T07:12:02Z",
+  "generated_at": "2026-04-23T03:16:24Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The Internet is Real Life",
-      "published_at": "Tue, 21 Apr 2026 14:04:23 GMT",
-      "link": "https://www.a16z.news/p/the-internet-is-real-life",
-      "summary": "America | Tech | Opinion | Culture | Charts"
+      "title": "Why We Need Continual Learning",
+      "published_at": "Wed, 22 Apr 2026 14:02:22 GMT",
+      "link": "https://www.a16z.news/p/why-we-need-continual-learning",
+      "summary": "The Memento and the Machine"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-      "published_at": "Tue, 21 Apr 2026 19:11:29 +0000",
-      "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain."
+      "title": "Fusion doesn’t have a normal startup timeline, and investors are fine with that",
+      "published_at": "Wed, 22 Apr 2026 21:07:33 +0000",
+      "link": "https://techcrunch.com/podcast/fusion-doesnt-have-a-normal-startup-timeline-and-investors-are-fine-with-that/",
+      "summary": "Fusion energy has been “20 years away” for decades, but has the science finally caught up? Private investment in fusion companies surged from $10 billion to $15 billion in just months, and the money is coming from places you wouldn’t expect. On this episode of TechCrunch’s Equity podcast, Rebecca Bellan and guest host Tim De Chant sit down with Rachel Slaybaugh, general partner at DCVC, to break down why serious […]"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Reliable Robotics Scoops Up $160M",
-      "published_at": "21 Apr 2026 15:05:19 CDT",
-      "link": "https://vcnewsdaily.com/reliable-robotics/venture-capital-funding/rbgbzctycg",
-      "summary": "MOUNTAIN VIEW, CA, Reliable Robotics, the leader in autonomous aircraft systems, today announced $160 million in new funding."
+      "title": "Amperos Health Nabs $16M Series A",
+      "published_at": "22 Apr 2026 15:04:43 CDT",
+      "link": "https://vcnewsdaily.com/amperos-health/venture-capital-funding/stbjkjjhdb",
+      "summary": "NEW YORK, NY, Amperos Health, the first insurance revenue recovery partner capable of working denials end-to-end entirely with AI, announced today that it has closed a $16 million Series A funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Layers",
-      "published_at": "2026-04-21T07:01:10-07:00",
-      "link": "https://www.producthunt.com/products/layers-7",
-      "summary": "The private network strangers literally can't reach you on. Discussion | Link"
+      "title": "Seeknal",
+      "published_at": "2026-04-21T09:02:49-07:00",
+      "link": "https://www.producthunt.com/products/seeknal",
+      "summary": "Data & AI/ML CLI for pipelines and NL queries Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Claude Feels Different (And What That Means for AI) | The a16z Show",
+      "title": "Memes and Media with Marc Andreessen | The a16z Show",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Mjc7vwys1vY",
+      "link": "https://www.youtube.com/watch?v=82HsvG1_Nqk",
       "summary": ""
     },
     {
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa & Daniel Bear, Noetik",
+      "title": "The Unlimited Token Bet: 100% adoption, Opus-4.6 floor, Tangle, Tangent — Mikhail Parakhin, Shopify",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=uqM8qjbLRHA",
+      "link": "https://www.youtube.com/watch?v=RrkGoX3Cw7o",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The GPT Moment for Robotics Is Here",
+      "title": "Lessons From Stripe’s Website Redesign",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=4EsUaur0nsQ",
+      "link": "https://www.youtube.com/watch?v=ypzNhwpmOD4",
       "summary": ""
     }
   ]
