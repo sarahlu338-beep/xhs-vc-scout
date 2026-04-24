@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-23T07:14:33Z",
+  "generated_at": "2026-04-24T07:18:47Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Why We Need Continual Learning",
-      "published_at": "Wed, 22 Apr 2026 14:02:22 GMT",
-      "link": "https://www.a16z.news/p/why-we-need-continual-learning",
-      "summary": "The Memento and the Machine"
+      "title": "Investing in Glif",
+      "published_at": "Thu, 23 Apr 2026 17:01:06 GMT",
+      "link": "https://www.a16z.news/p/investing-in-glif",
+      "summary": "a16z leads Glif's Seed round"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Fusion doesn’t have a normal startup timeline, and investors are fine with that",
-      "published_at": "Wed, 22 Apr 2026 21:07:33 +0000",
-      "link": "https://techcrunch.com/podcast/fusion-doesnt-have-a-normal-startup-timeline-and-investors-are-fine-with-that/",
-      "summary": "Fusion energy has been “20 years away” for decades, but has the science finally caught up? Private investment in fusion companies surged from $10 billion to $15 billion in just months, and the money is coming from places you wouldn’t expect. On this episode of TechCrunch’s Equity podcast, Rebecca Bellan and guest host Tim De Chant sit down with Rachel Slaybaugh, general partner at DCVC, to break down why serious […]"
+      "title": "Redwood Materials loses COO amid layoffs, restructuring",
+      "published_at": "Thu, 23 Apr 2026 22:44:12 +0000",
+      "link": "https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/",
+      "summary": "Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Amperos Health Nabs $16M Series A",
-      "published_at": "22 Apr 2026 15:04:43 CDT",
-      "link": "https://vcnewsdaily.com/amperos-health/venture-capital-funding/stbjkjjhdb",
-      "summary": "NEW YORK, NY, Amperos Health, the first insurance revenue recovery partner capable of working denials end-to-end entirely with AI, announced today that it has closed a $16 million Series A funding round."
+      "title": "Vertical Bridge Receives $1.5B",
+      "published_at": "23 Apr 2026 15:02:24 CDT",
+      "link": "https://vcnewsdaily.com/vertical-bridge/venture-capital-funding/jvxwsgbrzd",
+      "summary": "DELRAY BEACH, FL, Vertical Bridge REIT today announced that KKR will make a $1.5 billion equity investment in the Company to support its future growth."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "ASI:One",
-      "published_at": "2026-02-17T09:35:38-08:00",
-      "link": "https://www.producthunt.com/products/asi",
-      "summary": "A personal AI with memory that plans and acts for you Discussion | Link"
+      "title": "NotchNest AI",
+      "published_at": "2026-04-23T05:41:19-07:00",
+      "link": "https://www.producthunt.com/products/notchnest-quick-access-hub",
+      "summary": "AI powered by Apple Intelligence now in your Notch Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "What Founders Can Learn About Excellence From MIT President Sally Kornbluth",
+      "title": "How to Steer Through a Crisis and Live: MIT President Sally Kornbluth",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=e_2opghuq88",
       "summary": ""
@@ -68,17 +68,17 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "AI Safety Expert: No One Is Ready for What's Coming in 2 Years | Roman Yampolskiy",
+      "title": "Start a $10K/Month AI Business in 90 Days — No Code, No Team",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=00RHph_eok4",
+      "link": "https://www.youtube.com/watch?v=ZK-TCkETAFw",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Are SaaS Companies Cooked: Which Thrive & Which Die | Aaron Levie",
+      "title": "Cursor Acquired for $60BN | Anthropic Hits $1TRN in Secondary Markets & Figma, Adobe, Canva Dead?",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=qrxQikecJL0",
+      "link": "https://www.youtube.com/watch?v=s61XVZAt5ns",
       "summary": ""
     },
     {
@@ -92,17 +92,17 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
+      "title": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=yUohoaC8_Hs",
+      "link": "https://www.youtube.com/watch?v=PplmzlgE0kg",
       "summary": ""
     },
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Stripe Head of Design Katie Dill Breaks Down Their New Website",
+      "title": "How to Make Claude Code Your AI Engineering Team",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ypzNhwpmOD4",
+      "link": "https://www.youtube.com/watch?v=wkv2ifxPpF8",
       "summary": ""
     }
   ]
