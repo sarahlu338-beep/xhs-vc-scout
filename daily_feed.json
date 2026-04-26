@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T06:11:42Z",
+  "generated_at": "2026-04-26T07:10:39Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
-      "published_at": "Sat, 25 Apr 2026 03:30:00 +0000",
-      "link": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
-      "summary": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks."
+      "title": "Why Tokyo is the most important tech destination of 2026",
+      "published_at": "Sat, 25 Apr 2026 15:03:00 +0000",
+      "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Tortugas Neuroscience Nabs $106M",
-      "published_at": "24 Apr 2026 15:02:16 CDT",
-      "link": "https://vcnewsdaily.com/tortugas-neuroscience/venture-capital-funding/rcvfxyzkth",
-      "summary": "FRAMINGHAM, MA, Tortugas Neuroscience has announced a $106 million Seed and Series A financing round."
+      "title": "Coral Banks $12.5M Seed Round",
+      "published_at": "25 Apr 2026 11:53:09 CDT",
+      "link": "https://vcnewsdaily.com/coral/venture-capital-funding/ktywqqfzwy",
+      "summary": "NEW YORK, NY, Coral, a health care automation company, announced a $12.5 million investment led by Lightspeed and Z47."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Haiker",
-      "published_at": "2026-04-23T07:43:39-07:00",
-      "link": "https://www.producthunt.com/products/haiker",
-      "summary": "Hacker News App for non-native english speaker Discussion | Link"
+      "title": "Free chart generator by Embedful",
+      "published_at": "2026-04-13T19:54:29-07:00",
+      "link": "https://www.producthunt.com/products/embedful",
+      "summary": "Turn CSV & Excel files into charts in seconds Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Marc Andreessen on media in the age of memes | The a16z Show",
+      "title": "Marc Andreessen on how the internet changed news, politics, and outrage | The a16z Show",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=82HsvG1_Nqk",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Waver on Excellence, and You’ll Suck Forever: MIT President Sally Kornbluth",
+      "title": "How to Steer Through a Crisis and Live: MIT President Sally Kornbluth",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=e_2opghuq88",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Start a $10K/Month AI Business in 90 Days — No Code, No Team",
+      "title": "Start a $10K/Month AI Business in 90 Days — No Code, No Funding, No Team",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ZK-TCkETAFw",
       "summary": ""
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Anthropic Hits $1TRN in Secondary Markets | Cursor Acquired for $60BN | Figma, Adobe, Canva Dead?",
+      "title": "Replit CEO: Why the SaaS Apocalypse is Justified & Why Coding Models are Plateauing | Amjad Masad",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=s61XVZAt5ns",
+      "link": "https://www.youtube.com/watch?v=pN-CK54ms2c",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The Unlimited Token Bet: 100% adoption, Opus-4.6 floor, Tangle, Tangent — Mikhail Parakhin, Shopify",
+      "title": "CI/CD Breaks at AI Speed: Tangle, Graphite Stacks, Pro-Model PR Review — Mikhail Parakhin, Shopify",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=RrkGoX3Cw7o",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "How To Build An AI Native Company",
+      "title": "Replit's CEO On The Only Two Jobs Left In The Company Of The Future",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=EN7frwQIbKc",
+      "link": "https://www.youtube.com/watch?v=kMYeTRqzAfc",
       "summary": ""
     }
   ]
