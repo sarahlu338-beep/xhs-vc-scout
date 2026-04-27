@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T02:02:27Z",
+  "generated_at": "2026-04-27T09:30:36Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "GPT-5.5 by OpenAI",
-      "published_at": "2026-04-24T20:54:05-07:00",
-      "link": "https://www.producthunt.com/products/openai",
-      "summary": "OpenAI's smartest and most intuitive to use model yet Discussion | Link"
+      "title": "SNEWPapers",
+      "published_at": "2026-04-25T02:16:52-07:00",
+      "link": "https://www.producthunt.com/products/snewpapers",
+      "summary": "The World's First AI Newspaper Archive Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Waver on Excellence, and You’ll Suck Forever: MIT President Sally Kornbluth",
+      "title": "What Founders Can Learn About Excellence From MIT President Sally Kornbluth",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=e_2opghuq88",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Replit CEO: Why the SaaS Apocalypse is Justified & Why Coding Models are Plateauing | Amjad Masad",
+      "title": "Replit CEO: Why Coding Models are Plateauing & Why the SaaS Apocalypse is Justified | Amjad Masad",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=pN-CK54ms2c",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "CI/CD Breaks at AI Speed: Tangle, Graphite Stacks, Pro-Model PR Review — Mikhail Parakhin, Shopify",
+      "title": "AI-Native Engineering: 100% adoption, 5x search throughput, unlimited tokens — Mikhail Parakhin",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=RrkGoX3Cw7o",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Snapchat CEO: Why AI is creating a new consumer product boom | Evan Spiegel",
+      "title": "The AI era has made distribution the most important moat | Evan Spiegel (Snapchat CEO)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=-7Yol5vX5xw",
       "summary": ""
