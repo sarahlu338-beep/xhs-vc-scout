@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T09:30:36Z",
+  "generated_at": "2026-04-28T09:36:10Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-      "published_at": "Sun, 26 Apr 2026 15:30:00 +0000",
-      "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco."
+      "title": "India’s Snabbit closes $56M round as investor interest in on-demand home services heats up",
+      "published_at": "Tue, 28 Apr 2026 03:30:00 +0000",
+      "link": "https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/",
+      "summary": "Snabbit now processes over 40,000 daily jobs and has cut costs sharply as it expands across cities and services."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Coral Banks $12.5M Seed Round",
-      "published_at": "25 Apr 2026 11:53:09 CDT",
-      "link": "https://vcnewsdaily.com/coral/venture-capital-funding/ktywqqfzwy",
-      "summary": "NEW YORK, NY, Coral, a health care automation company, announced a $12.5 million investment led by Lightspeed and Z47."
+      "title": "Betterness Closes $2.5M Seed Round",
+      "published_at": "27 Apr 2026 14:27:16 CDT",
+      "link": "https://vcnewsdaily.com/betterness/venture-capital-funding/zmzsrxqmmg",
+      "summary": "MIAMI, FL, Betterness, the Augmented Wellness platform building agent-first infrastructure for the health and wellness industry, announced the closing of its $2.5M seed round."
     },
     {
       "source": "YC Launches",
@@ -36,23 +36,23 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "SNEWPapers",
-      "published_at": "2026-04-25T02:16:52-07:00",
-      "link": "https://www.producthunt.com/products/snewpapers",
-      "summary": "The World's First AI Newspaper Archive Discussion | Link"
+      "title": "Flitch",
+      "published_at": "2026-04-23T00:36:04-07:00",
+      "link": "https://www.producthunt.com/products/flitch",
+      "summary": "Turn your data into insights Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "Partnering with Auctor",
-      "published_at": "Wed, 15 Apr 2026 16:00:05 +0000",
-      "link": "https://sequoiacap.com/article/partnering-with-auctor/",
-      "summary": "The post Partnering with Auctor appeared first on Sequoia Capital ."
+      "title": "Partnering with Ineffable Intelligence: A Superlearner for the Era of Experience",
+      "published_at": "Mon, 27 Apr 2026 14:15:11 +0000",
+      "link": "https://sequoiacap.com/article/partnering-with-ineffable-intelligence-a-superlearner-for-the-era-of-experience/",
+      "summary": "The post Partnering with Ineffable Intelligence: A Superlearner for the Era of Experience appeared first on Sequoia Capital ."
     },
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Marc Andreessen on media in the age of memes | The a16z Show",
+      "title": "Marc Andreessen on how the internet changed news, politics, and outrage | The a16z Show",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=82HsvG1_Nqk",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "What Founders Can Learn About Excellence From MIT President Sally Kornbluth",
+      "title": "How to Steer Through a Crisis and Live: MIT President Sally Kornbluth",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=e_2opghuq88",
       "summary": ""
@@ -68,31 +68,31 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Start a $10K/Month AI Business in 90 Days — No Code, No Team",
+      "title": "Double Your Income With AI in 3 Months (Here's the Stack)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ZK-TCkETAFw",
+      "link": "https://www.youtube.com/watch?v=zL2PIa72gJ4",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Replit CEO: Why Coding Models are Plateauing & Why the SaaS Apocalypse is Justified | Amjad Masad",
+      "title": "AppLovin CEO: Why Founders Shouldn't Angel Invest & Why the Best Don't Need Mentorship",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=pN-CK54ms2c",
+      "link": "https://www.youtube.com/watch?v=dlPCz8Jwypw",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "AI-Native Engineering: 100% adoption, 5x search throughput, unlimited tokens — Mikhail Parakhin",
+      "title": "Physical AI Stack: 1,000 engineers, 30 products, 18 of top 20 OEMs—Qasar & Peter, Applied Intuition",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=RrkGoX3Cw7o",
+      "link": "https://www.youtube.com/watch?v=rv23_KcHt4s",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The AI era has made distribution the most important moat | Evan Spiegel (Snapchat CEO)",
+      "title": "How to build a defensible company in the AI era | Evan Spiegel (Snapchat CEO)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=-7Yol5vX5xw",
       "summary": ""
