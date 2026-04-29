@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-28T09:36:10Z",
+  "generated_at": "2026-04-29T09:22:07Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Charts of the Week: Software Ate the World",
-      "published_at": "Fri, 24 Apr 2026 14:03:10 GMT",
-      "link": "https://www.a16z.news/p/charts-of-the-week-software-ate-the",
-      "summary": "Railroad GPT; Stablecoins volumes are shifting from transfers to payments; The Next Decade of News; See ya later, productivity gains"
+      "title": "Workday's Last Workday?",
+      "published_at": "Tue, 28 Apr 2026 14:03:22 GMT",
+      "link": "https://www.a16z.news/p/workdays-last-workday",
+      "summary": "HCM is the last large enterprise software category without a serious AI-native challenger, and that’s about to change"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "India’s Snabbit closes $56M round as investor interest in on-demand home services heats up",
-      "published_at": "Tue, 28 Apr 2026 03:30:00 +0000",
-      "link": "https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/",
-      "summary": "Snabbit now processes over 40,000 daily jobs and has cut costs sharply as it expands across cities and services."
+      "title": "Founder of Shark Tank-backed startup Scholly sues his acquirer Sallie Mae",
+      "published_at": "Tue, 28 Apr 2026 15:33:27 +0000",
+      "link": "https://techcrunch.com/2026/04/28/founder-of-shark-tank-backed-startup-scholly-sues-his-acquirer-sallie-mae/",
+      "summary": "Chris Gray is suing his startup’s acquirer, Sallie Mae, for wrongful termination and alleging it's selling student data through a subsidiary. Sallie Mae denies the allegations and vows to fight."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Betterness Closes $2.5M Seed Round",
-      "published_at": "27 Apr 2026 14:27:16 CDT",
-      "link": "https://vcnewsdaily.com/betterness/venture-capital-funding/zmzsrxqmmg",
-      "summary": "MIAMI, FL, Betterness, the Augmented Wellness platform building agent-first infrastructure for the health and wellness industry, announced the closing of its $2.5M seed round."
+      "title": "Liquid Scoops Up $18M Seed Round",
+      "published_at": "28 Apr 2026 14:44:24 CDT",
+      "link": "https://vcnewsdaily.com/liquid-trade/venture-capital-funding/gnhwlvsynv",
+      "summary": "NEW YORK, NY, Liquid, a platform building the future of trading, today announced the successful closing of an $18 million Series Seed funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Flitch",
-      "published_at": "2026-04-23T00:36:04-07:00",
-      "link": "https://www.producthunt.com/products/flitch",
-      "summary": "Turn your data into insights Discussion | Link"
+      "title": "Devin for Terminal",
+      "published_at": "2026-04-28T10:01:35-07:00",
+      "link": "https://www.producthunt.com/products/devin-by-cognition",
+      "summary": "Local CLI coding agent with deep Devin Cloud integration Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,15 +52,15 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Marc Andreessen on how the internet changed news, politics, and outrage | The a16z Show",
+      "title": "Box CEO: Why Big Companies Are Falling Behind on AI | a16z",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=82HsvG1_Nqk",
+      "link": "https://www.youtube.com/watch?v=dvVbA9OcBqs",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "How to Steer Through a Crisis and Live: MIT President Sally Kornbluth",
+      "title": "What Founders Can Learn About Excellence From MIT President Sally Kornbluth",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=e_2opghuq88",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "AppLovin CEO: Why Founders Shouldn't Angel Invest & Why the Best Don't Need Mentorship",
+      "title": "Why Kindness in Business Will Slow You Down & Why the Best Don't Need Mentorship | Adam Foroughi",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=dlPCz8Jwypw",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How to build a defensible company in the AI era | Evan Spiegel (Snapchat CEO)",
+      "title": "The AI era has made distribution the most important moat | Evan Spiegel (Snapchat CEO)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=-7Yol5vX5xw",
       "summary": ""
