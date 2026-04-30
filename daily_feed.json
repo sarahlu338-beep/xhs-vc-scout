@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-29T09:22:07Z",
+  "generated_at": "2026-04-30T09:23:54Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Workday's Last Workday?",
-      "published_at": "Tue, 28 Apr 2026 14:03:22 GMT",
-      "link": "https://www.a16z.news/p/workdays-last-workday",
-      "summary": "HCM is the last large enterprise software category without a serious AI-native challenger, and that’s about to change"
+      "title": "Call the Plumber; We’ve Got a Leaky Abstraction",
+      "published_at": "Wed, 29 Apr 2026 14:02:41 GMT",
+      "link": "https://www.a16z.news/p/call-the-plumber-weve-got-a-leaky",
+      "summary": "A model of how things break, for non-doomers"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Founder of Shark Tank-backed startup Scholly sues his acquirer Sallie Mae",
-      "published_at": "Tue, 28 Apr 2026 15:33:27 +0000",
-      "link": "https://techcrunch.com/2026/04/28/founder-of-shark-tank-backed-startup-scholly-sues-his-acquirer-sallie-mae/",
-      "summary": "Chris Gray is suing his startup’s acquirer, Sallie Mae, for wrongful termination and alleging it's selling student data through a subsidiary. Sallie Mae denies the allegations and vows to fight."
+      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+      "published_at": "Wed, 29 Apr 2026 18:33:05 +0000",
+      "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+      "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Liquid Scoops Up $18M Seed Round",
-      "published_at": "28 Apr 2026 14:44:24 CDT",
-      "link": "https://vcnewsdaily.com/liquid-trade/venture-capital-funding/gnhwlvsynv",
-      "summary": "NEW YORK, NY, Liquid, a platform building the future of trading, today announced the successful closing of an $18 million Series Seed funding round."
+      "title": "Liquid Instruments Nabs $50M Series C",
+      "published_at": "29 Apr 2026 17:44:11 CDT",
+      "link": "https://vcnewsdaily.com/liquid-instruments/venture-capital-funding/gmyfsvxbxh",
+      "summary": "SAN DIEGO, CA, Liquid Instruments, a pioneer in software-defined test solutions, today announced the close of its $50 million Series C funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Devin for Terminal",
-      "published_at": "2026-04-28T10:01:35-07:00",
-      "link": "https://www.producthunt.com/products/devin-by-cognition",
-      "summary": "Local CLI coding agent with deep Devin Cloud integration Discussion | Link"
+      "title": "Hera Launch",
+      "published_at": "2026-04-27T02:33:59-07:00",
+      "link": "https://www.producthunt.com/products/hera-6",
+      "summary": "Create studio-quality launch videos with AI Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Box CEO: Why Big Companies Are Falling Behind on AI | a16z",
+      "title": "Box CEO on AI Agents & Why Enterprise Can't Keep Up | a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=dvVbA9OcBqs",
       "summary": ""
@@ -60,9 +60,9 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "What Founders Can Learn About Excellence From MIT President Sally Kornbluth",
+      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=e_2opghuq88",
+      "link": "https://www.youtube.com/watch?v=96jN2OCOfLs",
       "summary": ""
     },
     {
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Why Kindness in Business Will Slow You Down & Why the Best Don't Need Mentorship | Adam Foroughi",
+      "title": "AppLovin CEO: Why Founders Shouldn't Angel Invest & Why the Best Don't Need Mentorship",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=dlPCz8Jwypw",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Physical AI Stack: 1,000 engineers, 30 products, 18 of top 20 OEMs—Qasar & Peter, Applied Intuition",
+      "title": "Android Moment for Vehicles: 50 OSes, OTA, safety-critical AI — Qasar & Peter, Applied Intuition",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=rv23_KcHt4s",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The AI era has made distribution the most important moat | Evan Spiegel (Snapchat CEO)",
+      "title": "How to win when software is not a moat | Evan Spiegel (Snapchat CEO)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=-7Yol5vX5xw",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Replit's CEO On The Only Two Jobs Left In The Company Of The Future",
+      "title": "Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=kMYeTRqzAfc",
+      "link": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
       "summary": ""
     }
   ]
