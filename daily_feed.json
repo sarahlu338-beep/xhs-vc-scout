@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-30T09:23:54Z",
+  "generated_at": "2026-05-01T08:29:31Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Call the Plumber; We’ve Got a Leaky Abstraction",
-      "published_at": "Wed, 29 Apr 2026 14:02:41 GMT",
-      "link": "https://www.a16z.news/p/call-the-plumber-weve-got-a-leaky",
-      "summary": "A model of how things break, for non-doomers"
+      "title": "Introducing the a16z Design Engineer Fellowship",
+      "published_at": "Thu, 30 Apr 2026 14:02:18 GMT",
+      "link": "https://www.a16z.news/p/introducing-the-a16z-design-engineer",
+      "summary": "A new 8-week cohort of AI-native design leaders who have absorbed engineering into their craft and are thinking in systems, not screens"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
-      "published_at": "Wed, 29 Apr 2026 18:33:05 +0000",
-      "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
-      "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million."
+      "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
+      "published_at": "Thu, 30 Apr 2026 23:58:52 +0000",
+      "link": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
+      "summary": "Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Liquid Instruments Nabs $50M Series C",
-      "published_at": "29 Apr 2026 17:44:11 CDT",
-      "link": "https://vcnewsdaily.com/liquid-instruments/venture-capital-funding/gmyfsvxbxh",
-      "summary": "SAN DIEGO, CA, Liquid Instruments, a pioneer in software-defined test solutions, today announced the close of its $50 million Series C funding round."
+      "title": "Zamp Launches With $30M",
+      "published_at": "30 Apr 2026 15:03:47 CDT",
+      "link": "https://vcnewsdaily.com/zamp/venture-capital-funding/wxlqbrjrch",
+      "summary": "NEW YORK, NY, Zamp announced it has raised $30 million in total funding,"
     },
     {
       "source": "YC Launches",
@@ -36,18 +36,18 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Hera Launch",
-      "published_at": "2026-04-27T02:33:59-07:00",
-      "link": "https://www.producthunt.com/products/hera-6",
-      "summary": "Create studio-quality launch videos with AI Discussion | Link"
+      "title": "Montage",
+      "published_at": "2026-04-30T08:50:23-07:00",
+      "link": "https://www.producthunt.com/products/montage-3",
+      "summary": "UI Agentic framework for quicker output & less token usage Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "Partnering with Ineffable Intelligence: A Superlearner for the Era of Experience",
-      "published_at": "Mon, 27 Apr 2026 14:15:11 +0000",
-      "link": "https://sequoiacap.com/article/partnering-with-ineffable-intelligence-a-superlearner-for-the-era-of-experience/",
-      "summary": "The post Partnering with Ineffable Intelligence: A Superlearner for the Era of Experience appeared first on Sequoia Capital ."
+      "title": "Standard Intelligence: Training General Intelligence in Pixel Space",
+      "published_at": "Thu, 30 Apr 2026 14:00:29 +0000",
+      "link": "https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/",
+      "summary": "The post Standard Intelligence: Training General Intelligence in Pixel Space appeared first on Sequoia Capital ."
     },
     {
       "source": "a16z",
@@ -60,15 +60,15 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+      "title": "Greg Brockman: Inside the Race for Compute, Codex, and AGI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=96jN2OCOfLs",
+      "link": "https://www.youtube.com/watch?v=bBS93A0BeNI",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Double Your Income With AI in 3 Months (Here's the Stack)",
+      "title": "6 Tools AI Leaders Actually Use to Earn More (Mo Gawdat, Allie Miller, Gary Vee)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=zL2PIa72gJ4",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "AppLovin CEO: Why Founders Shouldn't Angel Invest & Why the Best Don't Need Mentorship",
+      "title": "Anthropic Raises $45B but Falls Short on Compute & Thoma Bravo Hand Back Medallia Keys to Creditors",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=dlPCz8Jwypw",
+      "link": "https://www.youtube.com/watch?v=aXToQKc430c",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How to win when software is not a moat | Evan Spiegel (Snapchat CEO)",
+      "title": "The AI era has made distribution the most important moat | Evan Spiegel (Snapchat CEO)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=-7Yol5vX5xw",
       "summary": ""
