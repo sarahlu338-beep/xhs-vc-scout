@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-01T08:29:31Z",
+  "generated_at": "2026-05-02T07:12:52Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Introducing the a16z Design Engineer Fellowship",
-      "published_at": "Thu, 30 Apr 2026 14:02:18 GMT",
-      "link": "https://www.a16z.news/p/introducing-the-a16z-design-engineer",
-      "summary": "A new 8-week cohort of AI-native design leaders who have absorbed engineering into their craft and are thinking in systems, not screens"
+      "title": "Charts of the Week: The Fastest V-Shaped Recovery Ever",
+      "published_at": "Fri, 01 May 2026 14:02:29 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-the-fastest-v",
+      "summary": "First semis, then software; Peak Social Media; Your SaaSflation Is My Opportunity"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
-      "published_at": "Thu, 30 Apr 2026 23:58:52 +0000",
-      "link": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
-      "summary": "Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO."
+      "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+      "published_at": "Fri, 01 May 2026 17:44:29 +0000",
+      "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+      "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Zamp Launches With $30M",
-      "published_at": "30 Apr 2026 15:03:47 CDT",
-      "link": "https://vcnewsdaily.com/zamp/venture-capital-funding/wxlqbrjrch",
-      "summary": "NEW YORK, NY, Zamp announced it has raised $30 million in total funding,"
+      "title": "Chance AI Lands $3M Seed Funding",
+      "published_at": "01 May 2026 15:09:14 CDT",
+      "link": "https://vcnewsdaily.com/chance-ai/venture-capital-funding/hdyqgtbbrp",
+      "summary": "NEW YORK, NY, Chance AI, a visual AI startup founded by former ByteDance executive Xi Zeng, has raised $3 million in seed funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Montage",
-      "published_at": "2026-04-30T08:50:23-07:00",
-      "link": "https://www.producthunt.com/products/montage-3",
-      "summary": "UI Agentic framework for quicker output & less token usage Discussion | Link"
+      "title": "Copilot Health",
+      "published_at": "2026-04-22T03:34:44-07:00",
+      "link": "https://www.producthunt.com/products/copilot-health",
+      "summary": "Dedicated space to bring your personal health data together Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Box CEO on AI Agents & Why Enterprise Can't Keep Up | a16z",
+      "title": "Box CEO: Why Big Companies Are Falling Behind on AI | a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=dvVbA9OcBqs",
       "summary": ""
@@ -60,23 +60,23 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Greg Brockman: Inside the Race for Compute, Codex, and AGI",
+      "title": "Waymo's Dmitri Dolgov: How Autonomous Cars Got 13x Safer Than Humans",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=bBS93A0BeNI",
+      "link": "https://www.youtube.com/watch?v=I_0Kuf6Aa2c",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "6 Tools AI Leaders Actually Use to Earn More (Mo Gawdat, Allie Miller, Gary Vee)",
+      "title": "6 Profitable AI business ideas for 2026",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=zL2PIa72gJ4",
+      "link": "https://www.youtube.com/watch?v=gwsaC3WiCqs",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Anthropic Raises $45B but Falls Short on Compute & Thoma Bravo Hand Back Medallia Keys to Creditors",
+      "title": "Thoma Bravo Hand Back Medallia Keys to Creditors & Anthropic Raises $45BN But Falls Short on Compute",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=aXToQKc430c",
       "summary": ""
@@ -84,15 +84,15 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Android Moment for Vehicles: 50 OSes, OTA, safety-critical AI — Qasar & Peter, Applied Intuition",
+      "title": "⚡️ Competing with ChatGPT and Sierra, building a $10M ARR company — Yasser Elsaid, Founder, Chatbase",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=rv23_KcHt4s",
+      "link": "https://www.youtube.com/watch?v=CSYWbbP_OkY",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The AI era has made distribution the most important moat | Evan Spiegel (Snapchat CEO)",
+      "title": "How to win when software is not a moat | Evan Spiegel (Snapchat CEO)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=-7Yol5vX5xw",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough",
+      "title": "Recursion Is The Next Scaling Law In AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
+      "link": "https://www.youtube.com/watch?v=DGtUUMNYLcc",
       "summary": ""
     }
   ]
