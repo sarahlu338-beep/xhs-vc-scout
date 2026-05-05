@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T09:31:58Z",
+  "generated_at": "2026-05-05T08:36:29Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "‘This is fine’ creator says AI startup stole his art",
-      "published_at": "Sun, 03 May 2026 20:16:51 +0000",
-      "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\""
+      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+      "published_at": "Mon, 04 May 2026 21:53:21 +0000",
+      "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Coral Banks $12.5M Seed Round",
-      "published_at": "25 Apr 2026 11:53:09 CDT",
-      "link": "https://vcnewsdaily.com/coral/venture-capital-funding/ktywqqfzwy",
-      "summary": "NEW YORK, NY, Coral, a health care automation company, announced a $12.5 million investment led by Lightspeed and Z47."
+      "title": "Enzo Health Pulls In $20M Series A Financing",
+      "published_at": "04 May 2026 14:20:29 CDT",
+      "link": "https://vcnewsdaily.com/enzo-health/venture-capital-funding/hbdbcntbwx",
+      "summary": "LEHI, UT, Enzo Health, the AI-driven platform for home health and post-acute care, announced its $20M Series A funding round led by N47."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Panels Store",
-      "published_at": "2026-05-01T14:00:27-07:00",
-      "link": "https://www.producthunt.com/products/panels-store",
-      "summary": "Buy DRM-free comics and read them instantly in Panels Discussion | Link"
+      "title": "Agentic API Grader by SaaStr.ai",
+      "published_at": "2026-05-04T04:30:55-07:00",
+      "link": "https://www.producthunt.com/products/saastr-ai-your-ai-powered-b2b-advisor",
+      "summary": "Your #1 new customer is an AI agent. Are they getting an A? Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,17 +52,17 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Box CEO on AI Agents & Why Enterprise Can't Keep Up | a16z",
+      "title": "Digital Freedom, AI Regulation, and the Fight for the Western Internet | The a16z Show",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=dvVbA9OcBqs",
+      "link": "https://www.youtube.com/watch?v=fUI0CNg1hCc",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Waymo's Dmitri Dolgov: How Autonomous Cars Got 13x Safer Than Humans",
+      "title": "Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=I_0Kuf6Aa2c",
+      "link": "https://www.youtube.com/watch?v=SlGRN8jh2RI",
       "summary": ""
     },
     {
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Inside Clay's Sales Playbook | Becca Lindquist",
+      "title": "Shopify CEO on How AI is a Scapegoat for Mass Layoffs & Trump Derangement Syndrome in Canada",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=d_nWswprCqk",
+      "link": "https://www.youtube.com/watch?v=e4pUgXxCwI0",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Notion)",
+      "title": "Why taste is beating titles in the AI era | Max Schoening (Head of Product, Notion)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=mCO-D3pkviM",
       "summary": ""
