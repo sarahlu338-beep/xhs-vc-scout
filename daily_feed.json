@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-05T08:36:29Z",
+  "generated_at": "2026-05-06T09:38:04Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Charts of the Week: The Fastest V-Shaped Recovery Ever",
-      "published_at": "Fri, 01 May 2026 14:02:29 GMT",
-      "link": "https://www.a16z.news/p/charts-of-the-week-the-fastest-v",
-      "summary": "First semis, then software; Peak Social Media; Your SaaSflation Is My Opportunity"
+      "title": "System Integration as Software",
+      "published_at": "Tue, 05 May 2026 18:40:47 GMT",
+      "link": "https://www.a16z.news/p/system-integration-as-software",
+      "summary": "The technology to do this differently has only just arrived"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-      "published_at": "Mon, 04 May 2026 21:53:21 +0000",
-      "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich."
+      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+      "published_at": "Wed, 06 May 2026 06:34:32 +0000",
+      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Enzo Health Pulls In $20M Series A Financing",
-      "published_at": "04 May 2026 14:20:29 CDT",
-      "link": "https://vcnewsdaily.com/enzo-health/venture-capital-funding/hbdbcntbwx",
-      "summary": "LEHI, UT, Enzo Health, the AI-driven platform for home health and post-acute care, announced its $20M Series A funding round led by N47."
+      "title": "RadixArk Launches With $100M Seed Round",
+      "published_at": "05 May 2026 15:07:46 CDT",
+      "link": "https://vcnewsdaily.com/radixark/venture-capital-funding/lvhcjvvptw",
+      "summary": "PALO ALTO, CA, RadixArk, the company democratizing access to frontier AI infrastructure, launched today with $100 million in Seed funding at a $400 million post-money valuation."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Agentic API Grader by SaaStr.ai",
-      "published_at": "2026-05-04T04:30:55-07:00",
-      "link": "https://www.producthunt.com/products/saastr-ai-your-ai-powered-b2b-advisor",
-      "summary": "Your #1 new customer is an AI agent. Are they getting an A? Discussion | Link"
+      "title": "WOZCODE",
+      "published_at": "2026-05-01T09:22:31-07:00",
+      "link": "https://www.producthunt.com/products/wozcode",
+      "summary": "Cut Claude Code costs by up to 50% Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Digital Freedom, AI Regulation, and the Fight for the Western Internet | The a16z Show",
+      "title": "Building Blackstone, Backing Costco, and Working with Munger | Tony James on The a16z Show",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=fUI0CNg1hCc",
+      "link": "https://www.youtube.com/watch?v=Z4i1adGvD2A",
       "summary": ""
     },
     {
@@ -84,15 +84,15 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "⚡️ Competing with ChatGPT and Sierra, building a $10M ARR company — Yasser Elsaid, Founder, Chatbase",
+      "title": "🔬Top Black Holes Physicist: GPT5 can do Vibe Physics, here's what I found",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=CSYWbbP_OkY",
+      "link": "https://www.youtube.com/watch?v=9d899Ram9Bs",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why taste is beating titles in the AI era | Max Schoening (Head of Product, Notion)",
+      "title": "AI era skills: Why cultivating agency matters more than job titles | Max Schoening (Notion)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=mCO-D3pkviM",
       "summary": ""
