@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-06T09:38:04Z",
+  "generated_at": "2026-05-07T10:08:39Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "System Integration as Software",
-      "published_at": "Tue, 05 May 2026 18:40:47 GMT",
-      "link": "https://www.a16z.news/p/system-integration-as-software",
-      "summary": "The technology to do this differently has only just arrived"
+      "title": "Investing in Ethos",
+      "published_at": "Wed, 06 May 2026 15:03:12 GMT",
+      "link": "https://www.a16z.news/p/investing-in-ethos",
+      "summary": "America | Tech | Opinion | Culture | Charts"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
-      "published_at": "Wed, 06 May 2026 06:34:32 +0000",
-      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt."
+      "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+      "published_at": "Wed, 06 May 2026 22:30:00 +0000",
+      "link": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+      "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "RadixArk Launches With $100M Seed Round",
-      "published_at": "05 May 2026 15:07:46 CDT",
-      "link": "https://vcnewsdaily.com/radixark/venture-capital-funding/lvhcjvvptw",
-      "summary": "PALO ALTO, CA, RadixArk, the company democratizing access to frontier AI infrastructure, launched today with $100 million in Seed funding at a $400 million post-money valuation."
+      "title": "District Pulls In $14.7M Seed Funding",
+      "published_at": "06 May 2026 15:36:51 CDT",
+      "link": "https://vcnewsdaily.com/district/venture-capital-funding/yyymcqlkls",
+      "summary": "LOS ANGELES, CA, District, an AI commerce platform, announced $14.7M in seed funding led by Andreessen Horowitz and Kindred Ventures."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "WOZCODE",
-      "published_at": "2026-05-01T09:22:31-07:00",
-      "link": "https://www.producthunt.com/products/wozcode",
-      "summary": "Cut Claude Code costs by up to 50% Discussion | Link"
+      "title": "Contextual Moderation for Chat",
+      "published_at": "2026-05-06T05:04:29-07:00",
+      "link": "https://www.producthunt.com/products/moderation-malware-virus-scanner",
+      "summary": "AI-powered moderation for safer chat experiences Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,17 +52,17 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Building Blackstone, Backing Costco, and Working with Munger | Tony James on The a16z Show",
+      "title": "NASA, SpaceX, Blue Origin, and The Race to The Moon | Jared Isaacman on The a16z Show",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Z4i1adGvD2A",
+      "link": "https://www.youtube.com/watch?v=6cCWrrQp1v4",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next",
+      "title": "AI That Designs Its Own Chips: Ricursive's Anna Goldie and Azalia Mirhoseini",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=SlGRN8jh2RI",
+      "link": "https://www.youtube.com/watch?v=K05Dh-QjM8c",
       "summary": ""
     },
     {
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Shopify CEO on How AI is a Scapegoat for Mass Layoffs & Trump Derangement Syndrome in Canada",
+      "title": "Tobi Lütke on How AI is a Scapegoat for Mass Layoffs & Trump Derangement Syndrome in Canada",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=e4pUgXxCwI0",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Recursion Is The Next Scaling Law In AI",
+      "title": "How Razorpay Became India’s Largest Payments Company",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=DGtUUMNYLcc",
+      "link": "https://www.youtube.com/watch?v=X5bABLCuIHA",
       "summary": ""
     }
   ]
