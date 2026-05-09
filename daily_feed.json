@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-08T07:00:39Z",
+  "generated_at": "2026-05-09T07:26:37Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "How an AI Bill Becomes a Law",
-      "published_at": "Thu, 07 May 2026 14:00:51 GMT",
-      "link": "https://www.a16z.news/p/how-an-ai-bill-becomes-a-law",
-      "summary": "The question is no longer whether Congress is interested in AI legislation. It is whether the political conditions will align to move a proposal."
+      "title": "Charts of the Week: It Was a Good Quarter for \"Other Income\"",
+      "published_at": "Fri, 08 May 2026 14:03:13 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-it-was-a-good",
+      "summary": "The Slop Surplus; Call Centers, Not Dead Yet; In AI, Great Products Win Fast"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
-      "published_at": "Thu, 07 May 2026 23:11:43 +0000",
-      "link": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
-      "summary": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion."
+      "title": "The “people’s airline” and the enterprise AI gold rush",
+      "published_at": "Fri, 08 May 2026 15:46:17 +0000",
+      "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+      "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target. On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony […]"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "ParcelBio Launches With $13M Seed Round",
-      "published_at": "07 May 2026 15:01:45 CDT",
-      "link": "https://vcnewsdaily.com/parcelbio/venture-capital-funding/cwgzqkhbtr",
-      "summary": "SAN FRANCISCO, CA, ParcelBio, a biotechnology company developing a new class of potent and durable mRNA medicines, today announced it has raised $13 million in seed financing."
+      "title": "Liquid Scoops Up $18M Seed Round",
+      "published_at": "28 Apr 2026 14:44:24 CDT",
+      "link": "https://vcnewsdaily.com/liquid-trade/venture-capital-funding/gnhwlvsynv",
+      "summary": "NEW YORK, NY, Liquid, a platform building the future of trading, today announced the successful closing of an $18 million Series Seed funding round."
     },
     {
       "source": "YC Launches",
@@ -36,31 +36,31 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Claude Agents for Financial Services",
-      "published_at": "2026-05-05T10:19:05-07:00",
-      "link": "https://www.producthunt.com/products/claude-code",
-      "summary": "Finance agent templates for pitches, KYC, and closing books Discussion | Link"
+      "title": "Zappy by ZapDigits",
+      "published_at": "2026-05-08T02:57:19-07:00",
+      "link": "https://www.producthunt.com/products/zapdigits",
+      "summary": "Your AI reporting analyst Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "Standard Intelligence: Training General Intelligence in Pixel Space",
-      "published_at": "Thu, 30 Apr 2026 14:00:29 +0000",
-      "link": "https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/",
-      "summary": "The post Standard Intelligence: Training General Intelligence in Pixel Space appeared first on Sequoia Capital ."
+      "title": "AI Ascent 2026",
+      "published_at": "Fri, 08 May 2026 16:47:31 +0000",
+      "link": "https://sequoiacap.com/article/ai-ascent-2026/",
+      "summary": "The post AI Ascent 2026 appeared first on Sequoia Capital ."
     },
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Inside NASA's Plan to Return to The Moon, Reach Mars, and Go Nuclear | The a16z Show",
+      "title": "Why Silicon Valley Should Build for National Interest | Ben Horowitz on a16z",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=6cCWrrQp1v4",
+      "link": "https://www.youtube.com/watch?v=X9k53P-2SOg",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Twitter Ex-CEO Dick Costolo: The Operator's Case Against Founder Mode",
+      "title": "Surviving Twitter's Growing Pains: Ex-CEO Dick Costolo",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Kw5hhIsw-wQ",
       "summary": ""
@@ -68,15 +68,15 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "6 Profitable AI business ideas for 2026",
+      "title": "AI Schools Are Here: How kids learn 2h/day and become top 1% nationally | MacKenzie Price",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=gwsaC3WiCqs",
+      "link": "https://www.youtube.com/watch?v=WOmRB6jNiSU",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Mag7 Earnings: Google & Amazon Up, Meta & Microsoft Down | Is The SaaS Apocalypse Over?",
+      "title": "Atlassian, Twilio and Five9 Beat | Anthropic’s $50B Raise & What It Means for Potential IPO?",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=i98P2wodb10",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why agency is beating titles in the AI era | Max Schoening (Head of Product, Notion)",
+      "title": "Why taste is beating titles in the AI era | Max Schoening (Head of Product, Notion)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=mCO-D3pkviM",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Harshil Mathur: AI Is Compressing Every Moat",
+      "title": "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=X5bABLCuIHA",
+      "link": "https://www.youtube.com/watch?v=57lDpTwiW6g",
       "summary": ""
     }
   ]
