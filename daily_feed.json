@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T07:26:37Z",
+  "generated_at": "2026-05-10T08:25:43Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "The “people’s airline” and the enterprise AI gold rush",
-      "published_at": "Fri, 08 May 2026 15:46:17 +0000",
-      "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-      "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target. On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony […]"
+      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "published_at": "Sun, 10 May 2026 02:00:00 +0000",
+      "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Zappy by ZapDigits",
-      "published_at": "2026-05-08T02:57:19-07:00",
-      "link": "https://www.producthunt.com/products/zapdigits",
-      "summary": "Your AI reporting analyst Discussion | Link"
+      "title": "InvestorFinder",
+      "published_at": "2026-05-08T04:03:01-07:00",
+      "link": "https://www.producthunt.com/products/investorfinder",
+      "summary": "Find investors who've backed founders just like you Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Silicon Valley Should Build for National Interest | Ben Horowitz on a16z",
+      "title": "Ben Horowitz on American Dynamism and the Future of AI | The a16z Show",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=X9k53P-2SOg",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Surviving Twitter's Growing Pains: Ex-CEO Dick Costolo",
+      "title": "Twitter Ex-CEO Dick Costolo: The Operator's Case Against Founder Mode",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Kw5hhIsw-wQ",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Atlassian, Twilio and Five9 Beat | Anthropic’s $50B Raise & What It Means for Potential IPO?",
+      "title": "Speechify CEO: What I Learned from MrBeast and 100 of the World’s Best CEOs  | Cliff Weitzman",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=i98P2wodb10",
+      "link": "https://www.youtube.com/watch?v=HLmo450GSPA",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why taste is beating titles in the AI era | Max Schoening (Head of Product, Notion)",
+      "title": "AI era skills: Why cultivating agency matters more than job titles | Max Schoening (Notion)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=mCO-D3pkviM",
       "summary": ""
