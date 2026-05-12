@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-11T12:27:40Z",
+  "generated_at": "2026-05-12T10:16:31Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Charts of the Week: It Was a Good Quarter for \"Other Income\"",
-      "published_at": "Fri, 08 May 2026 14:03:13 GMT",
-      "link": "https://www.a16z.news/p/charts-of-the-week-it-was-a-good",
-      "summary": "The Slop Surplus; Call Centers, Not Dead Yet; In AI, Great Products Win Fast"
+      "title": "\"No Man Left Behind\": American Technology Ships with Our Values",
+      "published_at": "Mon, 11 May 2026 14:02:23 GMT",
+      "link": "https://www.a16z.news/p/no-man-left-behind-american-technology",
+      "summary": "China is already building autonomous weapons at scale. The question is whether America builds them first, or cedes the rules of war to Beijing."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
-      "published_at": "Mon, 11 May 2026 10:58:00 +0000",
-      "link": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
-      "summary": "Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone."
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "published_at": "Tue, 12 May 2026 00:09:01 +0000",
+      "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Liquid Scoops Up $18M Seed Round",
-      "published_at": "28 Apr 2026 14:44:24 CDT",
-      "link": "https://vcnewsdaily.com/liquid-trade/venture-capital-funding/gnhwlvsynv",
-      "summary": "NEW YORK, NY, Liquid, a platform building the future of trading, today announced the successful closing of an $18 million Series Seed funding round."
+      "title": "Corgi Scores $160M Series B Financing",
+      "published_at": "11 May 2026 14:20:56 CDT",
+      "link": "https://vcnewsdaily.com/corgi/venture-capital-funding/pscfsjytsk",
+      "summary": "SAN FRANCISCO, CA, Corgi announced it has raised $160 million in Series B funding led by TCV, at a $1.3 billion valuation."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Snapseed 4.0",
-      "published_at": "2026-05-10T19:40:08-07:00",
-      "link": "https://www.producthunt.com/products/google",
-      "summary": "Google’s best photo editor just got seriously better Discussion | Link"
+      "title": "HeyNews",
+      "published_at": "2026-05-08T04:06:37-07:00",
+      "link": "https://www.producthunt.com/products/heynews",
+      "summary": "Your newsletter, your voice, ready to publish in 5 minutes Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Ben Horowitz on American Dynamism and the Future of AI | The a16z Show",
+      "title": "Marc Andreessen’s Worldview in 60 Minutes | Live on MTS",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=X9k53P-2SOg",
+      "link": "https://www.youtube.com/watch?v=k1z0e7bGzq0",
       "summary": ""
     },
     {
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Speechify CEO: What I Learned from MrBeast and 100 of the World’s Best CEOs | Cliff Weitzman",
+      "title": "Inside Legora: $100M ARR in 18 Months | Jude Law Generated $50M in Sales Pipeline | Patrick Forquer",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=HLmo450GSPA",
+      "link": "https://www.youtube.com/watch?v=fmpxYoKTX-Y",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The force that destroys companies from within (and how to resist it) | Eric Ries, Lean Startup",
+      "title": "The governance structures that protect Anthropic, Patagonia and Costco | Eric Ries, Lean Startup",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=PoJ1vTdHpks",
       "summary": ""
