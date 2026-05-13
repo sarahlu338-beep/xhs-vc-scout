@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T10:16:31Z",
+  "generated_at": "2026-05-13T10:08:22Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-      "published_at": "Tue, 12 May 2026 00:09:01 +0000",
-      "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups."
+      "title": "Kevin Hartz’s A* just closed its third fund with $450M",
+      "published_at": "Tue, 12 May 2026 18:45:05 +0000",
+      "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+      "summary": "The firm takes a generalist approach, backing companies across categories such as AI applications, fintech, healthcare, and security. The average check size for this fund will be between $3 million and $5 million, with the aim to back at least 30 startups."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Corgi Scores $160M Series B Financing",
-      "published_at": "11 May 2026 14:20:56 CDT",
-      "link": "https://vcnewsdaily.com/corgi/venture-capital-funding/pscfsjytsk",
-      "summary": "SAN FRANCISCO, CA, Corgi announced it has raised $160 million in Series B funding led by TCV, at a $1.3 billion valuation."
+      "title": "DeepInfra Raises $107M Series B",
+      "published_at": "12 May 2026 16:24:32 CDT",
+      "link": "https://vcnewsdaily.com/deepinfra/venture-capital-funding/smtprlqnxz",
+      "summary": "DeepInfra, a startup building the infrastructure layer for the next generation of AI, has announced $107 million in Series B funding"
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "HeyNews",
-      "published_at": "2026-05-08T04:06:37-07:00",
-      "link": "https://www.producthunt.com/products/heynews",
-      "summary": "Your newsletter, your voice, ready to publish in 5 minutes Discussion | Link"
+      "title": "TipTap",
+      "published_at": "2026-04-16T05:21:25-07:00",
+      "link": "https://www.producthunt.com/products/tiptap-2",
+      "summary": "Customers tip support agents that help them the most Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Marc Andreessen’s Worldview in 60 Minutes | Live on MTS",
+      "title": "Goldman Sachs Chairman on AI and the Future of Finance | The a16z Show",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=k1z0e7bGzq0",
+      "link": "https://www.youtube.com/watch?v=9qqLihL4AWk",
       "summary": ""
     },
     {
@@ -68,15 +68,15 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "AI Schools Are Here: How kids learn 2h/day and become top 1% nationally | MacKenzie Price",
+      "title": "Build a Self-Running AI Company in 16 Minutes (Move 75% Faster)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=WOmRB6jNiSU",
+      "link": "https://www.youtube.com/watch?v=Baa71rPgxvA",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Inside Legora: $100M ARR in 18 Months | Jude Law Generated $50M in Sales Pipeline | Patrick Forquer",
+      "title": "Inside Legora: Jude Law Generated $50M Pipeline | Are They Undervalued at $5.5BN? | Patrick Forquer",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=fmpxYoKTX-Y",
       "summary": ""
