@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-13T10:08:22Z",
+  "generated_at": "2026-05-14T09:42:54Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "\"No Man Left Behind\": American Technology Ships with Our Values",
-      "published_at": "Mon, 11 May 2026 14:02:23 GMT",
-      "link": "https://www.a16z.news/p/no-man-left-behind-american-technology",
-      "summary": "China is already building autonomous weapons at scale. The question is whether America builds them first, or cedes the rules of war to Beijing."
+      "title": "Investing in Stitch",
+      "published_at": "Thu, 14 May 2026 06:01:46 GMT",
+      "link": "https://www.a16z.news/p/investing-in-stitch",
+      "summary": "a16z leads Stitch's Series A"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Kevin Hartz’s A* just closed its third fund with $450M",
-      "published_at": "Tue, 12 May 2026 18:45:05 +0000",
-      "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
-      "summary": "The firm takes a generalist approach, backing companies across categories such as AI applications, fintech, healthcare, and security. The average check size for this fund will be between $3 million and $5 million, with the aim to back at least 30 startups."
+      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+      "published_at": "Thu, 14 May 2026 05:24:39 +0000",
+      "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "DeepInfra Raises $107M Series B",
-      "published_at": "12 May 2026 16:24:32 CDT",
-      "link": "https://vcnewsdaily.com/deepinfra/venture-capital-funding/smtprlqnxz",
-      "summary": "DeepInfra, a startup building the infrastructure layer for the next generation of AI, has announced $107 million in Series B funding"
+      "title": "BranchLab Scores $26M Series A",
+      "published_at": "13 May 2026 14:27:40 CDT",
+      "link": "https://vcnewsdaily.com/branchlab/venture-capital-funding/zrywcqjxwt",
+      "summary": "BOULDER, CO, BranchLab, an AI platform transforming how pharmaceutical companies commercialize therapies, announced a $26 million Series A financing."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "TipTap",
-      "published_at": "2026-04-16T05:21:25-07:00",
-      "link": "https://www.producthunt.com/products/tiptap-2",
-      "summary": "Customers tip support agents that help them the most Discussion | Link"
+      "title": "Resend Automations",
+      "published_at": "2026-05-13T08:22:21-07:00",
+      "link": "https://www.producthunt.com/products/resend",
+      "summary": "Build event-driven email flows Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,17 +52,17 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Goldman Sachs Chairman on AI and the Future of Finance | The a16z Show",
+      "title": "Why Megawatts and Minerals Matter More Than a Model | a16z",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=9qqLihL4AWk",
+      "link": "https://www.youtube.com/watch?v=FnJaDj5zUhY",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Twitter Ex-CEO Dick Costolo: The Operator's Case Against Founder Mode",
+      "title": "Suno's Mikey Shulman: Everyone Can Make Music Now",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Kw5hhIsw-wQ",
+      "link": "https://www.youtube.com/watch?v=Jq3BIGz4vXQ",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The governance structures that protect Anthropic, Patagonia and Costco | Eric Ries, Lean Startup",
+      "title": "How Anthropic, Costco, and Patagonia all build incorruptible companies  | Eric Ries",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=PoJ1vTdHpks",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers",
+      "title": "Paul Graham: Should you move to Silicon Valley?",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=57lDpTwiW6g",
+      "link": "https://www.youtube.com/watch?v=QHJkUw31YX8",
       "summary": ""
     }
   ]
