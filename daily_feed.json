@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-14T09:42:54Z",
+  "generated_at": "2026-05-15T04:41:24Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Investing in Stitch",
-      "published_at": "Thu, 14 May 2026 06:01:46 GMT",
-      "link": "https://www.a16z.news/p/investing-in-stitch",
-      "summary": "a16z leads Stitch's Series A"
+      "title": "From “System of Record” to “System of Intelligence”",
+      "published_at": "Thu, 14 May 2026 14:03:09 GMT",
+      "link": "https://www.a16z.news/p/from-system-of-record-to-system-of",
+      "summary": "The reasoning layer that sits above the database, and that increasingly treats the database as infrastructure, is where a new generation of companies is being built."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-      "published_at": "Thu, 14 May 2026 05:24:39 +0000",
-      "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption."
+      "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
+      "published_at": "Thu, 14 May 2026 20:43:03 +0000",
+      "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
+      "summary": "Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "BranchLab Scores $26M Series A",
-      "published_at": "13 May 2026 14:27:40 CDT",
-      "link": "https://vcnewsdaily.com/branchlab/venture-capital-funding/zrywcqjxwt",
-      "summary": "BOULDER, CO, BranchLab, an AI platform transforming how pharmaceutical companies commercialize therapies, announced a $26 million Series A financing."
+      "title": "equipifi Scores $34M Series B Financing",
+      "published_at": "14 May 2026 14:57:22 CDT",
+      "link": "https://vcnewsdaily.com/equipifi/venture-capital-funding/mzxkrtqkyj",
+      "summary": "SCOTTSDALE, AZ, equipifi, the fintech platform enabling banks and credit unions to offer flexible payment solutions natively within their digital banking experience, has announced the close of its $34-million Series B."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Resend Automations",
-      "published_at": "2026-05-13T08:22:21-07:00",
-      "link": "https://www.producthunt.com/products/resend",
-      "summary": "Build event-driven email flows Discussion | Link"
+      "title": "Spellar 3.0",
+      "published_at": "2026-01-04T09:04:53-08:00",
+      "link": "https://www.producthunt.com/products/spellar",
+      "summary": "AI Meeting companion with cross-meeting memory Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Megawatts and Minerals Matter More Than a Model | a16z",
+      "title": "The Founders Who Left Tesla to Rebuild America | a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=FnJaDj5zUhY",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Suno's Mikey Shulman: Everyone Can Make Music Now",
+      "title": "Everyone Can Make Music Now: Suno's Mikey Shulman",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Jq3BIGz4vXQ",
       "summary": ""
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Inside Legora: Jude Law Generated $50M Pipeline | Are They Undervalued at $5.5BN? | Patrick Forquer",
+      "title": "Anthropic Buys Compute From Elon & Commits $200BN to Google | Ramp Raises at $40BN",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=fmpxYoKTX-Y",
+      "link": "https://www.youtube.com/watch?v=LsqnQqhbSrU",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "⚡️ Matt Pocock - Why Engineering Fundamentals matter MORE now",
+      "title": "AI-Native Healthcare: 100M Doctor Visits, 10–20 Hours Saved, Prior Auth in Minutes — Abridge",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=rlM_fAKxB3Q",
+      "link": "https://www.youtube.com/watch?v=vUARtyOvh5U",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How Anthropic, Costco, and Patagonia all build incorruptible companies  | Eric Ries",
+      "title": "The governance structures that protect Anthropic, Patagonia and Costco | Eric Ries, Lean Startup",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=PoJ1vTdHpks",
       "summary": ""
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Paul Graham: Should you move to Silicon Valley?",
+      "title": "Paul Graham Speaks Live from Stockholm",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=QHJkUw31YX8",
       "summary": ""
