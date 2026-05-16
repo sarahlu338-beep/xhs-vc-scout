@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-15T04:41:24Z",
+  "generated_at": "2026-05-16T04:22:25Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "From “System of Record” to “System of Intelligence”",
-      "published_at": "Thu, 14 May 2026 14:03:09 GMT",
-      "link": "https://www.a16z.news/p/from-system-of-record-to-system-of",
-      "summary": "The reasoning layer that sits above the database, and that increasingly treats the database as infrastructure, is where a new generation of companies is being built."
+      "title": "Charts of the Week: Memory to the Moon",
+      "published_at": "Fri, 15 May 2026 14:01:39 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-memory-to-the",
+      "summary": "Affirm’s AI Turn; Shrinking SmallCaps; California’s Healthcare Jobmaker"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
-      "published_at": "Thu, 14 May 2026 20:43:03 +0000",
-      "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
-      "summary": "Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers."
+      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "published_at": "Fri, 15 May 2026 19:24:16 +0000",
+      "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generation of founders already spinning out […]"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "equipifi Scores $34M Series B Financing",
-      "published_at": "14 May 2026 14:57:22 CDT",
-      "link": "https://vcnewsdaily.com/equipifi/venture-capital-funding/mzxkrtqkyj",
-      "summary": "SCOTTSDALE, AZ, equipifi, the fintech platform enabling banks and credit unions to offer flexible payment solutions natively within their digital banking experience, has announced the close of its $34-million Series B."
+      "title": "Optura Closes $17.5M Series A Round",
+      "published_at": "15 May 2026 15:04:50 CDT",
+      "link": "https://vcnewsdaily.com/optura/venture-capital-funding/hdlxtmkcrf",
+      "summary": "NASHVILLE, TN, Optura, the enterprise healthcare platform that delivers ROAI™ (Return on AI Investment), today announced a $17.5 million Series A round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Spellar 3.0",
-      "published_at": "2026-01-04T09:04:53-08:00",
-      "link": "https://www.producthunt.com/products/spellar",
-      "summary": "AI Meeting companion with cross-meeting memory Discussion | Link"
+      "title": "Lensmor",
+      "published_at": "2026-05-09T01:19:13-07:00",
+      "link": "https://www.producthunt.com/products/lensmor-2",
+      "summary": "Turn exhibitor data into pre-booked sales meetings Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Founders Who Left Tesla to Rebuild America | a16z",
+      "title": "Why Megawatts and Minerals Matter More Than a Model | a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=FnJaDj5zUhY",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Everyone Can Make Music Now: Suno's Mikey Shulman",
+      "title": "Suno's Mikey Shulman: Everyone Can Make Music Now",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Jq3BIGz4vXQ",
       "summary": ""
@@ -68,15 +68,15 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Build a Self-Running AI Company in 16 Minutes (Move 75% Faster)",
+      "title": "$4B Founder: The Next 3 Years Will Make 100 New Founders Rich",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Baa71rPgxvA",
+      "link": "https://www.youtube.com/watch?v=ExgNR94SrfI",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Anthropic Buys Compute From Elon & Commits $200BN to Google | Ramp Raises at $40BN",
+      "title": "Anthropic Buys Compute From Elon & Commits $200BN to Google | Cerebras IPO | Ramp Raises at $40BN",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=LsqnQqhbSrU",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "AI-Native Healthcare: 100M Doctor Visits, 10–20 Hours Saved, Prior Auth in Minutes — Abridge",
+      "title": "100M Conversations, In-House Models, Real-Time Agents — How Abridge Built Healthcare's AI Layer",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=vUARtyOvh5U",
       "summary": ""
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Paul Graham Speaks Live from Stockholm",
+      "title": "Paul Graham, Founder of Y Combinator, Live from Stockholm",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=QHJkUw31YX8",
       "summary": ""
