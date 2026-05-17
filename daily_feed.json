@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T04:22:25Z",
+  "generated_at": "2026-05-17T04:44:59Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-      "published_at": "Fri, 15 May 2026 19:24:16 +0000",
-      "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generation of founders already spinning out […]"
+      "title": "The haves and have nots of the AI gold rush",
+      "published_at": "Sat, 16 May 2026 20:17:16 +0000",
+      "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Lensmor",
-      "published_at": "2026-05-09T01:19:13-07:00",
-      "link": "https://www.producthunt.com/products/lensmor-2",
-      "summary": "Turn exhibitor data into pre-booked sales meetings Discussion | Link"
+      "title": "Agentmemory",
+      "published_at": "2026-05-11T02:53:56-07:00",
+      "link": "https://www.producthunt.com/products/agent-memory-dev",
+      "summary": "Persistent memory for Claude Code, Codex & coding agents Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Megawatts and Minerals Matter More Than a Model | a16z",
+      "title": "The Founders Who Left Tesla to Rebuild America | a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=FnJaDj5zUhY",
       "summary": ""
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Anthropic Buys Compute From Elon & Commits $200BN to Google | Cerebras IPO | Ramp Raises at $40BN",
+      "title": "The Five Year Desert to Product Market Fit and a $5.3BN Valuation | Shiv Rao, Founder @ Abridge",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=LsqnQqhbSrU",
+      "link": "https://www.youtube.com/watch?v=byZkrYBF-N0",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "100M Conversations, In-House Models, Real-Time Agents — How Abridge Built Healthcare's AI Layer",
+      "title": "AI-Native Healthcare: 100M Doctor Visits, 10–20 Hours Saved, Prior Auth in Minutes — Abridge",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=vUARtyOvh5U",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The governance structures that protect Anthropic, Patagonia and Costco | Eric Ries, Lean Startup",
+      "title": "How Anthropic, Costco, and Patagonia all build incorruptible companies  | Eric Ries",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=PoJ1vTdHpks",
       "summary": ""
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Paul Graham, Founder of Y Combinator, Live from Stockholm",
+      "title": "Paul Graham Speaks Live from Stockholm",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=QHJkUw31YX8",
       "summary": ""
