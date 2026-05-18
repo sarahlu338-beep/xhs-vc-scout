@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T04:44:59Z",
+  "generated_at": "2026-05-18T04:59:55Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Agentmemory",
-      "published_at": "2026-05-11T02:53:56-07:00",
-      "link": "https://www.producthunt.com/products/agent-memory-dev",
-      "summary": "Persistent memory for Claude Code, Codex & coding agents Discussion | Link"
+      "title": "Vivago Video Agent",
+      "published_at": "2026-05-13T06:02:37-07:00",
+      "link": "https://www.producthunt.com/products/viva",
+      "summary": "Skip the prompting. Produce consistently compelling videos. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "AI-Native Healthcare: 100M Doctor Visits, 10–20 Hours Saved, Prior Auth in Minutes — Abridge",
+      "title": "Inside Abridge: The AI Listening to 100 Million Doctor Visits — Abridge's Janie Lee & Chai Asawa",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=vUARtyOvh5U",
       "summary": ""
@@ -92,15 +92,15 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How Anthropic, Costco, and Patagonia all build incorruptible companies  | Eric Ries",
+      "title": "Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=PoJ1vTdHpks",
+      "link": "https://www.youtube.com/watch?v=G5WTgB87rYQ",
       "summary": ""
     },
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Paul Graham Speaks Live from Stockholm",
+      "title": "Paul Graham: Should you move to Silicon Valley?",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=QHJkUw31YX8",
       "summary": ""
