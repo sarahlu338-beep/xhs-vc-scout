@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T04:59:55Z",
+  "generated_at": "2026-05-19T04:51:52Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "The haves and have nots of the AI gold rush",
-      "published_at": "Sat, 16 May 2026 20:17:16 +0000",
-      "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-      "summary": "The vibes around the current AI boom aren't great, even in the tech industry."
+      "title": "South Korea’s LetinAR is building optics behind AI glasses",
+      "published_at": "Mon, 18 May 2026 11:00:00 +0000",
+      "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Optura Closes $17.5M Series A Round",
-      "published_at": "15 May 2026 15:04:50 CDT",
-      "link": "https://vcnewsdaily.com/optura/venture-capital-funding/hdlxtmkcrf",
-      "summary": "NASHVILLE, TN, Optura, the enterprise healthcare platform that delivers ROAI™ (Return on AI Investment), today announced a $17.5 million Series A round."
+      "title": "Exaforce Scores $125M Series B Financing",
+      "published_at": "18 May 2026 14:21:00 CDT",
+      "link": "https://vcnewsdaily.com/exaforce/venture-capital-funding/fshrlkxldp",
+      "summary": "SAN FRANCISCO, CA, Exaforce, the pioneer in agentic security operations, announced a $125 million Series B financing round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Vivago Video Agent",
-      "published_at": "2026-05-13T06:02:37-07:00",
-      "link": "https://www.producthunt.com/products/viva",
-      "summary": "Skip the prompting. Produce consistently compelling videos. Discussion | Link"
+      "title": "ReactVision Studio",
+      "published_at": "2026-05-17T05:40:43-07:00",
+      "link": "https://www.producthunt.com/products/reactvision-studio",
+      "summary": "Build AR/VR Apps in React Native + ship directly to devices Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Founders Who Left Tesla to Rebuild America | a16z",
+      "title": "The Plan to Make American Crime Obsolete | The a16z Show",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=FnJaDj5zUhY",
+      "link": "https://www.youtube.com/watch?v=Ie07zcmbnhM",
       "summary": ""
     },
     {
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The Five Year Desert to Product Market Fit and a $5.3BN Valuation | Shiv Rao, Founder @ Abridge",
+      "title": "The One Man Accelerator at The Four Seasons & Why VCs Can Be Sharks | Josh Browder",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=byZkrYBF-N0",
+      "link": "https://www.youtube.com/watch?v=5CtT6p2HaCI",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Inside Abridge: The AI Listening to 100 Million Doctor Visits — Abridge's Janie Lee & Chai Asawa",
+      "title": "The Next War Is Already Here — Yaroslav Azhnyuk, The Fourth Law & Noah Smith, Noahpinion",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=vUARtyOvh5U",
+      "link": "https://www.youtube.com/watch?v=UmCZBwsibgs",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)",
+      "title": "Why the next AI boom is physical AI | Caitlin Kalinowski (ex-OpenAI, Meta, Apple)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=G5WTgB87rYQ",
       "summary": ""
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Paul Graham: Should you move to Silicon Valley?",
+      "title": "Paul Graham Speaks Live from Stockholm",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=QHJkUw31YX8",
       "summary": ""
