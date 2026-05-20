@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-19T04:51:52Z",
+  "generated_at": "2026-05-20T04:56:08Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Charts of the Week: Memory to the Moon",
-      "published_at": "Fri, 15 May 2026 14:01:39 GMT",
-      "link": "https://www.a16z.news/p/charts-of-the-week-memory-to-the",
-      "summary": "Affirm’s AI Turn; Shrinking SmallCaps; California’s Healthcare Jobmaker"
+      "title": "Need Series C? Call a16z",
+      "published_at": "Tue, 19 May 2026 14:00:52 GMT",
+      "link": "https://www.a16z.news/p/need-series-c-call-a16z",
+      "summary": "Things you might learn about AI adoption from your local plaintiff attorney"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "published_at": "Mon, 18 May 2026 11:00:00 +0000",
-      "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era."
+      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+      "published_at": "Tue, 19 May 2026 21:08:51 +0000",
+      "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+      "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Exaforce Scores $125M Series B Financing",
-      "published_at": "18 May 2026 14:21:00 CDT",
-      "link": "https://vcnewsdaily.com/exaforce/venture-capital-funding/fshrlkxldp",
-      "summary": "SAN FRANCISCO, CA, Exaforce, the pioneer in agentic security operations, announced a $125 million Series B financing round."
+      "title": "Century Health Raises $5M Seed Round",
+      "published_at": "19 May 2026 15:00:52 CDT",
+      "link": "https://vcnewsdaily.com/century-health/venture-capital-funding/ghcczfswgx",
+      "summary": "NEW YORK, NY, Century Health, a pioneer in applying AI to real-world clinical data to accelerate research, today announced an oversubscribed $5 million seed round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "ReactVision Studio",
-      "published_at": "2026-05-17T05:40:43-07:00",
-      "link": "https://www.producthunt.com/products/reactvision-studio",
-      "summary": "Build AR/VR Apps in React Native + ship directly to devices Discussion | Link"
+      "title": "Mantle Chat",
+      "published_at": "2026-04-01T07:17:37-07:00",
+      "link": "https://www.producthunt.com/products/mantle-chat",
+      "summary": "Collaboration platform where teams work with AI together Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,17 +52,17 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Plan to Make American Crime Obsolete | The a16z Show",
+      "title": "Modernizing the Department of War | a16z American Dynamism Summit",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Ie07zcmbnhM",
+      "link": "https://www.youtube.com/watch?v=pddFfZy4nZU",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Suno's Mikey Shulman: Everyone Can Make Music Now",
+      "title": "Rebuilding IT From the Ground Up for the AI Age: Serval's Jake Stauch",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Jq3BIGz4vXQ",
+      "link": "https://www.youtube.com/watch?v=j7ypvRUFY7M",
       "summary": ""
     },
     {
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The One Man Accelerator at The Four Seasons & Why VCs Can Be Sharks | Josh Browder",
+      "title": "Turning Peter Thiel's $100K into $10M Angel Portfolio & Why VCs Can Be Sharks | Josh Browder",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=5CtT6p2HaCI",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The Next War Is Already Here — Yaroslav Azhnyuk, The Fourth Law & Noah Smith, Noahpinion",
+      "title": "From Consumer Toys for Pets to War Drone — Yaroslav Azhnyuk, The Fourth Law & Noah Smith, Noahpinion",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=UmCZBwsibgs",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why the next AI boom is physical AI | Caitlin Kalinowski (ex-OpenAI, Meta, Apple)",
+      "title": "How to ship hardware in the AI era | Caitlin Kalinowski (Apple, Meta, OpenAI)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=G5WTgB87rYQ",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Paul Graham Speaks Live from Stockholm",
+      "title": "Why Zepto's Aadit Palicha Turned Down Stanford to Deliver Groceries",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=QHJkUw31YX8",
+      "link": "https://www.youtube.com/watch?v=YKZCU0ynEbs",
       "summary": ""
     }
   ]
