@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-20T04:56:08Z",
+  "generated_at": "2026-05-21T05:01:49Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Need Series C? Call a16z",
-      "published_at": "Tue, 19 May 2026 14:00:52 GMT",
-      "link": "https://www.a16z.news/p/need-series-c-call-a16z",
-      "summary": "Things you might learn about AI adoption from your local plaintiff attorney"
+      "title": "Exa is Building the Search Engine for the AI Era",
+      "published_at": "Wed, 20 May 2026 15:03:27 GMT",
+      "link": "https://www.a16z.news/p/exa-is-building-the-search-engine",
+      "summary": "Your AI system should have truly comprehensive knowledge of the world, no matter how complex the request"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-      "published_at": "Tue, 19 May 2026 21:08:51 +0000",
-      "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
-      "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts."
+      "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+      "published_at": "Thu, 21 May 2026 04:00:00 +0000",
+      "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+      "summary": "Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Century Health Raises $5M Seed Round",
-      "published_at": "19 May 2026 15:00:52 CDT",
-      "link": "https://vcnewsdaily.com/century-health/venture-capital-funding/ghcczfswgx",
-      "summary": "NEW YORK, NY, Century Health, a pioneer in applying AI to real-world clinical data to accelerate research, today announced an oversubscribed $5 million seed round."
+      "title": "RADAR Lands $170M Series B Financing Round",
+      "published_at": "20 May 2026 14:58:22 CDT",
+      "link": "https://vcnewsdaily.com/radar-tech/venture-capital-funding/gvpfdvxcgg",
+      "summary": "NEW YORK, NY, RADAR, the AI-powered retail intelligence platform, announced it has raised $170 million in Series B funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Mantle Chat",
-      "published_at": "2026-04-01T07:17:37-07:00",
-      "link": "https://www.producthunt.com/products/mantle-chat",
-      "summary": "Collaboration platform where teams work with AI together Discussion | Link"
+      "title": "Retina",
+      "published_at": "2026-05-15T18:00:18-07:00",
+      "link": "https://www.producthunt.com/products/retina-2",
+      "summary": "Screen recorder w/ auto-zoom, smooth cursors, + AI graphics Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Rebuilding IT From the Ground Up for the AI Age: Serval's Jake Stauch",
+      "title": "How AI is Making IT Frictionless: Serval's Jake Stauch",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=j7ypvRUFY7M",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Turning Peter Thiel's $100K into $10M Angel Portfolio & Why VCs Can Be Sharks | Josh Browder",
+      "title": "Turning Peter Thiel's $100K into $10M Angel Portfolio & Why Stocks and Cash are BS | Josh Browder",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=5CtT6p2HaCI",
       "summary": ""
@@ -84,15 +84,15 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "From Consumer Toys for Pets to War Drone — Yaroslav Azhnyuk, The Fourth Law & Noah Smith, Noahpinion",
+      "title": "The Solo Founder Building the New Heroku — Jake Cooper, Railway",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=UmCZBwsibgs",
+      "link": "https://www.youtube.com/watch?v=LzCUYNP5UTI",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How to ship hardware in the AI era | Caitlin Kalinowski (Apple, Meta, OpenAI)",
+      "title": "Why the next AI boom is physical AI | Caitlin Kalinowski (ex-OpenAI, Meta, Apple)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=G5WTgB87rYQ",
       "summary": ""
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Why Zepto's Aadit Palicha Turned Down Stanford to Deliver Groceries",
+      "title": "How Zepto Grew From A WhatsApp Group To Doing Millions Of Deliveries A Day",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=YKZCU0ynEbs",
       "summary": ""
