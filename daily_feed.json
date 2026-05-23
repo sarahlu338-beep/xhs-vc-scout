@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-22T04:53:13Z",
+  "generated_at": "2026-05-23T04:30:53Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Flock and the Future of Safety in American Cities",
-      "published_at": "Thu, 21 May 2026 14:01:32 GMT",
-      "link": "https://www.a16z.news/p/flock-and-the-future-of-safety-in",
-      "summary": "The greatest deterrent to crime isn't the severity of punishment but whether you think you'll get caught"
+      "title": "Charts of the Week: Reflections from Sohn",
+      "published_at": "Fri, 22 May 2026 14:02:31 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-reflections-from",
+      "summary": "Peak computer science; Small Business Boom; Token maxxing"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
-      "published_at": "Thu, 21 May 2026 16:00:00 +0000",
-      "link": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
-      "summary": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures."
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+      "published_at": "Fri, 22 May 2026 20:40:48 +0000",
+      "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Nourish Lands $100M Series C Round",
-      "published_at": "21 May 2026 15:54:47 CDT",
-      "link": "https://vcnewsdaily.com/nourish/venture-capital-funding/grxhjxhmlr",
-      "summary": "NEW YORK, NY, Nourish, the country's largest dietitian-led metabolic health clinic, has announced its $100 million Series C, bringing total funding to $215 million."
+      "title": "ProEncia Biotechnology Nabs Pre-Seed Funding",
+      "published_at": "22 May 2026 15:01:13 CDT",
+      "link": "https://vcnewsdaily.com/proencia-biotechnology/venture-capital-funding/rvxpgbdsrs",
+      "summary": "MINNEAPOLIS, MN, ProEncia Biotechnology, a biopharma startup, has announced the company has closed significant pre-seed funding to advance its next-generation periodontal disease treatment."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "InstaVM",
-      "published_at": "2026-05-20T00:05:28-07:00",
-      "link": "https://www.producthunt.com/products/instavm",
-      "summary": "Instant computers for AI agents Discussion | Link"
+      "title": "Smart Miles",
+      "published_at": "2026-05-21T06:17:20-07:00",
+      "link": "https://www.producthunt.com/products/smart-miles",
+      "summary": "Automatic trip tracking for tax-ready exports Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -68,15 +68,15 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Head of Gemini: A New Era of Work Just Started | Josh Woodward",
+      "title": "Head of ChatGPT & Codex: agents for normal people are HERE",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ZW87Peh3tWM",
+      "link": "https://www.youtube.com/watch?v=DPe_srf0GlI",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Anthropic Raises $30BN at $900BN Price | SpaceX Files S1: How Does it Trade | Cerebras Smashes Day 1",
+      "title": "Andrej Karpathy Joins Anthropic | SpaceX Files S1: How Does it Trade | Cerebras Smashes Day 1",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=z94zlbVn048",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "How to Build a Self-Improving Company with AI",
+      "title": "How The Best Companies Defend Against Mediocrity And Rot",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=X_JsIHUfUjc",
+      "link": "https://www.youtube.com/watch?v=7VKliOQXQ9M",
       "summary": ""
     }
   ]
