@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T04:30:53Z",
+  "generated_at": "2026-05-24T04:55:57Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-      "published_at": "Fri, 22 May 2026 20:40:48 +0000",
-      "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware."
+      "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+      "published_at": "Sat, 23 May 2026 20:03:13 +0000",
+      "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+      "summary": "SolarSquare could be valued at up to $500 million in the financing expected to close next month."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Smart Miles",
-      "published_at": "2026-05-21T06:17:20-07:00",
-      "link": "https://www.producthunt.com/products/smart-miles",
-      "summary": "Automatic trip tracking for tax-ready exports Discussion | Link"
+      "title": "note.md",
+      "published_at": "2026-05-22T02:27:42-07:00",
+      "link": "https://www.producthunt.com/products/note-md",
+      "summary": "Local-first markdown based workspace for research writings Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Andrej Karpathy Joins Anthropic | SpaceX Files S1: How Does it Trade | Cerebras Smashes Day 1",
+      "title": "Why Anthropic Are Causing a Comp Crisis & Why You’d Never Hire From Salesforce or ServiceNow",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=z94zlbVn048",
+      "link": "https://www.youtube.com/watch?v=vRPBhik_AXU",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why the next AI boom is physical AI | Caitlin Kalinowski (ex-OpenAI, Meta, Apple)",
+      "title": "How to ship hardware in the AI era | Caitlin Kalinowski (Apple, Meta, OpenAI)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=G5WTgB87rYQ",
       "summary": ""
