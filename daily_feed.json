@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T04:55:57Z",
+  "generated_at": "2026-05-25T05:13:02Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "note.md",
-      "published_at": "2026-05-22T02:27:42-07:00",
-      "link": "https://www.producthunt.com/products/note-md",
-      "summary": "Local-first markdown based workspace for research writings Discussion | Link"
+      "title": "Stitch 3.0 by Google",
+      "published_at": "2026-05-19T22:55:36-07:00",
+      "link": "https://www.producthunt.com/products/stitch-by-google",
+      "summary": "Generate and iterate UI screens with AI on a live canvas Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "The Refounder: Notion’s Ivan Zhao",
+      "title": "Notion’s Ivan Zhao: The Refounder",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ill76IbVuM8",
       "summary": ""
@@ -84,17 +84,17 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Agents Are Breaking Cloud Infra: 15% Utilization, 90% Peaks, & New Compute Layer — Ivan Burazin",
+      "title": "⚡️ Why you should build Science Fiction — Sunil Pai, Cloudflare",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=kaX43RRRUKY",
+      "link": "https://www.youtube.com/watch?v=287Q-bs_pEU",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How to ship hardware in the AI era | Caitlin Kalinowski (Apple, Meta, OpenAI)",
+      "title": "The AI paradox: More automation, more humans, more work | Dan Shipper",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=G5WTgB87rYQ",
+      "link": "https://www.youtube.com/watch?v=4D3hDmGhFhA",
       "summary": ""
     },
     {
