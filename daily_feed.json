@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T05:13:02Z",
+  "generated_at": "2026-05-26T04:54:34Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
-      "published_at": "Sat, 23 May 2026 20:03:13 +0000",
-      "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
-      "summary": "SolarSquare could be valued at up to $500 million in the financing expected to close next month."
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "published_at": "Mon, 25 May 2026 16:00:00 +0000",
+      "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Stitch 3.0 by Google",
-      "published_at": "2026-05-19T22:55:36-07:00",
-      "link": "https://www.producthunt.com/products/stitch-by-google",
-      "summary": "Generate and iterate UI screens with AI on a live canvas Discussion | Link"
+      "title": "Fred",
+      "published_at": "2026-05-19T03:30:23-07:00",
+      "link": "https://www.producthunt.com/products/fred-the-uxr-shepherd",
+      "summary": "AI-orchestrated UX research with behavioural tracking Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Modernizing the Department of War | a16z American Dynamism Summit",
+      "title": "Is Defense the Next Trillion-Dollar Category? | a16z American Dynamism Summit",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=pddFfZy4nZU",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The AI paradox: More automation, more humans, more work | Dan Shipper",
+      "title": "The most contrarian AI predictions you’ll hear this year | Dan Shipper (CEO of Every)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=4D3hDmGhFhA",
       "summary": ""
