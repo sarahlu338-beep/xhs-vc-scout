@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-26T04:54:34Z",
+  "generated_at": "2026-05-27T05:05:51Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Charts of the Week: Reflections from Sohn",
-      "published_at": "Fri, 22 May 2026 14:02:31 GMT",
-      "link": "https://www.a16z.news/p/charts-of-the-week-reflections-from",
-      "summary": "Peak computer science; Small Business Boom; Token maxxing"
+      "title": "Everything, Everywhere is Compliance",
+      "published_at": "Tue, 26 May 2026 14:03:34 GMT",
+      "link": "https://www.a16z.news/p/everything-everywhere-is-compliance",
+      "summary": "Why AI's Biggest Enterprise Opportunity Is Also Its Most Boring"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "What ClickUp’s mass layoff tells us about the future of work",
-      "published_at": "Mon, 25 May 2026 16:00:00 +0000",
-      "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents."
+      "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+      "published_at": "Tue, 26 May 2026 22:55:01 +0000",
+      "link": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
+      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!"
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Fred",
-      "published_at": "2026-05-19T03:30:23-07:00",
-      "link": "https://www.producthunt.com/products/fred-the-uxr-shepherd",
-      "summary": "AI-orchestrated UX research with behavioural tracking Discussion | Link"
+      "title": "Ormedo",
+      "published_at": "2026-05-25T00:08:10-07:00",
+      "link": "https://www.producthunt.com/products/ormedo",
+      "summary": "Let AI agents handle your entire outbound pipeline Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,9 +60,9 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Notion’s Ivan Zhao: The Refounder",
+      "title": "How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ill76IbVuM8",
+      "link": "https://www.youtube.com/watch?v=UDTr9yUnLUI",
       "summary": ""
     },
     {
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Why Anthropic Are Causing a Comp Crisis & Why You’d Never Hire From Salesforce or ServiceNow",
+      "title": "Cerebras CEO on the Future of Data Centres, Token Costs & Memory | Should US Companies Sell to China",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=vRPBhik_AXU",
+      "link": "https://www.youtube.com/watch?v=6EOwSXE3Xws",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The most contrarian AI predictions you’ll hear this year | Dan Shipper (CEO of Every)",
+      "title": "PMs and designers are about to win the AI era | Dan Shipper",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=4D3hDmGhFhA",
       "summary": ""
