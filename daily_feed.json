@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-27T05:05:51Z",
+  "generated_at": "2026-05-28T05:01:24Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Everything, Everywhere is Compliance",
-      "published_at": "Tue, 26 May 2026 14:03:34 GMT",
-      "link": "https://www.a16z.news/p/everything-everywhere-is-compliance",
-      "summary": "Why AI's Biggest Enterprise Opportunity Is Also Its Most Boring"
+      "title": "Avoiding Death on the Yellow Brick Road",
+      "published_at": "Wed, 27 May 2026 14:01:00 GMT",
+      "link": "https://www.a16z.news/p/avoiding-death-on-the-yellow-brick",
+      "summary": "Why The App Layer Isn't Dead"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
-      "published_at": "Tue, 26 May 2026 22:55:01 +0000",
-      "link": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
-      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!"
+      "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+      "published_at": "Wed, 27 May 2026 21:11:15 +0000",
+      "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+      "summary": "The Series B round was led by Battery Ventures."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "ProEncia Biotechnology Nabs Pre-Seed Funding",
-      "published_at": "22 May 2026 15:01:13 CDT",
-      "link": "https://vcnewsdaily.com/proencia-biotechnology/venture-capital-funding/rvxpgbdsrs",
-      "summary": "MINNEAPOLIS, MN, ProEncia Biotechnology, a biopharma startup, has announced the company has closed significant pre-seed funding to advance its next-generation periodontal disease treatment."
+      "title": "Ember LifeSciences Inks $10.5M Addtional Series A Funding",
+      "published_at": "27 May 2026 17:10:08 CDT",
+      "link": "https://vcnewsdaily.com/ember-lifesciences/venture-capital-funding/cpmlccqgyr",
+      "summary": "LOS ANGELES, CA, Ember LifeSciences, a leading provider of revolutionary cold chain technology, announced strategic investments."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Ormedo",
-      "published_at": "2026-05-25T00:08:10-07:00",
-      "link": "https://www.producthunt.com/products/ormedo",
-      "summary": "Let AI agents handle your entire outbound pipeline Discussion | Link"
+      "title": "Pawse.ai",
+      "published_at": "2026-05-26T03:02:57-07:00",
+      "link": "https://www.producthunt.com/products/pawse-ai",
+      "summary": "An acoustic regulation system for dogs Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Is Defense the Next Trillion-Dollar Category? | a16z American Dynamism Summit",
+      "title": "Why Private Markets Are the Only Real Diversification | The a16z Show",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=pddFfZy4nZU",
+      "link": "https://www.youtube.com/watch?v=oYK_MmZW9XI",
       "summary": ""
     },
     {
@@ -68,9 +68,9 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Head of ChatGPT & Codex: agents for normal people are HERE",
+      "title": "Airtable CEO: This Is What the Top 1% Do With AI | Howie Liu",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=DPe_srf0GlI",
+      "link": "https://www.youtube.com/watch?v=bzfklNb1wjc",
       "summary": ""
     },
     {
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "⚡️ Why you should build Science Fiction — Sunil Pai, Cloudflare",
+      "title": "🔬 The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=287Q-bs_pEU",
+      "link": "https://www.youtube.com/watch?v=XdevS0GSuiQ",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "How The Best Companies Defend Against Mediocrity And Rot",
+      "title": "Inside YC's AI Playbook",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=7VKliOQXQ9M",
+      "link": "https://www.youtube.com/watch?v=B246K_G7mHU",
       "summary": ""
     }
   ]
