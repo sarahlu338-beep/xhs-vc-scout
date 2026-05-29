@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-28T05:01:24Z",
+  "generated_at": "2026-05-29T05:02:46Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Avoiding Death on the Yellow Brick Road",
-      "published_at": "Wed, 27 May 2026 14:01:00 GMT",
-      "link": "https://www.a16z.news/p/avoiding-death-on-the-yellow-brick",
-      "summary": "Why The App Layer Isn't Dead"
+      "title": "Narrative Violation: In B2B customer support, AI is a Copilot, Not a Replacement",
+      "published_at": "Thu, 28 May 2026 14:03:18 GMT",
+      "link": "https://www.a16z.news/p/narrative-violation-in-b2b-customer",
+      "summary": "The state of agentic customer support, featuring data from Pylon"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
-      "published_at": "Wed, 27 May 2026 21:11:15 +0000",
-      "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
-      "summary": "The Series B round was led by Battery Ventures."
+      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "published_at": "Fri, 29 May 2026 00:44:37 +0000",
+      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Ember LifeSciences Inks $10.5M Addtional Series A Funding",
-      "published_at": "27 May 2026 17:10:08 CDT",
-      "link": "https://vcnewsdaily.com/ember-lifesciences/venture-capital-funding/cpmlccqgyr",
-      "summary": "LOS ANGELES, CA, Ember LifeSciences, a leading provider of revolutionary cold chain technology, announced strategic investments."
+      "title": "Signos Bags $20M Funding",
+      "published_at": "28 May 2026 15:55:30 CDT",
+      "link": "https://vcnewsdaily.com/signos/venture-capital-funding/glzsycgjrp",
+      "summary": "PALO ALTO, CA, Signos, the company behind the first FDA-cleared, over-the-counter glucose monitoring system for weight management, announced a $20 million funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Pawse.ai",
-      "published_at": "2026-05-26T03:02:57-07:00",
-      "link": "https://www.producthunt.com/products/pawse-ai",
-      "summary": "An acoustic regulation system for dogs Discussion | Link"
+      "title": "Sublern",
+      "published_at": "2026-05-27T05:47:02-07:00",
+      "link": "https://www.producthunt.com/products/sublern",
+      "summary": "Translate any word in video subtitles with one hover Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Private Markets Are the Only Real Diversification | The a16z Show",
+      "title": "Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=oYK_MmZW9XI",
       "summary": ""
@@ -60,9 +60,9 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL",
+      "title": "Neuralink's DJ Seo: How the AI-Brain Interface Closes the Bandwidth Gap",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=UDTr9yUnLUI",
+      "link": "https://www.youtube.com/watch?v=by7Y9KoErTw",
       "summary": ""
     },
     {
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Cerebras CEO on the Future of Data Centres, Token Costs & Memory | Should US Companies Sell to China",
+      "title": "OpenAI & SpaceX S1 Drops | Layoffs at Cloudflare & ClickUp | OpenRouter & Polsia Raise Mega Rounds",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=6EOwSXE3Xws",
+      "link": "https://www.youtube.com/watch?v=jhZsQb3YvDg",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬 The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+      "title": "Everyone Is Building Their Own Devin — Walden Yan, Cognition & Cole Murray, OpenInspect",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=XdevS0GSuiQ",
+      "link": "https://www.youtube.com/watch?v=0fgJPhYcbVk",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "PMs and designers are about to win the AI era | Dan Shipper",
+      "title": "AI predictions: Job markets, Codex beats Claude, and the death of org charts | Dan Shipper",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=4D3hDmGhFhA",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Inside YC's AI Playbook",
+      "title": "Inference, Diffusion, World Models, and More | YC Paper Club",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=B246K_G7mHU",
+      "link": "https://www.youtube.com/watch?v=wE1ZgJdt4uM",
       "summary": ""
     }
   ]
