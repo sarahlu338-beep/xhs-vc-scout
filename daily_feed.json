@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-29T05:02:46Z",
+  "generated_at": "2026-05-30T04:42:00Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Narrative Violation: In B2B customer support, AI is a Copilot, Not a Replacement",
-      "published_at": "Thu, 28 May 2026 14:03:18 GMT",
-      "link": "https://www.a16z.news/p/narrative-violation-in-b2b-customer",
-      "summary": "The state of agentic customer support, featuring data from Pylon"
+      "title": "Charts of the Week: Retail to the Moon",
+      "published_at": "Fri, 29 May 2026 14:02:26 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-retail-to-the",
+      "summary": "Borrowing Bigly for AI; Selling Software to Uncle Sam; Grocery is an advertising business"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
-      "published_at": "Fri, 29 May 2026 00:44:37 +0000",
-      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category."
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "published_at": "Fri, 29 May 2026 17:27:13 +0000",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Signos Bags $20M Funding",
-      "published_at": "28 May 2026 15:55:30 CDT",
-      "link": "https://vcnewsdaily.com/signos/venture-capital-funding/glzsycgjrp",
-      "summary": "PALO ALTO, CA, Signos, the company behind the first FDA-cleared, over-the-counter glucose monitoring system for weight management, announced a $20 million funding."
+      "title": "Kubera Health Raises $6.5M Seed Round",
+      "published_at": "29 May 2026 15:00:55 CDT",
+      "link": "https://vcnewsdaily.com/kubera-health/venture-capital-funding/ywpqlgmnzs",
+      "summary": "NEW YORK, NY, Kubera Health announced it has raised $6.5 million in seed funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Sublern",
-      "published_at": "2026-05-27T05:47:02-07:00",
-      "link": "https://www.producthunt.com/products/sublern",
-      "summary": "Translate any word in video subtitles with one hover Discussion | Link"
+      "title": "NODUS HN Radar",
+      "published_at": "2026-05-28T08:16:09-07:00",
+      "link": "https://www.producthunt.com/products/nodus-hn-radar",
+      "summary": "Track rising Hacker News posts before they explode Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z",
+      "title": "The Rule for Picking AI Winners | The a16z Show",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=oYK_MmZW9XI",
+      "link": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
       "summary": ""
     },
     {
@@ -68,9 +68,9 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Airtable CEO: This Is What the Top 1% Do With AI | Howie Liu",
+      "title": "$1.5B AI Founder: Launch an AI Startup With $0 Marketing | Granola",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=bzfklNb1wjc",
+      "link": "https://www.youtube.com/watch?v=U7apPfqHgvg",
       "summary": ""
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Everyone Is Building Their Own Devin — Walden Yan, Cognition & Cole Murray, OpenInspect",
+      "title": "Devin’s 80% Moment: Background Agents, 7x PRs, & End of Hand-Held Coding — Walden Yan & Cole Murray",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=0fgJPhYcbVk",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "AI predictions: Job markets, Codex beats Claude, and the death of org charts | Dan Shipper",
+      "title": "PMs and designers are about to win the AI era | Dan Shipper",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=4D3hDmGhFhA",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Inference, Diffusion, World Models, and More | YC Paper Club",
+      "title": "Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=wE1ZgJdt4uM",
+      "link": "https://www.youtube.com/watch?v=2Ap1dnv-GXA",
       "summary": ""
     }
   ]
