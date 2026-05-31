@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T04:42:00Z",
+  "generated_at": "2026-05-31T05:11:11Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "published_at": "Fri, 29 May 2026 17:27:13 +0000",
-      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios."
+      "title": "Snap alums unveil Ghost Angels fund",
+      "published_at": "Sat, 30 May 2026 17:00:00 +0000",
+      "link": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+      "summary": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "NODUS HN Radar",
-      "published_at": "2026-05-28T08:16:09-07:00",
-      "link": "https://www.producthunt.com/products/nodus-hn-radar",
-      "summary": "Track rising Hacker News posts before they explode Discussion | Link"
+      "title": "Wandesk",
+      "published_at": "2025-12-05T19:15:50-08:00",
+      "link": "https://www.producthunt.com/products/wandesk-ai",
+      "summary": "Build Your Own AI Desktop Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Rule for Picking AI Winners | The a16z Show",
+      "title": "Three IPOs That Will Reset Public Markets | The a16z Show",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Neuralink's DJ Seo: How the AI-Brain Interface Closes the Bandwidth Gap",
+      "title": "Neuralink's DJ Seo: Inside the Race to Connect Brains and AI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=by7Y9KoErTw",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "$1.5B AI Founder: Launch an AI Startup With $0 Marketing | Granola",
+      "title": "$1.5B AI Founder: The Mindset Shift That Separates Winners in 2026",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=U7apPfqHgvg",
       "summary": ""
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "OpenAI & SpaceX S1 Drops | Layoffs at Cloudflare & ClickUp | OpenRouter & Polsia Raise Mega Rounds",
+      "title": "The Most Intense Workplace Culture in America | The Journey from $0 to $2.6BN Valuation",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=jhZsQb3YvDg",
+      "link": "https://www.youtube.com/watch?v=VgkXOE-V-fc",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Devin’s 80% Moment: Background Agents, 7x PRs, & End of Hand-Held Coding — Walden Yan & Cole Murray",
+      "title": "Everyone Is Building Their Own Devin — Walden Yan, Cognition & Cole Murray, OpenInspect",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=0fgJPhYcbVk",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "PMs and designers are about to win the AI era | Dan Shipper",
+      "title": "The AI paradox: More automation, more humans, more work | Dan Shipper",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=4D3hDmGhFhA",
       "summary": ""
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup",
+      "title": "Giga: Finding A Billion Dollar Market, Three Pivots Later",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=2Ap1dnv-GXA",
       "summary": ""
