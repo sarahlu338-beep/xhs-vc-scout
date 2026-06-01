@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T05:11:11Z",
+  "generated_at": "2026-06-01T05:51:29Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Snap alums unveil Ghost Angels fund",
-      "published_at": "Sat, 30 May 2026 17:00:00 +0000",
-      "link": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
-      "summary": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media."
+      "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+      "published_at": "Sun, 31 May 2026 18:28:17 +0000",
+      "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+      "summary": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Wandesk",
-      "published_at": "2025-12-05T19:15:50-08:00",
-      "link": "https://www.producthunt.com/products/wandesk-ai",
-      "summary": "Build Your Own AI Desktop Discussion | Link"
+      "title": "Second Brain for AI",
+      "published_at": "2026-05-19T23:21:04-07:00",
+      "link": "https://www.producthunt.com/products/second-brain-cloudflare",
+      "summary": "Persistent memory for Claude, ChatGPT & Cursor. Free. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Three IPOs That Will Reset Public Markets | The a16z Show",
+      "title": "The New Power Law: A Decade of Outcomes in Two Years | a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Neuralink's DJ Seo: Inside the Race to Connect Brains and AI",
+      "title": "Neuralink's DJ Seo: How the AI-Brain Interface Closes the Bandwidth Gap",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=by7Y9KoErTw",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Everyone Is Building Their Own Devin — Walden Yan, Cognition & Cole Murray, OpenInspect",
+      "title": "Context Engineering for Cloud Agents — Walden Yan & Cole Murray",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=0fgJPhYcbVk",
       "summary": ""
@@ -92,15 +92,15 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The AI paradox: More automation, more humans, more work | Dan Shipper",
+      "title": "The most rational take on AI you’ll hear this year | Benedict Evans",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=4D3hDmGhFhA",
+      "link": "https://www.youtube.com/watch?v=BD3vLtWhT5A",
       "summary": ""
     },
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Giga: Finding A Billion Dollar Market, Three Pivots Later",
+      "title": "Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=2Ap1dnv-GXA",
       "summary": ""
