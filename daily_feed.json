@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-02T05:19:02Z",
+  "generated_at": "2026-06-03T05:52:33Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Investing in Endra",
-      "published_at": "Mon, 01 Jun 2026 14:02:37 GMT",
-      "link": "https://www.a16z.news/p/investing-in-endra",
-      "summary": "a16z leads Endra's Series A"
+      "title": "Introducing Special",
+      "published_at": "Tue, 02 Jun 2026 15:50:10 GMT",
+      "link": "https://www.a16z.news/p/introducing-special",
+      "summary": "Special is building an operating system to transform critical American industries with AI"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
-      "published_at": "Mon, 01 Jun 2026 23:20:52 +0000",
-      "link": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
-      "summary": "Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well before the main stage."
+      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+      "published_at": "Tue, 02 Jun 2026 22:50:56 +0000",
+      "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+      "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Veritas Aortic Solutions Raises $12M Seed Funding",
-      "published_at": "01 Jun 2026 16:09:55 CDT",
-      "link": "https://vcnewsdaily.com/veritas-aortic-solutions/venture-capital-funding/bvmwsjxpyc",
-      "summary": "COSTA MESA, CA, Veritas Aortic Solutions, the latest company to spin out of inQB8 Medical Technologies, is pleased to announce the closing of $12M in Seed financing."
+      "title": "Plot Lands $10M Seed Round",
+      "published_at": "02 Jun 2026 15:02:17 CDT",
+      "link": "https://vcnewsdaily.com/plot/venture-capital-funding/dvqbyfsblx",
+      "summary": "NEW YORK, NY, Plot today announced $10 million in new funding to meet enterprise demand for its expanding platform."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "folk",
-      "published_at": "2026-05-25T14:24:24-07:00",
-      "link": "https://www.producthunt.com/products/folk-3",
-      "summary": "the AI in your texts that gets stuff done Discussion | Link"
+      "title": "Moxie Docs",
+      "published_at": "2026-05-31T17:07:00-07:00",
+      "link": "https://www.producthunt.com/products/moxie-docs",
+      "summary": "Living docs + MCP context for your GitHub repos Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The New Rule for Picking AI Winners | The a16z Show",
+      "title": "The New Power Law: A Decade of Outcomes in Two Years | a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
       "summary": ""
@@ -60,9 +60,9 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Neuralink's DJ Seo: How the AI-Brain Interface Closes the Bandwidth Gap",
+      "title": "Knowing What Your Customers Want, All the Time: Listen Labs' Alfred Wahlforss",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=by7Y9KoErTw",
+      "link": "https://www.youtube.com/watch?v=Rumft-rsEu4",
       "summary": ""
     },
     {
@@ -84,15 +84,15 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and Video Agents— Ethan He",
+      "title": "What Happens When 80% of PRs Come From Agents? — Kyle Daigle, GitHub COO",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=jPtQlILfkhA",
+      "link": "https://www.youtube.com/watch?v=LEwlSyR0cXA",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The most rational take on AI you’ll hear this year | Benedict Evans",
+      "title": "A rational conversation on where AI is actually going | Benedict Evans",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=BD3vLtWhT5A",
       "summary": ""
