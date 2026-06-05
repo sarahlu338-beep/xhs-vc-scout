@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-04T05:29:57Z",
+  "generated_at": "2026-06-05T05:05:59Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "A Functional Taxonomy of World Models",
-      "published_at": "Wed, 03 Jun 2026 17:46:24 GMT",
-      "link": "https://www.a16z.news/p/a-functional-taxonomy-of-world-models",
-      "summary": "Renderers, Simulators, Planners, and the Loop That Connects Them"
+      "title": "A16Z's Global Mission",
+      "published_at": "Thu, 04 Jun 2026 13:25:38 GMT",
+      "link": "https://www.a16z.news/p/a16zs-global-mission",
+      "summary": "Mission and call to help not just founders, but America and her allies"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
-      "published_at": "Thu, 04 Jun 2026 00:30:00 +0000",
-      "link": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
-      "summary": "The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch."
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "published_at": "Thu, 04 Jun 2026 21:30:00 +0000",
+      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Town Inks $55M Series A",
-      "published_at": "03 Jun 2026 15:17:26 CDT",
-      "link": "https://vcnewsdaily.com/town/venture-capital-funding/jjlwyjwzvb",
-      "summary": "SAN FRANCISCO, CA, Town, a personalized AI assistant, announced a $55 million Series A led by Andreessen Horowitz."
+      "title": "701x Completes $10M Series B Round",
+      "published_at": "04 Jun 2026 17:34:51 CDT",
+      "link": "https://vcnewsdaily.com/701x/venture-capital-funding/cdltytmmvn",
+      "summary": "FARGO, ND, 701x, the agricultural technology company bringing connected intelligence to the beef cattle industry, today announced the close of an oversubscribed $10 million Series B funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "BeerShot",
-      "published_at": "2026-06-02T02:05:24-07:00",
-      "link": "https://www.producthunt.com/products/beershot",
-      "summary": "Screen recording studio for Windows Discussion | Link"
+      "title": "Empromptu AI",
+      "published_at": "2026-06-01T10:12:04-07:00",
+      "link": "https://www.producthunt.com/products/empromptu",
+      "summary": "Train Fine Tuned Models With AI Apps You're Already Building Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The New Rule for Picking AI Winners | The a16z Show",
+      "title": "The New Power Law: A Decade of Outcomes in Two Years | a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
       "summary": ""
@@ -60,9 +60,9 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Knowing What Your Customers Want, All the Time: Listen Labs' Alfred Wahlforss",
+      "title": "What David Senra Learned Studying 400+ Founders",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Rumft-rsEu4",
+      "link": "https://www.youtube.com/watch?v=xXsleu4-kd8",
       "summary": ""
     },
     {
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Mercor CEO: Why Application Layer Companies Have No Moat & The Cost of Hiring AI Researchers",
+      "title": "Token Budgeting Panic Hits Corporate America | Cognition Raises $1BN at $26BN Valuation",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=CkAmq2gYtA4",
+      "link": "https://www.youtube.com/watch?v=jPBG1F2Y8Mw",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Scaling Past Informal AI - Carina Hong, Axiom Math",
+      "title": "The AI Safety Frontier: from Chatbots to Real-World Agents — Lukas & Axel, Andon Labs",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=abYcV5LHMG4",
+      "link": "https://www.youtube.com/watch?v=T8u7wOXhDb0",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "A rational conversation on where AI is actually going | Benedict Evans",
+      "title": "The most rational take on AI you’ll hear this year",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=BD3vLtWhT5A",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "A Founder's Playbook for AI Services Businesses",
+      "title": "Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=gSNFJbgoaHI",
+      "link": "https://www.youtube.com/watch?v=fQmlML9Lay4",
       "summary": ""
     }
   ]
