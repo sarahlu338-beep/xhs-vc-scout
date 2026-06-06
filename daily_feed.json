@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-05T05:05:59Z",
+  "generated_at": "2026-06-06T04:43:44Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "A16Z's Global Mission",
-      "published_at": "Thu, 04 Jun 2026 13:25:38 GMT",
-      "link": "https://www.a16z.news/p/a16zs-global-mission",
-      "summary": "Mission and call to help not just founders, but America and her allies"
+      "title": "Charts of the Week: RTO Stalled",
+      "published_at": "Fri, 05 Jun 2026 14:07:20 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-rto-stalled",
+      "summary": "Remote work to my job?; AI SMB Power Users; Lil’ Biotech"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "published_at": "Thu, 04 Jun 2026 21:30:00 +0000",
-      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today."
+      "title": "Startup Battlefield 200 applications officially close in 3 days",
+      "published_at": "Fri, 05 Jun 2026 20:00:00 +0000",
+      "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "701x Completes $10M Series B Round",
-      "published_at": "04 Jun 2026 17:34:51 CDT",
-      "link": "https://vcnewsdaily.com/701x/venture-capital-funding/cdltytmmvn",
-      "summary": "FARGO, ND, 701x, the agricultural technology company bringing connected intelligence to the beef cattle industry, today announced the close of an oversubscribed $10 million Series B funding round."
+      "title": "Allen Control Systems Scoops Up $200M Series B",
+      "published_at": "05 Jun 2026 11:03:49 CDT",
+      "link": "https://vcnewsdaily.com/allen-control-systems/venture-capital-funding/jcrjfhvksz",
+      "summary": "AUSTIN, TX, Allen Control Systems (ACS), a leader in autonomous precision robotics, announced it has raised a $200 million Series B."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Empromptu AI",
-      "published_at": "2026-06-01T10:12:04-07:00",
-      "link": "https://www.producthunt.com/products/empromptu",
-      "summary": "Train Fine Tuned Models With AI Apps You're Already Building Discussion | Link"
+      "title": "Treadmill Pro",
+      "published_at": "2026-06-04T09:59:38-07:00",
+      "link": "https://www.producthunt.com/products/treadmill-pro",
+      "summary": "Control your treadmill from your iPhone, wirelessly Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The New Power Law: A Decade of Outcomes in Two Years | a16z",
+      "title": "Three IPOs That Will Reset Public Markets | The a16z Show",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Token Budgeting Panic Hits Corporate America | Cognition Raises $1BN at $26BN Valuation",
+      "title": "Anthropic Files to Go Public | Cognition Raises $1BN at $26BN Valuation | The 996 Work Ethic",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=jPBG1F2Y8Mw",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The AI Safety Frontier: from Chatbots to Real-World Agents — Lukas & Axel, Andon Labs",
+      "title": "⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @Ahmad Awais , CommandCode.ai",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=T8u7wOXhDb0",
+      "link": "https://www.youtube.com/watch?v=-rIAVuaRjOg",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup",
+      "title": "How Legora Went From YC to $100M ARR in 18 Months",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=fQmlML9Lay4",
+      "link": "https://www.youtube.com/watch?v=mjmswQurIU4",
       "summary": ""
     }
   ]
