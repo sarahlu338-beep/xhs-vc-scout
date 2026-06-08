@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T05:14:09Z",
+  "generated_at": "2026-06-08T05:20:55Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Fox Issue Tracker 4",
-      "published_at": "2026-05-28T19:22:42-07:00",
-      "link": "https://www.producthunt.com/products/fox-issue-tracker-4",
-      "summary": "Track, plan, and release. Discussion | Link"
+      "title": "CabinLink",
+      "published_at": "2026-06-04T14:23:43-07:00",
+      "link": "https://www.producthunt.com/products/cabinlink",
+      "summary": "Flight map from cabin Wi-Fi Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The New Power Law: A Decade of Outcomes in Two Years | a16z",
+      "title": "Three IPOs That Will Reset Public Markets | The a16z Show",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "David Senra: Mute the World and Build Your Own",
+      "title": "What David Senra Learned Studying 400+ Founders",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=xXsleu4-kd8",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Inside Legora's Tech Stack: Why Token Maxing is Failing Enterprise Startups | Legora CTO",
+      "title": "Why Token Maxing is Failing Enterprise Startups | Legora CTO",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=UkERw3cBEAo",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The most rational take on AI you’ll hear this year",
+      "title": "Tony Fadell on the product judgment AI can’t replace",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=BD3vLtWhT5A",
+      "link": "https://www.youtube.com/watch?v=RJjl1TwyfWM",
       "summary": ""
     },
     {
