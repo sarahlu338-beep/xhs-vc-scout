@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-10T05:08:06Z",
+  "generated_at": "2026-06-11T05:16:46Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Month-End Is Now Just Another Day",
-      "published_at": "Tue, 09 Jun 2026 14:04:58 GMT",
-      "link": "https://www.a16z.news/p/month-end-is-now-just-another-day",
-      "summary": "What a difference a modern ERP makes"
+      "title": "Everything is Recorded Now",
+      "published_at": "Wed, 10 Jun 2026 14:00:27 GMT",
+      "link": "https://www.a16z.news/p/everything-is-recorded-now",
+      "summary": "The living context layer is being built inside companies right now, whether they're paying attention or not"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "It’s not FAANG anymore. It’s MANGOS.",
-      "published_at": "Tue, 09 Jun 2026 16:09:14 +0000",
-      "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
-      "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS."
+      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+      "published_at": "Thu, 11 Jun 2026 04:02:19 +0000",
+      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "summary": "The decision comes as India emerges as the world’s largest GCC market."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Generalist Lands $400M Funding",
-      "published_at": "09 Jun 2026 14:48:01 CDT",
-      "link": "https://vcnewsdaily.com/generalist/venture-capital-funding/ydwbfdhrpg",
-      "summary": "SAN MATEO, CA, Generalist, a robotics startup, is announcing $400 million in new funding, bringing the total raised to more than half a billion dollars."
+      "title": "SonoThera Closes Oversubscribed $125M Series B",
+      "published_at": "10 Jun 2026 15:40:12 CDT",
+      "link": "https://vcnewsdaily.com/sonothera/venture-capital-funding/sbhqtlksgx",
+      "summary": "SAN FRANCISCO, CA, SonoThera, a biotechnology company developing next-generation genetic medicines to address the root causes of disease, announced the closing of an oversubscribed $125 million Series B."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "VC Boom",
-      "published_at": "2026-06-04T08:28:52-07:00",
-      "link": "https://www.producthunt.com/products/vcboom",
-      "summary": "Score your deck, meet investors who fit, and raise more Discussion | Link"
+      "title": "Hero Studio Photos",
+      "published_at": "2026-06-09T19:26:12-07:00",
+      "link": "https://www.producthunt.com/products/hero-9",
+      "summary": "Snap one photo, get listing-ready shots from every angle Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,9 +60,9 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "What David Senra Learned Studying 400+ Founders",
+      "title": "NVIDIA's Jensen Huang on Building the Dynamo of the Intelligence Age",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=xXsleu4-kd8",
+      "link": "https://www.youtube.com/watch?v=2UpQbeAZuqA",
       "summary": ""
     },
     {
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Nebius Co-Founder on AI Infrastructure Bubbles | Could Nebius Sell 10x More Compute If They Had It",
+      "title": "Nebius Co-Founder on AI Infrastructure Bubbles | How Price Elastic is Demand for Compute",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=aXAH3bdJ2cg",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Emergent: How Six Months of Tinkering Led To A $100M ARR Company",
+      "title": "Brex's CEO on the Future of AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=yyXCQHX55N4",
+      "link": "https://www.youtube.com/watch?v=mPAHvz8kW24",
       "summary": ""
     }
   ]
