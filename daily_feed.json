@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-11T05:16:46Z",
+  "generated_at": "2026-06-12T05:22:57Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Everything is Recorded Now",
-      "published_at": "Wed, 10 Jun 2026 14:00:27 GMT",
-      "link": "https://www.a16z.news/p/everything-is-recorded-now",
-      "summary": "The living context layer is being built inside companies right now, whether they're paying attention or not"
+      "title": "Late Stage Venture Is About Late Stage Founders",
+      "published_at": "Thu, 11 Jun 2026 14:02:53 GMT",
+      "link": "https://www.a16z.news/p/late-stage-venture-is-about-late",
+      "summary": "The right kind of person can keep growing ambitiously, forever"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-      "published_at": "Thu, 11 Jun 2026 04:02:19 +0000",
-      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-      "summary": "The decision comes as India emerges as the world’s largest GCC market."
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "published_at": "Fri, 12 Jun 2026 01:48:07 +0000",
+      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "SonoThera Closes Oversubscribed $125M Series B",
-      "published_at": "10 Jun 2026 15:40:12 CDT",
-      "link": "https://vcnewsdaily.com/sonothera/venture-capital-funding/sbhqtlksgx",
-      "summary": "SAN FRANCISCO, CA, SonoThera, a biotechnology company developing next-generation genetic medicines to address the root causes of disease, announced the closing of an oversubscribed $125 million Series B."
+      "title": "Minerva Launches with $20M Funding",
+      "published_at": "11 Jun 2026 14:23:23 CDT",
+      "link": "https://vcnewsdaily.com/minerva/venture-capital-funding/srtddgxkzv",
+      "summary": "BROOKLYN, NY, Minerva, an AI platform for consumer marketing leaders, launched publicly with $20 million in funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Hero Studio Photos",
-      "published_at": "2026-06-09T19:26:12-07:00",
-      "link": "https://www.producthunt.com/products/hero-9",
-      "summary": "Snap one photo, get listing-ready shots from every angle Discussion | Link"
+      "title": "Bond",
+      "published_at": "2026-06-10T11:43:49-07:00",
+      "link": "https://www.producthunt.com/products/bond-12",
+      "summary": "The AI to-do list that does itself Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Economics of AI Usage and What's Next For SaaS | Benedict Evans on a16z",
+      "title": "Foundation Models are a Commodity | Benedict Evans on a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ktl8mNiWqMM",
       "summary": ""
@@ -60,9 +60,9 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "NVIDIA's Jensen Huang on Building the Dynamo of the Intelligence Age",
+      "title": "Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=2UpQbeAZuqA",
+      "link": "https://www.youtube.com/watch?v=cMAs8z2dehs",
       "summary": ""
     },
     {
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Nebius Co-Founder on AI Infrastructure Bubbles | How Price Elastic is Demand for Compute",
+      "title": "SpaceX Launches Largest Ever IPO | OpenAI Files to Go Public | Uber Cuts 23% of HR",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=aXAH3bdJ2cg",
+      "link": "https://www.youtube.com/watch?v=jxw7iRVpRoI",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Tony Fadell: How to build real taste (and why AI makes it matter more)",
+      "title": "Tony Fadell on the product judgment AI can’t replace",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=RJjl1TwyfWM",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Brex's CEO on the Future of AI",
+      "title": "Meesho Killed Their Business at Its Peak - And Became India's #1 Shopping App",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=mPAHvz8kW24",
+      "link": "https://www.youtube.com/watch?v=49L8lVe_PVo",
       "summary": ""
     }
   ]
