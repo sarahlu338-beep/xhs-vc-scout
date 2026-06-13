@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-12T05:22:57Z",
+  "generated_at": "2026-06-13T05:11:40Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Late Stage Venture Is About Late Stage Founders",
-      "published_at": "Thu, 11 Jun 2026 14:02:53 GMT",
-      "link": "https://www.a16z.news/p/late-stage-venture-is-about-late",
-      "summary": "The right kind of person can keep growing ambitiously, forever"
+      "title": "Charts of the Week: Making the Stuff that Makes the Stuff",
+      "published_at": "Fri, 12 Jun 2026 14:02:02 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-making-the-stuff",
+      "summary": "Spirited Away; Giving Zero-Clicks; V-Shaped SaaS? Depends on Who’s Asking"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "published_at": "Fri, 12 Jun 2026 01:48:07 +0000",
-      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured."
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "published_at": "Sat, 13 Jun 2026 04:14:19 +0000",
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Minerva Launches with $20M Funding",
-      "published_at": "11 Jun 2026 14:23:23 CDT",
-      "link": "https://vcnewsdaily.com/minerva/venture-capital-funding/srtddgxkzv",
-      "summary": "BROOKLYN, NY, Minerva, an AI platform for consumer marketing leaders, launched publicly with $20 million in funding."
+      "title": "Jedify Raises $24 Million in Series A",
+      "published_at": "12 Jun 2026 16:18:06 CDT",
+      "link": "https://vcnewsdaily.com/jedify/venture-capital-funding/gvcmbmbvlb",
+      "summary": "NEW YORK, NY, Jedify, the autonomous context graph for data-intensive agentic applications and workflows, announced $24 million in Series A funding led by Norwest."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Bond",
-      "published_at": "2026-06-10T11:43:49-07:00",
-      "link": "https://www.producthunt.com/products/bond-12",
-      "summary": "The AI to-do list that does itself Discussion | Link"
+      "title": "KOSH Money",
+      "published_at": "2026-06-11T02:01:13-07:00",
+      "link": "https://www.producthunt.com/products/kosh-money",
+      "summary": "USD account & credit cards for freelancers & creators Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Foundation Models are a Commodity | Benedict Evans on a16z",
+      "title": "The Economics of AI Usage and What's Next For SaaS | Benedict Evans on a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ktl8mNiWqMM",
       "summary": ""
@@ -68,9 +68,9 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Godmother of Silicon Valley: You Were Raised to Fear Mistakes and That's the Only Thing Holding You",
+      "title": "$2.1B AI CEO: The Beginner's Playbook to a Profitable AI Startup in 2026 | Grant Lee, CEO Gamma",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=qNt5TNn9D9Y",
+      "link": "https://www.youtube.com/watch?v=LAEaSbZ2IR8",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Tony Fadell on the product judgment AI can’t replace",
+      "title": "Tony Fadell: How to build real taste (and why AI makes it matter more)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=RJjl1TwyfWM",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Meesho Killed Their Business at Its Peak - And Became India's #1 Shopping App",
+      "title": "5 Papers That Show Where AI Research Is Heading Right Now",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=49L8lVe_PVo",
+      "link": "https://www.youtube.com/watch?v=3rWSvrFahIY",
       "summary": ""
     }
   ]
