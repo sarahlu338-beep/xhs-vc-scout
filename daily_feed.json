@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T05:22:26Z",
+  "generated_at": "2026-06-15T06:11:51Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "published_at": "Sun, 14 Jun 2026 03:00:00 +0000",
-      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
+      "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+      "published_at": "Mon, 15 Jun 2026 04:01:00 +0000",
+      "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
+      "summary": "Orbio announces $21 Million Series A in round led by Dawn Capital."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Prometheus by Firecrawl",
-      "published_at": "2026-06-12T15:29:57-07:00",
-      "link": "https://www.producthunt.com/products/extract-by-firecrawl",
-      "summary": "A Forward Deployed Agent for web data. Discussion | Link"
+      "title": "Conan",
+      "published_at": "2026-06-07T12:24:13-07:00",
+      "link": "https://www.producthunt.com/products/conan",
+      "summary": "A native Mac cockpit for Claude Code Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Foundation Models are a Commodity | Benedict Evans on a16z",
+      "title": "The Economics of AI Usage and What's Next For SaaS | Benedict Evans on a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ktl8mNiWqMM",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "$2.1B AI CEO: From \"The Worst Idea\" to a Billion-Dollar Company | Grant Lee, CEO Gamma",
+      "title": "$2.1B AI CEO: The Beginner's Playbook to a Profitable AI Startup in 2026 | Grant Lee, CEO Gamma",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=LAEaSbZ2IR8",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Tony Fadell: How to build real taste (and why AI makes it matter more)",
+      "title": "Why Farmville, Words with Friends, and Mafia Wars worked | Mark Pincus",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=RJjl1TwyfWM",
+      "link": "https://www.youtube.com/watch?v=7eh9C3TUotc",
       "summary": ""
     },
     {
