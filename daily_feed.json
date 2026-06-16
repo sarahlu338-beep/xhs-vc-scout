@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-15T06:11:51Z",
+  "generated_at": "2026-06-16T06:19:35Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Charts of the Week: Making the Stuff that Makes the Stuff",
-      "published_at": "Fri, 12 Jun 2026 14:02:02 GMT",
-      "link": "https://www.a16z.news/p/charts-of-the-week-making-the-stuff",
-      "summary": "Spirited Away; Giving Zero-Clicks; V-Shaped SaaS? Depends on Who’s Asking"
+      "title": "SpaceX & the Sentient Sun",
+      "published_at": "Mon, 15 Jun 2026 14:01:50 GMT",
+      "link": "https://www.a16z.news/p/spacex-and-the-sentient-sun",
+      "summary": "Earth is the cradle of humanity, and you cannot stay in the cradle forever."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
-      "published_at": "Mon, 15 Jun 2026 04:01:00 +0000",
-      "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
-      "summary": "Orbio announces $21 Million Series A in round led by Dawn Capital."
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "published_at": "Mon, 15 Jun 2026 13:46:08 +0000",
+      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "ChatSee.ai Raises $6.5M Funding Round",
-      "published_at": "13 Jun 2026 12:46:46 CDT",
-      "link": "https://vcnewsdaily.com/chatsee.ai/venture-capital-funding/kqmmfsjztf",
-      "summary": "SAN FRANCISCO, CA, ChatSee.ai, which provides the failure intelligence layer for autonomous AI systems, announced a $6.5 million funding round led by True Ventures."
+      "title": "Radical Numerics Launches with $50M Seed Round",
+      "published_at": "15 Jun 2026 15:06:08 CDT",
+      "link": "https://vcnewsdaily.com/radical-numerics/venture-capital-funding/mdgkmdcwsz",
+      "summary": "SAN FRANCISCO, CA, Radical Numerics, an AI research lab building general biological intelligence, announced its launch with $50 million in seed funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Conan",
-      "published_at": "2026-06-07T12:24:13-07:00",
-      "link": "https://www.producthunt.com/products/conan",
-      "summary": "A native Mac cockpit for Claude Code Discussion | Link"
+      "title": "AgentBrush",
+      "published_at": "2026-06-14T22:21:36-07:00",
+      "link": "https://www.producthunt.com/products/agentbrush",
+      "summary": "Your coding agent's missing tool: image generation Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "OpenAI vs Anthropic vs Open-Source | Token Maxing, AI Hangovers & The Coming ROI Reckoning",
+      "title": "How Export Controls Helped Not Hurt China & Power is the Bottleneck to AI | Perplexity CEO",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=lgo_QbgV198",
+      "link": "https://www.youtube.com/watch?v=OxFyVcO1Yow",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why Farmville, Words with Friends, and Mafia Wars worked | Mark Pincus",
+      "title": "The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=7eh9C3TUotc",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "5 Papers That Show Where AI Research Is Heading Right Now",
+      "title": "How Groww Turned Full Transparency Into India's Largest Investing Platform",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=3rWSvrFahIY",
+      "link": "https://www.youtube.com/watch?v=ObBAxL2dFzw",
       "summary": ""
     }
   ]
