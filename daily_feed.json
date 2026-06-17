@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-16T06:19:35Z",
+  "generated_at": "2026-06-17T05:54:44Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "SpaceX & the Sentient Sun",
-      "published_at": "Mon, 15 Jun 2026 14:01:50 GMT",
-      "link": "https://www.a16z.news/p/spacex-and-the-sentient-sun",
-      "summary": "Earth is the cradle of humanity, and you cannot stay in the cradle forever."
+      "title": "The a16z CFO Community",
+      "published_at": "Tue, 16 Jun 2026 17:29:14 GMT",
+      "link": "https://www.a16z.news/p/the-a16z-cfo-community",
+      "summary": "A place to pressure-test the decisions you can't put in a board deck"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-      "published_at": "Mon, 15 Jun 2026 13:46:08 +0000",
-      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup."
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "published_at": "Tue, 16 Jun 2026 22:34:17 +0000",
+      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "AgentBrush",
-      "published_at": "2026-06-14T22:21:36-07:00",
-      "link": "https://www.producthunt.com/products/agentbrush",
-      "summary": "Your coding agent's missing tool: image generation Discussion | Link"
+      "title": "Ledgerly",
+      "published_at": "2026-06-13T07:17:20-07:00",
+      "link": "https://www.producthunt.com/products/github-224",
+      "summary": "Available on the App Store Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Economics of AI Usage and What's Next For SaaS | Benedict Evans on a16z",
+      "title": "Why Coding is The First Undeniable AI Use case | a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ktl8mNiWqMM",
       "summary": ""
@@ -60,17 +60,17 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness",
+      "title": "Simulating Humans at Scale: Simile's Joon Sung Park",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=cMAs8z2dehs",
+      "link": "https://www.youtube.com/watch?v=lfhFmwcESRw",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "$2.1B AI CEO: The Beginner's Playbook to a Profitable AI Startup in 2026 | Grant Lee, CEO Gamma",
+      "title": "AI-First Playbook: Do a Team's Work With AI (2026) | Peter Yang",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=LAEaSbZ2IR8",
+      "link": "https://www.youtube.com/watch?v=Yu0z7-KMHpo",
       "summary": ""
     },
     {
