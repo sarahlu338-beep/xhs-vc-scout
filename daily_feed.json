@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-17T05:54:44Z",
+  "generated_at": "2026-06-18T05:26:04Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The a16z CFO Community",
-      "published_at": "Tue, 16 Jun 2026 17:29:14 GMT",
-      "link": "https://www.a16z.news/p/the-a16z-cfo-community",
-      "summary": "A place to pressure-test the decisions you can't put in a board deck"
+      "title": "Investing in Telepatia",
+      "published_at": "Wed, 17 Jun 2026 18:04:41 GMT",
+      "link": "https://www.a16z.news/p/investing-in-telepatia",
+      "summary": "a16z leads Telepatia's Series A"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-      "published_at": "Tue, 16 Jun 2026 22:34:17 +0000",
-      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests."
+      "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+      "published_at": "Wed, 17 Jun 2026 18:00:00 +0000",
+      "link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+      "summary": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard. This tension between […]"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Radical Numerics Launches with $50M Seed Round",
-      "published_at": "15 Jun 2026 15:06:08 CDT",
-      "link": "https://vcnewsdaily.com/radical-numerics/venture-capital-funding/mdgkmdcwsz",
-      "summary": "SAN FRANCISCO, CA, Radical Numerics, an AI research lab building general biological intelligence, announced its launch with $50 million in seed funding."
+      "title": "Clario Launches with $6M Seed Funding",
+      "published_at": "17 Jun 2026 15:22:47 CDT",
+      "link": "https://vcnewsdaily.com/clario/venture-capital-funding/flxgbwdkwc",
+      "summary": "MENLO PARK, CA, Clario, the first platform built to eliminate enterprise data ROT, launched from stealth with $6 million in seed funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Ledgerly",
-      "published_at": "2026-06-13T07:17:20-07:00",
-      "link": "https://www.producthunt.com/products/github-224",
-      "summary": "Available on the App Store Discussion | Link"
+      "title": "Daemons by Charlie Labs",
+      "published_at": "2026-06-05T13:18:53-07:00",
+      "link": "https://www.producthunt.com/products/daemons-by-charlie-labs",
+      "summary": "Keep PRs, issues, CI, and docs moving with AI agents Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Coding is The First Undeniable AI Use case | a16z",
+      "title": "The Economics of AI Usage and What's Next For SaaS | Benedict Evans on a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ktl8mNiWqMM",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "AI-First Playbook: Do a Team's Work With AI (2026) | Peter Yang",
+      "title": "The 5 Levels of AI-Native: How to Get From Level 1 to Level 5 in 30 days | Peter Yang",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Yu0z7-KMHpo",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "How Export Controls Helped Not Hurt China & Power is the Bottleneck to AI | Perplexity CEO",
+      "title": "Perplexity CEO: Micron Will Be More Valuable Than Meta & Power is the Bottleneck to AI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=OxFyVcO1Yow",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @Ahmad Awais , CommandCode.ai",
+      "title": "🔬 The Limits of AI in Science - Why We Need Self-Driving Labs — Joseph Krause, Radical AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=-rIAVuaRjOg",
+      "link": "https://www.youtube.com/watch?v=4-sWFytOfRw",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "How Groww Turned Full Transparency Into India's Largest Investing Platform",
+      "title": "Pick One Idea and Go Deep",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ObBAxL2dFzw",
+      "link": "https://www.youtube.com/watch?v=R56RJFZBasQ",
       "summary": ""
     }
   ]
