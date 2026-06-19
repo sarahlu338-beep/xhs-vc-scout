@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-18T05:26:04Z",
+  "generated_at": "2026-06-19T06:03:39Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Investing in Telepatia",
-      "published_at": "Wed, 17 Jun 2026 18:04:41 GMT",
-      "link": "https://www.a16z.news/p/investing-in-telepatia",
-      "summary": "a16z leads Telepatia's Series A"
+      "title": "New Media, One Year In",
+      "published_at": "Thu, 18 Jun 2026 14:10:22 GMT",
+      "link": "https://www.a16z.news/p/new-media-one-year-in",
+      "summary": "To win you must go direct, and to go direct you must be interesting"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
-      "published_at": "Wed, 17 Jun 2026 18:00:00 +0000",
-      "link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
-      "summary": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard. This tension between […]"
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "published_at": "Fri, 19 Jun 2026 00:51:11 +0000",
+      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Clario Launches with $6M Seed Funding",
-      "published_at": "17 Jun 2026 15:22:47 CDT",
-      "link": "https://vcnewsdaily.com/clario/venture-capital-funding/flxgbwdkwc",
-      "summary": "MENLO PARK, CA, Clario, the first platform built to eliminate enterprise data ROT, launched from stealth with $6 million in seed funding."
+      "title": "Twenty Banks $100M Series B Round",
+      "published_at": "18 Jun 2026 17:10:29 CDT",
+      "link": "https://vcnewsdaily.com/twenty/venture-capital-funding/tcplvlhdxz",
+      "summary": "ARLINGTON, VA, Twenty, America's first VC-backed cyber warfare startup, announced a $100 million Series B round at a $1 billion valuation."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Daemons by Charlie Labs",
-      "published_at": "2026-06-05T13:18:53-07:00",
-      "link": "https://www.producthunt.com/products/daemons-by-charlie-labs",
-      "summary": "Keep PRs, issues, CI, and docs moving with AI agents Discussion | Link"
+      "title": "Honestly",
+      "published_at": "2026-06-16T03:10:37-07:00",
+      "link": "https://www.producthunt.com/products/honestly",
+      "summary": "See what Reddit and TikTok honestly think about your product Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Economics of AI Usage and What's Next For SaaS | Benedict Evans on a16z",
+      "title": "Why Coding is The First Undeniable AI Use case | a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ktl8mNiWqMM",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Simulating Humans at Scale: Simile's Joon Sung Park",
+      "title": "The Quest to Simulate Human Society: Simile's Joon Sung Park",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=lfhFmwcESRw",
       "summary": ""
@@ -76,17 +76,17 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Perplexity CEO: Micron Will Be More Valuable Than Meta & Power is the Bottleneck to AI",
+      "title": "Anthropic's Fable Banned by US Government | Wix & Adobe Hit All-Time Lows | Mistral Raising at $20BN",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=OxFyVcO1Yow",
+      "link": "https://www.youtube.com/watch?v=kQn3GQBZ0Cs",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬 The Limits of AI in Science - Why We Need Self-Driving Labs — Joseph Krause, Radical AI",
+      "title": "Why AI Labs With Unlimited GPUs Still Fail — Anjney Midha, AMP",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=4-sWFytOfRw",
+      "link": "https://www.youtube.com/watch?v=h5dlIPM0X18",
       "summary": ""
     },
     {
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Pick One Idea and Go Deep",
+      "title": "You're Looking for Startup Ideas the Wrong Way",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=R56RJFZBasQ",
       "summary": ""
