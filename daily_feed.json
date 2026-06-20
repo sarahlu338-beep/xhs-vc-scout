@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-19T06:03:39Z",
+  "generated_at": "2026-06-20T05:01:31Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "New Media, One Year In",
-      "published_at": "Thu, 18 Jun 2026 14:10:22 GMT",
-      "link": "https://www.a16z.news/p/new-media-one-year-in",
-      "summary": "To win you must go direct, and to go direct you must be interesting"
+      "title": "Meet the second cohort of a16z New Media Fellows",
+      "published_at": "Fri, 19 Jun 2026 13:55:22 GMT",
+      "link": "https://www.a16z.news/p/meet-the-second-cohort-of-a16z-new",
+      "summary": "A new group of 65 storytellers, creators, substackers, and comms leaders shaping the future of new media"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-      "published_at": "Fri, 19 Jun 2026 00:51:11 +0000",
-      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago."
+      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+      "published_at": "Sat, 20 Jun 2026 00:47:44 +0000",
+      "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+      "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Twenty Banks $100M Series B Round",
-      "published_at": "18 Jun 2026 17:10:29 CDT",
-      "link": "https://vcnewsdaily.com/twenty/venture-capital-funding/tcplvlhdxz",
-      "summary": "ARLINGTON, VA, Twenty, America's first VC-backed cyber warfare startup, announced a $100 million Series B round at a $1 billion valuation."
+      "title": "SubBase Snares $7 Million Series A",
+      "published_at": "19 Jun 2026 08:56:23 CDT",
+      "link": "https://vcnewsdaily.com/subbase/venture-capital-funding/vqztwrydqq",
+      "summary": "FT. LAUDERDALE, FL, SubBase, the leading trade specific construction material procurement platform, has closed a $7 million Series A funding round led by FINTOP."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Honestly",
-      "published_at": "2026-06-16T03:10:37-07:00",
-      "link": "https://www.producthunt.com/products/honestly",
-      "summary": "See what Reddit and TikTok honestly think about your product Discussion | Link"
+      "title": "frontpage.sh",
+      "published_at": "2026-06-15T21:32:35-07:00",
+      "link": "https://www.producthunt.com/products/frontpage-sh-8-squares-forever-for-sale",
+      "summary": "A perpetual auction for eight ad squares Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Coding is The First Undeniable AI Use case | a16z",
+      "title": "Building an Audience in The AI Era | The a16z Show",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ktl8mNiWqMM",
+      "link": "https://www.youtube.com/watch?v=XROaLetSxg0",
       "summary": ""
     },
     {
@@ -68,9 +68,9 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "The 5 Levels of AI-Native: How to Get From Level 1 to Level 5 in 30 days | Peter Yang",
+      "title": "Godmother of AI: In 10 Years There Will Be Only 2 Kinds of Workers",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Yu0z7-KMHpo",
+      "link": "https://www.youtube.com/watch?v=subu-xHrp1w",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "You're Looking for Startup Ideas the Wrong Way",
+      "title": "The Age Of The 40-Year-Old Solo Founder Is Here",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=R56RJFZBasQ",
+      "link": "https://www.youtube.com/watch?v=8OOuCnZB-4o",
       "summary": ""
     }
   ]
