@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T05:01:31Z",
+  "generated_at": "2026-06-21T05:50:18Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
-      "published_at": "Sat, 20 Jun 2026 00:47:44 +0000",
-      "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-      "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time."
+      "title": "Founders Fund’s outlier bet on humanely killed fish",
+      "published_at": "Sat, 20 Jun 2026 18:26:02 +0000",
+      "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+      "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "frontpage.sh",
-      "published_at": "2026-06-15T21:32:35-07:00",
-      "link": "https://www.producthunt.com/products/frontpage-sh-8-squares-forever-for-sale",
-      "summary": "A perpetual auction for eight ad squares Discussion | Link"
+      "title": "GitSync for macOS",
+      "published_at": "2026-06-19T14:52:21-07:00",
+      "link": "https://www.producthunt.com/products/gitsync-for-macos",
+      "summary": "Visual GitHub management directly from a graphical interface Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "The Quest to Simulate Human Society: Simile's Joon Sung Park",
+      "title": "Simulating Humans at Scale: Simile's Joon Sung Park",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=lfhFmwcESRw",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Anthropic's Fable Banned by US Government | Wix & Adobe Hit All-Time Lows | Mistral Raising at $20BN",
+      "title": "Flexport CEO: Two Questions Every Founder Needs to Ask",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=kQn3GQBZ0Cs",
+      "link": "https://www.youtube.com/watch?v=v8u_7PPEzZE",
       "summary": ""
     },
     {
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The Age Of The 40-Year-Old Solo Founder Is Here",
+      "title": "Why Domain Experts Are Winning Right Now",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=8OOuCnZB-4o",
       "summary": ""
