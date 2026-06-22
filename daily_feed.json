@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T05:50:18Z",
+  "generated_at": "2026-06-22T06:15:39Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Founders Fund’s outlier bet on humanely killed fish",
-      "published_at": "Sat, 20 Jun 2026 18:26:02 +0000",
-      "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
-      "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely."
+      "title": "Ethan Thornton is trying to do everything all at once",
+      "published_at": "Mon, 22 Jun 2026 05:31:59 +0000",
+      "link": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
+      "summary": "Mach's approach differs sharply from some of its peers."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "GitSync for macOS",
-      "published_at": "2026-06-19T14:52:21-07:00",
-      "link": "https://www.producthunt.com/products/gitsync-for-macos",
-      "summary": "Visual GitHub management directly from a graphical interface Discussion | Link"
+      "title": "Cloudback MCP Server",
+      "published_at": "2026-06-20T13:46:39-07:00",
+      "link": "https://www.producthunt.com/products/cloudback",
+      "summary": "Manage your backups from Claude, Cursor, and VS Code Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Building an Audience in The AI Era | The a16z Show",
+      "title": "The Media Game Has Changed",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=XROaLetSxg0",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Simulating Humans at Scale: Simile's Joon Sung Park",
+      "title": "Why Simulating Humans Requires a Less Rational AI: Simile's Joon Sung Park",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=lfhFmwcESRw",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Flexport CEO: Two Questions Every Founder Needs to Ask",
+      "title": "Why Remote Work is White Collar Fraud | Flexport Founder & CEO, Ryan Petersen",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=v8u_7PPEzZE",
       "summary": ""
@@ -84,23 +84,23 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Why AI Labs With Unlimited GPUs Still Fail — Anjney Midha, AMP",
+      "title": "⚡️Every product of the future will be a living system  — Ronak Malde, Trajectory.ai",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=h5dlIPM0X18",
+      "link": "https://www.youtube.com/watch?v=DcvgPEApHT8",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)",
+      "title": "The eng lead behind Claude Code and Cowork on the new way to ship software | Fiona Fung",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=7eh9C3TUotc",
+      "link": "https://www.youtube.com/watch?v=Ybrl4FYM57c",
       "summary": ""
     },
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Why Domain Experts Are Winning Right Now",
+      "title": "The Age Of The 40-Year-Old Solo Founder Is Here",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=8OOuCnZB-4o",
       "summary": ""
