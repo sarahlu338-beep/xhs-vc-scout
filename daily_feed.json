@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-22T06:15:39Z",
+  "generated_at": "2026-06-23T04:52:19Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Meet the second cohort of a16z New Media Fellows",
-      "published_at": "Fri, 19 Jun 2026 13:55:22 GMT",
-      "link": "https://www.a16z.news/p/meet-the-second-cohort-of-a16z-new",
-      "summary": "A new group of 65 storytellers, creators, substackers, and comms leaders shaping the future of new media"
+      "title": "Impeccable by Design",
+      "published_at": "Mon, 22 Jun 2026 17:36:06 GMT",
+      "link": "https://www.a16z.news/p/impeccable-by-design",
+      "summary": "AI raised the floor. Time to raise the ceiling."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Ethan Thornton is trying to do everything all at once",
-      "published_at": "Mon, 22 Jun 2026 05:31:59 +0000",
-      "link": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
-      "summary": "Mach's approach differs sharply from some of its peers."
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "published_at": "Mon, 22 Jun 2026 20:13:58 +0000",
+      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "SubBase Snares $7 Million Series A",
-      "published_at": "19 Jun 2026 08:56:23 CDT",
-      "link": "https://vcnewsdaily.com/subbase/venture-capital-funding/vqztwrydqq",
-      "summary": "FT. LAUDERDALE, FL, SubBase, the leading trade specific construction material procurement platform, has closed a $7 million Series A funding round led by FINTOP."
+      "title": "Upscale AI Adds $190 Million in Series A Extension",
+      "published_at": "22 Jun 2026 15:18:04 CDT",
+      "link": "https://vcnewsdaily.com/upscale-ai-networking/venture-capital-funding/ggstzgqrmz",
+      "summary": "SANTA CLARA, CA, Upscale AI, a pure-play AI networking infrastructure company, today announced it has raised $190 million in Series A-1 financing."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Cloudback MCP Server",
-      "published_at": "2026-06-20T13:46:39-07:00",
-      "link": "https://www.producthunt.com/products/cloudback",
-      "summary": "Manage your backups from Claude, Cursor, and VS Code Discussion | Link"
+      "title": "AlgoFly AI",
+      "published_at": "2026-06-21T06:51:27-07:00",
+      "link": "https://www.producthunt.com/products/algofly-ai",
+      "summary": "The all-in-one place to build and deploy vision AI Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,15 +52,15 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Media Game Has Changed",
+      "title": "Inside Jake Paul’s $100M Growth Fund | The a16z Show",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=XROaLetSxg0",
+      "link": "https://www.youtube.com/watch?v=yfafpyhB-8E",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Why Simulating Humans Requires a Less Rational AI: Simile's Joon Sung Park",
+      "title": "The Quest to Simulate Human Society: Simile's Joon Sung Park",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=lfhFmwcESRw",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Godmother of AI: In 10 Years There Will Be Only 2 Kinds of Workers",
+      "title": "Godmother of AI and MasterClass CEO: Do this now before the next AI layer revealed",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=subu-xHrp1w",
       "summary": ""
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Why Remote Work is White Collar Fraud | Flexport Founder & CEO, Ryan Petersen",
+      "title": "Nikesh Arora on the Frontier Model Problem: Breadth vs Depth | The Future of Token Costs",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=v8u_7PPEzZE",
+      "link": "https://www.youtube.com/watch?v=v4GN1q7HX1Y",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "⚡️Every product of the future will be a living system  — Ronak Malde, Trajectory.ai",
+      "title": "The Future of AI Security — Zico Kolter & Matt Fredrikson, Gray Swan",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=DcvgPEApHT8",
+      "link": "https://www.youtube.com/watch?v=j8BAficRjEc",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The eng lead behind Claude Code and Cowork on the new way to ship software | Fiona Fung",
+      "title": "What happens after coding is solved? | Fiona Fung (Claude Code and Cowork)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Ybrl4FYM57c",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The Age Of The 40-Year-Old Solo Founder Is Here",
+      "title": "Getting Your First 10 Customers",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=8OOuCnZB-4o",
+      "link": "https://www.youtube.com/watch?v=_FBivfgOvuE",
       "summary": ""
     }
   ]
