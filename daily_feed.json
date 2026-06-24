@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-23T04:52:19Z",
+  "generated_at": "2026-06-24T04:56:08Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Impeccable by Design",
-      "published_at": "Mon, 22 Jun 2026 17:36:06 GMT",
-      "link": "https://www.a16z.news/p/impeccable-by-design",
-      "summary": "AI raised the floor. Time to raise the ceiling."
+      "title": "The World-Building Doors Are Open, Again.",
+      "published_at": "Tue, 23 Jun 2026 14:01:48 GMT",
+      "link": "https://www.a16z.news/p/the-world-building-doors-are-open",
+      "summary": "A new chapter for consumer startups"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-      "published_at": "Mon, 22 Jun 2026 20:13:58 +0000",
-      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-      "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs."
+      "title": "Superhuman acquires AI detection startup GPTZero",
+      "published_at": "Tue, 23 Jun 2026 21:48:23 +0000",
+      "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+      "summary": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Upscale AI Adds $190 Million in Series A Extension",
-      "published_at": "22 Jun 2026 15:18:04 CDT",
-      "link": "https://vcnewsdaily.com/upscale-ai-networking/venture-capital-funding/ggstzgqrmz",
-      "summary": "SANTA CLARA, CA, Upscale AI, a pure-play AI networking infrastructure company, today announced it has raised $190 million in Series A-1 financing."
+      "title": "JustAI Inks $17M Series A Round",
+      "published_at": "23 Jun 2026 13:57:47 CDT",
+      "link": "https://vcnewsdaily.com/justai/venture-capital-funding/npbdzxyyxh",
+      "summary": "SAN FRANCISCO, CA, JustAI, an AI-native marketing platform helping companies automate personalization, experimentation and decisioning at scale, today announced it has raised $17 million in Series A funding."
     },
     {
       "source": "YC Launches",
@@ -36,18 +36,18 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "AlgoFly AI",
-      "published_at": "2026-06-21T06:51:27-07:00",
-      "link": "https://www.producthunt.com/products/algofly-ai",
-      "summary": "The all-in-one place to build and deploy vision AI Discussion | Link"
+      "title": "Deckwise",
+      "published_at": "2026-06-22T09:13:04-07:00",
+      "link": "https://www.producthunt.com/products/deckwise",
+      "summary": "AI presentation agent for editable decks Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "Listen to the Market",
-      "published_at": "Mon, 01 Jun 2026 20:32:11 +0000",
-      "link": "https://sequoiacap.com/article/listen-to-the-market/",
-      "summary": "The post Listen to the Market appeared first on Sequoia Capital ."
+      "title": "Partnering with Probook: AI for the Trades",
+      "published_at": "Tue, 23 Jun 2026 13:00:09 +0000",
+      "link": "https://sequoiacap.com/article/partnering-with-probook-ai-for-the-trades/",
+      "summary": "The post Partnering with Probook: AI for the Trades appeared first on Sequoia Capital ."
     },
     {
       "source": "a16z",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "The Quest to Simulate Human Society: Simile's Joon Sung Park",
+      "title": "Simulating Humans at Scale: Simile's Joon Sung Park",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=lfhFmwcESRw",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Godmother of AI and MasterClass CEO: Do this now before the next AI layer revealed",
+      "title": "Godmother of AI: In 10 Years There Will Be Only 2 Kinds of Workers",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=subu-xHrp1w",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The Future of AI Security — Zico Kolter & Matt Fredrikson, Gray Swan",
+      "title": "The First Major AI Breach Is Coming — Zico Kolter & Matt Fredrikson, Gray Swan",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=j8BAficRjEc",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "What happens after coding is solved? | Fiona Fung (Claude Code and Cowork)",
+      "title": "The woman behind Claude Code and Cowork on why coding is solved (and comes next) | Fiona Fung",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Ybrl4FYM57c",
       "summary": ""
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Getting Your First 10 Customers",
+      "title": "How to Get Your First 10 Customers",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=_FBivfgOvuE",
       "summary": ""
