@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-24T04:56:08Z",
+  "generated_at": "2026-06-25T04:55:12Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The World-Building Doors Are Open, Again.",
-      "published_at": "Tue, 23 Jun 2026 14:01:48 GMT",
-      "link": "https://www.a16z.news/p/the-world-building-doors-are-open",
-      "summary": "A new chapter for consumer startups"
+      "title": "Investing in Mirendil",
+      "published_at": "Wed, 24 Jun 2026 19:13:17 GMT",
+      "link": "https://www.a16z.news/p/investing-in-mirendil",
+      "summary": "a16z leads Mirendil's Seed round"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Superhuman acquires AI detection startup GPTZero",
-      "published_at": "Tue, 23 Jun 2026 21:48:23 +0000",
-      "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
-      "summary": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero."
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "published_at": "Wed, 24 Jun 2026 23:26:52 +0000",
+      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "JustAI Inks $17M Series A Round",
-      "published_at": "23 Jun 2026 13:57:47 CDT",
-      "link": "https://vcnewsdaily.com/justai/venture-capital-funding/npbdzxyyxh",
-      "summary": "SAN FRANCISCO, CA, JustAI, an AI-native marketing platform helping companies automate personalization, experimentation and decisioning at scale, today announced it has raised $17 million in Series A funding."
+      "title": "Valence AI Secures $5 Million",
+      "published_at": "24 Jun 2026 16:23:30 CDT",
+      "link": "https://vcnewsdaily.com/valence-vibrations/venture-capital-funding/msbxlnkdwh",
+      "summary": "SAN FRANCISCO, CA, Valence AI, an emotional intelligence infrastructure company, announced $5 million in total funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Deckwise",
-      "published_at": "2026-06-22T09:13:04-07:00",
-      "link": "https://www.producthunt.com/products/deckwise",
-      "summary": "AI presentation agent for editable decks Discussion | Link"
+      "title": "Customer Relationship Agents by Clarify",
+      "published_at": "2026-06-22T12:26:30-07:00",
+      "link": "https://www.producthunt.com/products/clarify-6",
+      "summary": "The M in CRM shouldn't be you Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Inside Jake Paul’s $100M Growth Fund | The a16z Show",
+      "title": "Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=yfafpyhB-8E",
       "summary": ""
@@ -60,9 +60,9 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Simulating Humans at Scale: Simile's Joon Sung Park",
+      "title": "Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=lfhFmwcESRw",
+      "link": "https://www.youtube.com/watch?v=aiR7F4jqjXY",
       "summary": ""
     },
     {
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Nikesh Arora on the Frontier Model Problem: Breadth vs Depth | The Future of Token Costs",
+      "title": "Nikesh Arora on the Frontier Model Problem: Breadth vs Depth | Memory Becoming the Moat",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=v4GN1q7HX1Y",
       "summary": ""
@@ -84,15 +84,15 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The First Major AI Breach Is Coming — Zico Kolter & Matt Fredrikson, Gray Swan",
+      "title": "From Lakehouse to Agent Cloud — Matei Zaharia and Reynold Xin of Databricks",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=j8BAficRjEc",
+      "link": "https://www.youtube.com/watch?v=Yp_u1NpbkJg",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The woman behind Claude Code and Cowork on why coding is solved (and comes next) | Fiona Fung",
+      "title": "What happens after coding is solved? | Fiona Fung (Claude Code and Cowork)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Ybrl4FYM57c",
       "summary": ""
