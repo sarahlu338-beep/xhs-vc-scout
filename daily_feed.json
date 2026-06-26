@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-25T04:55:12Z",
+  "generated_at": "2026-06-26T05:00:12Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Investing in Mirendil",
-      "published_at": "Wed, 24 Jun 2026 19:13:17 GMT",
-      "link": "https://www.a16z.news/p/investing-in-mirendil",
-      "summary": "a16z leads Mirendil's Seed round"
+      "title": "NASA’s Artemis II Mission",
+      "published_at": "Thu, 25 Jun 2026 14:02:20 GMT",
+      "link": "https://www.a16z.news/p/nasas-artemis-ii-mission",
+      "summary": "Returning America to the Moon – and Beyond!"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "published_at": "Wed, 24 Jun 2026 23:26:52 +0000",
-      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI."
+      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+      "published_at": "Thu, 25 Jun 2026 17:52:05 +0000",
+      "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
+      "summary": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Valence AI Secures $5 Million",
-      "published_at": "24 Jun 2026 16:23:30 CDT",
-      "link": "https://vcnewsdaily.com/valence-vibrations/venture-capital-funding/msbxlnkdwh",
-      "summary": "SAN FRANCISCO, CA, Valence AI, an emotional intelligence infrastructure company, announced $5 million in total funding."
+      "title": "Sazabi Raises $8M Seed Round",
+      "published_at": "25 Jun 2026 15:00:34 CDT",
+      "link": "https://vcnewsdaily.com/sazabi/venture-capital-funding/ksqdpwnllg",
+      "summary": "SAN FRANCISCO, CA, Sazabi, the AI-native observability platform for fast-moving engineering teams, today announced an $8 million seed financing."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Customer Relationship Agents by Clarify",
-      "published_at": "2026-06-22T12:26:30-07:00",
-      "link": "https://www.producthunt.com/products/clarify-6",
-      "summary": "The M in CRM shouldn't be you Discussion | Link"
+      "title": "Polygraph",
+      "published_at": "2026-06-24T00:52:07-07:00",
+      "link": "https://www.producthunt.com/products/polygraph",
+      "summary": "Let AI agents see cross repo and maintain session memory. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund",
+      "title": "Why Attention is Becoming a Competitive Advantage | a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=yfafpyhB-8E",
       "summary": ""
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Nikesh Arora on the Frontier Model Problem: Breadth vs Depth | Memory Becoming the Moat",
+      "title": "DeepSeek Raises at $50B | Wall St's $725B AI Question |The Rise of Open Source vs OpenAI & Anthropic",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=v4GN1q7HX1Y",
+      "link": "https://www.youtube.com/watch?v=LDBff24uaDQ",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "From Lakehouse to Agent Cloud — Matei Zaharia and Reynold Xin of Databricks",
+      "title": "OpenAI’s Mark Chen: Pre-Training Isn’t Dead — Mark Chen | Let Them Cook",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Yp_u1NpbkJg",
+      "link": "https://www.youtube.com/watch?v=fpAthTtha8c",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "What happens after coding is solved? | Fiona Fung (Claude Code and Cowork)",
+      "title": "The woman behind Claude Code & Cowork: How she’s building cracked engineering teams | Fiona Fung",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Ybrl4FYM57c",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "How to Get Your First 10 Customers",
+      "title": "Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=_FBivfgOvuE",
+      "link": "https://www.youtube.com/watch?v=oHwUD9b9_pg",
       "summary": ""
     }
   ]
