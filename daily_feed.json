@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-26T05:00:12Z",
+  "generated_at": "2026-06-27T04:42:33Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "NASA’s Artemis II Mission",
-      "published_at": "Thu, 25 Jun 2026 14:02:20 GMT",
-      "link": "https://www.a16z.news/p/nasas-artemis-ii-mission",
-      "summary": "Returning America to the Moon – and Beyond!"
+      "title": "Meet the a16z Design Engineer Fellows",
+      "published_at": "Fri, 26 Jun 2026 17:20:09 GMT",
+      "link": "https://www.a16z.news/p/meet-the-a16z-design-engineer-fellows",
+      "summary": "The 73 fellows we've selected to join the inaugural cohort"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
-      "published_at": "Thu, 25 Jun 2026 17:52:05 +0000",
-      "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
-      "summary": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange."
+      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+      "published_at": "Fri, 26 Jun 2026 22:00:37 +0000",
+      "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "summary": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Sazabi Raises $8M Seed Round",
-      "published_at": "25 Jun 2026 15:00:34 CDT",
-      "link": "https://vcnewsdaily.com/sazabi/venture-capital-funding/ksqdpwnllg",
-      "summary": "SAN FRANCISCO, CA, Sazabi, the AI-native observability platform for fast-moving engineering teams, today announced an $8 million seed financing."
+      "title": "Tombot Closes $7 Million Series A3 Funding",
+      "published_at": "26 Jun 2026 12:50:15 CDT",
+      "link": "https://vcnewsdaily.com/tombot/venture-capital-funding/nghhqqmnsh",
+      "summary": "LOS ANGELES, CA, Tombot, a leader in health and wellness robotic companion animals, announced the successful closing of a $7 million Series A3 financing round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Polygraph",
-      "published_at": "2026-06-24T00:52:07-07:00",
-      "link": "https://www.producthunt.com/products/polygraph",
-      "summary": "Let AI agents see cross repo and maintain session memory. Discussion | Link"
+      "title": "Animdock Motion Templates in the Browser",
+      "published_at": "2026-06-21T00:07:34-07:00",
+      "link": "https://www.producthunt.com/products/animdock-motion-templates-in-the-browser",
+      "summary": "Create trend motions in your browser! Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Attention is Becoming a Competitive Advantage | a16z",
+      "title": "This is New Media",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=yfafpyhB-8E",
+      "link": "https://www.youtube.com/watch?v=JNu6c4G6q5M",
       "summary": ""
     },
     {
@@ -68,15 +68,15 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Godmother of AI: In 10 Years There Will Be Only 2 Kinds of Workers",
+      "title": "TIME100 AI Scientist: Self-improving AI Is The Next Breakthrough | Richard Socher",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=subu-xHrp1w",
+      "link": "https://www.youtube.com/watch?v=2j9yjRSpMSo",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "DeepSeek Raises at $50B | Wall St's $725B AI Question |The Rise of Open Source vs OpenAI & Anthropic",
+      "title": "DeepSeek Raises at $50B | The Rise of Open Source vs OpenAI & Anthropic | OpenAI Builds Own Chip",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=LDBff24uaDQ",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "OpenAI’s Mark Chen: Pre-Training Isn’t Dead — Mark Chen | Let Them Cook",
+      "title": "OpenAI’s Research Playbook: Scaling Laws, Reasoning, Evals, and AGI — Mark Chen | Let Them Cook",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=fpAthTtha8c",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The woman behind Claude Code & Cowork: How she’s building cracked engineering teams | Fiona Fung",
+      "title": "What happens after coding is solved? | Fiona Fung (Claude Code & Cowork)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Ybrl4FYM57c",
       "summary": ""
