@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T04:42:33Z",
+  "generated_at": "2026-06-28T05:11:40Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
-      "published_at": "Fri, 26 Jun 2026 22:00:37 +0000",
-      "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
-      "summary": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding."
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "published_at": "Sat, 27 Jun 2026 12:00:00 +0000",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Animdock Motion Templates in the Browser",
-      "published_at": "2026-06-21T00:07:34-07:00",
-      "link": "https://www.producthunt.com/products/animdock-motion-templates-in-the-browser",
-      "summary": "Create trend motions in your browser! Discussion | Link"
+      "title": "Nada",
+      "published_at": "2026-06-24T00:54:20-07:00",
+      "link": "https://www.producthunt.com/products/nada-2",
+      "summary": "Compose music with just your voice Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "DeepSeek Raises at $50B | The Rise of Open Source vs OpenAI & Anthropic | OpenAI Builds Own Chip",
+      "title": "How We Got Fred Wilson, Benchmark and Index to Invest $94M | Why Robinhood's Strategy is Wrong",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=LDBff24uaDQ",
+      "link": "https://www.youtube.com/watch?v=Z3nyCnsMMog",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It",
+      "title": "India's Moment To Build Global Companies Is Here",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=oHwUD9b9_pg",
+      "link": "https://www.youtube.com/watch?v=Ju8LVdvuxGM",
       "summary": ""
     }
   ]
