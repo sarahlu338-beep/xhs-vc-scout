@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T05:11:40Z",
+  "generated_at": "2026-06-29T05:20:36Z",
   "items": [
     {
       "source": "a16z News",
@@ -20,10 +20,10 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Tombot Closes $7 Million Series A3 Funding",
-      "published_at": "26 Jun 2026 12:50:15 CDT",
-      "link": "https://vcnewsdaily.com/tombot/venture-capital-funding/nghhqqmnsh",
-      "summary": "LOS ANGELES, CA, Tombot, a leader in health and wellness robotic companion animals, announced the successful closing of a $7 million Series A3 financing round."
+      "title": "Hera Raises $27 Million in Series A Funding",
+      "published_at": "28 Jun 2026 17:12:39 CDT",
+      "link": "https://vcnewsdaily.com/hera/venture-capital-funding/nvydjfysvf",
+      "summary": "NEW YORK, NY, Hera, the company building a new profession of senior care experts with human-centric AI, announced $27 million in Series A funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Nada",
-      "published_at": "2026-06-24T00:54:20-07:00",
-      "link": "https://www.producthunt.com/products/nada-2",
-      "summary": "Compose music with just your voice Discussion | Link"
+      "title": "Lyto",
+      "published_at": "2026-06-27T08:17:01-07:00",
+      "link": "https://www.producthunt.com/products/lyto",
+      "summary": "\"One AI agent across your browser, tools, and messages \" Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "TIME100 AI Scientist: Self-improving AI Is The Next Breakthrough | Richard Socher",
+      "title": "The 2-Year AI Shift: Do This Before AI Improves Itself | Richard Socher",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=2j9yjRSpMSo",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "OpenAI’s Research Playbook: Scaling Laws, Reasoning, Evals, and AGI — Mark Chen | Let Them Cook",
+      "title": "Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=fpAthTtha8c",
       "summary": ""
@@ -92,15 +92,15 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "What happens after coding is solved? | Fiona Fung (Claude Code & Cowork)",
+      "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Ybrl4FYM57c",
+      "link": "https://www.youtube.com/watch?v=P3KDebPTUrw",
       "summary": ""
     },
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "India's Moment To Build Global Companies Is Here",
+      "title": "India Can Create The Largest AI Companies",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Ju8LVdvuxGM",
       "summary": ""
