@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-29T05:20:36Z",
+  "generated_at": "2026-06-30T04:55:41Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Meet the a16z Design Engineer Fellows",
-      "published_at": "Fri, 26 Jun 2026 17:20:09 GMT",
-      "link": "https://www.a16z.news/p/meet-the-a16z-design-engineer-fellows",
-      "summary": "The 73 fellows we've selected to join the inaugural cohort"
+      "title": "The 2026 Summer Reading List",
+      "published_at": "Mon, 29 Jun 2026 14:02:51 GMT",
+      "link": "https://www.a16z.news/p/the-2026-summer-reading-list",
+      "summary": "America | Tech | Opinion | Culture | Charts"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-      "published_at": "Sat, 27 Jun 2026 12:00:00 +0000",
-      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+      "published_at": "Mon, 29 Jun 2026 20:55:50 +0000",
+      "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Hera Raises $27 Million in Series A Funding",
-      "published_at": "28 Jun 2026 17:12:39 CDT",
-      "link": "https://vcnewsdaily.com/hera/venture-capital-funding/nvydjfysvf",
-      "summary": "NEW YORK, NY, Hera, the company building a new profession of senior care experts with human-centric AI, announced $27 million in Series A funding."
+      "title": "Patronus AI Raises $50 Million Series B",
+      "published_at": "29 Jun 2026 15:49:16 CDT",
+      "link": "https://vcnewsdaily.com/patronus-ai/venture-capital-funding/fglmjjbhwc",
+      "summary": "SAN FRANCISCO, CA, Patronus AI announced a $50 million Series B led by Greenfield Partners and unveiled its Digital World Models, a new class of large-scale simulation environments designed to help AI systems."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Lyto",
-      "published_at": "2026-06-27T08:17:01-07:00",
-      "link": "https://www.producthunt.com/products/lyto",
-      "summary": "\"One AI agent across your browser, tools, and messages \" Discussion | Link"
+      "title": "ReadHere",
+      "published_at": "2026-06-28T10:22:17-07:00",
+      "link": "https://www.producthunt.com/products/readhere-2",
+      "summary": "Lightweight PDF & EPUB reader in your browser Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "The 2-Year AI Shift: Do This Before AI Improves Itself | Richard Socher",
+      "title": "TIME100 AI Scientist: The Next Era of AI Has Already Started | Richard Socher",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=2j9yjRSpMSo",
       "summary": ""
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "How We Got Fred Wilson, Benchmark and Index to Invest $94M | Why Robinhood's Strategy is Wrong",
+      "title": "Bloom Energy CEO: Why Electricity, Not AI Models, Will Decide the Winners of the AI Race",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Z3nyCnsMMog",
+      "link": "https://www.youtube.com/watch?v=p6rjlXLDpcc",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen",
+      "title": "The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=fpAthTtha8c",
+      "link": "https://www.youtube.com/watch?v=hLUGXO5DSpo",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
+      "title": "OpenAI Codex lead on taste, curation, and building for AGI | Andrew Ambrosino",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=P3KDebPTUrw",
       "summary": ""
