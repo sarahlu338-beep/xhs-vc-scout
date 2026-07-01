@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-30T04:55:41Z",
+  "generated_at": "2026-07-01T05:13:25Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The 2026 Summer Reading List",
-      "published_at": "Mon, 29 Jun 2026 14:02:51 GMT",
-      "link": "https://www.a16z.news/p/the-2026-summer-reading-list",
+      "title": "Charts of the Summer: Featuring Deel",
+      "published_at": "Tue, 30 Jun 2026 14:00:48 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-summer-featuring-deel",
       "summary": "America | Tech | Opinion | Culture | Charts"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
-      "published_at": "Mon, 29 Jun 2026 20:55:50 +0000",
-      "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
-      "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception."
+      "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
+      "published_at": "Tue, 30 Jun 2026 23:00:00 +0000",
+      "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
+      "summary": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Patronus AI Raises $50 Million Series B",
-      "published_at": "29 Jun 2026 15:49:16 CDT",
-      "link": "https://vcnewsdaily.com/patronus-ai/venture-capital-funding/fglmjjbhwc",
-      "summary": "SAN FRANCISCO, CA, Patronus AI announced a $50 million Series B led by Greenfield Partners and unveiled its Digital World Models, a new class of large-scale simulation environments designed to help AI systems."
+      "title": "Tetrix Announces $15M Series A Financing",
+      "published_at": "30 Jun 2026 19:04:25 CDT",
+      "link": "https://vcnewsdaily.com/tetrix/venture-capital-funding/rnzmprrjyv",
+      "summary": "NEW YORK, NY, Tetrix, the AI investment platform for alpha-seeking limited partners in alternative markets, announced it has raised a $15 million Series A round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "ReadHere",
-      "published_at": "2026-06-28T10:22:17-07:00",
-      "link": "https://www.producthunt.com/products/readhere-2",
-      "summary": "Lightweight PDF & EPUB reader in your browser Discussion | Link"
+      "title": "Cursor for iOS",
+      "published_at": "2026-06-29T20:52:28-07:00",
+      "link": "https://www.producthunt.com/products/cursor",
+      "summary": "Build with coding agents from anywhere Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,15 +60,15 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin",
+      "title": "Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=aiR7F4jqjXY",
+      "link": "https://www.youtube.com/watch?v=f6D_aiy8qyU",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "TIME100 AI Scientist: The Next Era of AI Has Already Started | Richard Socher",
+      "title": "Ex-Salesforce Chief Scientist: Why You Need to Rethink Your Career Now | Richard Socher",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=2j9yjRSpMSo",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Bloom Energy CEO: Why Electricity, Not AI Models, Will Decide the Winners of the AI Race",
+      "title": "Bloom Energy CEO: Why We Aren’t in an AI Capex Bubble | Energy Sovereignty & The Future of Power",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=p6rjlXLDpcc",
       "summary": ""
@@ -84,15 +84,15 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw",
+      "title": "🔬 \"The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation\"",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=hLUGXO5DSpo",
+      "link": "https://www.youtube.com/watch?v=YQWXxnkK4dw",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "OpenAI Codex lead on taste, curation, and building for AGI | Andrew Ambrosino",
+      "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=P3KDebPTUrw",
       "summary": ""
