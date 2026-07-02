@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T05:13:25Z",
+  "generated_at": "2026-07-02T04:49:48Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
-      "published_at": "Tue, 30 Jun 2026 23:00:00 +0000",
-      "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
-      "summary": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours."
+      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+      "published_at": "Wed, 01 Jul 2026 22:47:04 +0000",
+      "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
+      "summary": "The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Tetrix Announces $15M Series A Financing",
-      "published_at": "30 Jun 2026 19:04:25 CDT",
-      "link": "https://vcnewsdaily.com/tetrix/venture-capital-funding/rnzmprrjyv",
-      "summary": "NEW YORK, NY, Tetrix, the AI investment platform for alpha-seeking limited partners in alternative markets, announced it has raised a $15 million Series A round."
+      "title": "Ollin Biosciences Announces $330 Million Series B",
+      "published_at": "01 Jul 2026 16:05:17 CDT",
+      "link": "https://vcnewsdaily.com/ollin-biosciences/venture-capital-funding/gplpdbpmbd",
+      "summary": "AUSTIN, TX, Ollin Biosciences, a clinical-stage biotech advancing best-in-disease therapies for vision-threatening diseases, announced an oversubscribed $330 million Series B financing."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Cursor for iOS",
-      "published_at": "2026-06-29T20:52:28-07:00",
-      "link": "https://www.producthunt.com/products/cursor",
-      "summary": "Build with coding agents from anywhere Discussion | Link"
+      "title": "Aruki",
+      "published_at": "2026-06-30T07:20:58-07:00",
+      "link": "https://www.producthunt.com/products/aruki-japanese-walking",
+      "summary": "The Japanese walking method, coached on your iPhone Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬 \"The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation\"",
+      "title": "🔬 He Trained the World's Most-Used Open-Source LLM. Then Quit for Something More Interesting",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=YQWXxnkK4dw",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
+      "title": "Why OpenAI is merging Codex and ChatGPT and the future of knowledge work | Andrew Ambrosino",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=P3KDebPTUrw",
       "summary": ""
