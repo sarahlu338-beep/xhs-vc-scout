@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-03T04:33:11Z",
+  "generated_at": "2026-07-04T04:25:44Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Charts of the Summer: Featuring Deel",
-      "published_at": "Tue, 30 Jun 2026 14:00:48 GMT",
-      "link": "https://www.a16z.news/p/charts-of-the-summer-featuring-deel",
-      "summary": "America | Tech | Opinion | Culture | Charts"
+      "title": "America: The Next 250 Years",
+      "published_at": "Fri, 03 Jul 2026 14:01:45 GMT",
+      "link": "https://www.a16z.news/p/america-250",
+      "summary": "Accelerating the founders powering our national interest, security, and prosperity for the next 250 years."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-      "published_at": "Fri, 03 Jul 2026 00:00:00 +0000",
-      "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-      "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone."
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "published_at": "Fri, 03 Jul 2026 18:43:00 +0000",
+      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "TwelveLabs Raises $100 Million in Series B",
-      "published_at": "02 Jul 2026 17:08:10 CDT",
-      "link": "https://vcnewsdaily.com/twelvelabs/venture-capital-funding/mglwwjkbdt",
-      "summary": "SAN FRANCISCO, CA, TwelveLabs, a leading video intelligence company, today announced it has raised $100 million in Series B funding."
+      "title": "OXMIQ Raises $35 Million Series A Funding",
+      "published_at": "03 Jul 2026 08:33:57 CDT",
+      "link": "https://vcnewsdaily.com/oxmiq-labs/venture-capital-funding/yjlpwhqrtb",
+      "summary": "CAMPBELL, CA, OXMIQ Labs Inc., a unified GPU and AI architecture company founded by Raja Koduri, closed its $35 million Series A financing."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Solaris",
-      "published_at": "2026-06-30T13:58:22-07:00",
-      "link": "https://www.producthunt.com/products/build-club",
-      "summary": "Your company’s AI adoption and upskilling platform Discussion | Link"
+      "title": "Goals from Loops",
+      "published_at": "2026-07-02T03:03:16-07:00",
+      "link": "https://www.producthunt.com/products/loops",
+      "summary": "Measure whether a campaign drove the desired outcome Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,15 +52,15 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "This is New Media",
+      "title": "Inside a16z's Bet on America and Its Allies",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=JNu6c4G6q5M",
+      "link": "https://www.youtube.com/watch?v=XwfUzW32cIA",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis",
+      "title": "Dylan Patel of SemiAnalysis: Why Hardware-Software Co-Design Is AI's Real 100x",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=f6D_aiy8qyU",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Ex-Salesforce Chief Scientist: Why You Need to Rethink Your Career Now | Richard Socher",
+      "title": "Why You Need to Rethink Your Career Now | Richard Socher",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=2j9yjRSpMSo",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Dario Declares War on Open-Source | Coinbase Cuts AI Spend by 50% & The Year for SaaS Roll-Ups",
+      "title": "Coinbase Cuts AI Spend by 50% | Kalshi's $40B Valuation & Impending IPO | The Year for SaaS Roll-Ups",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=uINvYTxGCQE",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬 He Trained the World's Most-Used Open-Source LLM. Then Quit for Something More Interesting",
+      "title": "🔬 \"The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation\"",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=YQWXxnkK4dw",
       "summary": ""
