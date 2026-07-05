@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T04:25:44Z",
+  "generated_at": "2026-07-05T04:46:37Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "published_at": "Fri, 03 Jul 2026 18:43:00 +0000",
-      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "published_at": "Sat, 04 Jul 2026 15:51:32 +0000",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Goals from Loops",
-      "published_at": "2026-07-02T03:03:16-07:00",
-      "link": "https://www.producthunt.com/products/loops",
-      "summary": "Measure whether a campaign drove the desired outcome Discussion | Link"
+      "title": "PhoneDeck",
+      "published_at": "2026-06-03T03:23:56-07:00",
+      "link": "https://www.producthunt.com/products/phonedeck",
+      "summary": "Turn your iPhone into a free Mac controller Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Inside a16z's Bet on America and Its Allies",
+      "title": "Ben Horowitz on the Global Race for Tech, Power, and Influence",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=XwfUzW32cIA",
       "summary": ""
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Coinbase Cuts AI Spend by 50% | Kalshi's $40B Valuation & Impending IPO | The Year for SaaS Roll-Ups",
+      "title": "The Future of Enterprise AI | Open Models vs Frontier Models: Who Actually Wins? | Sierra Co-Founder",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=uINvYTxGCQE",
+      "link": "https://www.youtube.com/watch?v=YWg_YCQEZhI",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬 \"The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation\"",
+      "title": "🔬 One Model. Sub-Ångström. External Target. Staggering Difference.",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=YQWXxnkK4dw",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why OpenAI is merging Codex and ChatGPT and the future of knowledge work | Andrew Ambrosino",
+      "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=P3KDebPTUrw",
       "summary": ""
