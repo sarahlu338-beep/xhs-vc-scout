@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T04:46:37Z",
+  "generated_at": "2026-07-06T05:01:00Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "published_at": "Sat, 04 Jul 2026 15:51:32 +0000",
-      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
+      "title": "Uber’s European expansion plans may have hit a speed bump",
+      "published_at": "Sun, 05 Jul 2026 21:35:17 +0000",
+      "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+      "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "PhoneDeck",
-      "published_at": "2026-06-03T03:23:56-07:00",
-      "link": "https://www.producthunt.com/products/phonedeck",
-      "summary": "Turn your iPhone into a free Mac controller Discussion | Link"
+      "title": "Endl",
+      "published_at": "2026-07-03T12:10:29-07:00",
+      "link": "https://www.producthunt.com/products/endl",
+      "summary": "A global operating account for fiat, stablecoins, and cards. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Dylan Patel of SemiAnalysis: Why Hardware-Software Co-Design Is AI's Real 100x",
+      "title": "Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=f6D_aiy8qyU",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The Future of Enterprise AI | Open Models vs Frontier Models: Who Actually Wins? | Sierra Co-Founder",
+      "title": "Open Models vs Frontier Models: Who Actually Wins? | The $100K Token Budget Every Engineer Will Need",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=YWg_YCQEZhI",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬 One Model. Sub-Ångström. External Target. Staggering Difference.",
+      "title": "🔬 \"The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation\"",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=YQWXxnkK4dw",
       "summary": ""
