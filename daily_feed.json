@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T05:01:00Z",
+  "generated_at": "2026-07-07T04:39:29Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Uber’s European expansion plans may have hit a speed bump",
-      "published_at": "Sun, 05 Jul 2026 21:35:17 +0000",
-      "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
-      "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold."
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "published_at": "Mon, 06 Jul 2026 13:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "OXMIQ Raises $35 Million Series A Funding",
-      "published_at": "03 Jul 2026 08:33:57 CDT",
-      "link": "https://vcnewsdaily.com/oxmiq-labs/venture-capital-funding/yjlpwhqrtb",
-      "summary": "CAMPBELL, CA, OXMIQ Labs Inc., a unified GPU and AI architecture company founded by Raja Koduri, closed its $35 million Series A financing."
+      "title": "NALA Membranes Receives Investment",
+      "published_at": "06 Jul 2026 16:46:38 CDT",
+      "link": "https://vcnewsdaily.com/nala-membranes/venture-capital-funding/lqzwnpdbmc",
+      "summary": "MORRISVILLE, NC, Flathead Forge Fund 1 has invested in NALA Membranes, a North Carolina developer of chlorine-stable membranes for industrial water purification and reuse."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Endl",
-      "published_at": "2026-07-03T12:10:29-07:00",
-      "link": "https://www.producthunt.com/products/endl",
-      "summary": "A global operating account for fiat, stablecoins, and cards. Discussion | Link"
+      "title": "Typeahead 2.0",
+      "published_at": "2026-07-02T14:39:18-07:00",
+      "link": "https://www.producthunt.com/products/typeahead",
+      "summary": "Private AI autocomplete for every app on your Mac Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis",
+      "title": "Dylan Patel of SemiAnalysis: Why Hardware-Software Co-Design Is AI's Real 100x",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=f6D_aiy8qyU",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Open Models vs Frontier Models: Who Actually Wins? | The $100K Token Budget Every Engineer Will Need",
+      "title": "Why Now is the Time for the App Layer | Why Startups Should be TokenMaxxing | Mike Mignano, USV",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=YWg_YCQEZhI",
+      "link": "https://www.youtube.com/watch?v=Gjjnb8j69C0",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
+      "title": "Why OpenAI is merging Codex and ChatGPT and the future of knowledge work | Andrew Ambrosino",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=P3KDebPTUrw",
       "summary": ""
