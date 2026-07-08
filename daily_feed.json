@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T04:39:29Z",
+  "generated_at": "2026-07-08T03:59:55Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "published_at": "Mon, 06 Jul 2026 13:00:00 +0000",
-      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups."
+      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+      "published_at": "Tue, 07 Jul 2026 22:30:00 +0000",
+      "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+      "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "NALA Membranes Receives Investment",
-      "published_at": "06 Jul 2026 16:46:38 CDT",
-      "link": "https://vcnewsdaily.com/nala-membranes/venture-capital-funding/lqzwnpdbmc",
-      "summary": "MORRISVILLE, NC, Flathead Forge Fund 1 has invested in NALA Membranes, a North Carolina developer of chlorine-stable membranes for industrial water purification and reuse."
+      "title": "Quaise Nabs $134M Series B Financing",
+      "published_at": "07 Jul 2026 14:26:54 CDT",
+      "link": "https://vcnewsdaily.com/quaise/venture-capital-funding/fzpzxzlccf",
+      "summary": "HOUSTON, TX, Quaise Energy, a leading developer of utility-scale superhot geothermal energy, today announced the first close of its Series B financing."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Typeahead 2.0",
-      "published_at": "2026-07-02T14:39:18-07:00",
-      "link": "https://www.producthunt.com/products/typeahead",
-      "summary": "Private AI autocomplete for every app on your Mac Discussion | Link"
+      "title": "Katalyst",
+      "published_at": "2026-06-15T15:45:28-07:00",
+      "link": "https://www.producthunt.com/products/katalyst",
+      "summary": "The AI agent that works your Salesforce Pipeline Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,31 +52,31 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Ben Horowitz on the Global Race for Tech, Power, and Influence",
+      "title": "The Truth About Headless Software",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=XwfUzW32cIA",
+      "link": "https://www.youtube.com/watch?v=Mxs4erDxOEE",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Dylan Patel of SemiAnalysis: Why Hardware-Software Co-Design Is AI's Real 100x",
+      "title": "Zipline's Keller Cliffton: The Drone Is Only 15% of the World's Largest Autonomous System",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=f6D_aiy8qyU",
+      "link": "https://www.youtube.com/watch?v=6bGxm8gX41o",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Why You Need to Rethink Your Career Now | Richard Socher",
+      "title": "The Next 3 Years of AI: Lessons from Elon Musk’s First Investor",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=2j9yjRSpMSo",
+      "link": "https://www.youtube.com/watch?v=fxIVCIoLOys",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Why Now is the Time for the App Layer | Why Startups Should be TokenMaxxing | Mike Mignano, USV",
+      "title": "Now is the Time for the App Layer | OpenAI & Anthropic Won't Win the App Layer | Mike Mignano, USV",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Gjjnb8j69C0",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬 \"The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation\"",
+      "title": "🔬 He Trained the World's Most-Used Open-Source LLM. Then Quit for Something More Interesting",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=YQWXxnkK4dw",
       "summary": ""
