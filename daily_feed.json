@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T03:59:55Z",
+  "generated_at": "2026-07-10T04:41:12Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-      "published_at": "Tue, 07 Jul 2026 22:30:00 +0000",
-      "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-      "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward."
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "published_at": "Thu, 09 Jul 2026 22:08:58 +0000",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Quaise Nabs $134M Series B Financing",
-      "published_at": "07 Jul 2026 14:26:54 CDT",
-      "link": "https://vcnewsdaily.com/quaise/venture-capital-funding/fzpzxzlccf",
-      "summary": "HOUSTON, TX, Quaise Energy, a leading developer of utility-scale superhot geothermal energy, today announced the first close of its Series B financing."
+      "title": "Venice.ai Snares $65M Series A Funding",
+      "published_at": "09 Jul 2026 20:15:31 CDT",
+      "link": "https://vcnewsdaily.com/venice.ai/venture-capital-funding/znxdphtphq",
+      "summary": "SHERIDAN, WY, Venice.ai, a privacy-focused AI startup,has raised $65 million in its first outside funding, valuing the startup at $1 billion."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Katalyst",
-      "published_at": "2026-06-15T15:45:28-07:00",
-      "link": "https://www.producthunt.com/products/katalyst",
-      "summary": "The AI agent that works your Salesforce Pipeline Discussion | Link"
+      "title": "Toyo",
+      "published_at": "2026-06-05T14:14:56-07:00",
+      "link": "https://www.producthunt.com/products/toyo",
+      "summary": "Exec assistant who lives in iMessage and calls your phone Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Truth About Headless Software",
+      "title": "The New Rules of Enterprise Software",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Mxs4erDxOEE",
       "summary": ""
@@ -60,9 +60,9 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Zipline's Keller Cliffton: The Drone Is Only 15% of the World's Largest Autonomous System",
+      "title": "Kalshi’s Tarek Mansour vs. the Federal Government",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=6bGxm8gX41o",
+      "link": "https://www.youtube.com/watch?v=l_Boz3KRtBQ",
       "summary": ""
     },
     {
@@ -76,33 +76,33 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Now is the Time for the App Layer | OpenAI & Anthropic Won't Win the App Layer | Mike Mignano, USV",
+      "title": "Enterprises Fear Frontier Models | Sam Altman Offers Trump 5% of OpenAI | DeepSeek Builds Own Chips",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Gjjnb8j69C0",
+      "link": "https://www.youtube.com/watch?v=LUkbZHSQIog",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬 He Trained the World's Most-Used Open-Source LLM. Then Quit for Something More Interesting",
+      "title": "The Future of AI Infra: from Kubernetes to Agent Sandboxes — Akshat Bubna, Modal CTO",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=YQWXxnkK4dw",
+      "link": "https://www.youtube.com/watch?v=UwxxlTNPjWo",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why OpenAI is merging Codex and ChatGPT and the future of knowledge work | Andrew Ambrosino",
+      "title": "The rise of taste, human authenticity and judgment in an AI world | Adam Mosseri (Head of IG)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=P3KDebPTUrw",
+      "link": "https://www.youtube.com/watch?v=yQ_EWmtfWvQ",
       "summary": ""
     },
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "India Can Create The Largest AI Companies",
+      "title": "Dot Plots: How to Actually See What Your Users Are Doing",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Ju8LVdvuxGM",
+      "link": "https://www.youtube.com/watch?v=e5-6rEwzxLs",
       "summary": ""
     }
   ]
