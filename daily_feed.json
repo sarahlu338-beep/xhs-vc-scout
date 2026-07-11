@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T04:41:12Z",
+  "generated_at": "2026-07-11T03:57:39Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "published_at": "Thu, 09 Jul 2026 22:08:58 +0000",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works."
+      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "published_at": "Sat, 11 Jul 2026 00:29:25 +0000",
+      "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Toyo",
-      "published_at": "2026-06-05T14:14:56-07:00",
-      "link": "https://www.producthunt.com/products/toyo",
-      "summary": "Exec assistant who lives in iMessage and calls your phone Discussion | Link"
+      "title": "ChatCut",
+      "published_at": "2026-07-08T23:50:16-07:00",
+      "link": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+      "summary": "Your AI video editor in ChatGPT, desktop, and web Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The New Rules of Enterprise Software",
+      "title": "Software in the Age of Agents | The a16z Show",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Mxs4erDxOEE",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Kalshi’s Tarek Mansour vs. the Federal Government",
+      "title": "Kalshi's Tarek Mansour: Chaos by Design",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=l_Boz3KRtBQ",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The Future of AI Infra: from Kubernetes to Agent Sandboxes — Akshat Bubna, Modal CTO",
+      "title": "Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=UwxxlTNPjWo",
+      "link": "https://www.youtube.com/watch?v=bIOCKXcxloQ",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Dot Plots: How to Actually See What Your Users Are Doing",
+      "title": "YC's Head of Design Shows You How To Design With AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=e5-6rEwzxLs",
+      "link": "https://www.youtube.com/watch?v=VbqaL_eHhKY",
       "summary": ""
     }
   ]
