@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T04:18:48Z",
+  "generated_at": "2026-07-13T04:22:26Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "San Fran Sim",
-      "published_at": "2026-07-10T01:07:45-07:00",
-      "link": "https://www.producthunt.com/products/san-fran-sim",
-      "summary": "A startup tycoon game Discussion | Link"
+      "title": "FetchSandbox",
+      "published_at": "2026-06-18T21:12:56-07:00",
+      "link": "https://www.producthunt.com/products/fetchsandbox",
+      "summary": "API integration testing that remembers what breaks Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The Cognitive Science of Building a Mind — Danielle Perszyk, Amazon AGI Lab",
+      "title": "Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=K796MYUgt0k",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The rise of taste, human authenticity and judgment in an AI world | Adam Mosseri (Head of IG)",
+      "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=yQ_EWmtfWvQ",
+      "link": "https://www.youtube.com/watch?v=_cmpIveXnvE",
       "summary": ""
     },
     {
