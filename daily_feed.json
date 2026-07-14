@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-13T04:22:26Z",
+  "generated_at": "2026-07-14T03:49:33Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "America: The Next 250 Years",
-      "published_at": "Fri, 03 Jul 2026 14:01:45 GMT",
-      "link": "https://www.a16z.news/p/america-250",
-      "summary": "Accelerating the founders powering our national interest, security, and prosperity for the next 250 years."
+      "title": "The Most Human Technology Ever Made",
+      "published_at": "Mon, 13 Jul 2026 16:05:07 GMT",
+      "link": "https://www.a16z.news/p/the-most-human-technology-ever-made",
+      "summary": "Most people aren't trying to save time. They're trying to spend it."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-      "published_at": "Sat, 11 Jul 2026 00:29:25 +0000",
-      "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-      "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation."
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "published_at": "Mon, 13 Jul 2026 23:31:18 +0000",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Venice.ai Snares $65M Series A Funding",
-      "published_at": "09 Jul 2026 20:15:31 CDT",
-      "link": "https://vcnewsdaily.com/venice.ai/venture-capital-funding/znxdphtphq",
-      "summary": "SHERIDAN, WY, Venice.ai, a privacy-focused AI startup,has raised $65 million in its first outside funding, valuing the startup at $1 billion."
+      "title": "SambaNova Completes First Close of $1 Billion Financing at $11 Billion Valuation",
+      "published_at": "13 Jul 2026 15:50:54 CDT",
+      "link": "https://vcnewsdaily.com/sambanova/venture-capital-funding/bdlhwpphpw",
+      "summary": "PALO ALTO, CA, SambaNova has completed the first close of $1 billion in strategic financing as part of a Series F round, valuing the company at $11 billion post money."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "FetchSandbox",
-      "published_at": "2026-06-18T21:12:56-07:00",
-      "link": "https://www.producthunt.com/products/fetchsandbox",
-      "summary": "API integration testing that remembers what breaks Discussion | Link"
+      "title": "TailMux",
+      "published_at": "2026-07-12T23:32:29-07:00",
+      "link": "https://www.producthunt.com/products/tailmux",
+      "summary": "Multiple Tailscale tailnets at once, no switching + no VM Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "⁠Why OpenAI and Anthropic Won't Win the App Layer | Glean Founder",
+      "title": "Wix Founder: What Wall St Gets Wrong About AI & Wix | The Truth About the Economics of Vibe-Coding",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=jX-Uq8JJ_j8",
+      "link": "https://www.youtube.com/watch?v=TdQyVXN0GF8",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab",
+      "title": "Cooking with a $98M AI Founder: Context Windows, Continual Learning, and Model Weights—Dan Biderman",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=K796MYUgt0k",
+      "link": "https://www.youtube.com/watch?v=jhpmMTus5a0",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+      "title": "Why AI is quietly dividing the tech workforce in two | Annual AI sentiment survey (Noam Segal)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=_cmpIveXnvE",
       "summary": ""
