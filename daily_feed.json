@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-14T03:49:33Z",
+  "generated_at": "2026-07-15T03:50:29Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The Most Human Technology Ever Made",
-      "published_at": "Mon, 13 Jul 2026 16:05:07 GMT",
-      "link": "https://www.a16z.news/p/the-most-human-technology-ever-made",
-      "summary": "Most people aren't trying to save time. They're trying to spend it."
+      "title": "You Just Hired a Million Bad Employees",
+      "published_at": "Tue, 14 Jul 2026 16:33:49 GMT",
+      "link": "https://www.a16z.news/p/the-next-ai-goldrush-tokens-loops",
+      "summary": "For the first time in history, humans are cheaper than software"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "published_at": "Mon, 13 Jul 2026 23:31:18 +0000",
-      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors."
+      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+      "published_at": "Tue, 14 Jul 2026 16:45:23 +0000",
+      "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+      "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "SambaNova Completes First Close of $1 Billion Financing at $11 Billion Valuation",
-      "published_at": "13 Jul 2026 15:50:54 CDT",
-      "link": "https://vcnewsdaily.com/sambanova/venture-capital-funding/bdlhwpphpw",
-      "summary": "PALO ALTO, CA, SambaNova has completed the first close of $1 billion in strategic financing as part of a Series F round, valuing the company at $11 billion post money."
+      "title": "410 Medical Receives $12M Funding Round",
+      "published_at": "14 Jul 2026 15:01:58 CDT",
+      "link": "https://vcnewsdaily.com/410-medical/venture-capital-funding/gpqflqsnfx",
+      "summary": "DURHAM, NC, 410 Medical, a medical device company focused on innovative technologies for emergency and critical care, today announced the completion of a $12 million financing round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "TailMux",
-      "published_at": "2026-07-12T23:32:29-07:00",
-      "link": "https://www.producthunt.com/products/tailmux",
-      "summary": "Multiple Tailscale tailnets at once, no switching + no VM Discussion | Link"
+      "title": "Sales Studio",
+      "published_at": "2026-07-08T18:28:43-07:00",
+      "link": "https://www.producthunt.com/products/sales-studio",
+      "summary": "Private studio for live demos on macOS Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,23 +60,23 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Kalshi's Tarek Mansour: Chaos by Design",
+      "title": "Anthropic's Katelyn Lesse & Angela Jiang: Building an Ecosystem, not a Walled Garden",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=l_Boz3KRtBQ",
+      "link": "https://www.youtube.com/watch?v=vPnVTHYplrQ",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "The Next 3 Years of AI: Lessons from Elon Musk’s First Investor",
+      "title": "Khan Academy CEO: The Real AI Opportunity Is in Boring Industries | Sal Khan",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=fxIVCIoLOys",
+      "link": "https://www.youtube.com/watch?v=s-Iz-lLAhdg",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Wix Founder: What Wall St Gets Wrong About AI & Wix | The Truth About the Economics of Vibe-Coding",
+      "title": "Wix Founder: Will Base44 Win the Vibe-Coding Wars? | The Truth About the Economics of Vibe-Coding",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=TdQyVXN0GF8",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Cooking with a $98M AI Founder: Context Windows, Continual Learning, and Model Weights—Dan Biderman",
+      "title": "The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder & CEO",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=jhpmMTus5a0",
       "summary": ""
