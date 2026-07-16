@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-15T03:50:29Z",
+  "generated_at": "2026-07-16T03:53:12Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "You Just Hired a Million Bad Employees",
-      "published_at": "Tue, 14 Jul 2026 16:33:49 GMT",
-      "link": "https://www.a16z.news/p/the-next-ai-goldrush-tokens-loops",
-      "summary": "For the first time in history, humans are cheaper than software"
+      "title": "Banning AI in Law School: We've Seen This Before",
+      "published_at": "Wed, 15 Jul 2026 14:00:41 GMT",
+      "link": "https://www.a16z.news/p/banning-ai-in-law-school-weve-seen",
+      "summary": "Preemptive regulation is the enemy of progress"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-      "published_at": "Tue, 14 Jul 2026 16:45:23 +0000",
-      "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-      "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation."
+      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+      "published_at": "Wed, 15 Jul 2026 19:46:54 +0000",
+      "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+      "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "410 Medical Receives $12M Funding Round",
-      "published_at": "14 Jul 2026 15:01:58 CDT",
-      "link": "https://vcnewsdaily.com/410-medical/venture-capital-funding/gpqflqsnfx",
-      "summary": "DURHAM, NC, 410 Medical, a medical device company focused on innovative technologies for emergency and critical care, today announced the completion of a $12 million financing round."
+      "title": "Senra Systems Receives $65M Series B Round",
+      "published_at": "15 Jul 2026 14:55:34 CDT",
+      "link": "https://vcnewsdaily.com/senra-systems/venture-capital-funding/rxhcfwgpqn",
+      "summary": "CYPRESS, CA, Senra Systems today announced it has raised $65 million in a Series B funding round and plans to accelerate its expansion with a third factory location."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Sales Studio",
-      "published_at": "2026-07-08T18:28:43-07:00",
-      "link": "https://www.producthunt.com/products/sales-studio",
-      "summary": "Private studio for live demos on macOS Discussion | Link"
+      "title": "Jam-Pod",
+      "published_at": "2026-07-14T10:08:42-07:00",
+      "link": "https://www.producthunt.com/products/jam-pod",
+      "summary": "A player for people who keep their own music collection Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Khan Academy CEO: The Real AI Opportunity Is in Boring Industries | Sal Khan",
+      "title": "Khan Academy CEO: You don't need a $380K degree to survive AI | Sal Khan",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=s-Iz-lLAhdg",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Wix Founder: Will Base44 Win the Vibe-Coding Wars? | The Truth About the Economics of Vibe-Coding",
+      "title": "Wix Founder: What Wall St Gets Wrong About AI & Wix | Will Base44 Win the Vibe-Coding Wars?",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=TdQyVXN0GF8",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why AI is quietly dividing the tech workforce in two | Annual AI sentiment survey (Noam Segal)",
+      "title": "Why the AI’s honeymoon is ending (and tech workers are feeling it) | Noam Segal",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=_cmpIveXnvE",
       "summary": ""
