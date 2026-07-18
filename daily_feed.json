@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-17T03:53:14Z",
+  "generated_at": "2026-07-18T03:47:08Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Investing in Runta",
-      "published_at": "Thu, 16 Jul 2026 15:15:25 GMT",
-      "link": "https://www.a16z.news/p/investing-in-runta",
-      "summary": "a16z leads Runta's Seed round"
+      "title": "Charts of the Week: Software’s Selective Sell-Off",
+      "published_at": "Fri, 17 Jul 2026 14:03:49 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-softwares-selective",
+      "summary": "AI Demand Growth > AI Spend Growth; Summer internships, pay gains, and entry-level jobs; Data Centers make energy cheaper"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
-      "published_at": "Thu, 16 Jul 2026 16:08:40 +0000",
-      "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
-      "summary": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion."
+      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+      "published_at": "Fri, 17 Jul 2026 23:08:00 +0000",
+      "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+      "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a guaranteed spot on the world’s most […]"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Glacis Labs Banks $6.8 Million Seed Round",
-      "published_at": "16 Jul 2026 17:24:11 CDT",
-      "link": "https://vcnewsdaily.com/glacis-labs/venture-capital-funding/zssvvxmzqc",
-      "summary": "NEW YORK, NY, Glacis Labs, a crypto infrastructure company, announced the close of a $6.8 million seed funding round led by Lightspeed Faction."
+      "title": "Fora Raises $60M Series D at $1B Valution",
+      "published_at": "17 Jul 2026 14:45:20 CDT",
+      "link": "https://vcnewsdaily.com/fora/venture-capital-funding/pcqsldchfh",
+      "summary": "NEW YORK, NY, Fora, the platform powering a new generation of travel entrepreneurs, today announced it has closed a $60 million Series D at a $1 billion post-money valuation."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Node Health",
-      "published_at": "2026-07-15T00:08:33-07:00",
-      "link": "https://www.producthunt.com/products/node-health",
-      "summary": "Your private home for every lab result Discussion | Link"
+      "title": "Unabyss for Claude",
+      "published_at": "2026-07-10T12:19:45-07:00",
+      "link": "https://www.producthunt.com/products/unabyss",
+      "summary": "Shared memory across all apps and LLMs. In Claude Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Truth About Headless Software",
+      "title": "\"Being Canceled is a Choice\" | Replit CEO with a16z",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Mxs4erDxOEE",
+      "link": "https://www.youtube.com/watch?v=rghTqkclDqA",
       "summary": ""
     },
     {
@@ -68,15 +68,15 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Khan Academy CEO: The Real AI Opportunity Is in Boring Industries | Sal Khan",
+      "title": "AI is Splitting the Future: How to Build Your Plan for Both | The Liberman Brothers",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=s-Iz-lLAhdg",
+      "link": "https://www.youtube.com/watch?v=HMvTSaaO9sU",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Meta Takes on OpenAI | Apple Sues OpenAI | SK Hynix’s $26BN IPO",
+      "title": "Zuckerberg Back on X Challenging Codex & Claude Code | Apple Sues OpenAI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=HoRaqNWKcpM",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬 Lila's Lab: The Token Generator for Scientific Superintelligence — Lila Sciences",
+      "title": "🔬 The Sim-to-Real Gap: Why Lila Built a Real Lab Instead of a Better Simulator",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=2wIxPWK6nCs",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "AI's impact on the tech workforce | Annual AI sentiment survey (Noam Segal)",
+      "title": "Why the AI’s honeymoon is ending (and tech workers are feeling it) | Noam Segal",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=_cmpIveXnvE",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "YC's Head of Design Shows You How To Design With AI",
+      "title": "The Key Thing Human Brains Have That AI Is Trying To Learn",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=VbqaL_eHhKY",
+      "link": "https://www.youtube.com/watch?v=qz4GQ0zUFRw",
       "summary": ""
     }
   ]
