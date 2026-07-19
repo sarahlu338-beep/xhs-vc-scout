@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T03:47:08Z",
+  "generated_at": "2026-07-19T04:15:16Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Unabyss for Claude",
-      "published_at": "2026-07-10T12:19:45-07:00",
-      "link": "https://www.producthunt.com/products/unabyss",
-      "summary": "Shared memory across all apps and LLMs. In Claude Discussion | Link"
+      "title": "Clark",
+      "published_at": "2026-05-27T02:38:52-07:00",
+      "link": "https://www.producthunt.com/products/clark-agent",
+      "summary": "An AI coworker with its own cloud computer Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "\"Being Canceled is a Choice\" | Replit CEO with a16z",
+      "title": "Amjad Masad on Building Replit in Public",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=rghTqkclDqA",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "AI is Splitting the Future: How to Build Your Plan for Both | The Liberman Brothers",
+      "title": "What Happens in the Next 3 Years of AI — and How to Be Ready | The Liberman Brothers",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=HMvTSaaO9sU",
       "summary": ""
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Zuckerberg Back on X Challenging Codex & Claude Code | Apple Sues OpenAI",
+      "title": "We Built Our Own Salesforce in Months. Here's Why We're Cancelling the $600K Contract | Curative CEO",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=HoRaqNWKcpM",
+      "link": "https://www.youtube.com/watch?v=GHRuerXkHlI",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬 The Sim-to-Real Gap: Why Lila Built a Real Lab Instead of a Better Simulator",
+      "title": "🔬 Lila's Lab: The Token Generator for Scientific Superintelligence — Lila Sciences",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=2wIxPWK6nCs",
       "summary": ""
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The Key Thing Human Brains Have That AI Is Trying To Learn",
+      "title": "World Models, JEPA And The Path To Sample-Efficient RL",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=qz4GQ0zUFRw",
       "summary": ""
