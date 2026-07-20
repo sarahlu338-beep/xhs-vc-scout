@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T04:15:16Z",
+  "generated_at": "2026-07-20T04:28:04Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Clark",
-      "published_at": "2026-05-27T02:38:52-07:00",
-      "link": "https://www.producthunt.com/products/clark-agent",
-      "summary": "An AI coworker with its own cloud computer Discussion | Link"
+      "title": "Detourmap",
+      "published_at": "2026-07-18T02:27:10-07:00",
+      "link": "https://www.producthunt.com/products/detourmap",
+      "summary": "Every place worth the detour, on one interactive map Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Amjad Masad on Building Replit in Public",
+      "title": "Replit CEO Amjad Masad on Media, Politics, and Power | The a16z Show",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=rghTqkclDqA",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬 Lila's Lab: The Token Generator for Scientific Superintelligence — Lila Sciences",
+      "title": "🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=2wIxPWK6nCs",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why the AI’s honeymoon is ending (and tech workers are feeling it) | Noam Segal",
+      "title": "Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=_cmpIveXnvE",
+      "link": "https://www.youtube.com/watch?v=t0GiTyz4syY",
       "summary": ""
     },
     {
