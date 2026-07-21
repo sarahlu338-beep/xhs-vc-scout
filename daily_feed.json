@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-20T04:28:04Z",
+  "generated_at": "2026-07-21T04:01:07Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Charts of the Week: Software’s Selective Sell-Off",
-      "published_at": "Fri, 17 Jul 2026 14:03:49 GMT",
-      "link": "https://www.a16z.news/p/charts-of-the-week-softwares-selective",
-      "summary": "AI Demand Growth > AI Spend Growth; Summer internships, pay gains, and entry-level jobs; Data Centers make energy cheaper"
+      "title": "The 7 Hires a Hardware Startup Needs to Get Right",
+      "published_at": "Mon, 20 Jul 2026 14:03:47 GMT",
+      "link": "https://www.a16z.news/p/the-7-hires-a-hardware-startup-needs",
+      "summary": "Non-engineering hires determine whether a great product becomes a great business."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-      "published_at": "Fri, 17 Jul 2026 23:08:00 +0000",
-      "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-      "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a guaranteed spot on the world’s most […]"
+      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+      "published_at": "Mon, 20 Jul 2026 23:39:35 +0000",
+      "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Fora Raises $60M Series D at $1B Valution",
-      "published_at": "17 Jul 2026 14:45:20 CDT",
-      "link": "https://vcnewsdaily.com/fora/venture-capital-funding/pcqsldchfh",
-      "summary": "NEW YORK, NY, Fora, the platform powering a new generation of travel entrepreneurs, today announced it has closed a $60 million Series D at a $1 billion post-money valuation."
+      "title": "Feathery Pulls In $30M",
+      "published_at": "20 Jul 2026 15:04:19 CDT",
+      "link": "https://vcnewsdaily.com/feathery/venture-capital-funding/ytdmbtkttm",
+      "summary": "SAN FRANCISCO, CA, Feathery, the AI operating and decisioning system for financial services, announced today that it has raised $30 million in total funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Detourmap",
-      "published_at": "2026-07-18T02:27:10-07:00",
-      "link": "https://www.producthunt.com/products/detourmap",
-      "summary": "Every place worth the detour, on one interactive map Discussion | Link"
+      "title": "Autoplot",
+      "published_at": "2026-07-19T15:29:54-07:00",
+      "link": "https://www.producthunt.com/products/autoplot",
+      "summary": "Unify data analysis and plotting in one powerful workspace Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Replit CEO Amjad Masad on Media, Politics, and Power | The a16z Show",
+      "title": "The American Dynamism Film Series | Preview",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=rghTqkclDqA",
+      "link": "https://www.youtube.com/watch?v=RC4_MWFUHr0",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "What Happens in the Next 3 Years of AI — and How to Be Ready | The Liberman Brothers",
+      "title": "The Liberman Brothers: Start Now to Thrive in the Next 3 Years",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=HMvTSaaO9sU",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "We Built Our Own Salesforce in Months. Here's Why We're Cancelling the $600K Contract | Curative CEO",
+      "title": "Are OpenAI & Anthropic Overvalued? The Open-Source AI Reality with Fireworks AI, Lin Qiao",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=GHRuerXkHlI",
+      "link": "https://www.youtube.com/watch?v=PCAiqKCfRSk",
       "summary": ""
     },
     {
