@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-21T04:01:07Z",
+  "generated_at": "2026-07-22T04:09:38Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The 7 Hires a Hardware Startup Needs to Get Right",
-      "published_at": "Mon, 20 Jul 2026 14:03:47 GMT",
-      "link": "https://www.a16z.news/p/the-7-hires-a-hardware-startup-needs",
-      "summary": "Non-engineering hires determine whether a great product becomes a great business."
+      "title": "Making a Billion Intelligent Machines",
+      "published_at": "Tue, 21 Jul 2026 15:02:32 GMT",
+      "link": "https://www.a16z.news/p/making-a-billion-intelligent-machines",
+      "summary": "Why build the tools instead of the vehicle?"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
-      "published_at": "Mon, 20 Jul 2026 23:39:35 +0000",
-      "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
-      "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report."
+      "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
+      "published_at": "Tue, 21 Jul 2026 13:20:00 +0000",
+      "link": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
+      "summary": "Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson & Co."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Feathery Pulls In $30M",
-      "published_at": "20 Jul 2026 15:04:19 CDT",
-      "link": "https://vcnewsdaily.com/feathery/venture-capital-funding/ytdmbtkttm",
-      "summary": "SAN FRANCISCO, CA, Feathery, the AI operating and decisioning system for financial services, announced today that it has raised $30 million in total funding."
+      "title": "Singularity Emerges from Stealth with $80M Series A",
+      "published_at": "21 Jul 2026 14:28:56 CDT",
+      "link": "https://vcnewsdaily.com/singularity-defense/venture-capital-funding/jbckwhmlzk",
+      "summary": "LOS ANGELES, CA, Singularity emerged from stealth with an oversubscribed $80 million Series A at a $400 million valuation."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Autoplot",
-      "published_at": "2026-07-19T15:29:54-07:00",
-      "link": "https://www.producthunt.com/products/autoplot",
-      "summary": "Unify data analysis and plotting in one powerful workspace Discussion | Link"
+      "title": "ditto.site",
+      "published_at": "2026-07-19T10:24:53-07:00",
+      "link": "https://www.producthunt.com/products/ditto-site",
+      "summary": "Clone any website into clean code. Free & open source Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,31 +52,31 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The American Dynamism Film Series | Preview",
+      "title": "Why Physical AI Is the Next Frontier | The a16z Show",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=RC4_MWFUHr0",
+      "link": "https://www.youtube.com/watch?v=56XgWH9ch0U",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Anthropic's Katelyn Lesse & Angela Jiang: Building an Ecosystem, not a Walled Garden",
+      "title": "Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=vPnVTHYplrQ",
+      "link": "https://www.youtube.com/watch?v=ZesOukBjPmI",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "The Liberman Brothers: Start Now to Thrive in the Next 3 Years",
+      "title": "Top AI Economist: “The Next Decade Will Be the Best in Human History\" | Erik Brynjolfsson",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=HMvTSaaO9sU",
+      "link": "https://www.youtube.com/watch?v=72duHF7iZiU",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Are OpenAI & Anthropic Overvalued? The Open-Source AI Reality with Fireworks AI, Lin Qiao",
+      "title": "Are OpenAI & Anthropic Overvalued? How Token Costs Will Fall 10X & Usage Will Explode 100X",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=PCAiqKCfRSk",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences",
+      "title": "Xaira Therapeutics: Why Causal Models Need Causal Data (with Bo Wang & Ci Chu)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=2wIxPWK6nCs",
+      "link": "https://www.youtube.com/watch?v=2AdS-2uuH80",
       "summary": ""
     },
     {
