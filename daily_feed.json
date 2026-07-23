@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-22T04:09:38Z",
+  "generated_at": "2026-07-23T04:00:27Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Making a Billion Intelligent Machines",
-      "published_at": "Tue, 21 Jul 2026 15:02:32 GMT",
-      "link": "https://www.a16z.news/p/making-a-billion-intelligent-machines",
-      "summary": "Why build the tools instead of the vehicle?"
+      "title": "Travis is Back",
+      "published_at": "Wed, 22 Jul 2026 18:35:19 GMT",
+      "link": "https://www.a16z.news/p/travis-is-back",
+      "summary": "a16z is backing Travis Kalanick’s “new” company, Atoms"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
-      "published_at": "Tue, 21 Jul 2026 13:20:00 +0000",
-      "link": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
-      "summary": "Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson & Co."
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "published_at": "Wed, 22 Jul 2026 16:24:08 +0000",
+      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Singularity Emerges from Stealth with $80M Series A",
-      "published_at": "21 Jul 2026 14:28:56 CDT",
-      "link": "https://vcnewsdaily.com/singularity-defense/venture-capital-funding/jbckwhmlzk",
-      "summary": "LOS ANGELES, CA, Singularity emerged from stealth with an oversubscribed $80 million Series A at a $400 million valuation."
+      "title": "Whale Grabs $40M Series C Extension",
+      "published_at": "22 Jul 2026 15:51:51 CDT",
+      "link": "https://vcnewsdaily.com/whale/venture-capital-funding/fmyfmsvmhy",
+      "summary": "SAN FRANCISCO, CA, With its Series C now reaching $100 million, Whale, a global enterprise AI company, has announced a $40 million extension as it scales its global enterprise AI deployments."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "ditto.site",
-      "published_at": "2026-07-19T10:24:53-07:00",
-      "link": "https://www.producthunt.com/products/ditto-site",
-      "summary": "Clone any website into clean code. Free & open source Discussion | Link"
+      "title": "Migma AI",
+      "published_at": "2026-07-09T08:36:53-07:00",
+      "link": "https://www.producthunt.com/products/migma-ai",
+      "summary": "AI runs your email marketing. Better with every send. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Physical AI Is the Next Frontier | The a16z Show",
+      "title": "Inside Atoms: The Company Travis Kalanick Built in Stealth | a16z",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=56XgWH9ch0U",
+      "link": "https://www.youtube.com/watch?v=z6gH_v0buUc",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Top AI Economist: “The Next Decade Will Be the Best in Human History\" | Erik Brynjolfsson",
+      "title": "Stanford's Top AI Economist: The Next 10 Years Will Be the Best AND the Worst in History",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=72duHF7iZiU",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Are OpenAI & Anthropic Overvalued? How Token Costs Will Fall 10X & Usage Will Explode 100X",
+      "title": "The Open-Source AI Reality | How Token Costs Will Fall 10X & Usage Will Explode 100X | Lin Qiao",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=PCAiqKCfRSk",
       "summary": ""
@@ -84,15 +84,15 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Xaira Therapeutics: Why Causal Models Need Causal Data (with Bo Wang & Ci Chu)",
+      "title": "Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=2AdS-2uuH80",
+      "link": "https://www.youtube.com/watch?v=9_0hs2sxHHo",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)",
+      "title": "Why the AI era is validating Netflix’s culture | Elizabeth Stone (CPTO)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=t0GiTyz4syY",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "World Models, JEPA And The Path To Sample-Efficient RL",
+      "title": "Why Ambitious Startup Ideas Are Actually Easier To Sell",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=qz4GQ0zUFRw",
+      "link": "https://www.youtube.com/watch?v=ALJQHSgCl2E",
       "summary": ""
     }
   ]
