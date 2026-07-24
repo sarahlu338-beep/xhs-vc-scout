@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-23T04:00:27Z",
+  "generated_at": "2026-07-24T03:58:59Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Travis is Back",
-      "published_at": "Wed, 22 Jul 2026 18:35:19 GMT",
-      "link": "https://www.a16z.news/p/travis-is-back",
-      "summary": "a16z is backing Travis Kalanick’s “new” company, Atoms"
+      "title": "How to Win the Largest Market in AI",
+      "published_at": "Thu, 23 Jul 2026 15:34:26 GMT",
+      "link": "https://www.a16z.news/p/how-to-win-the-largest-market-in",
+      "summary": "Production is the product."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "published_at": "Wed, 22 Jul 2026 16:24:08 +0000",
-      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-      "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch."
+      "title": "Meet the judges who will crown Australia’s next breakout startup",
+      "published_at": "Fri, 24 Jul 2026 00:05:00 +0000",
+      "link": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+      "summary": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Whale Grabs $40M Series C Extension",
-      "published_at": "22 Jul 2026 15:51:51 CDT",
-      "link": "https://vcnewsdaily.com/whale/venture-capital-funding/fmyfmsvmhy",
-      "summary": "SAN FRANCISCO, CA, With its Series C now reaching $100 million, Whale, a global enterprise AI company, has announced a $40 million extension as it scales its global enterprise AI deployments."
+      "title": "Cheiron Scores $8M Seed Round",
+      "published_at": "23 Jul 2026 17:10:14 CDT",
+      "link": "https://vcnewsdaily.com/cheiron/venture-capital-funding/fpthtvjwhs",
+      "summary": "LOS ALTOS, CA, Cheiron, the operating system for drug programs, announced an $8 million seed round led by Menlo Ventures."
     },
     {
       "source": "YC Launches",
@@ -36,23 +36,23 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Migma AI",
-      "published_at": "2026-07-09T08:36:53-07:00",
-      "link": "https://www.producthunt.com/products/migma-ai",
-      "summary": "AI runs your email marketing. Better with every send. Discussion | Link"
+      "title": "PromptQL",
+      "published_at": "2026-07-17T20:23:57-07:00",
+      "link": "https://www.producthunt.com/products/promptql",
+      "summary": "Multiplayer AI that replaces Slack Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "Partnering with Bunkerhill Health: AI Agents that Improve Patient Outcomes",
-      "published_at": "Thu, 16 Jul 2026 17:00:13 +0000",
-      "link": "https://sequoiacap.com/article/partnering-with-bunkerhill-health-ai-agents-that-improve-patient-outcomes/",
-      "summary": "The post Partnering with Bunkerhill Health: AI Agents that Improve Patient Outcomes appeared first on Sequoia Capital ."
+      "title": "Partnering with Etched: Building the Inference Machine",
+      "published_at": "Thu, 23 Jul 2026 15:00:15 +0000",
+      "link": "https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/",
+      "summary": "The post Partnering with Etched: Building the Inference Machine appeared first on Sequoia Capital ."
     },
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Inside Atoms: The Company Travis Kalanick Built in Stealth | a16z",
+      "title": "Travis Kalanick on Building for the Physical World",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=z6gH_v0buUc",
       "summary": ""
@@ -60,9 +60,9 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself",
+      "title": "The Philosopher CEO | Clay Co-Founder Kareem Amin",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ZesOukBjPmI",
+      "link": "https://www.youtube.com/watch?v=xoE_pE26yDQ",
       "summary": ""
     },
     {
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The Open-Source AI Reality | How Token Costs Will Fall 10X & Usage Will Explode 100X | Lin Qiao",
+      "title": "Frontier Labs Threatened by Kimi? Should the US Ban Chinese Open-Source Models & Stripe Buys PayPal",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=PCAiqKCfRSk",
+      "link": "https://www.youtube.com/watch?v=rwGTOmdbLQs",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI",
+      "title": "The AI Frontier: from open weights to open research — Eiso Kant, Poolside AI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=9_0hs2sxHHo",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why the AI era is validating Netflix’s culture | Elizabeth Stone (CPTO)",
+      "title": "Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=t0GiTyz4syY",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Why Ambitious Startup Ideas Are Actually Easier To Sell",
+      "title": "The Model-Agnostic AI Platform Betting That No Single Lab Will Win",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ALJQHSgCl2E",
+      "link": "https://www.youtube.com/watch?v=DbBnd9PYob4",
       "summary": ""
     }
   ]
