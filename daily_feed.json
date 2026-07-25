@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-24T03:58:59Z",
+  "generated_at": "2026-07-25T03:56:35Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "How to Win the Largest Market in AI",
-      "published_at": "Thu, 23 Jul 2026 15:34:26 GMT",
-      "link": "https://www.a16z.news/p/how-to-win-the-largest-market-in",
-      "summary": "Production is the product."
+      "title": "Charts of the Week: Are Semis Cheap?",
+      "published_at": "Fri, 24 Jul 2026 15:03:26 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-are-semis-cheap",
+      "summary": "IRL is Back; Gen-Z’s Small Business Surge;"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Meet the judges who will crown Australia’s next breakout startup",
-      "published_at": "Fri, 24 Jul 2026 00:05:00 +0000",
-      "link": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
-      "summary": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups."
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "published_at": "Fri, 24 Jul 2026 22:25:58 +0000",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Cheiron Scores $8M Seed Round",
-      "published_at": "23 Jul 2026 17:10:14 CDT",
-      "link": "https://vcnewsdaily.com/cheiron/venture-capital-funding/fpthtvjwhs",
-      "summary": "LOS ALTOS, CA, Cheiron, the operating system for drug programs, announced an $8 million seed round led by Menlo Ventures."
+      "title": "MyDecisive Emerges With $12M",
+      "published_at": "24 Jul 2026 15:02:04 CDT",
+      "link": "https://vcnewsdaily.com/mydecisive/venture-capital-funding/glndcgyxrb",
+      "summary": "SAN FRANCISCO, CA, MyDecisive has announced its emergence from stealth mode alongside a $12 million funding round."
     },
     {
       "source": "YC Launches",
@@ -36,23 +36,23 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "PromptQL",
-      "published_at": "2026-07-17T20:23:57-07:00",
-      "link": "https://www.producthunt.com/products/promptql",
-      "summary": "Multiplayer AI that replaces Slack Discussion | Link"
+      "title": "Prosed",
+      "published_at": "2026-07-18T18:23:23-07:00",
+      "link": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "summary": "The AI book service that shows its work Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "Partnering with Etched: Building the Inference Machine",
-      "published_at": "Thu, 23 Jul 2026 15:00:15 +0000",
-      "link": "https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/",
-      "summary": "The post Partnering with Etched: Building the Inference Machine appeared first on Sequoia Capital ."
+      "title": "America’s Open-Model Paradox",
+      "published_at": "Fri, 24 Jul 2026 23:46:04 +0000",
+      "link": "https://sequoiacap.com/article/americas-open-model-paradox/",
+      "summary": "The post America’s Open-Model Paradox appeared first on Sequoia Capital ."
     },
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Travis Kalanick on Building for the Physical World",
+      "title": "From Uber to Atoms: Travis Kalanick's Comeback Story",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=z6gH_v0buUc",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "The Philosopher CEO | Clay Co-Founder Kareem Amin",
+      "title": "Devotion Over Discipline: Clay Co-Founder Kareem Amin's Contrarian CEO Playbook",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=xoE_pE26yDQ",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Stanford's Top AI Economist: The Next 10 Years Will Be the Best AND the Worst in History",
+      "title": "Top AI Economist: “The Next Decade Will Be the Best in Human History\" | Erik Brynjolfsson",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=72duHF7iZiU",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The Model-Agnostic AI Platform Betting That No Single Lab Will Win",
+      "title": "How Two French Engineers In New York Built The Company That Monitors The Entire Cloud",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=DbBnd9PYob4",
+      "link": "https://www.youtube.com/watch?v=vb1Gcn10enw",
       "summary": ""
     }
   ]
