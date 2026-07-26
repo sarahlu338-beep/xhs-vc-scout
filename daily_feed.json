@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T03:56:35Z",
+  "generated_at": "2026-07-26T04:18:59Z",
   "items": [
     {
       "source": "a16z News",
@@ -20,10 +20,10 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "MyDecisive Emerges With $12M",
-      "published_at": "24 Jul 2026 15:02:04 CDT",
-      "link": "https://vcnewsdaily.com/mydecisive/venture-capital-funding/glndcgyxrb",
-      "summary": "SAN FRANCISCO, CA, MyDecisive has announced its emergence from stealth mode alongside a $12 million funding round."
+      "title": "Gritt Launches With $32.4M Pre-Seed & Series A",
+      "published_at": "25 Jul 2026 11:28:25 CDT",
+      "link": "https://vcnewsdaily.com/gritt/venture-capital-funding/dfdmzytcfg",
+      "summary": "SAN FRANCISCO, CA, Gritt, the company building an intelligent system combining robotics and AI to accelerate the world's infrastructure buildout, launches with $32.4 million in pre-seed and Series A funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Prosed",
-      "published_at": "2026-07-18T18:23:23-07:00",
-      "link": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "summary": "The AI book service that shows its work Discussion | Link"
+      "title": "FluentDB",
+      "published_at": "2026-07-22T01:36:28-07:00",
+      "link": "https://www.producthunt.com/products/fluentdb-2",
+      "summary": "The AI database client for Mac Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "From Uber to Atoms: Travis Kalanick's Comeback Story",
+      "title": "Building a Company in Stealth | Travis Kalanick with a16z",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=z6gH_v0buUc",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Devotion Over Discipline: Clay Co-Founder Kareem Amin's Contrarian CEO Playbook",
+      "title": "Clay Co-Founder Kareem Amin's Contrarian CEO Playbook: Devotion Over Discipline",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=xoE_pE26yDQ",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Top AI Economist: “The Next Decade Will Be the Best in Human History\" | Erik Brynjolfsson",
+      "title": "Stanford's Top AI Economist: The Next 10 Years Will Be the Best AND the Worst in History",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=72duHF7iZiU",
       "summary": ""
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Frontier Labs Threatened by Kimi? Should the US Ban Chinese Open-Source Models & Stripe Buys PayPal",
+      "title": "Mercor Head of Product on Revenue Concentration from Frontier Labs",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=rwGTOmdbLQs",
+      "link": "https://www.youtube.com/watch?v=rlY1mHhJKvs",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The AI Frontier: from open weights to open research — Eiso Kant, Poolside AI",
+      "title": "Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=9_0hs2sxHHo",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "How Two French Engineers In New York Built The Company That Monitors The Entire Cloud",
+      "title": "What Actually Makes A Startup Durable",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=vb1Gcn10enw",
+      "link": "https://www.youtube.com/watch?v=99sPd15j3Zc",
       "summary": ""
     }
   ]
