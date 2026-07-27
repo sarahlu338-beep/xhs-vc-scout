@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T04:18:59Z",
+  "generated_at": "2026-07-27T04:28:24Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "FluentDB",
-      "published_at": "2026-07-22T01:36:28-07:00",
-      "link": "https://www.producthunt.com/products/fluentdb-2",
-      "summary": "The AI database client for Mac Discussion | Link"
+      "title": "AppUFO",
+      "published_at": "2026-07-25T02:00:29-07:00",
+      "link": "https://www.producthunt.com/products/appufo-localise-apps-with-ai",
+      "summary": "Ship localised Apps faster Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Clay Co-Founder Kareem Amin's Contrarian CEO Playbook: Devotion Over Discipline",
+      "title": "Devotion Over Discipline: Clay Co-Founder Kareem Amin's Contrarian CEO Playbook",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=xoE_pE26yDQ",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Mercor Head of Product on Revenue Concentration from Frontier Labs",
+      "title": "Why Large Enterprise is Scared to Partner with Frontier Labs | Mercor Head of Product",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=rlY1mHhJKvs",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI",
+      "title": "The AI Frontier: from open weights to open research — Eiso Kant, Poolside AI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=9_0hs2sxHHo",
       "summary": ""
@@ -92,17 +92,17 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)",
+      "title": "Why the best product leaders are building for 2028 | Dianne Penn (Anthropic)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=t0GiTyz4syY",
+      "link": "https://www.youtube.com/watch?v=tivaWTTVRhY",
       "summary": ""
     },
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "What Actually Makes A Startup Durable",
+      "title": "Jensen Huang: The Mindset That Built NVIDIA",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=99sPd15j3Zc",
+      "link": "https://www.youtube.com/watch?v=I4B37S1dyQQ",
       "summary": ""
     }
   ]
