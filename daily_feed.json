@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-27T04:28:24Z",
+  "generated_at": "2026-07-28T03:52:44Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Charts of the Week: Are Semis Cheap?",
-      "published_at": "Fri, 24 Jul 2026 15:03:26 GMT",
-      "link": "https://www.a16z.news/p/charts-of-the-week-are-semis-cheap",
-      "summary": "IRL is Back; Gen-Z’s Small Business Surge;"
+      "title": "Lighthouse or Landgrab? How to Pick Your AI Sales Strategy",
+      "published_at": "Mon, 27 Jul 2026 14:01:57 GMT",
+      "link": "https://www.a16z.news/p/lighthouse-or-landgrab-how-to-pick",
+      "summary": "Your buyer doesn't purchase the future; they purchase either proof or math."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "published_at": "Fri, 24 Jul 2026 22:25:58 +0000",
-      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
+      "title": "Antares raises $470M to build nuclear reactors for the US military",
+      "published_at": "Mon, 27 Jul 2026 17:49:28 +0000",
+      "link": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+      "summary": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Gritt Launches With $32.4M Pre-Seed & Series A",
-      "published_at": "25 Jul 2026 11:28:25 CDT",
-      "link": "https://vcnewsdaily.com/gritt/venture-capital-funding/dfdmzytcfg",
-      "summary": "SAN FRANCISCO, CA, Gritt, the company building an intelligent system combining robotics and AI to accelerate the world's infrastructure buildout, launches with $32.4 million in pre-seed and Series A funding."
+      "title": "Crystalys Therapeutics Inks $130 Million Series B",
+      "published_at": "27 Jul 2026 14:55:44 CDT",
+      "link": "https://vcnewsdaily.com/crystalys-therapeutics/venture-capital-funding/xmqrjkppqt",
+      "summary": "SAN DIEGO, CA, Crystalys Therapeutics, a clinical-stage biopharmaceutical company, announced the closing of an oversubscribed $130 million Series B financing."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "AppUFO",
-      "published_at": "2026-07-25T02:00:29-07:00",
-      "link": "https://www.producthunt.com/products/appufo-localise-apps-with-ai",
-      "summary": "Ship localised Apps faster Discussion | Link"
+      "title": "Robynn AI",
+      "published_at": "2026-07-13T10:21:13-07:00",
+      "link": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
+      "summary": "Websites that improve and heal with self-learning Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Devotion Over Discipline: Clay Co-Founder Kareem Amin's Contrarian CEO Playbook",
+      "title": "The Philosopher CEO | Clay Co-Founder Kareem Amin",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=xoE_pE26yDQ",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Why Large Enterprise is Scared to Partner with Frontier Labs | Mercor Head of Product",
+      "title": "Leading Anthropic's Seed Round | Do Margins Matter in AI & Why Series A is Hard | Matt Murphy",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=rlY1mHhJKvs",
+      "link": "https://www.youtube.com/watch?v=SIYWWDUKmUI",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Jensen Huang: The Mindset That Built NVIDIA",
+      "title": "Sam Altman: \"Never a Better Time to Do a Startup\"",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=I4B37S1dyQQ",
+      "link": "https://www.youtube.com/watch?v=ZIaOBAjvc38",
       "summary": ""
     }
   ]
