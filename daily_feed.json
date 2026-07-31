@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-30T03:48:01Z",
+  "generated_at": "2026-07-31T04:14:37Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Building Worlds That Train Robots",
-      "published_at": "Wed, 29 Jul 2026 14:01:02 GMT",
-      "link": "https://www.a16z.news/p/building-worlds-that-train-robots",
-      "summary": "Real-to-sim-to-real (R2S2R) as a scalable engine for training and evaluating robot policies"
+      "title": "The Hidden Math of Behavioral Health",
+      "published_at": "Thu, 30 Jul 2026 14:04:06 GMT",
+      "link": "https://www.a16z.news/p/the-hidden-math-of-behavioral-health",
+      "summary": "Behavioral care is booming. Getting paid for it is the hard part."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "published_at": "Wed, 29 Jul 2026 18:45:27 +0000",
-      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever."
+      "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+      "published_at": "Thu, 30 Jul 2026 17:50:11 +0000",
+      "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+      "summary": "Add another member to the fast-and-furious AI unicorn club: Simile."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Adjuvia Therapeutics Closes $8 Million Seed Round",
-      "published_at": "29 Jul 2026 16:24:06 CDT",
-      "link": "https://vcnewsdaily.com/adjuvia-therapeutics/venture-capital-funding/fmndtjzwxw",
-      "summary": "SAN FRANCISCO, CA, Adjuvia Therapeutics, a biotechnology company, announced the closing of an $8 million Series Seed financing."
+      "title": "Precise Behavioral Secures $14.2 Million Funding",
+      "published_at": "30 Jul 2026 15:47:14 CDT",
+      "link": "https://vcnewsdaily.com/precise-behavioral/venture-capital-funding/myqlksyqlp",
+      "summary": "LOS ANGELES, CA, Precise Behavioral, a physician-led behavioral health services and technology company, announced $14.2 million in venture funding. The round was led by A1 Health Ventures."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "SoundGate Guitar",
-      "published_at": "2026-07-05T15:03:44-07:00",
-      "link": "https://www.producthunt.com/products/soundgate-guitar-app",
-      "summary": "AI Music Tutor that gives real-time feedback on your playing Discussion | Link"
+      "title": "PRNotch",
+      "published_at": "2026-07-29T06:52:23-07:00",
+      "link": "https://www.producthunt.com/products/prnotch",
+      "summary": "GitHub pull requests in your Mac's notch Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Fei-Fei Li is Solving the Hardest Problem in Robotics | World Labs with a16z",
+      "title": "“Every small business should run itself” | Lassie with a16z",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=-tabaM5l3s0",
+      "link": "https://www.youtube.com/watch?v=Fpg_8aiBxx4",
       "summary": ""
     },
     {
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Leading Anthropic's Seed Round | Do Margins Matter in AI & Why Series A is Hard | Matt Murphy",
+      "title": "Jensen's Open-Weights Letter | Google Cloud Grows 82% But The Market Tanks",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=SIYWWDUKmUI",
+      "link": "https://www.youtube.com/watch?v=0oWgE5ph9r4",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The Future of Work: AI Generalists, Ideas, and Taste — Akshay Nathan, OpenAI",
+      "title": "OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=gKhW6vL4V9A",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Multi-GPU Kernels, Intelligence per Watt, Heterogeneous Inference, and More | YC Paper Club",
+      "title": "Jeff Dean: The 1% Rule for Building in AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=n8dz2FX0_uY",
+      "link": "https://www.youtube.com/watch?v=CxXgV54KzpQ",
       "summary": ""
     }
   ]
