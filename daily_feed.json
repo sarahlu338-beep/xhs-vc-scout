@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-31T04:14:37Z",
+  "generated_at": "2026-08-01T04:17:14Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The Hidden Math of Behavioral Health",
-      "published_at": "Thu, 30 Jul 2026 14:04:06 GMT",
-      "link": "https://www.a16z.news/p/the-hidden-math-of-behavioral-health",
-      "summary": "Behavioral care is booming. Getting paid for it is the hard part."
+      "title": "Charts of the Week: Moar Machines",
+      "published_at": "Fri, 31 Jul 2026 14:01:44 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-moar-machines",
+      "summary": "Entry Level Continued; The Industries Spending on AI"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
-      "published_at": "Thu, 30 Jul 2026 17:50:11 +0000",
-      "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
-      "summary": "Add another member to the fast-and-furious AI unicorn club: Simile."
+      "title": "Silicon Valley loves young founders. Until it doesn’t.",
+      "published_at": "Fri, 31 Jul 2026 22:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Precise Behavioral Secures $14.2 Million Funding",
-      "published_at": "30 Jul 2026 15:47:14 CDT",
-      "link": "https://vcnewsdaily.com/precise-behavioral/venture-capital-funding/myqlksyqlp",
-      "summary": "LOS ANGELES, CA, Precise Behavioral, a physician-led behavioral health services and technology company, announced $14.2 million in venture funding. The round was led by A1 Health Ventures."
+      "title": "Provable Markets Raises Series B Funding",
+      "published_at": "31 Jul 2026 15:38:20 CDT",
+      "link": "https://vcnewsdaily.com/provable-markets/venture-capital-funding/ldnnnhctfl",
+      "summary": "NEW YORK, NY, Provable Markets, operator of the securities finance platform Aurora, announced the completion of its Series B investment round led by Charles Schwab."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "PRNotch",
-      "published_at": "2026-07-29T06:52:23-07:00",
-      "link": "https://www.producthunt.com/products/prnotch",
-      "summary": "GitHub pull requests in your Mac's notch Discussion | Link"
+      "title": "Mubert API",
+      "published_at": "2026-07-30T00:18:31-07:00",
+      "link": "https://www.producthunt.com/products/mubert",
+      "summary": "Edit tracks & stems, get consistent music with new engine Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "“Every small business should run itself” | Lassie with a16z",
+      "title": "Decagon’s Playbook for Building Enterprise AI Applications",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Fpg_8aiBxx4",
+      "link": "https://www.youtube.com/watch?v=cO1f2wOxSH4",
       "summary": ""
     },
     {
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Jensen's Open-Weights Letter | Google Cloud Grows 82% But The Market Tanks",
+      "title": "Travis Kalanick Raises $1.7B for Atoms | Google Cloud Grows 82% But The Market Tanks",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=0oWgE5ph9r4",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Jeff Dean: The 1% Rule for Building in AI",
+      "title": "Patrick Collison: Is AI Breaking the Lean Startup Playbook?",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=CxXgV54KzpQ",
+      "link": "https://www.youtube.com/watch?v=5d6y3poKwK4",
       "summary": ""
     }
   ]
