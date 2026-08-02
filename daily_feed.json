@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T04:17:14Z",
+  "generated_at": "2026-08-02T04:16:56Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Mubert API",
-      "published_at": "2026-07-30T00:18:31-07:00",
-      "link": "https://www.producthunt.com/products/mubert",
-      "summary": "Edit tracks & stems, get consistent music with new engine Discussion | Link"
+      "title": "NudgeForMe",
+      "published_at": "2026-07-31T03:42:14-07:00",
+      "link": "https://www.producthunt.com/products/nudgeforme",
+      "summary": "AI follow-up agent for missed email opportunities Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Decagon’s Playbook for Building Enterprise AI Applications",
+      "title": "Why Decagon's Founders Don't Believe the Labs Are the Last Startups",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=cO1f2wOxSH4",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "23andMe Founder: 3 Data Layers That Predict Disease Risk | Anne Wojcicki",
+      "title": "Stop Disease 5 Years Early: AI + DNA Playbook With 23andMe's Founder  Anne Wojcicki",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=VF2FwZ_PXhw",
       "summary": ""
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Travis Kalanick Raises $1.7B for Atoms | Google Cloud Grows 82% But The Market Tanks",
+      "title": "Will Simile Kill Kalshi, Polymarkets & NASDAQ with Co-founder & CEO, Joon Sung Park",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=0oWgE5ph9r4",
+      "link": "https://www.youtube.com/watch?v=ya6D6-SizbI",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI",
+      "title": "OpenAI’s Vision for the AI Super App — Akshay Nathan, OpenAI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=gKhW6vL4V9A",
       "summary": ""
