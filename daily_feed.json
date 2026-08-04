@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-03T04:21:50Z",
+  "generated_at": "2026-08-04T03:55:48Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Charts of the Week: Moar Machines",
-      "published_at": "Fri, 31 Jul 2026 14:01:44 GMT",
-      "link": "https://www.a16z.news/p/charts-of-the-week-moar-machines",
-      "summary": "Entry Level Continued; The Industries Spending on AI"
+      "title": "Marc Andreessen & Chris Dixon: Why America needs CLARITY",
+      "published_at": "Mon, 03 Aug 2026 16:01:02 GMT",
+      "link": "https://www.a16z.news/p/marc-andreessen-and-chris-dixon-why",
+      "summary": "And why no rules is the riskiest rule of all"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Silicon Valley loves young founders. Until it doesn’t.",
-      "published_at": "Fri, 31 Jul 2026 22:00:00 +0000",
-      "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company."
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "published_at": "Mon, 03 Aug 2026 20:00:00 +0000",
+      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Provable Markets Raises Series B Funding",
-      "published_at": "31 Jul 2026 15:38:20 CDT",
-      "link": "https://vcnewsdaily.com/provable-markets/venture-capital-funding/ldnnnhctfl",
-      "summary": "NEW YORK, NY, Provable Markets, operator of the securities finance platform Aurora, announced the completion of its Series B investment round led by Charles Schwab."
+      "title": "CAIS Secures $170M Series D",
+      "published_at": "03 Aug 2026 15:50:32 CDT",
+      "link": "https://vcnewsdaily.com/cais/venture-capital-funding/bpckwtxbdv",
+      "summary": "NEW YORK, NY, CAIS, an alternative investment platform serving independent financial advisers, has closed a $170M Series D funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "UniwebPay Skill",
-      "published_at": "2026-07-14T14:27:49-07:00",
-      "link": "https://www.producthunt.com/products/uniwebpay",
-      "summary": "Financial Infra for the AI era Discussion | Link"
+      "title": "CoachAI",
+      "published_at": "2026-08-01T16:15:00-07:00",
+      "link": "https://www.producthunt.com/products/coachai-fitness-coach",
+      "summary": "Your iPhone camera watches your form, rep by rep Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Decagon's Founders Don't Believe the Labs Are the Last Startups",
+      "title": "How Decagon Runs 90% of Its Agents on Open-Source Models",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=cO1f2wOxSH4",
       "summary": ""
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The AI Company Simulating the Entire Economy | Simile Co-founder & CEO, Joon Sung Park",
+      "title": "Arena CEO: 70% of Neolabs Will Die | There Will be a $100BN US Open-Source Model",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ya6D6-SizbI",
+      "link": "https://www.youtube.com/watch?v=b_VUAev1Lmc",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "OpenAI’s Vision for the AI Super App — Akshay Nathan, OpenAI",
+      "title": "The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=gKhW6vL4V9A",
+      "link": "https://www.youtube.com/watch?v=7PSXtru6mmY",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "What it takes to stand out among 31,832 PM applicants | Tom Verrilli (CPO of Whatnot)",
+      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ruvis-VWg2s",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Patrick Collison: Is AI Breaking the Lean Startup Playbook?",
+      "title": "Waymo Co-CEO Dmitri Dolgov: \"Move Fast And Ship Safely\"",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=5d6y3poKwK4",
+      "link": "https://www.youtube.com/watch?v=Gp4zrV3-6N8",
       "summary": ""
     }
   ]
