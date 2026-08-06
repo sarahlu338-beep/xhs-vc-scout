@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-05T03:50:40Z",
+  "generated_at": "2026-08-06T03:55:30Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Base Power & the Future of Electricity",
-      "published_at": "Tue, 04 Aug 2026 16:30:45 GMT",
-      "link": "https://www.a16z.news/p/base-power-and-the-future-of-electricity",
-      "summary": "Electricity is a commodity, and the best electron is the cheapest electron."
+      "title": "American Dynamism Film Series",
+      "published_at": "Wed, 05 Aug 2026 14:01:19 GMT",
+      "link": "https://www.a16z.news/p/american-dynamism-film-series",
+      "summary": "A spotlight on three companies changing how we build, power and defend America"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
-      "published_at": "Tue, 04 Aug 2026 22:18:30 +0000",
-      "link": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
-      "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees."
+      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+      "published_at": "Wed, 05 Aug 2026 22:55:43 +0000",
+      "link": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+      "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "June AI Lands $20 Million in Pre-Seed Funding",
-      "published_at": "04 Aug 2026 16:57:00 CDT",
-      "link": "https://vcnewsdaily.com/june-ai/venture-capital-funding/ygvbprbghs",
-      "summary": "NEW YORK, NY, June AI announced it has emerged from stealth with $20 million in pre-Seed funding."
+      "title": "Aurelius Systems Secures $40M Series A",
+      "published_at": "05 Aug 2026 13:59:02 CDT",
+      "link": "https://vcnewsdaily.com/aurelius-systems/venture-capital-funding/sbxskmlbxs",
+      "summary": "SAN FRANCISCO, CA, Aurelius Systems announced it has successfully closed a $40 million Series A funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Driven",
-      "published_at": "2026-07-21T19:16:19-07:00",
-      "link": "https://www.producthunt.com/products/driven-ai",
-      "summary": "The trusted AI investment agent, from insight to action Discussion | Link"
+      "title": "AdAnt AI",
+      "published_at": "2026-07-31T22:39:48-07:00",
+      "link": "https://www.producthunt.com/products/adant-ai",
+      "summary": "Claude for viral, high-converting social ads Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Decagon’s Playbook for Building Enterprise AI Applications",
+      "title": "The Ocean Company - Ulysses | a16z American Dynamism",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=cO1f2wOxSH4",
+      "link": "https://www.youtube.com/watch?v=Iy1W8vOxv5o",
       "summary": ""
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten",
+      "title": "Inference Is the New Training — Philip Kiely and Ali Taha, Basten",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=7PSXtru6mmY",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Inside the new world of product management | Tom Verrilli (CPO of Whatnot)",
+      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ruvis-VWg2s",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work",
+      "title": "The Case for Data Centers in Space",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Gp4zrV3-6N8",
+      "link": "https://www.youtube.com/watch?v=A9JDkiYEhfY",
       "summary": ""
     }
   ]
