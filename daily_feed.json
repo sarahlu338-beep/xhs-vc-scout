@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-06T03:55:30Z",
+  "generated_at": "2026-08-07T03:41:19Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "American Dynamism Film Series",
-      "published_at": "Wed, 05 Aug 2026 14:01:19 GMT",
-      "link": "https://www.a16z.news/p/american-dynamism-film-series",
-      "summary": "A spotlight on three companies changing how we build, power and defend America"
+      "title": "Knowing When to Stop: The Art of Making a Loop Converge",
+      "published_at": "Thu, 06 Aug 2026 14:01:08 GMT",
+      "link": "https://www.a16z.news/p/knowing-when-to-stop-the-art-of-making",
+      "summary": "The systems that matter will not be the ones that can keep going. They all can."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
-      "published_at": "Wed, 05 Aug 2026 22:55:43 +0000",
-      "link": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-      "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing."
+      "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+      "published_at": "Thu, 06 Aug 2026 22:00:00 +0000",
+      "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+      "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here’s what $12,500 buys you: Joining fellow exhibitors is the fastest, lowest-lift way for a […]"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Aurelius Systems Secures $40M Series A",
-      "published_at": "05 Aug 2026 13:59:02 CDT",
-      "link": "https://vcnewsdaily.com/aurelius-systems/venture-capital-funding/sbxskmlbxs",
-      "summary": "SAN FRANCISCO, CA, Aurelius Systems announced it has successfully closed a $40 million Series A funding round."
+      "title": "Ordway Secures $20M in Growth Capital",
+      "published_at": "06 Aug 2026 16:29:18 CDT",
+      "link": "https://vcnewsdaily.com/ordway/venture-capital-funding/rtwlhlvlvy",
+      "summary": "WASHINGTON, DC, Ordway, the monetization platform for innovative business models, has secured access to $20M in additional equity and debt funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "AdAnt AI",
-      "published_at": "2026-07-31T22:39:48-07:00",
-      "link": "https://www.producthunt.com/products/adant-ai",
-      "summary": "Claude for viral, high-converting social ads Discussion | Link"
+      "title": "Cloudflare OS",
+      "published_at": "2026-08-05T11:52:07-07:00",
+      "link": "https://www.producthunt.com/products/cloudflare",
+      "summary": "Build the AI operating system for your company Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Ocean Company - Ulysses | a16z American Dynamism",
+      "title": "How Open Source Infrastructure Powers the AI Economy",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Iy1W8vOxv5o",
+      "link": "https://www.youtube.com/watch?v=78-6dUROziQ",
       "summary": ""
     },
     {
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Arena CEO: There Will be a $100BN US Open-Source Model & Data is a Trillion Dollar Market",
+      "title": "Airtable Sold for $1.285B | Anthropic Model Breaches Companies Security | Why Palantir Beat The Rest",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=b_VUAev1Lmc",
+      "link": "https://www.youtube.com/watch?v=Q6kDZJ0xdSw",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Inference Is the New Training — Philip Kiely and Ali Taha, Basten",
+      "title": "The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=7PSXtru6mmY",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+      "title": "Inside the new world of product management | Tom Verrilli (CPO of Whatnot)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ruvis-VWg2s",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The Case for Data Centers in Space",
+      "title": "Garry Tan: The Future of AGI Is Personal",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=A9JDkiYEhfY",
+      "link": "https://www.youtube.com/watch?v=eRrc1pUY5oU",
       "summary": ""
     }
   ]
