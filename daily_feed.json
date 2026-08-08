@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-07T03:41:19Z",
+  "generated_at": "2026-08-08T02:46:32Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Knowing When to Stop: The Art of Making a Loop Converge",
-      "published_at": "Thu, 06 Aug 2026 14:01:08 GMT",
-      "link": "https://www.a16z.news/p/knowing-when-to-stop-the-art-of-making",
-      "summary": "The systems that matter will not be the ones that can keep going. They all can."
+      "title": "Charts of the Week: Bookslop",
+      "published_at": "Fri, 07 Aug 2026 14:01:58 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-bookslop",
+      "summary": "The Defense Backlog; IT Services → Cloud; Kimi’s Enterprise Play"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-      "published_at": "Thu, 06 Aug 2026 22:00:00 +0000",
-      "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-      "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here’s what $12,500 buys you: Joining fellow exhibitors is the fastest, lowest-lift way for a […]"
+      "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
+      "published_at": "Fri, 07 Aug 2026 15:52:33 +0000",
+      "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+      "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Cloudflare OS",
-      "published_at": "2026-08-05T11:52:07-07:00",
-      "link": "https://www.producthunt.com/products/cloudflare",
-      "summary": "Build the AI operating system for your company Discussion | Link"
+      "title": "Soloop",
+      "published_at": "2026-08-06T03:36:29-07:00",
+      "link": "https://www.producthunt.com/products/soloop",
+      "summary": "Approval-first Agent OS for solo founders Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "How Open Source Infrastructure Powers the AI Economy",
+      "title": "AI Is Learning to Hack. Faster Than We Expected.",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=78-6dUROziQ",
+      "link": "https://www.youtube.com/watch?v=RtNrvPBkwfA",
       "summary": ""
     },
     {
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Airtable Sold for $1.285B | Anthropic Model Breaches Companies Security | Why Palantir Beat The Rest",
+      "title": "Leo Aschenbrenner's Situational Awareness Blows Up | Moonshot AI Raises $3.5B at $35B",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Q6kDZJ0xdSw",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten",
+      "title": "Inference Is the New Training — Philip Kiely and Ali Taha, Basten",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=7PSXtru6mmY",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Inside the new world of product management | Tom Verrilli (CPO of Whatnot)",
+      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ruvis-VWg2s",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Garry Tan: The Future of AGI Is Personal",
+      "title": "Max Hodak: Average Is Not Good Enough",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=eRrc1pUY5oU",
+      "link": "https://www.youtube.com/watch?v=Xc4klGbq8v8",
       "summary": ""
     }
   ]
