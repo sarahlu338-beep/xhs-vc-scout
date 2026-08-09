@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T02:46:32Z",
+  "generated_at": "2026-08-09T02:54:05Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
-      "published_at": "Fri, 07 Aug 2026 15:52:33 +0000",
-      "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
-      "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing."
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "published_at": "Sat, 08 Aug 2026 19:41:13 +0000",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "summary": "NextSlide says its team members are now working on ChatGPT."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Soloop",
-      "published_at": "2026-08-06T03:36:29-07:00",
-      "link": "https://www.producthunt.com/products/soloop",
-      "summary": "Approval-first Agent OS for solo founders Discussion | Link"
+      "title": "Toolport",
+      "published_at": "2026-08-07T13:20:13-07:00",
+      "link": "https://www.producthunt.com/products/conduit-12",
+      "summary": "Every tool, one port. One MCP setup for all your AI agents Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "AI Is Learning to Hack. Faster Than We Expected.",
+      "title": "The Reality of AI-Powered Cyberattacks | Truffle Security & Socket",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=RtNrvPBkwfA",
       "summary": ""
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Leo Aschenbrenner's Situational Awareness Blows Up | Moonshot AI Raises $3.5B at $35B",
+      "title": "The AI Boom Will Create Enormous Roadkill: Who Wins & Loses? | David Frankel",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Q6kDZJ0xdSw",
+      "link": "https://www.youtube.com/watch?v=PDaGwInqbbQ",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Inference Is the New Training — Philip Kiely and Ali Taha, Basten",
+      "title": "Next 100x in AI: Inference, Networking, & Self-Optimizing Models — Philip Kiely & Ali Taha, Baseten",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=7PSXtru6mmY",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Max Hodak: Average Is Not Good Enough",
+      "title": "Why Robotics Still Isn't Solved - But Could Be Soon | YC Paper Club",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Xc4klGbq8v8",
+      "link": "https://www.youtube.com/watch?v=myDCd0hNqQU",
       "summary": ""
     }
   ]
