@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T02:54:05Z",
+  "generated_at": "2026-08-10T03:03:00Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "published_at": "Sat, 08 Aug 2026 19:41:13 +0000",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "summary": "NextSlide says its team members are now working on ChatGPT."
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "published_at": "Sun, 09 Aug 2026 13:00:00 +0000",
+      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Ordway Secures $20M in Growth Capital",
-      "published_at": "06 Aug 2026 16:29:18 CDT",
-      "link": "https://vcnewsdaily.com/ordway/venture-capital-funding/rtwlhlvlvy",
-      "summary": "WASHINGTON, DC, Ordway, the monetization platform for innovative business models, has secured access to $20M in additional equity and debt funding."
+      "title": "Expedition Therapeutics Lands $115M Series B",
+      "published_at": "09 Aug 2026 20:27:56 CDT",
+      "link": "https://vcnewsdaily.com/expedition-therapeutics/venture-capital-funding/zldymwvvlb",
+      "summary": "SAN FRANCISCO, CA, Expedition Therapeutics has announced the closing of an oversubscribed $115 million Series B financing round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Toolport",
-      "published_at": "2026-08-07T13:20:13-07:00",
-      "link": "https://www.producthunt.com/products/conduit-12",
-      "summary": "Every tool, one port. One MCP setup for all your AI agents Discussion | Link"
+      "title": "Workflo",
+      "published_at": "2026-08-08T15:35:22-07:00",
+      "link": "https://www.producthunt.com/products/workflo-2",
+      "summary": "Mac workspace automation that never sees your screen Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Reality of AI-Powered Cyberattacks | Truffle Security & Socket",
+      "title": "AI Is Learning to Hack. Faster Than We Expected.",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=RtNrvPBkwfA",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "How to rank #1 in AI | The Ultimate Guide",
+      "title": "The Ultimate Guide to Become Visible in AI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=2NFQ4-6MzuU",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+      "title": "Masterclass: How to win the AI talent war | Adam Ward (Cursor)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ruvis-VWg2s",
+      "link": "https://www.youtube.com/watch?v=zegYJ6dhIg4",
       "summary": ""
     },
     {
