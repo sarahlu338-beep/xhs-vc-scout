@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-10T03:03:00Z",
+  "generated_at": "2026-08-11T02:56:01Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Charts of the Week: Bookslop",
-      "published_at": "Fri, 07 Aug 2026 14:01:58 GMT",
-      "link": "https://www.a16z.news/p/charts-of-the-week-bookslop",
-      "summary": "The Defense Backlog; IT Services → Cloud; Kimi’s Enterprise Play"
+      "title": "Can Agents Use a Computer Yet? We've Got the Data",
+      "published_at": "Mon, 10 Aug 2026 14:00:46 GMT",
+      "link": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+      "summary": "When your heaviest users stop checking the leaderboard, the leaderboard has stopped being the story"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-      "published_at": "Sun, 09 Aug 2026 13:00:00 +0000",
-      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-      "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new."
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "published_at": "Mon, 10 Aug 2026 20:04:24 +0000",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Expedition Therapeutics Lands $115M Series B",
-      "published_at": "09 Aug 2026 20:27:56 CDT",
-      "link": "https://vcnewsdaily.com/expedition-therapeutics/venture-capital-funding/zldymwvvlb",
-      "summary": "SAN FRANCISCO, CA, Expedition Therapeutics has announced the closing of an oversubscribed $115 million Series B financing round."
+      "title": "WashWise Scores $1.2M Pre-Seed Funding",
+      "published_at": "10 Aug 2026 15:56:20 CDT",
+      "link": "https://vcnewsdaily.com/washwise/venture-capital-funding/gjrdmkxnrs",
+      "summary": "NEW YORK, NY, WashWise, a modern clothing care company redefining how consumers care for garments between wears, announced it has raised $1.2 million in pre-seed financing."
     },
     {
       "source": "YC Launches",
@@ -36,25 +36,25 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Workflo",
-      "published_at": "2026-08-08T15:35:22-07:00",
-      "link": "https://www.producthunt.com/products/workflo-2",
-      "summary": "Mac workspace automation that never sees your screen Discussion | Link"
+      "title": "SecondBrain Note by GenSpark",
+      "published_at": "2026-08-09T14:55:17-07:00",
+      "link": "https://www.producthunt.com/products/genspark",
+      "summary": "A MagSafe AI Recorder That Acts for You Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "Cyera and Oasis: Stronger Together",
-      "published_at": "Tue, 28 Jul 2026 14:25:38 +0000",
-      "link": "https://sequoiacap.com/article/cyera-and-oasis-stronger-together/",
-      "summary": "The post Cyera and Oasis: Stronger Together appeared first on Sequoia Capital ."
+      "title": "Partnering with Corma: Closing the Defensive Cybersecurity Gap",
+      "published_at": "Mon, 10 Aug 2026 14:03:20 +0000",
+      "link": "https://sequoiacap.com/article/partnering-with-corma-closing-the-defensive-cybersecurity-gap/",
+      "summary": "The post Partnering with Corma: Closing the Defensive Cybersecurity Gap appeared first on Sequoia Capital ."
     },
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "AI Is Learning to Hack. Faster Than We Expected.",
+      "title": "Kavak's Playbook for Rebuilding a Company Around AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=RtNrvPBkwfA",
+      "link": "https://www.youtube.com/watch?v=n34CIw3gk1k",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "The Ultimate Guide to Become Visible in AI",
+      "title": "The Real AI Opportunity  | The Ultimate Guide to Become Visible in AI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=2NFQ4-6MzuU",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The AI Boom Will Create Enormous Roadkill: Who Wins & Loses? | David Frankel",
+      "title": "OpenRouter CEO: Why Chinese Open Models Are Beating the US | Why Enterprises Fear OpenAI & Anthropic",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=PDaGwInqbbQ",
+      "link": "https://www.youtube.com/watch?v=K72oZoloA4M",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Masterclass: How to win the AI talent war | Adam Ward (Cursor)",
+      "title": "How elite AI teams get built | Adam Ward, Head of Talent at Cursor",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=zegYJ6dhIg4",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Why Robotics Still Isn't Solved - But Could Be Soon | YC Paper Club",
+      "title": "Peter Steinberger: \"Fun Is Velocity\"",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=myDCd0hNqQU",
+      "link": "https://www.youtube.com/watch?v=whcfSGN6CAU",
       "summary": ""
     }
   ]
