@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-12T03:15:01Z",
+  "generated_at": "2026-08-13T03:19:34Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Some Simple Economics of Open versus Closed AI",
-      "published_at": "Tue, 11 Aug 2026 14:02:46 GMT",
-      "link": "https://www.a16z.news/p/some-simple-economics-of-open-versus",
-      "summary": "If the weights are free, who pays for the next run, and who will keep us safe?"
+      "title": "What It Takes to Get Paid",
+      "published_at": "Wed, 12 Aug 2026 14:20:41 GMT",
+      "link": "https://www.a16z.news/p/what-it-takes-to-get-paid",
+      "summary": "How to ask for the money you're owed"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
-      "published_at": "Tue, 11 Aug 2026 21:39:58 +0000",
-      "link": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
-      "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices."
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "published_at": "Wed, 12 Aug 2026 18:19:12 +0000",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Flagler Health Receives $50M Series B Round",
-      "published_at": "11 Aug 2026 15:02:35 CDT",
-      "link": "https://vcnewsdaily.com/flagler-health/venture-capital-funding/nkhzvvjmlb",
-      "summary": "NEW YORK, NY, Flagler Health, an AI-native platform for musculoskeletal healthcare, today announced it raised a $50 million Series B, bringing total funding raised to $63 million."
+      "title": "Skan AI Bags $63 Million",
+      "published_at": "12 Aug 2026 16:10:54 CDT",
+      "link": "https://vcnewsdaily.com/skan/venture-capital-funding/rwpdvmwtfr",
+      "summary": "MENLO PARK, CA, Skan AI, the context graph of work for enterprise AI, announced $63 million in funding co-led by Cathay Innovation and Dell Technologies Capital."
     },
     {
       "source": "YC Launches",
@@ -36,39 +36,39 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Gotcha",
-      "published_at": "2026-08-09T21:49:03-07:00",
-      "link": "https://www.producthunt.com/products/gotcha-5",
-      "summary": "World's First AI Copilot for Android. You talk. It acts. Discussion | Link"
+      "title": "Swipe",
+      "published_at": "2026-08-06T13:59:53-07:00",
+      "link": "https://www.producthunt.com/products/swipe-9",
+      "summary": "Swipe right on your next customer Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "Partnering with Corma: Closing the Defensive Cybersecurity Gap",
-      "published_at": "Mon, 10 Aug 2026 14:03:20 +0000",
-      "link": "https://sequoiacap.com/article/partnering-with-corma-closing-the-defensive-cybersecurity-gap/",
-      "summary": "The post Partnering with Corma: Closing the Defensive Cybersecurity Gap appeared first on Sequoia Capital ."
+      "title": "Partnering with Preview: Lights, Inference, Action",
+      "published_at": "Wed, 12 Aug 2026 14:30:49 +0000",
+      "link": "https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/",
+      "summary": "The post Partnering with Preview: Lights, Inference, Action appeared first on Sequoia Capital ."
     },
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Kavak's Playbook for Rebuilding a Company Around AI",
+      "title": "The New Rules for Founders | Garry Tan on a16z",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=n34CIw3gk1k",
+      "link": "https://www.youtube.com/watch?v=fsTtKywmWlU",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "How Harvey Built a Research Lab on a Budget | Gabe Pereyra",
+      "title": "How RL Environments Are Built, and Why They're Your AI Moat | Brendan Foody, Mercor",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=MGouk8W51v0",
+      "link": "https://www.youtube.com/watch?v=a00xIn5kwhM",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "$22B Kalshi Co-Founder: The Biggest Shifts Coming in the Next 12 Months",
+      "title": "$22B Kalshi Co-Founder: How Life Changes in the Next 12 Months",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=xiJsfvaxzRY",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "OpenRouter CEO: Why Chinese Open Models Are Beating the US | Why Enterprises Fear OpenAI & Anthropic",
+      "title": "OpenRouter's $10B Stripe Deal? | Why Enterprises Fear Frontier Labs More Than China | Alex Atallah",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=K72oZoloA4M",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬Biology Is Turning Into Software — Matt McPartlon and Neil Patil, Chai Discovery",
+      "title": "🔬They Thought the Model Was Broken — Matt McPartlon & Neil Patil, Chai Discovery",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Qp5xklyJySI",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How elite AI teams get built | Adam Ward, Head of Talent at Cursor",
+      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=zegYJ6dhIg4",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Circleback CEO Ali Haghani: Why Your Company Should Be Recording More Meetings",
+      "title": "Chelsea Finn: The 700-Day Problem With Robot RL",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=4YWO4sSRrTE",
+      "link": "https://www.youtube.com/watch?v=cRZNwgvcWUg",
       "summary": ""
     }
   ]
