@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-13T03:19:34Z",
+  "generated_at": "2026-08-14T03:16:48Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "What It Takes to Get Paid",
-      "published_at": "Wed, 12 Aug 2026 14:20:41 GMT",
-      "link": "https://www.a16z.news/p/what-it-takes-to-get-paid",
-      "summary": "How to ask for the money you're owed"
+      "title": "This Essay is 10% AI Generated",
+      "published_at": "Thu, 13 Aug 2026 14:01:31 GMT",
+      "link": "https://www.a16z.news/p/this-essay-is-10-ai-generated",
+      "summary": "Pangram, Authorship, and French Theory"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "published_at": "Wed, 12 Aug 2026 18:19:12 +0000",
-      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
+      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "published_at": "Thu, 13 Aug 2026 22:12:40 +0000",
+      "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+      "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Skan AI Bags $63 Million",
-      "published_at": "12 Aug 2026 16:10:54 CDT",
-      "link": "https://vcnewsdaily.com/skan/venture-capital-funding/rwpdvmwtfr",
-      "summary": "MENLO PARK, CA, Skan AI, the context graph of work for enterprise AI, announced $63 million in funding co-led by Cathay Innovation and Dell Technologies Capital."
+      "title": "Yuno Nets $45 Million Series B",
+      "published_at": "13 Aug 2026 15:30:55 CDT",
+      "link": "https://vcnewsdaily.com/yuno/venture-capital-funding/qlqmxwqqgz",
+      "summary": "SAN FRANCISCO, CA, Yuno, an AI-native operating system of global payments and financial services, announced a $45 million Series B round led by Global PayTech Ventures."
     },
     {
       "source": "YC Launches",
@@ -36,39 +36,39 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Swipe",
-      "published_at": "2026-08-06T13:59:53-07:00",
-      "link": "https://www.producthunt.com/products/swipe-9",
-      "summary": "Swipe right on your next customer Discussion | Link"
+      "title": "Scrimba Explain",
+      "published_at": "2026-08-04T09:49:47-07:00",
+      "link": "https://www.producthunt.com/products/scrimba",
+      "summary": "Ask any question, get a video back instantly Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "Partnering with Preview: Lights, Inference, Action",
-      "published_at": "Wed, 12 Aug 2026 14:30:49 +0000",
-      "link": "https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/",
-      "summary": "The post Partnering with Preview: Lights, Inference, Action appeared first on Sequoia Capital ."
+      "title": "",
+      "published_at": "",
+      "link": "https://www.sequoiacap.com/feed/",
+      "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
     },
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The New Rules for Founders | Garry Tan on a16z",
+      "title": "Lighthouse or Landgrab? How to Pick Your AI Sales Strategy",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=fsTtKywmWlU",
+      "link": "https://www.youtube.com/watch?v=aakZLqxRQfo",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "How RL Environments Are Built, and Why They're Your AI Moat | Brendan Foody, Mercor",
+      "title": "Continual Learning: How AI Agents Get Better With Every Use | Arjun Karanam, Trajectory",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=a00xIn5kwhM",
+      "link": "https://www.youtube.com/watch?v=eYrMF9Cht8A",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "$22B Kalshi Co-Founder: How Life Changes in the Next 12 Months",
+      "title": "$22B Kalshi Co-Founder: The Biggest Shifts Coming in the Next 12 Months",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=xiJsfvaxzRY",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "OpenRouter's $10B Stripe Deal? | Why Enterprises Fear Frontier Labs More Than China | Alex Atallah",
+      "title": "Canva Slashes Growth | Revolut's $50BN CEO Pay Package | Elon Musk's $55BN Terrafab",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=K72oZoloA4M",
+      "link": "https://www.youtube.com/watch?v=9uq9zxtwBrk",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+      "title": "Masterclass: How to win the AI talent war | Adam Ward (Cursor)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=zegYJ6dhIg4",
       "summary": ""
