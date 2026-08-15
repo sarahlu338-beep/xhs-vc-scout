@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-14T03:16:48Z",
+  "generated_at": "2026-08-15T02:05:44Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "This Essay is 10% AI Generated",
-      "published_at": "Thu, 13 Aug 2026 14:01:31 GMT",
-      "link": "https://www.a16z.news/p/this-essay-is-10-ai-generated",
-      "summary": "Pangram, Authorship, and French Theory"
+      "title": "Charts of the Week: Head In The Neoclouds",
+      "published_at": "Fri, 14 Aug 2026 14:11:51 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-head-in-the-neoclouds",
+      "summary": "Return of Horizontal SaaS? Equity Disinflation?; Towards an efficient frontier of token-maxxing; Lab Talent Wars;"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-      "published_at": "Thu, 13 Aug 2026 22:12:40 +0000",
-      "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-      "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup."
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "published_at": "Fri, 14 Aug 2026 14:50:11 +0000",
+      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Yuno Nets $45 Million Series B",
-      "published_at": "13 Aug 2026 15:30:55 CDT",
-      "link": "https://vcnewsdaily.com/yuno/venture-capital-funding/qlqmxwqqgz",
-      "summary": "SAN FRANCISCO, CA, Yuno, an AI-native operating system of global payments and financial services, announced a $45 million Series B round led by Global PayTech Ventures."
+      "title": "Whatnot Bags $545 Million Series G Funding",
+      "published_at": "14 Aug 2026 14:39:43 CDT",
+      "link": "https://vcnewsdaily.com/whatnot/venture-capital-funding/lmqdscrnnn",
+      "summary": "LOS ANGELES, CA, Whatnot, an eCommerce marketplace, has raised $545 million in Series G funding at a $20 billion valuation."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Scrimba Explain",
-      "published_at": "2026-08-04T09:49:47-07:00",
-      "link": "https://www.producthunt.com/products/scrimba",
-      "summary": "Ask any question, get a video back instantly Discussion | Link"
+      "title": "Munder Difflin",
+      "published_at": "2026-08-12T06:04:54-07:00",
+      "link": "https://www.producthunt.com/products/munder-difflin",
+      "summary": "Make clones with Claude Code and Codex to do your work Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Lighthouse or Landgrab? How to Pick Your AI Sales Strategy",
+      "title": "Travis Kalanick: How AI Will Transform the Physical World",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=aakZLqxRQfo",
+      "link": "https://www.youtube.com/watch?v=r8qKNFeBPXE",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "$22B Kalshi Co-Founder: The Biggest Shifts Coming in the Next 12 Months",
+      "title": "$22B Kalshi Co-Founder: How Life Changes in the Next 12 Months",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=xiJsfvaxzRY",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Canva Slashes Growth | Revolut's $50BN CEO Pay Package | Elon Musk's $55BN Terrafab",
+      "title": "Canva Slashes Growth | Revolut's $50BN CEO PayPackage | Elon Musk's $55BN Terrafab",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=9uq9zxtwBrk",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Masterclass: How to win the AI talent war | Adam Ward (Cursor)",
+      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=zegYJ6dhIg4",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Chelsea Finn: The 700-Day Problem With Robot RL",
+      "title": "Susan Kare: Designing Icons & Graphics For the Original Mac",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=cRZNwgvcWUg",
+      "link": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
       "summary": ""
     }
   ]
