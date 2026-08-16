@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T02:05:44Z",
+  "generated_at": "2026-08-16T02:12:47Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "published_at": "Fri, 14 Aug 2026 14:50:11 +0000",
-      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "published_at": "Sat, 15 Aug 2026 16:30:00 +0000",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Munder Difflin",
-      "published_at": "2026-08-12T06:04:54-07:00",
-      "link": "https://www.producthunt.com/products/munder-difflin",
-      "summary": "Make clones with Claude Code and Codex to do your work Discussion | Link"
+      "title": "nenspace",
+      "published_at": "2026-08-12T08:22:53-07:00",
+      "link": "https://www.producthunt.com/products/nenspace",
+      "summary": "the lo-fi of LLMs: your mind, made larger Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Canva Slashes Growth | Revolut's $50BN CEO PayPackage | Elon Musk's $55BN Terrafab",
+      "title": "How to Build a $100M Growth Engine: Lessons from Wispr Flow & Superhuman | Matt Swulinski",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=9uq9zxtwBrk",
+      "link": "https://www.youtube.com/watch?v=bm8rMM4Bxz8",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬They Thought the Model Was Broken — Matt McPartlon & Neil Patil, Chai Discovery",
+      "title": "Exo: Harnesses should see their own code and logs — Alex Krentsel",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Qp5xklyJySI",
+      "link": "https://www.youtube.com/watch?v=5lFD-34dhqE",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+      "title": "Masterclass: How to win the AI talent war | Adam Ward (Cursor)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=zegYJ6dhIg4",
       "summary": ""
