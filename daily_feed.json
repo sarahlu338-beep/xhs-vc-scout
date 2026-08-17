@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:12:47Z",
+  "generated_at": "2026-08-17T02:10:36Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "published_at": "Sat, 15 Aug 2026 16:30:00 +0000",
-      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "summary": "AI coding startup Cursor is now officially a part of SpaceX."
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "published_at": "Sun, 16 Aug 2026 20:57:04 +0000",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "nenspace",
-      "published_at": "2026-08-12T08:22:53-07:00",
-      "link": "https://www.producthunt.com/products/nenspace",
-      "summary": "the lo-fi of LLMs: your mind, made larger Discussion | Link"
+      "title": "Expeditione",
+      "published_at": "2026-08-11T23:17:06-07:00",
+      "link": "https://www.producthunt.com/products/expeditione",
+      "summary": "The Interactive 3D Encyclopedia Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "How to Build a $100M Growth Engine: Lessons from Wispr Flow & Superhuman | Matt Swulinski",
+      "title": "Lessons from Wispr Flow & Superhuman | Matt Swulinski",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=bm8rMM4Bxz8",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Masterclass: How to win the AI talent war | Adam Ward (Cursor)",
+      "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=zegYJ6dhIg4",
+      "link": "https://www.youtube.com/watch?v=BV0hy6NET-U",
       "summary": ""
     },
     {
