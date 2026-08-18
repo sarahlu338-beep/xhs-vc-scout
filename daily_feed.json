@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-17T02:10:36Z",
+  "generated_at": "2026-08-18T02:07:03Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Charts of the Week: Head In The Neoclouds",
-      "published_at": "Fri, 14 Aug 2026 14:11:51 GMT",
-      "link": "https://www.a16z.news/p/charts-of-the-week-head-in-the-neoclouds",
-      "summary": "Return of Horizontal SaaS? Equity Disinflation?; Towards an efficient frontier of token-maxxing; Lab Talent Wars;"
+      "title": "Your Favorite Creator Isn’t Real—Does it Matter?",
+      "published_at": "Mon, 17 Aug 2026 19:35:23 GMT",
+      "link": "https://www.a16z.news/p/your-favorite-creator-isnt-realdoes",
+      "summary": "AI doesn't have to make the human behind the work less important. It can make it possible for more humans to show up in the work at all."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "published_at": "Sun, 16 Aug 2026 20:57:04 +0000",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI."
+      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "published_at": "Mon, 17 Aug 2026 19:33:51 +0000",
+      "link": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Whatnot Bags $545 Million Series G Funding",
-      "published_at": "14 Aug 2026 14:39:43 CDT",
-      "link": "https://vcnewsdaily.com/whatnot/venture-capital-funding/lmqdscrnnn",
-      "summary": "LOS ANGELES, CA, Whatnot, an eCommerce marketplace, has raised $545 million in Series G funding at a $20 billion valuation."
+      "title": "Xpander Raises $7.5M Seed",
+      "published_at": "17 Aug 2026 15:08:49 CDT",
+      "link": "https://vcnewsdaily.com/xpander/venture-capital-funding/gglsswwrpm",
+      "summary": "SAN FRANCISCO, CA, Xpander announced a $7.5 million Seed round led by Pico Venture Partners."
     },
     {
       "source": "YC Launches",
@@ -36,25 +36,25 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Expeditione",
-      "published_at": "2026-08-11T23:17:06-07:00",
-      "link": "https://www.producthunt.com/products/expeditione",
-      "summary": "The Interactive 3D Encyclopedia Discussion | Link"
+      "title": "Omni by xpander",
+      "published_at": "2026-08-14T11:14:45-07:00",
+      "link": "https://www.producthunt.com/products/omni-by-xpander",
+      "summary": "Stop babysitting your AI agents Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "",
-      "published_at": "",
-      "link": "https://www.sequoiacap.com/feed/",
-      "summary": "FETCH_ERROR: HTTP Error 404: Not Found"
+      "title": "Partnering with Preview: Lights, Inference, Action",
+      "published_at": "Wed, 12 Aug 2026 00:00:00 -0000",
+      "link": "https://www.sequoiacap.com/article/partnering-with-preview-lights-inference-action",
+      "summary": "Stefan and Veljko are building the AI-native workspace for quality video creation."
     },
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Travis Kalanick: How AI Will Transform the Physical World",
+      "title": "Inside Stripe's AI Strategy with Will Gaybrick",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=r8qKNFeBPXE",
+      "link": "https://www.youtube.com/watch?v=P5iICDVn5gc",
       "summary": ""
     },
     {
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Lessons from Wispr Flow & Superhuman | Matt Swulinski",
+      "title": "Uber President on The Untold Stories: Travis, China & Self-Driving | Andrew Macdonald",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=bm8rMM4Bxz8",
+      "link": "https://www.youtube.com/watch?v=sCa1MWB9Gcc",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Exo: Harnesses should see their own code and logs — Alex Krentsel",
+      "title": "Exo: Harnesses should see their own code and logs — Alex Krentsel, UC Berekeley / Google Research",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=5lFD-34dhqE",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
+      "title": "Why OpenAI’s Head of Design isn’t worried about AI replacing designers | Ian Silber",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=BV0hy6NET-U",
       "summary": ""
