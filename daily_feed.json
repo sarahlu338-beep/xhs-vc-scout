@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T02:07:03Z",
+  "generated_at": "2026-08-19T02:09:11Z",
   "items": [
     {
       "source": "a16z News",
@@ -13,17 +13,17 @@
       "source": "TechCrunch Startups",
       "type": "website",
       "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "published_at": "Mon, 17 Aug 2026 19:33:51 +0000",
-      "link": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+      "published_at": "Tue, 18 Aug 2026 17:31:01 +0000",
+      "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
       "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Xpander Raises $7.5M Seed",
-      "published_at": "17 Aug 2026 15:08:49 CDT",
-      "link": "https://vcnewsdaily.com/xpander/venture-capital-funding/gglsswwrpm",
-      "summary": "SAN FRANCISCO, CA, Xpander announced a $7.5 million Seed round led by Pico Venture Partners."
+      "title": "Horizon3 Raises $250 Million Series E",
+      "published_at": "18 Aug 2026 15:46:02 CDT",
+      "link": "https://vcnewsdaily.com/horizon3.ai/venture-capital-funding/ghgdgnjkhb",
+      "summary": "SAN FRANCISCO, CA, Horizon3, a cybersecurity company, has raised a $250 million Series E at a valuation exceeding $2 billion."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Omni by xpander",
-      "published_at": "2026-08-14T11:14:45-07:00",
-      "link": "https://www.producthunt.com/products/omni-by-xpander",
-      "summary": "Stop babysitting your AI agents Discussion | Link"
+      "title": "Clipwing Autopilot",
+      "published_at": "2026-08-03T09:28:09-07:00",
+      "link": "https://www.producthunt.com/products/clipwing",
+      "summary": "Get your clips without AI slop or hiring hassle Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Inside Stripe's AI Strategy with Will Gaybrick",
+      "title": "Tokens Are the New Dollars | Stripe's Will Gaybrick & David George",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=P5iICDVn5gc",
       "summary": ""
@@ -60,23 +60,23 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Continual Learning: How AI Agents Get Better With Every Use | Arjun Karanam, Trajectory",
+      "title": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=eYrMF9Cht8A",
+      "link": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "$22B Kalshi Co-Founder: How Life Changes in the Next 12 Months",
+      "title": "I Asked 6 CEO On Their AI Workflow: Best Tools, Agents, Skills (copy them now)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=xiJsfvaxzRY",
+      "link": "https://www.youtube.com/watch?v=Y854KRfONAU",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Uber President on The Untold Stories: Travis, China & Self-Driving | Andrew Macdonald",
+      "title": "Uber President on Travis, China & Self-Driving | Why Autonomy Is Existential | How to Beat DoorDash",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=sCa1MWB9Gcc",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why OpenAI’s Head of Design isn’t worried about AI replacing designers | Ian Silber",
+      "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=BV0hy6NET-U",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Susan Kare: Designing Icons & Graphics For the Original Mac",
+      "title": "Michael Kratsios: Inside the White House's AI Strategy",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
+      "link": "https://www.youtube.com/watch?v=zLUZclThLhU",
       "summary": ""
     }
   ]
