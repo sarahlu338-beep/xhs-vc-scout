@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-19T02:09:11Z",
+  "generated_at": "2026-08-20T02:08:15Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Your Favorite Creator Isn’t Real—Does it Matter?",
-      "published_at": "Mon, 17 Aug 2026 19:35:23 GMT",
-      "link": "https://www.a16z.news/p/your-favorite-creator-isnt-realdoes",
-      "summary": "AI doesn't have to make the human behind the work less important. It can make it possible for more humans to show up in the work at all."
+      "title": "Meet the a16z Talent Engineer Fellows",
+      "published_at": "Wed, 19 Aug 2026 18:01:47 GMT",
+      "link": "https://www.a16z.news/p/meet-the-a16z-talent-engineer-fellows",
+      "summary": "The 50 fellows we've selected to join the inaugural cohort"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "published_at": "Tue, 18 Aug 2026 17:31:01 +0000",
-      "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!"
+      "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+      "published_at": "Wed, 19 Aug 2026 20:12:33 +0000",
+      "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+      "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Horizon3 Raises $250 Million Series E",
-      "published_at": "18 Aug 2026 15:46:02 CDT",
-      "link": "https://vcnewsdaily.com/horizon3.ai/venture-capital-funding/ghgdgnjkhb",
-      "summary": "SAN FRANCISCO, CA, Horizon3, a cybersecurity company, has raised a $250 million Series E at a valuation exceeding $2 billion."
+      "title": "Sonic Fire Tech Bags $15M Seed Funding",
+      "published_at": "19 Aug 2026 19:40:56 CDT",
+      "link": "https://vcnewsdaily.com/sonic-fire-tech/venture-capital-funding/ybnchwkrkp",
+      "summary": "CLEVELAND, OH, Sonic Fire Tech, a NASA-inspired fire tech startup, has landed a $15M Seed round of funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Clipwing Autopilot",
-      "published_at": "2026-08-03T09:28:09-07:00",
-      "link": "https://www.producthunt.com/products/clipwing",
-      "summary": "Get your clips without AI slop or hiring hassle Discussion | Link"
+      "title": "anyCreature by Gobkit",
+      "published_at": "2026-08-17T06:30:34-07:00",
+      "link": "https://www.producthunt.com/products/anycreature",
+      "summary": "Summon monsters straight from your agent. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Tokens Are the New Dollars | Stripe's Will Gaybrick & David George",
+      "title": "How Whatnot Made Online Shopping Fun Again",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=P5iICDVn5gc",
+      "link": "https://www.youtube.com/watch?v=XqEr7hk89HY",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "I Asked 6 CEO On Their AI Workflow: Best Tools, Agents, Skills (copy them now)",
+      "title": "The AI Workflow That Puts You in the Top 1% | Practical Steps to Level Up",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Y854KRfONAU",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Uber President on Travis, China & Self-Driving | Why Autonomy Is Existential | How to Beat DoorDash",
+      "title": "Uber President: We Could Run This Company With Fewer People in 5 Years | The Untold Uber Stories",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=sCa1MWB9Gcc",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
+      "title": "Chatbots are not the final interface: OpenAI’s Head of Design on what’s next | Ian Silber",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=BV0hy6NET-U",
       "summary": ""
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Michael Kratsios: Inside the White House's AI Strategy",
+      "title": "Michael Kratsios: Why Washington Is Betting on Open-Source AI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=zLUZclThLhU",
       "summary": ""
