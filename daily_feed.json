@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-20T02:08:15Z",
+  "generated_at": "2026-08-21T02:14:44Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Meet the a16z Talent Engineer Fellows",
-      "published_at": "Wed, 19 Aug 2026 18:01:47 GMT",
-      "link": "https://www.a16z.news/p/meet-the-a16z-talent-engineer-fellows",
-      "summary": "The 50 fellows we've selected to join the inaugural cohort"
+      "title": "Rise of the Borderless Founder",
+      "published_at": "Thu, 20 Aug 2026 13:17:34 GMT",
+      "link": "https://www.a16z.news/p/rise-of-the-borderless-founder",
+      "summary": "Your background is your moat"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-      "published_at": "Wed, 19 Aug 2026 20:12:33 +0000",
-      "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
-      "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said."
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "published_at": "Fri, 21 Aug 2026 00:13:44 +0000",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Sonic Fire Tech Bags $15M Seed Funding",
-      "published_at": "19 Aug 2026 19:40:56 CDT",
-      "link": "https://vcnewsdaily.com/sonic-fire-tech/venture-capital-funding/ybnchwkrkp",
-      "summary": "CLEVELAND, OH, Sonic Fire Tech, a NASA-inspired fire tech startup, has landed a $15M Seed round of funding."
+      "title": "Castelion Receives $1B Series C Round",
+      "published_at": "20 Aug 2026 14:53:34 CDT",
+      "link": "https://vcnewsdaily.com/castelion/venture-capital-funding/bptdldxlwr",
+      "summary": "TORRANCE, CA, Castelion, a cutting-edge defense technology company working to restore America's conventional deterrence capability, has announced a $1 billion Series C fundraise."
     },
     {
       "source": "YC Launches",
@@ -36,25 +36,25 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "anyCreature by Gobkit",
-      "published_at": "2026-08-17T06:30:34-07:00",
-      "link": "https://www.producthunt.com/products/anycreature",
-      "summary": "Summon monsters straight from your agent. Discussion | Link"
+      "title": "MeetStream AI",
+      "published_at": "2026-08-18T23:15:44-07:00",
+      "link": "https://www.producthunt.com/products/meetstream-ai",
+      "summary": "Unified API & Infra for AI Meeting Agents Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "Partnering with Preview: Lights, Inference, Action",
-      "published_at": "Wed, 12 Aug 2026 00:00:00 -0000",
-      "link": "https://www.sequoiacap.com/article/partnering-with-preview-lights-inference-action",
-      "summary": "Stefan and Veljko are building the AI-native workspace for quality video creation."
+      "title": "Own Your Intelligence: A How-To Guide",
+      "published_at": "Wed, 19 Aug 2026 00:00:00 -0000",
+      "link": "https://www.sequoiacap.com/article/own-your-intelligence-a-how-to-guide",
+      "summary": "The race for the AI application layer is not only about UI, workflows, or GTM... it is a fight for the intelligence layer itself."
     },
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "How Whatnot Made Online Shopping Fun Again",
+      "title": "Why the Next Great Founders Will Be Borderless",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=XqEr7hk89HY",
+      "link": "https://www.youtube.com/watch?v=0t3TpJXa5-A",
       "summary": ""
     },
     {
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Uber President: We Could Run This Company With Fewer People in 5 Years | The Untold Uber Stories",
+      "title": "Stripe's $8B OpenRouter Bet | Anthropic's First Profit & The Math Behind Reaching $600B in Revenue?",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=sCa1MWB9Gcc",
+      "link": "https://www.youtube.com/watch?v=y_3EjW0dyeI",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Michael Kratsios: Why Washington Is Betting on Open-Source AI",
+      "title": "Going In Deep On Data | YC Paper Club",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=zLUZclThLhU",
+      "link": "https://www.youtube.com/watch?v=IfoPg2QefF8",
       "summary": ""
     }
   ]
