@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-21T02:14:44Z",
+  "generated_at": "2026-08-22T02:06:32Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Rise of the Borderless Founder",
-      "published_at": "Thu, 20 Aug 2026 13:17:34 GMT",
-      "link": "https://www.a16z.news/p/rise-of-the-borderless-founder",
-      "summary": "Your background is your moat"
+      "title": "Charts of the Week: Winds of Thematic Change",
+      "published_at": "Fri, 21 Aug 2026 14:03:33 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-winds-of-thematic",
+      "summary": "Data Centers Are A Blue Collar Bonanza; It’s Not Your Imagination–Ridesharing Really Is More Expensive; Agents Are Early, But They’re Already Changing Things"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "published_at": "Fri, 21 Aug 2026 00:13:44 +0000",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+      "published_at": "Sat, 22 Aug 2026 01:03:06 +0000",
+      "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+      "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million)."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Castelion Receives $1B Series C Round",
-      "published_at": "20 Aug 2026 14:53:34 CDT",
-      "link": "https://vcnewsdaily.com/castelion/venture-capital-funding/bptdldxlwr",
-      "summary": "TORRANCE, CA, Castelion, a cutting-edge defense technology company working to restore America's conventional deterrence capability, has announced a $1 billion Series C fundraise."
+      "title": "Rillet Nabs $100M Series C Financing",
+      "published_at": "21 Aug 2026 15:02:51 CDT",
+      "link": "https://vcnewsdaily.com/rillet/venture-capital-funding/qxpnrkxqdw",
+      "summary": "SAN FRANCISCO, CA, Rillet, the AI-native ERP (enterprise resource planning) platform for modern finance teams, has announced a $100 million Series C round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "MeetStream AI",
-      "published_at": "2026-08-18T23:15:44-07:00",
-      "link": "https://www.producthunt.com/products/meetstream-ai",
-      "summary": "Unified API & Infra for AI Meeting Agents Discussion | Link"
+      "title": "Local",
+      "published_at": "2026-08-19T18:43:17-07:00",
+      "link": "https://www.producthunt.com/products/local-7",
+      "summary": "Zero (!) friction local AI for your Mac Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Stripe's $8B OpenRouter Bet | Anthropic's First Profit & The Math Behind Reaching $600B in Revenue?",
+      "title": "SpaceX Buys Cursor for $60B | Anthropic's First Profit & The Math Behind Reaching $600B in Revenue?",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=y_3EjW0dyeI",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Exo: Harnesses should see their own code and logs — Alex Krentsel, UC Berekeley / Google Research",
+      "title": "Behavioral Foundation Models: Teaching AI How Humans Actually Behave — Joon Sung Park, Simile AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=5lFD-34dhqE",
+      "link": "https://www.youtube.com/watch?v=KpOW9Pk4BUs",
       "summary": ""
     },
     {
