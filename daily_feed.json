@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T02:06:32Z",
+  "generated_at": "2026-08-23T02:15:48Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Local",
-      "published_at": "2026-08-19T18:43:17-07:00",
-      "link": "https://www.producthunt.com/products/local-7",
-      "summary": "Zero (!) friction local AI for your Mac Discussion | Link"
+      "title": "Zero",
+      "published_at": "2026-08-20T02:01:53-07:00",
+      "link": "https://www.producthunt.com/products/zero-15",
+      "summary": "Vercel's programming language built for AI agents Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "SpaceX Buys Cursor for $60B | Anthropic's First Profit & The Math Behind Reaching $600B in Revenue?",
+      "title": "The AI Bubble WILL Burst: Half the Neoclouds WILL Die | Jerry Murdock",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=y_3EjW0dyeI",
+      "link": "https://www.youtube.com/watch?v=R1336Jyb-qk",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Behavioral Foundation Models: Teaching AI How Humans Actually Behave — Joon Sung Park, Simile AI",
+      "title": "Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=KpOW9Pk4BUs",
       "summary": ""
