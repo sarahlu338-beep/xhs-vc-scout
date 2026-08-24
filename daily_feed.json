@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T02:15:48Z",
+  "generated_at": "2026-08-24T02:13:53Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-      "published_at": "Sat, 22 Aug 2026 01:03:06 +0000",
-      "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-      "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million)."
+      "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+      "published_at": "Sun, 23 Aug 2026 03:00:00 +0000",
+      "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+      "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Zero",
-      "published_at": "2026-08-20T02:01:53-07:00",
-      "link": "https://www.producthunt.com/products/zero-15",
-      "summary": "Vercel's programming language built for AI agents Discussion | Link"
+      "title": "Flown",
+      "published_at": "2026-07-26T09:49:36-07:00",
+      "link": "https://www.producthunt.com/products/flown",
+      "summary": "Every flight you've ever taken, on one private map Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI",
+      "title": "From Prediction to Simulation: Teaching AI to Shape the Future — Joon Sung Park, Simile AI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=KpOW9Pk4BUs",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Chatbots are not the final interface: OpenAI’s Head of Design on what’s next | Ian Silber",
+      "title": "84 minutes of enterprise sales alpha | Jen Abel",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=BV0hy6NET-U",
+      "link": "https://www.youtube.com/watch?v=YS9In813jJ0",
       "summary": ""
     },
     {
