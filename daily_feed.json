@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-25T02:09:50Z",
+  "generated_at": "2026-08-26T02:15:50Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The Oracle Problem: an invisible bottleneck to AI and medicine",
-      "published_at": "Mon, 24 Aug 2026 14:02:46 GMT",
-      "link": "https://www.a16z.news/p/the-oracle-problem-an-invisible-bottleneck",
-      "summary": "Is this model a good doctor, or was it good at the test?"
+      "title": "Intelligence is the Primitive. Applications are the Diffusion Layer.",
+      "published_at": "Tue, 25 Aug 2026 14:03:59 GMT",
+      "link": "https://www.a16z.news/p/intelligence-is-the-primitive-applications",
+      "summary": "How durable AI-native products can price, package and productize model gains for industry."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
-      "published_at": "Mon, 24 Aug 2026 20:16:34 +0000",
-      "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
-      "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15."
+      "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
+      "published_at": "Tue, 25 Aug 2026 18:22:50 +0000",
+      "link": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+      "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Princeton Critical Minerals Inks $16M",
-      "published_at": "24 Aug 2026 17:55:29 CDT",
-      "link": "https://vcnewsdaily.com/princeton-critical-minerals/venture-capital-funding/dzbhdkmqxk",
-      "summary": "PRINCETON, NJ, Princeton Critical Minerals has raised $16 million in combined equity and non-dilutive funding."
+      "title": "Hike Medical Pulls In $22.5M Seed and Series A",
+      "published_at": "25 Aug 2026 14:48:51 CDT",
+      "link": "https://vcnewsdaily.com/hike-medical/venture-capital-funding/jqdnzrxfrt",
+      "summary": "SAN FRANCISCO, CA, Hike Medical, the company automating device-based care from referral to dispense, today announced it has raised $22.5 million in seed and Series A funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Navigara",
-      "published_at": "2026-08-13T15:04:24-07:00",
-      "link": "https://www.producthunt.com/products/navigara",
-      "summary": "Connect Your AI Spend Directly to Your Roadmap Discussion | Link"
+      "title": "Ninjō AI",
+      "published_at": "2026-08-13T08:09:36-07:00",
+      "link": "https://www.producthunt.com/products/ninjo-ai",
+      "summary": "AI sales agents on any channel that runs from Claude Code Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,17 +52,17 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why the Next Great Founders Will Be Borderless",
+      "title": "How AI Changes the Economics of Innovation",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=0t3TpJXa5-A",
+      "link": "https://www.youtube.com/watch?v=GHPB1MwlKU0",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+      "title": "Parallel’s Parag Agrawal: Building a New Web for AI Agents",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+      "link": "https://www.youtube.com/watch?v=fUcnE6pjq5w",
       "summary": ""
     },
     {
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI",
+      "title": "⏭️ Forward Deployed: Voice AI on what works in 2026",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=KpOW9Pk4BUs",
+      "link": "https://www.youtube.com/watch?v=MwNvowwcZOo",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Going In Deep On Data | YC Paper Club",
+      "title": "Max Junestrand: You Need The Willingness To Learn Faster Than Anyone Else",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=IfoPg2QefF8",
+      "link": "https://www.youtube.com/watch?v=o0ORPbSEgd8",
       "summary": ""
     }
   ]
