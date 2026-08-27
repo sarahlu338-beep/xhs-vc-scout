@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-26T02:15:50Z",
+  "generated_at": "2026-08-27T10:41:03Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Intelligence is the Primitive. Applications are the Diffusion Layer.",
-      "published_at": "Tue, 25 Aug 2026 14:03:59 GMT",
-      "link": "https://www.a16z.news/p/intelligence-is-the-primitive-applications",
-      "summary": "How durable AI-native products can price, package and productize model gains for industry."
+      "title": "Faking a brand is easy. Making it stop is hard.",
+      "published_at": "Wed, 26 Aug 2026 14:00:44 GMT",
+      "link": "https://www.a16z.news/p/faking-a-brand-is-easy",
+      "summary": "The business of online impersonation"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
-      "published_at": "Tue, 25 Aug 2026 18:22:50 +0000",
-      "link": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
-      "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!"
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "published_at": "Thu, 27 Aug 2026 00:24:57 +0000",
+      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Hike Medical Pulls In $22.5M Seed and Series A",
-      "published_at": "25 Aug 2026 14:48:51 CDT",
-      "link": "https://vcnewsdaily.com/hike-medical/venture-capital-funding/jqdnzrxfrt",
-      "summary": "SAN FRANCISCO, CA, Hike Medical, the company automating device-based care from referral to dispense, today announced it has raised $22.5 million in seed and Series A funding."
+      "title": "Mara Snares $7M Funding",
+      "published_at": "26 Aug 2026 15:48:21 CDT",
+      "link": "https://vcnewsdaily.com/mara/venture-capital-funding/msgfjswcyy",
+      "summary": "SAN FRANCISCO, CA, Mara, a counter-drone defense company, announced a $7 million funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Ninjō AI",
-      "published_at": "2026-08-13T08:09:36-07:00",
-      "link": "https://www.producthunt.com/products/ninjo-ai",
-      "summary": "AI sales agents on any channel that runs from Claude Code Discussion | Link"
+      "title": "IQ Routing",
+      "published_at": "2026-08-26T23:54:14-07:00",
+      "link": "https://www.producthunt.com/products/iq-routing",
+      "summary": "Trajectory-aware LLM routing that cuts agent cost Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "How AI Changes the Economics of Innovation",
+      "title": "The State of AI: Models, Moats, and the Consumer Renaissance",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=GHPB1MwlKU0",
+      "link": "https://www.youtube.com/watch?v=zEZ0rQ8Ef-Y",
       "summary": ""
     },
     {
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Julien Bek on Lessons from Don Valentine, Doug Leone & Alfred Lin | What Sequoia Sees in Founders",
+      "title": "Inside Sequoia's Investment Committee | How the SpaceX & Citadel Deals Went Down | Julien Bek",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=N8CBejLRztg",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "⏭️ Forward Deployed: Voice AI on what works in 2026",
+      "title": "🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=MwNvowwcZOo",
+      "link": "https://www.youtube.com/watch?v=79mIutht1f4",
       "summary": ""
     },
     {
