@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-27T10:41:03Z",
+  "generated_at": "2026-08-28T12:18:54Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Faking a brand is easy. Making it stop is hard.",
-      "published_at": "Wed, 26 Aug 2026 14:00:44 GMT",
-      "link": "https://www.a16z.news/p/faking-a-brand-is-easy",
-      "summary": "The business of online impersonation"
+      "title": "You are not a model. Don’t price per token.",
+      "published_at": "Thu, 27 Aug 2026 14:02:04 GMT",
+      "link": "https://www.a16z.news/p/you-are-not-a-model-dont-price-per",
+      "summary": "Charging per token is becoming the default for AI companies. For most AI applications, it is a mistake."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "published_at": "Thu, 27 Aug 2026 00:24:57 +0000",
-      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
+      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+      "published_at": "Fri, 28 Aug 2026 09:33:00 +0000",
+      "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+      "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Mara Snares $7M Funding",
-      "published_at": "26 Aug 2026 15:48:21 CDT",
-      "link": "https://vcnewsdaily.com/mara/venture-capital-funding/msgfjswcyy",
-      "summary": "SAN FRANCISCO, CA, Mara, a counter-drone defense company, announced a $7 million funding round."
+      "title": "Yardstik Scores $30M Financing Round",
+      "published_at": "27 Aug 2026 14:55:00 CDT",
+      "link": "https://vcnewsdaily.com/yardstik/venture-capital-funding/ggrrzsfrtl",
+      "summary": "MINNEAPOLIS, MN, Yardstik, the Human Trust Platform for employers, today announced $30 million in new funding, led by Harbert Growth Partners, bringing its total capital raised to $65 million."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "IQ Routing",
-      "published_at": "2026-08-26T23:54:14-07:00",
-      "link": "https://www.producthunt.com/products/iq-routing",
-      "summary": "Trajectory-aware LLM routing that cuts agent cost Discussion | Link"
+      "title": "Spline V2",
+      "published_at": "2026-08-27T01:06:07-07:00",
+      "link": "https://www.producthunt.com/products/spline",
+      "summary": "Best 3D platform for the agentic era Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The State of AI: Models, Moats, and the Consumer Renaissance",
+      "title": "How Cursor Built One of AI’s Fastest-Growing Companies",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=zEZ0rQ8Ef-Y",
+      "link": "https://www.youtube.com/watch?v=GHrnbvkVPZA",
       "summary": ""
     },
     {
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Inside Sequoia's Investment Committee | How the SpaceX & Citadel Deals Went Down | Julien Bek",
+      "title": "NVIDIA Buys Poolside, Invests in Mercor & Perplexity | OpenAI Confirms IPO",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=N8CBejLRztg",
+      "link": "https://www.youtube.com/watch?v=j_JlQm8DB80",
       "summary": ""
     },
     {
