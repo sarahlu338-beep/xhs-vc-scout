@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-28T12:18:54Z",
+  "generated_at": "2026-08-29T07:29:21Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "You are not a model. Don’t price per token.",
-      "published_at": "Thu, 27 Aug 2026 14:02:04 GMT",
-      "link": "https://www.a16z.news/p/you-are-not-a-model-dont-price-per",
-      "summary": "Charging per token is becoming the default for AI companies. For most AI applications, it is a mistake."
+      "title": "The Machine Age Fund",
+      "published_at": "Fri, 28 Aug 2026 13:07:25 GMT",
+      "link": "https://www.a16z.news/p/the-machine-age-fund",
+      "summary": "a16z’s newest $1.1B fund"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
-      "published_at": "Fri, 28 Aug 2026 09:33:00 +0000",
-      "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-      "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets."
+      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
+      "published_at": "Fri, 28 Aug 2026 17:09:05 +0000",
+      "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+      "summary": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Yardstik Scores $30M Financing Round",
-      "published_at": "27 Aug 2026 14:55:00 CDT",
-      "link": "https://vcnewsdaily.com/yardstik/venture-capital-funding/ggrrzsfrtl",
-      "summary": "MINNEAPOLIS, MN, Yardstik, the Human Trust Platform for employers, today announced $30 million in new funding, led by Harbert Growth Partners, bringing its total capital raised to $65 million."
+      "title": "Teragen Energy Completes $6M Pre-Seed Round",
+      "published_at": "28 Aug 2026 14:55:35 CDT",
+      "link": "https://vcnewsdaily.com/teragen-energy/venture-capital-funding/dgrsqrcnrb",
+      "summary": "BOSTON, MA, Teragen Energy has announced the close of an oversubscribed $6 million pre-seed funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Spline V2",
-      "published_at": "2026-08-27T01:06:07-07:00",
-      "link": "https://www.producthunt.com/products/spline",
-      "summary": "Best 3D platform for the agentic era Discussion | Link"
+      "title": "publicdesktop.lol",
+      "published_at": "2026-08-27T11:58:45-07:00",
+      "link": "https://www.producthunt.com/products/publicdesktop-lol",
+      "summary": "Public computer of the internet Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "How Cursor Built One of AI’s Fastest-Growing Companies",
+      "title": "Why Top Founders Are Racing Into AI Infrastructure",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=GHrnbvkVPZA",
+      "link": "https://www.youtube.com/watch?v=Zx1Ec8LWFeM",
       "summary": ""
     },
     {
@@ -68,15 +68,15 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "The AI Workflow That Puts You in the Top 1% | Practical Steps to Level Up",
+      "title": "Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Y854KRfONAU",
+      "link": "https://www.youtube.com/watch?v=o-wv_szZ0V0",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "NVIDIA Buys Poolside, Invests in Mercor & Perplexity | OpenAI Confirms IPO",
+      "title": "Anthropic's $30T Assumption & OpenAI Confirms IPO | Why Customer Service & Robotics are Overinflated",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=j_JlQm8DB80",
       "summary": ""
