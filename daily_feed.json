@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-01T05:46:54Z",
+  "generated_at": "2026-09-02T05:09:41Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Expanding the a16z Growth Fund and Platform",
-      "published_at": "Mon, 31 Aug 2026 14:45:48 GMT",
-      "link": "https://www.a16z.news/p/expanding-the-a16z-growth-fund-and",
-      "summary": "Capital, Network & Expertise to Help Founders Scale"
+      "title": "“Enshittification” Isn’t Real",
+      "published_at": "Tue, 01 Sep 2026 14:03:44 GMT",
+      "link": "https://www.a16z.news/p/enshittification-isnt-real",
+      "summary": "There is no such thing as enshittification. It is merely platform narcissism."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
-      "published_at": "Tue, 01 Sep 2026 05:00:00 +0000",
-      "link": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
-      "summary": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm."
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "published_at": "Tue, 01 Sep 2026 16:31:04 +0000",
+      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "REGENT Secures $240 Million Series B",
-      "published_at": "31 Aug 2026 14:38:56 CDT",
-      "link": "https://vcnewsdaily.com/regent/venture-capital-funding/qqjwtpcytt",
-      "summary": "NORTH KINGSTOWN, RI, REGENT Craft, the developer and manufacturer of Seaglider vessels, announced it has raised $240 million."
+      "title": "Deep Cogito Receives $43M Series A Round",
+      "published_at": "01 Sep 2026 15:04:19 CDT",
+      "link": "https://vcnewsdaily.com/deep-cogito/venture-capital-funding/gprlrnsqqj",
+      "summary": "SAN FRANCISCO, CA, Deep Cogito, a post-training research lab focused on reinforcement learning and self-improvement, today announced a $43 million Series A led by TQ Ventures,"
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "BrandJet",
-      "published_at": "2026-08-18T07:52:07-07:00",
-      "link": "https://www.producthunt.com/products/brandjet-ai",
-      "summary": "Turn public buying signals into sales pipeline Discussion | Link"
+      "title": "Murmell",
+      "published_at": "2026-08-31T15:39:25-07:00",
+      "link": "https://www.producthunt.com/products/murmell",
+      "summary": "Google docs for AI agents, and you can close your laptop Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,17 +52,17 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "How the AI Boom Could Reindustrialize America",
+      "title": "Can AI Learn Mathematical Intuition?",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=FGC4ofTcg2k",
+      "link": "https://www.youtube.com/watch?v=tQI35CSNB08",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Parallel’s Parag Agrawal: Building a New Web for AI Agents",
+      "title": "Making Cities Awesome: Peregrine’s Nick Noone & Ben Rudolph",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=fUcnE6pjq5w",
+      "link": "https://www.youtube.com/watch?v=JWMF5EpP0KE",
       "summary": ""
     },
     {
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "ClickHouse CEO: The AI Bubble Is Wrong | Revenue Concentration Should be a Concern",
+      "title": "Why Open Models are Overrated But Enterprises Still Fear Frontier Models | Aaron Katz ClickHouse CEO",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Wna2Ds4dt50",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Max Junestrand: You Need The Willingness To Learn Faster Than Anyone Else",
+      "title": "The World’s Largest Electric Aircraft Just Flew",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=o0ORPbSEgd8",
+      "link": "https://www.youtube.com/watch?v=nM86DBOqgPM",
       "summary": ""
     }
   ]
