@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-02T05:09:41Z",
+  "generated_at": "2026-09-03T05:14:35Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "“Enshittification” Isn’t Real",
-      "published_at": "Tue, 01 Sep 2026 14:03:44 GMT",
-      "link": "https://www.a16z.news/p/enshittification-isnt-real",
-      "summary": "There is no such thing as enshittification. It is merely platform narcissism."
+      "title": "Apex: The Spacecraft Platform Company",
+      "published_at": "Wed, 02 Sep 2026 15:30:59 GMT",
+      "link": "https://www.a16z.news/p/apex-the-spacecraft-platform-company",
+      "summary": "The spacecraft platform layer powering the constellation era."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "published_at": "Tue, 01 Sep 2026 16:31:04 +0000",
-      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering."
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "published_at": "Wed, 02 Sep 2026 23:01:00 +0000",
+      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Deep Cogito Receives $43M Series A Round",
-      "published_at": "01 Sep 2026 15:04:19 CDT",
-      "link": "https://vcnewsdaily.com/deep-cogito/venture-capital-funding/gprlrnsqqj",
-      "summary": "SAN FRANCISCO, CA, Deep Cogito, a post-training research lab focused on reinforcement learning and self-improvement, today announced a $43 million Series A led by TQ Ventures,"
+      "title": "HiddenLayer Announces $100M Series B Round",
+      "published_at": "02 Sep 2026 22:09:06 CDT",
+      "link": "https://vcnewsdaily.com/hiddenlayer/venture-capital-funding/dbghnsdvbw",
+      "summary": "AUSTIN, TX, HiddenLayer, the leading AI security company that secures agentic, generative, and predictive AI applications, today announced a $100 million Series B funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Murmell",
-      "published_at": "2026-08-31T15:39:25-07:00",
-      "link": "https://www.producthunt.com/products/murmell",
-      "summary": "Google docs for AI agents, and you can close your laptop Discussion | Link"
+      "title": "Parasocial",
+      "published_at": "2026-08-18T08:15:24-07:00",
+      "link": "https://www.producthunt.com/products/parasocial",
+      "summary": "The podcast player for sharing. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Can AI Learn Mathematical Intuition?",
+      "title": "How Moderna’s New Vaccine Trains the Immune System to Fight Cancer",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=tQI35CSNB08",
+      "link": "https://www.youtube.com/watch?v=yTNMEYeCgWw",
       "summary": ""
     },
     {
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Why Open Models are Overrated But Enterprises Still Fear Frontier Models | Aaron Katz ClickHouse CEO",
+      "title": "ClickHouse CEO: AI Margins Need to Improve | Revenue Concentration Should be a Concern",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Wna2Ds4dt50",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech",
+      "title": "OpenAI’s New AI Chip Changes Everything — Sean Lie, Cerebras CTO",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=79mIutht1f4",
+      "link": "https://www.youtube.com/watch?v=3uSI8q_RN-o",
       "summary": ""
     },
     {
