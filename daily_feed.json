@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-03T05:14:35Z",
+  "generated_at": "2026-09-04T05:10:31Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Apex: The Spacecraft Platform Company",
-      "published_at": "Wed, 02 Sep 2026 15:30:59 GMT",
-      "link": "https://www.a16z.news/p/apex-the-spacecraft-platform-company",
-      "summary": "The spacecraft platform layer powering the constellation era."
+      "title": "The Incumbents Are Coming",
+      "published_at": "Thu, 03 Sep 2026 14:03:23 GMT",
+      "link": "https://www.a16z.news/p/the-incumbents-are-coming",
+      "summary": "The job is bigger than the record."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "published_at": "Wed, 02 Sep 2026 23:01:00 +0000",
-      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale."
+      "title": "Startup ARR is less secure than ever, new research shows",
+      "published_at": "Thu, 03 Sep 2026 20:59:23 +0000",
+      "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "HiddenLayer Announces $100M Series B Round",
-      "published_at": "02 Sep 2026 22:09:06 CDT",
-      "link": "https://vcnewsdaily.com/hiddenlayer/venture-capital-funding/dbghnsdvbw",
-      "summary": "AUSTIN, TX, HiddenLayer, the leading AI security company that secures agentic, generative, and predictive AI applications, today announced a $100 million Series B funding round."
+      "title": "EIT Pharma Grabs $35M Series A",
+      "published_at": "03 Sep 2026 21:06:31 CDT",
+      "link": "https://vcnewsdaily.com/eit-pharma/venture-capital-funding/rxbrmxrzgx",
+      "summary": "KIRKLAND, WA, EIT Pharma, a biotechnology company focused on developing therapies for infectious diseases, announced a $35 million Series A."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Parasocial",
-      "published_at": "2026-08-18T08:15:24-07:00",
-      "link": "https://www.producthunt.com/products/parasocial",
-      "summary": "The podcast player for sharing. Discussion | Link"
+      "title": "Tidy",
+      "published_at": "2026-09-01T12:04:06-07:00",
+      "link": "https://www.producthunt.com/products/tidy-6",
+      "summary": "Fix grammar in any Mac app with free on-device AI Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "How Moderna’s New Vaccine Trains the Immune System to Fight Cancer",
+      "title": "Why AI Agents Could Finally Reinvent the Credit Card",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=yTNMEYeCgWw",
+      "link": "https://www.youtube.com/watch?v=J3pegsM5drk",
       "summary": ""
     },
     {
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "ClickHouse CEO: AI Margins Need to Improve | Revenue Concentration Should be a Concern",
+      "title": "The Race for AI Assistants | NVIDIA Crushes Quarter & Buys Hugging Face | OpenAI Cuts Off Cursor",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Wna2Ds4dt50",
+      "link": "https://www.youtube.com/watch?v=8skbt979n2o",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "OpenAI’s New AI Chip Changes Everything — Sean Lie, Cerebras CTO",
+      "title": "The AI Chip That Could Break NVIDIA’s Bottleneck — Sean Lie, Cerebras CTO",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=3uSI8q_RN-o",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The World’s Largest Electric Aircraft Just Flew",
+      "title": "Paul Graham On Startups, Ambition, and Great Founders",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "link": "https://www.youtube.com/watch?v=5bxp78i96S8",
       "summary": ""
     }
   ]
