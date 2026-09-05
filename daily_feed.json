@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-04T05:10:31Z",
+  "generated_at": "2026-09-05T04:59:44Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The Incumbents Are Coming",
-      "published_at": "Thu, 03 Sep 2026 14:03:23 GMT",
-      "link": "https://www.a16z.news/p/the-incumbents-are-coming",
-      "summary": "The job is bigger than the record."
+      "title": "Investing in Gimlet",
+      "published_at": "Fri, 04 Sep 2026 16:01:58 GMT",
+      "link": "https://www.a16z.news/p/investing-in-gimlet",
+      "summary": "a16z invests in Gimlet"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Startup ARR is less secure than ever, new research shows",
-      "published_at": "Thu, 03 Sep 2026 20:59:23 +0000",
-      "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-      "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate."
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "published_at": "Fri, 04 Sep 2026 23:36:14 +0000",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "EIT Pharma Grabs $35M Series A",
-      "published_at": "03 Sep 2026 21:06:31 CDT",
-      "link": "https://vcnewsdaily.com/eit-pharma/venture-capital-funding/rxbrmxrzgx",
-      "summary": "KIRKLAND, WA, EIT Pharma, a biotechnology company focused on developing therapies for infectious diseases, announced a $35 million Series A."
+      "title": "Gimlet Labs Scores $300 Million in Series B",
+      "published_at": "04 Sep 2026 16:05:36 CDT",
+      "link": "https://vcnewsdaily.com/gimlet-labs/venture-capital-funding/xmmmqwpvvc",
+      "summary": "SAN FRANCISCO, CA, Gimlet Labs, the Applied AI research and product company, announced that it has raised $300 million in Series B funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Tidy",
-      "published_at": "2026-09-01T12:04:06-07:00",
-      "link": "https://www.producthunt.com/products/tidy-6",
-      "summary": "Fix grammar in any Mac app with free on-device AI Discussion | Link"
+      "title": "Clockwork",
+      "published_at": "2026-09-03T08:55:16-07:00",
+      "link": "https://www.producthunt.com/products/clockwork-5",
+      "summary": "The calendar where your AI agents show up for work Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why AI Agents Could Finally Reinvent the Credit Card",
+      "title": "How World Labs Is Building AI That Understands Space",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=J3pegsM5drk",
+      "link": "https://www.youtube.com/watch?v=qn1QDDBnTA0",
       "summary": ""
     },
     {
@@ -68,15 +68,15 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think",
+      "title": "Top 1% Career Strategy: How to Get Hired in the AI Era",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=o-wv_szZ0V0",
+      "link": "https://www.youtube.com/watch?v=213rSCulKUQ",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The Race for AI Assistants | NVIDIA Crushes Quarter & Buys Hugging Face | OpenAI Cuts Off Cursor",
+      "title": "NVIDIA Crushes Quarter | OpenAI Cuts Off Cursor | Instinct Hits $2.5B Valuation",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=8skbt979n2o",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The AI Chip That Could Break NVIDIA’s Bottleneck — Sean Lie, Cerebras CTO",
+      "title": "Faster Chips That Don't Melt — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=3uSI8q_RN-o",
+      "link": "https://www.youtube.com/watch?v=KS_IpnX7n9I",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Paul Graham On Startups, Ambition, and Great Founders",
+      "title": "Open Models Change The Economics of AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=5bxp78i96S8",
+      "link": "https://www.youtube.com/watch?v=rY0wnfFHYbs",
       "summary": ""
     }
   ]
