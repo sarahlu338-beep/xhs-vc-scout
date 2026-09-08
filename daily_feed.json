@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T05:20:01Z",
+  "generated_at": "2026-09-08T05:23:21Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "AI Toolbox 3.0",
-      "published_at": "2026-07-25T06:16:23-07:00",
-      "link": "https://www.producthunt.com/products/chatgpt-toolbox",
-      "summary": "Search, organize and export every AI chat in one place Discussion | Link"
+      "title": "Tucky",
+      "published_at": "2026-09-06T14:09:48-07:00",
+      "link": "https://www.producthunt.com/products/tucky",
+      "summary": "Notes docked to your screen edge, with an AI agent inside Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Why every startup should be doing this | Speechify Founder & CEO, Cliff Weitzman",
+      "title": "The $100 Billion AI Assistant Race That Will Replace Apps on Your Phone",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=hj5oRzAnp2M",
+      "link": "https://www.youtube.com/watch?v=9ISWVzQ85Po",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Trillion Token Context. No, Really — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding",
+      "title": "AMP's Agents Can Already Escape Their Sandbox — Quinn Slack, AMP",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=KS_IpnX7n9I",
+      "link": "https://www.youtube.com/watch?v=hvwtHZ5E27c",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why jobs are becoming a series of loops | Anish Acharya (a16z)",
+      "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=LdIyXiq2DTY",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Open Models Change The Economics of AI",
+      "title": "Why The Harness Matters More Than The Model | YC Paper Club",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=rY0wnfFHYbs",
+      "link": "https://www.youtube.com/watch?v=n9xKblqyQ28",
       "summary": ""
     }
   ]
