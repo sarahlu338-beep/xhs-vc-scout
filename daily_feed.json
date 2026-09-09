@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T05:23:21Z",
+  "generated_at": "2026-09-09T05:25:46Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "published_at": "Sun, 06 Sep 2026 16:45:00 +0000",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
+      "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+      "published_at": "Wed, 09 Sep 2026 04:01:00 +0000",
+      "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+      "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Gimlet Labs Scores $300 Million in Series B",
-      "published_at": "04 Sep 2026 16:05:36 CDT",
-      "link": "https://vcnewsdaily.com/gimlet-labs/venture-capital-funding/xmmmqwpvvc",
-      "summary": "SAN FRANCISCO, CA, Gimlet Labs, the Applied AI research and product company, announced that it has raised $300 million in Series B funding."
+      "title": "Sapiom Receives $35M Series A Round",
+      "published_at": "08 Sep 2026 14:44:21 CDT",
+      "link": "https://vcnewsdaily.com/sapiom/venture-capital-funding/vtqbmfjfys",
+      "summary": "SAN FRANCISCO, CA, Sapiom, the platform builders use to ship, run, and scale AI agents, has announced a $35 million Series A."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Tucky",
-      "published_at": "2026-09-06T14:09:48-07:00",
-      "link": "https://www.producthunt.com/products/tucky",
-      "summary": "Notes docked to your screen edge, with an AI agent inside Discussion | Link"
+      "title": "Pastea",
+      "published_at": "2026-09-07T12:45:19-07:00",
+      "link": "https://www.producthunt.com/products/pastea",
+      "summary": "Save + search through links, snippets + screenshots you copy Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Fei-Fei Li Is Betting on Spatial Intelligence",
+      "title": "Inside OpenAI’s Breakthroughs in Mathematical Reasoning",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=qn1QDDBnTA0",
+      "link": "https://www.youtube.com/watch?v=1JvyLGd2Sfs",
       "summary": ""
     },
     {
@@ -68,9 +68,9 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Top 1% Career Strategy: How to Get Hired in the AI Era",
+      "title": "Grammarly CEO: The AI Agents That Get You Promoted",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=213rSCulKUQ",
+      "link": "https://www.youtube.com/watch?v=JEZVl3BkSLk",
       "summary": ""
     },
     {
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+      "title": "How a handful of people built Grok Bot in 30 days | Roman Ugarte (SpaceXAI)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=LdIyXiq2DTY",
+      "link": "https://www.youtube.com/watch?v=maSdsTLaMuU",
       "summary": ""
     },
     {
