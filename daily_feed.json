@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-09T05:25:46Z",
+  "generated_at": "2026-09-10T05:23:11Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Investing in Gimlet",
-      "published_at": "Fri, 04 Sep 2026 16:01:58 GMT",
-      "link": "https://www.a16z.news/p/investing-in-gimlet",
-      "summary": "a16z invests in Gimlet"
+      "title": "Investing in Cognition",
+      "published_at": "Wed, 09 Sep 2026 19:00:24 GMT",
+      "link": "https://www.a16z.news/p/investing-in-cognition",
+      "summary": "Software is about to eat the world much faster."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
-      "published_at": "Wed, 09 Sep 2026 04:01:00 +0000",
-      "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
-      "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million."
+      "title": "Harvey hits $15.5B valuation, months after reaching $11B",
+      "published_at": "Wed, 09 Sep 2026 18:34:24 +0000",
+      "link": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+      "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Sapiom Receives $35M Series A Round",
-      "published_at": "08 Sep 2026 14:44:21 CDT",
-      "link": "https://vcnewsdaily.com/sapiom/venture-capital-funding/vtqbmfjfys",
-      "summary": "SAN FRANCISCO, CA, Sapiom, the platform builders use to ship, run, and scale AI agents, has announced a $35 million Series A."
+      "title": "System Scoops Up $20 Million",
+      "published_at": "09 Sep 2026 19:11:39 CDT",
+      "link": "https://vcnewsdaily.com/system/venture-capital-funding/vdhqszsyfj",
+      "summary": "SAN FRANCISCO, CA, System, the vertically integrated peptide platform, announced $20M in new funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Pastea",
-      "published_at": "2026-09-07T12:45:19-07:00",
-      "link": "https://www.producthunt.com/products/pastea",
-      "summary": "Save + search through links, snippets + screenshots you copy Discussion | Link"
+      "title": "WorkID.ai",
+      "published_at": "2026-09-06T02:54:44-07:00",
+      "link": "https://www.producthunt.com/products/workid-ai",
+      "summary": "Where verified talent meets opportunity. Hire with trust! Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Inside OpenAI’s Breakthroughs in Mathematical Reasoning",
+      "title": "Inside the Race to Independently Test the World’s Best Models",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=1JvyLGd2Sfs",
+      "link": "https://www.youtube.com/watch?v=WO9c9qxDxzU",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Grammarly CEO: The AI Agents That Get You Promoted",
+      "title": "Superhuman CEO: How to Position Yourself Now Before the Next AI Phase (2026–2027)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=JEZVl3BkSLk",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The $100 Billion AI Assistant Race That Will Replace Apps on Your Phone",
+      "title": "Town vs Instinct vs GrokBot | Why the AI Assistant Market Is Not a Bubble",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=9ISWVzQ85Po",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "AMP's Agents Can Already Escape Their Sandbox — Quinn Slack, AMP",
+      "title": "Inside the Team That Killed Mandatory Code Review — Quinn Slack, AMP",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=hvwtHZ5E27c",
       "summary": ""
