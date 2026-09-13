@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T05:11:37Z",
+  "generated_at": "2026-09-13T05:26:34Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Wisry",
-      "published_at": "2026-08-18T02:14:44-07:00",
-      "link": "https://www.producthunt.com/products/wisry",
-      "summary": "Clone the ads already winning in your market, at scale Discussion | Link"
+      "title": "Marked Share",
+      "published_at": "2026-09-09T07:45:35-07:00",
+      "link": "https://www.producthunt.com/products/marked-share",
+      "summary": "Markdown and TextBundle editing, review, and sharing Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "The Biggest AI Opportunities Are Hiding in Boring Businesses",
+      "title": "7 Boring AI Businesses That Could Make You Rich",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=cVGHg4Vd9uM",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Jensen Huang Declares AGI Has Arrived | Tesla Launches Cybercabs | Index Pulls Out of Town",
+      "title": "Labour, Engineering, Social Media, GrokBots, Cybercabs: 7 Predictions for How AI Changes the World",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=4ioSi39yjJQ",
+      "link": "https://www.youtube.com/watch?v=KHwaNKfiASw",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Why The Harness Matters More Than The Model | YC Paper Club",
+      "title": "Why You're Getting Zero Replies To Your Cold Emails",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=n9xKblqyQ28",
+      "link": "https://www.youtube.com/watch?v=wr6PMD06hP0",
       "summary": ""
     }
   ]
