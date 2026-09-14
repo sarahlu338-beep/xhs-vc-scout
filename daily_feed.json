@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T05:26:34Z",
+  "generated_at": "2026-09-14T05:31:02Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "published_at": "Fri, 11 Sep 2026 20:33:18 +0000",
-      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline."
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "published_at": "Sun, 13 Sep 2026 20:28:00 +0000",
+      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Positron AI Receives $875M Series C Round",
-      "published_at": "11 Sep 2026 19:21:33 CDT",
-      "link": "https://vcnewsdaily.com/positron-ai/venture-capital-funding/gjymwlvmwn",
-      "summary": "RENO, NV, Positron AI, the AI inference hardware company built to make serving AI models dramatically cheaper and more energy efficient, has announced an $875 million Series C at a $5 billion post-money valuation."
+      "title": "Upwind Scores $300M",
+      "published_at": "13 Sep 2026 14:04:52 CDT",
+      "link": "https://vcnewsdaily.com/upwind-security/venture-capital-funding/mdsmgvvvwb",
+      "summary": "SAN FRANCISCO, CA, Upwind, a cloud security company, has raised about $300 million at a valuation of roughly $3.8 billion."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Marked Share",
-      "published_at": "2026-09-09T07:45:35-07:00",
-      "link": "https://www.producthunt.com/products/marked-share",
-      "summary": "Markdown and TextBundle editing, review, and sharing Discussion | Link"
+      "title": "Epilude Notetaker",
+      "published_at": "2026-09-10T10:48:52-07:00",
+      "link": "https://www.producthunt.com/products/epilude",
+      "summary": "100% private meeting notes Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "7 Boring AI Businesses That Could Make You Rich",
+      "title": "7 Boring AI Businesses You Can Start in 2026",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=cVGHg4Vd9uM",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Labour, Engineering, Social Media, GrokBots, Cybercabs: 7 Predictions for How AI Changes the World",
+      "title": "Eight Sleep CEO: How AI Runs the Company | “Our Engineers Stopped Coding a Year Ago”",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=KHwaNKfiASw",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
+      "title": "How we built and launched Grok Bot | Roman Ugarte (SpaceXAI)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=maSdsTLaMuU",
       "summary": ""
