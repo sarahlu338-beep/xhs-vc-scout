@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-14T05:31:02Z",
+  "generated_at": "2026-09-15T05:31:23Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Catching the (Venture) Bus",
-      "published_at": "Fri, 11 Sep 2026 14:01:15 GMT",
-      "link": "https://www.a16z.news/p/catching-the-venture-bus",
-      "summary": "A “cottage” no more."
+      "title": "Product Management is Still All About Telling Stories",
+      "published_at": "Mon, 14 Sep 2026 14:02:07 GMT",
+      "link": "https://www.a16z.news/p/product-management-is-still-all-about",
+      "summary": "What AI is changing. What it’s not."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "published_at": "Sun, 13 Sep 2026 20:28:00 +0000",
-      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch."
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "published_at": "Mon, 14 Sep 2026 20:07:37 +0000",
+      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Upwind Scores $300M",
-      "published_at": "13 Sep 2026 14:04:52 CDT",
-      "link": "https://vcnewsdaily.com/upwind-security/venture-capital-funding/mdsmgvvvwb",
-      "summary": "SAN FRANCISCO, CA, Upwind, a cloud security company, has raised about $300 million at a valuation of roughly $3.8 billion."
+      "title": "TAR Grabs $120M Series A Round",
+      "published_at": "14 Sep 2026 15:00:20 CDT",
+      "link": "https://vcnewsdaily.com/tar/venture-capital-funding/mcdgfwdndv",
+      "summary": "AUSTIN, TX, TAR, which builds off-grid power systems for AI data centers, has announced a $120 million Series A led by Spark Capital at a $1 billion post-money valuation."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Epilude Notetaker",
-      "published_at": "2026-09-10T10:48:52-07:00",
-      "link": "https://www.producthunt.com/products/epilude",
-      "summary": "100% private meeting notes Discussion | Link"
+      "title": "TryCase",
+      "published_at": "2026-09-06T08:10:35-07:00",
+      "link": "https://www.producthunt.com/products/trycase",
+      "summary": "AI tests your PRs. Get a video walkthrough before you merge. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Investors Are Rethinking Everything for the AI Era",
+      "title": "Greg Brockman Says AGI Has Arrived",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=bsdJd2VeLvg",
+      "link": "https://www.youtube.com/watch?v=IJn8cagMW18",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "7 Boring AI Businesses You Can Start in 2026",
+      "title": "The Biggest AI Opportunities Are Hiding in Boring Businesses",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=cVGHg4Vd9uM",
       "summary": ""
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Eight Sleep CEO: How AI Runs the Company | “Our Engineers Stopped Coding a Year Ago”",
+      "title": "How LPs Allocate to Venture in 2026: What They Want, What They Don’t | Baylor University CIO",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=KHwaNKfiASw",
+      "link": "https://www.youtube.com/watch?v=U_ManIWISzw",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Orbs: Shifting Coding to Cloud — Quinn Slack, Amp Code",
+      "title": "Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=hvwtHZ5E27c",
+      "link": "https://www.youtube.com/watch?v=eDFXtSg3zB8",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How we built and launched Grok Bot | Roman Ugarte (SpaceXAI)",
+      "title": "How a handful of people built Grok Bot in 30 days | Roman Ugarte (SpaceXAI)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=maSdsTLaMuU",
       "summary": ""
