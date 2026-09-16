@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-15T05:31:23Z",
+  "generated_at": "2026-09-16T05:23:14Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Product Management is Still All About Telling Stories",
-      "published_at": "Mon, 14 Sep 2026 14:02:07 GMT",
-      "link": "https://www.a16z.news/p/product-management-is-still-all-about",
-      "summary": "What AI is changing. What it’s not."
+      "title": "Magazine Depth Affordability Is a Choice",
+      "published_at": "Tue, 15 Sep 2026 14:03:20 GMT",
+      "link": "https://www.a16z.news/p/magazine-depth-affordability-is-a",
+      "summary": "We can afford the munitions we need if we make different buying decisions this year"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-      "published_at": "Mon, 14 Sep 2026 20:07:37 +0000",
-      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive."
+      "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
+      "published_at": "Tue, 15 Sep 2026 17:02:04 +0000",
+      "link": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
+      "summary": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one company-wide plan."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "TAR Grabs $120M Series A Round",
-      "published_at": "14 Sep 2026 15:00:20 CDT",
-      "link": "https://vcnewsdaily.com/tar/venture-capital-funding/mcdgfwdndv",
-      "summary": "AUSTIN, TX, TAR, which builds off-grid power systems for AI data centers, has announced a $120 million Series A led by Spark Capital at a $1 billion post-money valuation."
+      "title": "Enigmata Emerges from Stealth with $6.5 Million",
+      "published_at": "15 Sep 2026 15:28:52 CDT",
+      "link": "https://vcnewsdaily.com/enigmata/venture-capital-funding/sttgnmpjlw",
+      "summary": "NASHVILLE, TN, Enigmata, emerged from stealth with $6.5 million in seed funding led by Blockchange Ventures."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "TryCase",
-      "published_at": "2026-09-06T08:10:35-07:00",
-      "link": "https://www.producthunt.com/products/trycase",
-      "summary": "AI tests your PRs. Get a video walkthrough before you merge. Discussion | Link"
+      "title": "Voiskey",
+      "published_at": "2026-08-31T04:01:15-07:00",
+      "link": "https://www.producthunt.com/products/voiskey",
+      "summary": "AI voice typing that sounds right in every app Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,17 +52,17 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Greg Brockman Says AGI Has Arrived",
+      "title": "The Real Story Behind the Internet's Biggest Wellness Trends",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=IJn8cagMW18",
+      "link": "https://www.youtube.com/watch?v=HKZdte6exaw",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Making Cities Awesome: Peregrine’s Nick Noone & Ben Rudolph",
+      "title": "Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=JWMF5EpP0KE",
+      "link": "https://www.youtube.com/watch?v=NE4CLThMPGU",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How a handful of people built Grok Bot in 30 days | Roman Ugarte (SpaceXAI)",
+      "title": "How we built and launched Grok Bot | Roman Ugarte (SpaceXAI)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=maSdsTLaMuU",
       "summary": ""
