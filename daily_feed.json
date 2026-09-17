@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T05:23:14Z",
+  "generated_at": "2026-09-17T05:32:21Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
-      "published_at": "Tue, 15 Sep 2026 17:02:04 +0000",
-      "link": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
-      "summary": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one company-wide plan."
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "published_at": "Thu, 17 Sep 2026 03:30:00 +0000",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Enigmata Emerges from Stealth with $6.5 Million",
-      "published_at": "15 Sep 2026 15:28:52 CDT",
-      "link": "https://vcnewsdaily.com/enigmata/venture-capital-funding/sttgnmpjlw",
-      "summary": "NASHVILLE, TN, Enigmata, emerged from stealth with $6.5 million in seed funding led by Blockchange Ventures."
+      "title": "Aristotle Secures $5M Seed Funding",
+      "published_at": "16 Sep 2026 14:46:30 CDT",
+      "link": "https://vcnewsdaily.com/aristotle/venture-capital-funding/jqljsvgjmy",
+      "summary": "SAN FRANCISCO, CA, Aristotle, a voice-first AI tutoring platform, announced $5 million in seed funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Voiskey",
-      "published_at": "2026-08-31T04:01:15-07:00",
-      "link": "https://www.producthunt.com/products/voiskey",
-      "summary": "AI voice typing that sounds right in every app Discussion | Link"
+      "title": "Convo",
+      "published_at": "2026-09-14T16:29:05-07:00",
+      "link": "https://www.producthunt.com/products/convo-7",
+      "summary": "The AI copilot for people who sell Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Real Story Behind the Internet's Biggest Wellness Trends",
+      "title": "How AI Is Rewriting Software From First Principles",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=HKZdte6exaw",
+      "link": "https://www.youtube.com/watch?v=K5yGLO8c6T0",
       "summary": ""
     },
     {
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive",
+      "title": "The $20 Agent, $200M Liability — Rune Kvist of AI Underwriting Company",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=eDFXtSg3zB8",
+      "link": "https://www.youtube.com/watch?v=Sc2_LfWgHb4",
       "summary": ""
     },
     {
