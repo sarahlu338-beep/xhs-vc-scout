@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T05:32:21Z",
+  "generated_at": "2026-09-18T05:20:01Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "published_at": "Thu, 17 Sep 2026 03:30:00 +0000",
-      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200."
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "published_at": "Thu, 17 Sep 2026 22:34:09 +0000",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Aristotle Secures $5M Seed Funding",
-      "published_at": "16 Sep 2026 14:46:30 CDT",
-      "link": "https://vcnewsdaily.com/aristotle/venture-capital-funding/jqljsvgjmy",
-      "summary": "SAN FRANCISCO, CA, Aristotle, a voice-first AI tutoring platform, announced $5 million in seed funding."
+      "title": "Ravel Pulls In $8.2M Seed Round",
+      "published_at": "17 Sep 2026 22:00:23 CDT",
+      "link": "https://vcnewsdaily.com/ravel/venture-capital-funding/tzxjmscgnn",
+      "summary": "SEATTLE, WA, Ravel, a textile-to-textile recycling technology company, today announced the successful closure of an oversubscribed $8.2 million Seed funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Convo",
-      "published_at": "2026-09-14T16:29:05-07:00",
-      "link": "https://www.producthunt.com/products/convo-7",
-      "summary": "The AI copilot for people who sell Discussion | Link"
+      "title": "Modaal for Android",
+      "published_at": "2026-09-03T06:29:48-07:00",
+      "link": "https://www.producthunt.com/products/modaal-ai-agent-for-ios-android-native",
+      "summary": "Ship on both stores from one project using Swift + Kotlin Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,17 +52,17 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "How AI Is Rewriting Software From First Principles",
+      "title": "How Real-Time AI Video Is Changing How Creators Work",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=K5yGLO8c6T0",
+      "link": "https://www.youtube.com/watch?v=SDbRJXQrYGY",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion",
+      "title": "Databricks’ Ali Ghodsi Never Wanted to Be CEO. Now He’s Among the Best",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=NE4CLThMPGU",
+      "link": "https://www.youtube.com/watch?v=k7wPdCNfljQ",
       "summary": ""
     },
     {
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "How LPs Allocate to Venture in 2026: What They Want, What They Don’t | Baylor University CIO",
+      "title": "Instinct Raising $1B at $10B & Meta Launches Muse | Miro Sells for $1.36B After a $17.5B Valuation",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=U_ManIWISzw",
+      "link": "https://www.youtube.com/watch?v=_tfUQrusRGM",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The $20 Agent, $200M Liability — Rune Kvist of AI Underwriting Company",
+      "title": "Who Insures the AI Agents? — Rune Kvist of AI Underwriting Company",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Sc2_LfWgHb4",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How we built and launched Grok Bot | Roman Ugarte (SpaceXAI)",
+      "title": "How a handful of people built Grok Bot in 30 days | Roman Ugarte (SpaceXAI)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=maSdsTLaMuU",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Why You're Getting Zero Replies To Your Cold Emails",
+      "title": "The State of Startups in 2026",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=wr6PMD06hP0",
+      "link": "https://www.youtube.com/watch?v=yslXlV2BP_Y",
       "summary": ""
     }
   ]
