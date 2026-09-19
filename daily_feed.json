@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-18T05:20:01Z",
+  "generated_at": "2026-09-19T05:12:48Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Magazine Depth Affordability Is a Choice",
-      "published_at": "Tue, 15 Sep 2026 14:03:20 GMT",
-      "link": "https://www.a16z.news/p/magazine-depth-affordability-is-a",
-      "summary": "We can afford the munitions we need if we make different buying decisions this year"
+      "title": "Charts of the Week: So Many Apps, So Little Time",
+      "published_at": "Fri, 18 Sep 2026 14:04:07 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-so-many-apps-so",
+      "summary": "New Breed of Unicorn; Citrini Called the Bottom; MA and CA Make it Very Expensive to Start a Business"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "published_at": "Thu, 17 Sep 2026 22:34:09 +0000",
-      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "summary": "If AI lab PrismML isn't on your radar yet, it should be."
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "published_at": "Fri, 18 Sep 2026 23:25:01 +0000",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Ravel Pulls In $8.2M Seed Round",
-      "published_at": "17 Sep 2026 22:00:23 CDT",
-      "link": "https://vcnewsdaily.com/ravel/venture-capital-funding/tzxjmscgnn",
-      "summary": "SEATTLE, WA, Ravel, a textile-to-textile recycling technology company, today announced the successful closure of an oversubscribed $8.2 million Seed funding round."
+      "title": "RegCell Receives $44M Series A Round",
+      "published_at": "18 Sep 2026 15:04:16 CDT",
+      "link": "https://vcnewsdaily.com/regcell/venture-capital-funding/jrcfxnzgcg",
+      "summary": "EMERYVILLE, CA, RegCell, a biotechnology company developing first-in-class therapies to restore immune tolerance, has announced the closing of a fully subscribed Series A financing."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Modaal for Android",
-      "published_at": "2026-09-03T06:29:48-07:00",
-      "link": "https://www.producthunt.com/products/modaal-ai-agent-for-ios-android-native",
-      "summary": "Ship on both stores from one project using Swift + Kotlin Discussion | Link"
+      "title": "AI Class by Kanary",
+      "published_at": "2026-09-17T19:00:46-07:00",
+      "link": "https://www.producthunt.com/products/ai-class-by-kanary",
+      "summary": "Knight or Ninja? Your Codex & Claude logs decide Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "How Real-Time AI Video Is Changing How Creators Work",
+      "title": "Databricks CEO on What We’re Getting Wrong About Existential Risk",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=SDbRJXQrYGY",
+      "link": "https://www.youtube.com/watch?v=GzEtpAKYRvE",
       "summary": ""
     },
     {
@@ -68,15 +68,15 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "The Biggest AI Opportunities Are Hiding in Boring Businesses",
+      "title": "TOP 10 Highest-Paying Jobs for the next 10 years (and 5 jobs that have NO future)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=cVGHg4Vd9uM",
+      "link": "https://www.youtube.com/watch?v=ael24TrS0ws",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Instinct Raising $1B at $10B & Meta Launches Muse | Miro Sells for $1.36B After a $17.5B Valuation",
+      "title": "Why \"Pacing the Frontier\" is BS | Instinct Raising $1B at $10B & Meta Launches Muse",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=_tfUQrusRGM",
       "summary": ""
@@ -84,15 +84,15 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Who Insures the AI Agents? — Rune Kvist of AI Underwriting Company",
+      "title": "Ninety Percent of Phone AI Still Runs in the Cloud — Ramin Hasani, Liquid AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Sc2_LfWgHb4",
+      "link": "https://www.youtube.com/watch?v=V_9TCu_21SE",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How a handful of people built Grok Bot in 30 days | Roman Ugarte (SpaceXAI)",
+      "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=maSdsTLaMuU",
       "summary": ""
