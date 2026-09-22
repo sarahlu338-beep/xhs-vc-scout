@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T05:34:52Z",
+  "generated_at": "2026-09-22T05:31:18Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "published_at": "Sun, 20 Sep 2026 21:41:08 +0000",
-      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then."
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "published_at": "Mon, 21 Sep 2026 19:25:00 +0000",
+      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "RegCell Receives $44M Series A Round",
-      "published_at": "18 Sep 2026 15:04:16 CDT",
-      "link": "https://vcnewsdaily.com/regcell/venture-capital-funding/jrcfxnzgcg",
-      "summary": "EMERYVILLE, CA, RegCell, a biotechnology company developing first-in-class therapies to restore immune tolerance, has announced the closing of a fully subscribed Series A financing."
+      "title": "Raindrop Scores $50M Series A",
+      "published_at": "21 Sep 2026 15:00:46 CDT",
+      "link": "https://vcnewsdaily.com/raindrop/venture-capital-funding/dnpwrkxkbh",
+      "summary": "SAN FRANCISCO, CA, Raindrop, the agent reliability company, has raised a $50 million Series A round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Mycel",
-      "published_at": "2026-09-04T19:51:02-07:00",
-      "link": "https://www.producthunt.com/products/mycel",
-      "summary": "Bring one past deliverable. Mycel drafts every future one. Discussion | Link"
+      "title": "OmniDICOM",
+      "published_at": "2026-09-20T20:53:39-07:00",
+      "link": "https://www.producthunt.com/products/omnidicom",
+      "summary": "DICOM viewing and metadata editing on Mac and Windows Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "How Many Will Actually Get Built & Is Energy AI's BIGGEST Bottleneck? | Positron AI Co-founder",
+      "title": "Daniel Dines on Why Work Processes Not Models Will Be The Most Valuable Asset in AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=6ohZuFkq-aU",
+      "link": "https://www.youtube.com/watch?v=N9U-RoNXYZE",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Why Static Evals Become Obsolete in Production — Ramin Hasani, Liquid A",
+      "title": "From InstructGPT to Jev: What Comes After ChatGPT — Diogo Almeida, TypeSafe Co-founder & CEO",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=V_9TCu_21SE",
+      "link": "https://www.youtube.com/watch?v=cFx9Z3ZXca0",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "90 minutes of real-talk product advice from Snap and Discord’s product chief | Peter Sellis",
+      "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=97LRJUUPy_w",
       "summary": ""
