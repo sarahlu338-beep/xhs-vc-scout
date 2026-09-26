@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-25T05:31:58Z",
+  "generated_at": "2026-09-26T05:38:13Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Introducing the a16z Ops Engineering Fellowship",
-      "published_at": "Wed, 23 Sep 2026 17:03:25 GMT",
-      "link": "https://www.a16z.news/p/introducing-the-a16z-ops-engineering",
-      "summary": "A new six week cohort for the innovators redefining how organizations operate with AI"
+      "title": "How Silicon Valley Knows Its People",
+      "published_at": "Fri, 25 Sep 2026 14:38:48 GMT",
+      "link": "https://www.a16z.news/p/how-silicon-valley-knows-its-people",
+      "summary": "On early believers, public signals, and the game of becoming somebody"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "published_at": "Fri, 25 Sep 2026 05:00:00 +0000",
-      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "published_at": "Fri, 25 Sep 2026 18:48:33 +0000",
+      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Prime Minute Scores $15M Seed Round",
-      "published_at": "24 Sep 2026 13:59:40 CDT",
-      "link": "https://vcnewsdaily.com/prime-minute/venture-capital-funding/tpnvjzcxhm",
-      "summary": "PALO ALTO, CA, Prime Minute, the first company to build a global resilience prime, emerged from stealth today with $15 million in pre-seed funding led by Eclipse, with participation from 8VC."
+      "title": "Sela Scores $21M Seed and Series A",
+      "published_at": "25 Sep 2026 15:03:46 CDT",
+      "link": "https://vcnewsdaily.com/sela/venture-capital-funding/fcbvzkfhnv",
+      "summary": "SAN FRANCISCO, CA, Sela, the market-leading voice AI system for mortgage sales, today announced a total of $21 million in funding across Seed and Series A."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "LockLines",
-      "published_at": "2026-09-23T13:09:03-07:00",
-      "link": "https://www.producthunt.com/products/locklines",
-      "summary": "Design Mac lock screen messages that fit Discussion | Link"
+      "title": "Evvery",
+      "published_at": "2026-09-14T18:33:31-07:00",
+      "link": "https://www.producthunt.com/products/evvery",
+      "summary": "Everyday AI meant for everyone. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Amjad Masad on the Future of Learning",
+      "title": "Why We Built Cosign",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Q8yFrGwIftE",
+      "link": "https://www.youtube.com/watch?v=-ywZlfznTa4",
       "summary": ""
     },
     {
@@ -68,9 +68,9 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "$13B Lovable Co-Founder: The Task You Repeat Every Day Is Your Next Business",
+      "title": "Stanford Doctor: The Right Way To Ask AI About Your Health",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=KEAYPqQG2-M",
+      "link": "https://www.youtube.com/watch?v=oOpF0ZXSXuk",
       "summary": ""
     },
     {
@@ -84,17 +84,17 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Runway’s Bet Beyond Video: World Models, Robotics, and the Neural OS — Anastasis Germanidis",
+      "title": "Why “One Model Wins” Was the Wrong Bet — OpenRouter’s Alex Atallah & AMP's Anjney Midha",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=fGRd5gYhztg",
+      "link": "https://www.youtube.com/watch?v=dCX4PE2HxMs",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The last roadmap | Claire Vo",
+      "title": "How to scale intent, quality, and artistry with Al | Katie Dill (Stripe)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=VM5kuvWgwDY",
+      "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
       "summary": ""
     },
     {
