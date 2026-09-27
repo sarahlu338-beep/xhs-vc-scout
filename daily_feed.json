@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T05:38:13Z",
+  "generated_at": "2026-09-27T05:54:52Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "published_at": "Fri, 25 Sep 2026 18:48:33 +0000",
-      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "published_at": "Sat, 26 Sep 2026 14:00:00 +0000",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Evvery",
-      "published_at": "2026-09-14T18:33:31-07:00",
-      "link": "https://www.producthunt.com/products/evvery",
-      "summary": "Everyday AI meant for everyone. Discussion | Link"
+      "title": "Psst",
+      "published_at": "2026-09-03T11:48:30-07:00",
+      "link": "https://www.producthunt.com/products/psst-3",
+      "summary": "A shared shopping list that remembers what things cost Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why We Built Cosign",
+      "title": "The Case for Moving AI Forward",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=-ywZlfznTa4",
+      "link": "https://www.youtube.com/watch?v=TLJNJDf2XGo",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Stanford Doctor: The Right Way To Ask AI About Your Health",
+      "title": "Stanford Medical AI Expert: What Controls 80% of Your Future Health",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=oOpF0ZXSXuk",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Meta's Muse Hits #1 | Menlo Sounds the AI Bubble Alarm | Keith Rabois vs Airwallex: Who is Right?",
+      "title": "The Ads Business Model Will Die & 5 Predictions for a World of Agents | Parag Agrawal, Parallel",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=5FnXlCQxV5o",
+      "link": "https://www.youtube.com/watch?v=wTxb_whJR00",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The State of Startups in 2026",
+      "title": "Robot-Use Agents: Why General-Purpose Models May Win in Robotics",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=yslXlV2BP_Y",
+      "link": "https://www.youtube.com/watch?v=Jv5B5CEaPJI",
       "summary": ""
     }
   ]
