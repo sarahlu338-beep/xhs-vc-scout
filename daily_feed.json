@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T05:54:52Z",
+  "generated_at": "2026-09-28T06:00:11Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Psst",
-      "published_at": "2026-09-03T11:48:30-07:00",
-      "link": "https://www.producthunt.com/products/psst-3",
-      "summary": "A shared shopping list that remembers what things cost Discussion | Link"
+      "title": "Humalike x GTA RP",
+      "published_at": "2026-09-01T10:19:53-07:00",
+      "link": "https://www.producthunt.com/products/humalike-2",
+      "summary": "AI NPCs that talk, remember & act on their own Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Case for Moving AI Forward",
+      "title": "The Next Chapter of AI Is Inside Our Software",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=TLJNJDf2XGo",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Stanford Medical AI Expert: What Controls 80% of Your Future Health",
+      "title": "Stanford Doctor: Never Tell AI What You Think Is Wrong With You",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=oOpF0ZXSXuk",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Why “One Model Wins” Was the Wrong Bet — OpenRouter’s Alex Atallah & AMP's Anjney Midha",
+      "title": "The $10 Trillion Token Economy — Alex Atallah, OpenRouter & Anjney Midha, AMP",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=dCX4PE2HxMs",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How to scale intent, quality, and artistry with Al | Katie Dill (Stripe)",
+      "title": "Molly Graham: The grief, burnout, and opportunity hiding inside the AI transition",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "link": "https://www.youtube.com/watch?v=5-96FyJFiCA",
       "summary": ""
     },
     {
