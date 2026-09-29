@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-28T06:00:11Z",
+  "generated_at": "2026-09-29T06:18:22Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "How Silicon Valley Knows Its People",
-      "published_at": "Fri, 25 Sep 2026 14:38:48 GMT",
-      "link": "https://www.a16z.news/p/how-silicon-valley-knows-its-people",
-      "summary": "On early believers, public signals, and the game of becoming somebody"
+      "title": "OpenAI Understands Something Important and Rare",
+      "published_at": "Mon, 28 Sep 2026 14:03:20 GMT",
+      "link": "https://www.a16z.news/p/openai-understands-something-important",
+      "summary": "The purpose of a business is to create a customer"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "published_at": "Sat, 26 Sep 2026 14:00:00 +0000",
-      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "published_at": "Tue, 29 Sep 2026 00:30:00 +0000",
+      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Sela Scores $21M Seed and Series A",
-      "published_at": "25 Sep 2026 15:03:46 CDT",
-      "link": "https://vcnewsdaily.com/sela/venture-capital-funding/fcbvzkfhnv",
-      "summary": "SAN FRANCISCO, CA, Sela, the market-leading voice AI system for mortgage sales, today announced a total of $21 million in funding across Seed and Series A."
+      "title": "Cyera Announces $400 Series G Extenstion",
+      "published_at": "28 Sep 2026 14:46:13 CDT",
+      "link": "https://vcnewsdaily.com/cyera/venture-capital-funding/lqyjbcxhzj",
+      "summary": "NEW YORK, NY, Cyera announced a $400 million extension from Growth Equity at Goldman Sachs Alternatives to its Series G, led by Evolution Equity."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Humalike x GTA RP",
-      "published_at": "2026-09-01T10:19:53-07:00",
-      "link": "https://www.producthunt.com/products/humalike-2",
-      "summary": "AI NPCs that talk, remember & act on their own Discussion | Link"
+      "title": "VibeDefend by CybeDefend",
+      "published_at": "2026-09-17T06:41:42-07:00",
+      "link": "https://www.producthunt.com/products/cybedefend",
+      "summary": "The one command line to secure your Cursor and Claude Code Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Next Chapter of AI Is Inside Our Software",
+      "title": "How Jev Could Expand What Every Developer Can Create",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=TLJNJDf2XGo",
+      "link": "https://www.youtube.com/watch?v=Ut3LOjKNJaE",
       "summary": ""
     },
     {
@@ -76,25 +76,25 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The Ads Business Model Will Die & 5 Predictions for a World of Agents | Parag Agrawal, Parallel",
+      "title": "The Untold Story of Higgsfield | Burning $4M a Month on AI Models | CEO, Alex Mashrabov",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=wTxb_whJR00",
+      "link": "https://www.youtube.com/watch?v=jszn8rFtxm4",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The $10 Trillion Token Economy — Alex Atallah, OpenRouter & Anjney Midha, AMP",
+      "title": "The Future of Claude Code: Mods, Mutable Software, & Multiplayer Agents — Thariq Shihipar, Anthropic",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=dCX4PE2HxMs",
+      "link": "https://www.youtube.com/watch?v=IZAlq-V19U8",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Molly Graham: The grief, burnout, and opportunity hiding inside the AI transition",
+      "title": "Atlassian’s CPO on keeping up with AI: don’t believe what you read on X | Tamar Yehoshua",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=5-96FyJFiCA",
+      "link": "https://www.youtube.com/watch?v=BtK4kFI1LNo",
       "summary": ""
     },
     {
