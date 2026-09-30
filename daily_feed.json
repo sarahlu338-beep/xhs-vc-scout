@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-29T06:18:22Z",
+  "generated_at": "2026-09-30T06:03:58Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "OpenAI Understands Something Important and Rare",
-      "published_at": "Mon, 28 Sep 2026 14:03:20 GMT",
-      "link": "https://www.a16z.news/p/openai-understands-something-important",
-      "summary": "The purpose of a business is to create a customer"
+      "title": "Who Gets Paid When AI Does the Shopping?",
+      "published_at": "Tue, 29 Sep 2026 16:53:12 GMT",
+      "link": "https://www.a16z.news/p/who-gets-paid-when-ai-does-the-shopping",
+      "summary": "AI Assistants vs Marketplaces"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "published_at": "Tue, 29 Sep 2026 00:30:00 +0000",
-      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
+      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+      "published_at": "Tue, 29 Sep 2026 21:51:36 +0000",
+      "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+      "summary": "EliseAI raises $350M, doubles valuation in a year."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Cyera Announces $400 Series G Extenstion",
-      "published_at": "28 Sep 2026 14:46:13 CDT",
-      "link": "https://vcnewsdaily.com/cyera/venture-capital-funding/lqyjbcxhzj",
-      "summary": "NEW YORK, NY, Cyera announced a $400 million extension from Growth Equity at Goldman Sachs Alternatives to its Series G, led by Evolution Equity."
+      "title": "Atomic Scores $12.5M Series A Financing",
+      "published_at": "29 Sep 2026 21:32:43 CDT",
+      "link": "https://vcnewsdaily.com/atomic-supply/venture-capital-funding/wzbhqyhkny",
+      "summary": "BOSTON, MA, Atomic, the AI-native supply chain planning platform, today announced a $12.5 million Series A round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "VibeDefend by CybeDefend",
-      "published_at": "2026-09-17T06:41:42-07:00",
-      "link": "https://www.producthunt.com/products/cybedefend",
-      "summary": "The one command line to secure your Cursor and Claude Code Discussion | Link"
+      "title": "Clink",
+      "published_at": "2026-09-28T05:11:38-07:00",
+      "link": "https://www.producthunt.com/products/clink-custom-keyboards",
+      "summary": "The iOS keyboard you actually own Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "How Jev Could Expand What Every Developer Can Create",
+      "title": "How AI Agents Could Start Saving You Money Automatically",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Ut3LOjKNJaE",
+      "link": "https://www.youtube.com/watch?v=3T5sij3spWw",
       "summary": ""
     },
     {
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The Untold Story of Higgsfield | Burning $4M a Month on AI Models | CEO, Alex Mashrabov",
+      "title": "The Untold Story of Higgsfield | $1B ARR in 18 Months | Why Moats in AI are BS | CEO, Alex Mashrabov",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=jszn8rFtxm4",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The Future of Claude Code: Mods, Mutable Software, & Multiplayer Agents — Thariq Shihipar, Anthropic",
+      "title": "Why Claude Code May Kill Claude.md — Thariq Shihipar, Anthropic",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=IZAlq-V19U8",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Atlassian’s CPO on keeping up with AI: don’t believe what you read on X | Tamar Yehoshua",
+      "title": "The vibe shift: Why we need PMs again | Anthropic CPO Panel",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=BtK4kFI1LNo",
+      "link": "https://www.youtube.com/watch?v=sEXdyK6woKU",
       "summary": ""
     },
     {
