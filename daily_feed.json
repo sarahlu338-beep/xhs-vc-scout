@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-01T06:38:01Z",
+  "generated_at": "2026-10-02T06:21:20Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "State of Markets II",
-      "published_at": "Wed, 30 Sep 2026 12:03:43 GMT",
-      "link": "https://www.a16z.news/p/state-of-markets-ii",
-      "summary": "100+ Charts On The State of Markets (1H’26). It's the best. You wouldn't want to miss it."
+      "title": "Investing in doxxnet",
+      "published_at": "Thu, 01 Oct 2026 16:00:56 GMT",
+      "link": "https://www.a16z.news/p/investing-in-doxxnet",
+      "summary": "a16z leads doxxnet’s Series A"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "published_at": "Wed, 30 Sep 2026 21:07:40 +0000",
-      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "published_at": "Fri, 02 Oct 2026 00:03:23 +0000",
+      "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "AlgoX2 Obtains $10M Seed Extension Funding",
-      "published_at": "30 Sep 2026 14:35:27 CDT",
-      "link": "https://vcnewsdaily.com/algox2/venture-capital-funding/msrvnqvdbv",
-      "summary": "NEW YORK, NY, AlgoX2 has raised a $10 million seed extension led by Bessemer Venture Partners and Fin Capital."
+      "title": "Homeward Lands $120M Series D",
+      "published_at": "01 Oct 2026 18:25:56 CDT",
+      "link": "https://vcnewsdaily.com/homeward/venture-capital-funding/sjymqtcxhv",
+      "summary": "AUSTIN, TX, Homeward, a leader in cash-backed real estate financing solutions, today announced $120 million in equity financing and $330 million in asset-backed debt facilities."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Styx",
-      "published_at": "2026-09-25T05:00:00-07:00",
-      "link": "https://www.producthunt.com/products/styx-2",
-      "summary": "An agentic development environment (ADE) for Mac Discussion | Link"
+      "title": "Dots by OpenAI",
+      "published_at": "2026-09-29T11:35:29-07:00",
+      "link": "https://www.producthunt.com/products/dots-by-openai",
+      "summary": "Always on agents built to handle everything Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "AI, Infrastructure, and the Next Investment Cycle",
+      "title": "Why One Internet Pioneer Thinks the Original Model Broke",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=lr3hNhA0IfQ",
+      "link": "https://www.youtube.com/watch?v=bmDrbHOh7Bo",
       "summary": ""
     },
     {
@@ -68,25 +68,25 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "OpenAI Co-Founder: Start Building With AI Before You Feel Ready | Greg Brockman",
+      "title": "$95B Airbnb CEO: People Who Know What to Build With AI Will Pull Ahead",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=qy8Gr27yLMk",
+      "link": "https://www.youtube.com/watch?v=iJlyNupMOzA",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "$1B ARR in 18 Months | Burning $4M a Month on Models & Why Moats in AI are BS | CEO, Alex Mashrabov",
+      "title": "AMD Buys Fei-Fei Li's World Labs for $8.2B | Meta Poaches MongoDB's CEO | Bessemer Raises $5.75B",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=jszn8rFtxm4",
+      "link": "https://www.youtube.com/watch?v=UNH5YtuK5UE",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein & Nikunj Handa",
+      "title": "Recursive Language Models — Alex Zhang, MIT PhD",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=z9OkBD2-MDU",
+      "link": "https://www.youtube.com/watch?v=kog7mwsDqnk",
       "summary": ""
     },
     {
