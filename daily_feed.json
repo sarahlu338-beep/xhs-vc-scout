@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-02T06:21:20Z",
+  "generated_at": "2026-10-03T05:51:02Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Investing in doxxnet",
-      "published_at": "Thu, 01 Oct 2026 16:00:56 GMT",
-      "link": "https://www.a16z.news/p/investing-in-doxxnet",
-      "summary": "a16z leads doxxnet’s Series A"
+      "title": "The Case for the American Manufacturing Asset Class",
+      "published_at": "Fri, 02 Oct 2026 14:02:34 GMT",
+      "link": "https://www.a16z.news/p/the-case-for-the-american-manufacturing",
+      "summary": "Rebuilding the industrial base required for deterrence is one of the defining investment opportunities of the next decade."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "published_at": "Fri, 02 Oct 2026 00:03:23 +0000",
-      "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that."
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "published_at": "Fri, 02 Oct 2026 19:15:51 +0000",
+      "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Homeward Lands $120M Series D",
-      "published_at": "01 Oct 2026 18:25:56 CDT",
-      "link": "https://vcnewsdaily.com/homeward/venture-capital-funding/sjymqtcxhv",
-      "summary": "AUSTIN, TX, Homeward, a leader in cash-backed real estate financing solutions, today announced $120 million in equity financing and $330 million in asset-backed debt facilities."
+      "title": "RemoteThreat Launches With $7M Pre-Seed",
+      "published_at": "02 Oct 2026 15:09:22 CDT",
+      "link": "https://vcnewsdaily.com/remotethreat/venture-capital-funding/jqjtczdknf",
+      "summary": "FULTON, MD, RemoteThreat has announced $7 million in pre-seed funding to accelerate deployment of the platform and additional feature development."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Dots by OpenAI",
-      "published_at": "2026-09-29T11:35:29-07:00",
-      "link": "https://www.producthunt.com/products/dots-by-openai",
-      "summary": "Always on agents built to handle everything Discussion | Link"
+      "title": "Earlyn",
+      "published_at": "2026-10-01T19:00:35-07:00",
+      "link": "https://www.producthunt.com/products/earlyn",
+      "summary": "Searchable memory of your screen and meetings, on your Mac Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why One Internet Pioneer Thinks the Original Model Broke",
+      "title": "Why Enterprise Software Is Being Rebuilt Around AI Agents",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=bmDrbHOh7Bo",
+      "link": "https://www.youtube.com/watch?v=OTQ-lFsq7zA",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "$95B Airbnb CEO: People Who Know What to Build With AI Will Pull Ahead",
+      "title": "$95B Airbnb CEO: The Signs AI Will Make You Rich (Check If You're In)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=iJlyNupMOzA",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "AMD Buys Fei-Fei Li's World Labs for $8.2B | Meta Poaches MongoDB's CEO | Bessemer Raises $5.75B",
+      "title": "Instinct Raises $1B at $10B Valuation | Meta Poaches MongoDB's CEO | Bessemer Raises $5.75B",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=UNH5YtuK5UE",
       "summary": ""
@@ -84,15 +84,15 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Recursive Language Models — Alex Zhang, MIT PhD",
+      "title": "77 GPU Clouds. Only 19 Medals. | ClusterMAX 3.0",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=kog7mwsDqnk",
+      "link": "https://www.youtube.com/watch?v=MWX36ZYnsm0",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Anthropic CPO’s: Nobody knows what the right product looks like (yet)",
+      "title": "Why Claude can’t be your PM (yet) | Anthropic CPO Panel",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=sEXdyK6woKU",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Robot-Use Agents: Why General-Purpose Models May Win in Robotics",
+      "title": "What If We Stopped Using GPUs? | YC Paper Club",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Jv5B5CEaPJI",
+      "link": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
       "summary": ""
     }
   ]
