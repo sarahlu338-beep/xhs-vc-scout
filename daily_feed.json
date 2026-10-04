@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:51:02Z",
+  "generated_at": "2026-10-04T06:29:11Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "published_at": "Fri, 02 Oct 2026 19:15:51 +0000",
-      "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
+      "title": "Spotify billionaire’s body scan startup has come to America",
+      "published_at": "Sat, 03 Oct 2026 14:00:00 +0000",
+      "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Earlyn",
-      "published_at": "2026-10-01T19:00:35-07:00",
-      "link": "https://www.producthunt.com/products/earlyn",
-      "summary": "Searchable memory of your screen and meetings, on your Mac Discussion | Link"
+      "title": "OTPfill",
+      "published_at": "2026-09-29T01:55:04-07:00",
+      "link": "https://www.producthunt.com/products/otpfill",
+      "summary": "Autofill OTP codes from your email on Mac Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Enterprise Software Is Being Rebuilt Around AI Agents",
+      "title": "Why Every Company Needs to Own Its Intelligence",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=OTQ-lFsq7zA",
+      "link": "https://www.youtube.com/watch?v=ekK8urKHPMQ",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "$95B Airbnb CEO: The Signs AI Will Make You Rich (Check If You're In)",
+      "title": "Brian Chesky: People Who Know What to Build With AI Will Pull Ahead",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=iJlyNupMOzA",
       "summary": ""
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Instinct Raises $1B at $10B Valuation | Meta Poaches MongoDB's CEO | Bessemer Raises $5.75B",
+      "title": "Crusoe CEO: Why Everyone Gets GPU Depreciation & AI Energy Costs Wrong",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=UNH5YtuK5UE",
+      "link": "https://www.youtube.com/watch?v=Ko7nU1Img40",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "77 GPU Clouds. Only 19 Medals. | ClusterMAX 3.0",
+      "title": "SemiAnalysis Ranks the GPU Clouds | ClusterMAX 3.0",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=MWX36ZYnsm0",
       "summary": ""
