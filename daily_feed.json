@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T06:29:11Z",
+  "generated_at": "2026-10-05T06:20:34Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Spotify billionaire’s body scan startup has come to America",
-      "published_at": "Sat, 03 Oct 2026 14:00:00 +0000",
-      "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-      "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it."
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "published_at": "Sun, 04 Oct 2026 16:05:00 +0000",
+      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "OTPfill",
-      "published_at": "2026-09-29T01:55:04-07:00",
-      "link": "https://www.producthunt.com/products/otpfill",
-      "summary": "Autofill OTP codes from your email on Mac Discussion | Link"
+      "title": "Aperture",
+      "published_at": "2026-10-03T12:44:58-07:00",
+      "link": "https://www.producthunt.com/products/aperture-7",
+      "summary": "An AI code editor that checks its own work Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Every Company Needs to Own Its Intelligence",
+      "title": "Why Specialized AI Could Beat The God Model",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ekK8urKHPMQ",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Brian Chesky: People Who Know What to Build With AI Will Pull Ahead",
+      "title": "$95B Airbnb CEO: People Who Know What to Build With AI Will Pull Ahead",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=iJlyNupMOzA",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Crusoe CEO: Why Everyone Gets GPU Depreciation & AI Energy Costs Wrong",
+      "title": "Crusoe CEO: The $30BN Race to Build the Infrastructure Powering AI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Ko7nU1Img40",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "SemiAnalysis Ranks the GPU Clouds | ClusterMAX 3.0",
+      "title": "Which GPU Clouds Are Actually Good? | ClusterMAX 3.0",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=MWX36ZYnsm0",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why Claude can’t be your PM (yet) | Anthropic CPO Panel",
+      "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=sEXdyK6woKU",
+      "link": "https://www.youtube.com/watch?v=MM-C3JqCXBk",
       "summary": ""
     },
     {
