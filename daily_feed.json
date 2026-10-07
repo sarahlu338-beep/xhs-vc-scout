@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-06T06:56:10Z",
+  "generated_at": "2026-10-07T06:37:48Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Top 100 Consumer AI Apps - Seventh Edition",
-      "published_at": "Mon, 05 Oct 2026 14:01:42 GMT",
-      "link": "https://www.a16z.news/p/top-100-consumer-ai-apps-seventh",
-      "summary": "Top web and mobile AI products by monthly traffic"
+      "title": "Investing in General Medicine",
+      "published_at": "Tue, 06 Oct 2026 15:30:49 GMT",
+      "link": "https://www.a16z.news/p/investing-in-general-medicine",
+      "summary": "“General Store”"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Etched fields funding offers at $40B+ valuation, sources say",
-      "published_at": "Mon, 05 Oct 2026 20:24:09 +0000",
-      "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-      "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch."
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "published_at": "Tue, 06 Oct 2026 22:34:03 +0000",
+      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Elio Mortgage Launches With $5.1M",
-      "published_at": "05 Oct 2026 15:15:56 CDT",
-      "link": "https://vcnewsdaily.com/elio-mortgage/venture-capital-funding/nvtbfmrjyq",
-      "summary": "NEW YORK, NY, Elio Mortgage, an AI-native mortgage company redesigning how home loans are originated, has emerged from stealth with $5.1 million in pre-seed funding."
+      "title": "General Medicine Scores $120M Series B",
+      "published_at": "06 Oct 2026 15:07:55 CDT",
+      "link": "https://vcnewsdaily.com/general-medicine/venture-capital-funding/hznmtflqxs",
+      "summary": "SAN FRANCISCO, CA, General Medicine, a nationwide healthcare store, today announced $120 million in Series B financing."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "DailyHelm",
-      "published_at": "2026-09-29T11:28:04-07:00",
-      "link": "https://www.producthunt.com/products/dailyhelm",
-      "summary": "Turn analytics into daily revenue-boosting fixes Discussion | Link"
+      "title": "Coddy",
+      "published_at": "2026-09-09T03:59:53-07:00",
+      "link": "https://www.producthunt.com/products/coddy",
+      "summary": "Learn to code 20+ languages in a fun way with short lessons Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,31 +52,31 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "What AI's Biggest Spenders Are Buying and Building",
+      "title": "The Biggest Shift in Cybersecurity in 30 Years",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=aCvrzhwUxg0",
+      "link": "https://www.youtube.com/watch?v=cJsHel27Z6M",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Databricks’ Ali Ghodsi Never Wanted to Be CEO. Now He’s Among the Best",
+      "title": "Google's Head of AI Infra, Amin Vahdat, on the Architecture of Intelligence",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=k7wPdCNfljQ",
+      "link": "https://www.youtube.com/watch?v=bGph8GwB3Sk",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "$95B Airbnb CEO: People Who Know What to Build With AI Will Pull Ahead",
+      "title": "Nobel Economist: Where He Sees the Real Money in AI | Daron Acemoglu",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=iJlyNupMOzA",
+      "link": "https://www.youtube.com/watch?v=0lsasYuzhL4",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Menlo’s Venky Ganesan on Going All-In on AI, Anthropic & Why Venture Has Changed Forever",
+      "title": "Can You Still Win in Venture Without a $1BN Fund? Menlo’s Venky Ganesan on the New Rules of VC",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=EZWsOxpVWwU",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why most actions on the internet will soon be taken by AI (OpenAI’s head of ChatGPT, Tibo Sottiaux)",
+      "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=MM-C3JqCXBk",
       "summary": ""
