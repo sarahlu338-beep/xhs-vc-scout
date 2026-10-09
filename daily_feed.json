@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-08T06:43:29Z",
+  "generated_at": "2026-10-09T06:51:03Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Investing in Preference Model",
-      "published_at": "Wed, 07 Oct 2026 18:02:06 GMT",
-      "link": "https://www.a16z.news/p/investing-in-preference-model",
-      "summary": "a16z invests in Preference Model"
+      "title": "You Need a New CFO",
+      "published_at": "Thu, 08 Oct 2026 14:02:36 GMT",
+      "link": "https://www.a16z.news/p/you-need-a-new-cfo",
+      "summary": "In 2020, CFOs needed new tools. Now the tools are changing the role."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "published_at": "Wed, 07 Oct 2026 23:36:57 +0000",
-      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks."
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "published_at": "Thu, 08 Oct 2026 18:19:45 +0000",
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Wabi",
-      "published_at": "2026-09-29T09:59:20-07:00",
-      "link": "https://www.producthunt.com/products/wabi-2",
-      "summary": "A new kind of messenger that gets things done Discussion | Link"
+      "title": "OpenSEO",
+      "published_at": "2026-10-06T21:29:30-07:00",
+      "link": "https://www.producthunt.com/products/openseo",
+      "summary": "The open source Semrush alternative Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,23 +52,23 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Kevin Mandia on Why Security Starts With Offense",
+      "title": "What AI Agents Need From the Cloud | AWS CEO Matt Garman",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=cJsHel27Z6M",
+      "link": "https://www.youtube.com/watch?v=rn_afJaPldg",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Google's AI Infrastructure Chief, Amin Vahdat, on the Physics & Economics of Frontier AI",
+      "title": "Luca Ferrari: The Operating System Behind Bending Spoons",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=bGph8GwB3Sk",
+      "link": "https://www.youtube.com/watch?v=hZxmbhsbvyw",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Nobel Economist: How to Stay Valuable as AI Changes Work | Daron Acemoglu",
+      "title": "Nobel Economist: Where He Sees the Real Money in AI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=0lsasYuzhL4",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Menlo’s Venky Ganesan on Going All-In on AI, Anthropic & Why Venture Has Changed Forever",
+      "title": "Vinod Khosla Creates a Storm | Anthropic Under Threat | ElevenLabs Doubles Its Valuation to $22B",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=EZWsOxpVWwU",
+      "link": "https://www.youtube.com/watch?v=NAwiGfk_sCY",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "What If We Stopped Using GPUs? | YC Paper Club",
+      "title": "How Jeetu Patel Runs Cisco Like the World’s Largest Startup",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
+      "link": "https://www.youtube.com/watch?v=ofxAtQhV-xA",
       "summary": ""
     }
   ]
