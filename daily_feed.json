@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-09T06:51:03Z",
+  "generated_at": "2026-10-10T06:28:46Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "You Need a New CFO",
-      "published_at": "Thu, 08 Oct 2026 14:02:36 GMT",
-      "link": "https://www.a16z.news/p/you-need-a-new-cfo",
-      "summary": "In 2020, CFOs needed new tools. Now the tools are changing the role."
+      "title": "This Week in Charts: Are Prediction Markets Politically Biased?",
+      "published_at": "Fri, 09 Oct 2026 16:31:10 GMT",
+      "link": "https://www.a16z.news/p/this-week-in-charts-are-prediction",
+      "summary": "Rule of 40 Ain’t What It Used To Be; Atoms keep winning, but what about everyone else?; AI Has Come For Call Centers, After All?"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "published_at": "Thu, 08 Oct 2026 18:19:45 +0000",
-      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "published_at": "Fri, 09 Oct 2026 21:41:29 +0000",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Agentiq Sports Lands $4M Funding",
-      "published_at": "07 Oct 2026 15:16:14 CDT",
-      "link": "https://vcnewsdaily.com/agentiq-sports/venture-capital-funding/ksttfjrhjb",
-      "summary": "SAN FRANCISCO, CA, Agentiq Sports, the fintech platform allowing fans to indirectly invest in professional athletes' careers, announced $4 million in funding."
+      "title": "Torch Systems Raises $11.5M",
+      "published_at": "09 Oct 2026 15:33:39 CDT",
+      "link": "https://vcnewsdaily.com/torch-systems/venture-capital-funding/szyypgmtwg",
+      "summary": "LAFAYETTE, CA, Torch Systems, an outdoor asset intelligence company bringing AI-powered monitoring to critical infrastructure, has announced $11.5 million funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "OpenSEO",
-      "published_at": "2026-10-06T21:29:30-07:00",
-      "link": "https://www.producthunt.com/products/openseo",
-      "summary": "The open source Semrush alternative Discussion | Link"
+      "title": "Thravik",
+      "published_at": "2026-10-08T13:52:59-07:00",
+      "link": "https://www.producthunt.com/products/thravik",
+      "summary": "The native Mac browser that remembers Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "What AI Agents Need From the Cloud | AWS CEO Matt Garman",
+      "title": "Former Intel CEO: Why This is the Best Time to Build Hardware",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=rn_afJaPldg",
+      "link": "https://www.youtube.com/watch?v=1Q_7yU7FZ1k",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Nobel Economist: Where He Sees the Real Money in AI",
+      "title": "Nobel Economist: How to Stay Valuable as AI Changes Work | Daron Acemoglu",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=0lsasYuzhL4",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Vinod Khosla Creates a Storm | Anthropic Under Threat | ElevenLabs Doubles Its Valuation to $22B",
+      "title": "Cognition vs Factory | Anthropic Under Threat | ElevenLabs Doubles Its Valuation to $22B",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=NAwiGfk_sCY",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "AI Scientists Are Here: Autonomous Labs & Synthesis Superintelligence — Periodic Labs",
+      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=YHiqVRxGViM",
+      "link": "https://www.youtube.com/watch?v=NufiHZfMwaw",
       "summary": ""
     },
     {
