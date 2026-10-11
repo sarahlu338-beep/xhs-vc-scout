@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T06:28:46Z",
+  "generated_at": "2026-10-11T06:34:13Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "published_at": "Fri, 09 Oct 2026 21:41:29 +0000",
-      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "published_at": "Sat, 10 Oct 2026 19:50:00 +0000",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?"
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Thravik",
-      "published_at": "2026-10-08T13:52:59-07:00",
-      "link": "https://www.producthunt.com/products/thravik",
-      "summary": "The native Mac browser that remembers Discussion | Link"
+      "title": "Isly",
+      "published_at": "2026-10-06T13:50:38-07:00",
+      "link": "https://www.producthunt.com/products/isly",
+      "summary": "Your MacBook notch, brought to life. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Nobel Economist: How to Stay Valuable as AI Changes Work | Daron Acemoglu",
+      "title": "Nobel Economist: Where He Sees the Real Money in AI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=0lsasYuzhL4",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Cognition vs Factory | Anthropic Under Threat | ElevenLabs Doubles Its Valuation to $22B",
+      "title": "How to Build a Sales Machine | Max Freeman, Ramp",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=NAwiGfk_sCY",
+      "link": "https://www.youtube.com/watch?v=vxdMU4x2CIU",
       "summary": ""
     },
     {
