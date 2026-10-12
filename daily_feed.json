@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T06:34:13Z",
+  "generated_at": "2026-10-12T06:39:28Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "published_at": "Sat, 10 Oct 2026 19:50:00 +0000",
-      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "summary": "Is Apple hoping to get into the AI-generated podcast business?"
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "published_at": "Mon, 12 Oct 2026 00:59:01 +0000",
+      "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Isly",
-      "published_at": "2026-10-06T13:50:38-07:00",
-      "link": "https://www.producthunt.com/products/isly",
-      "summary": "Your MacBook notch, brought to life. Discussion | Link"
+      "title": "SimpleSpread",
+      "published_at": "2026-10-08T17:21:08-07:00",
+      "link": "https://www.producthunt.com/products/simplespread",
+      "summary": "Native, open source Mac spreadsheet Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Former Intel CEO: Why This is the Best Time to Build Hardware",
+      "title": "Pat Gelsinger on Why This is the Best Time to Build Hardware",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=1Q_7yU7FZ1k",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+      "title": "The Bitter Lesson of Biology: Why Scaling AI Isn't Enough — Pushmeet K, DeepMind & Sal C, Biohub",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=NufiHZfMwaw",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
+      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=MM-C3JqCXBk",
+      "link": "https://www.youtube.com/watch?v=3I6QYkccd3o",
       "summary": ""
     },
     {
