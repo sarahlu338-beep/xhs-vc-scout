@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-13T07:10:01Z",
+  "generated_at": "2026-10-14T05:32:14Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Welcome Col. Jeffrey Glover and Greg Barbaccia",
-      "published_at": "Mon, 12 Oct 2026 13:02:02 GMT",
-      "link": "https://www.a16z.news/p/welcome-col-jeffrey-glover-and-greg",
-      "summary": "Jeffrey Glover and Greg Barbaccia join as Advisors to a16z’s American Dynamism and Growth practices."
+      "title": "The $108 Billion AI Opportunity for Specialty Practices",
+      "published_at": "Tue, 13 Oct 2026 14:04:32 GMT",
+      "link": "https://www.a16z.news/p/the-108-billion-ai-opportunity-for",
+      "summary": "Four ways AI can help practices reach the patients they’re missing and get paid for care already delivered. Together, they’re worth up to $125,000 (or 10%) per physician a year, without adding staff."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "published_at": "Mon, 12 Oct 2026 17:19:14 +0000",
-      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
+      "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
+      "published_at": "Tue, 13 Oct 2026 20:00:00 +0000",
+      "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
+      "summary": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Vitalize Pulls In $31M Series A Financing",
-      "published_at": "12 Oct 2026 14:58:25 CDT",
-      "link": "https://vcnewsdaily.com/vitalize/venture-capital-funding/fybkqycskn",
-      "summary": "SAN FRANCISCO, CA, Vitalize, the AI-native platform that helps health systems manage labor and capacity in real time, has announced a $31 million Series A round."
+      "title": "Aatmunn Secures $8M Growth Round",
+      "published_at": "13 Oct 2026 15:07:09 CDT",
+      "link": "https://vcnewsdaily.com/aatmunn/venture-capital-funding/brcsytqkvl",
+      "summary": "LIVONIA, MI, Aatmunn, the industrial intelligence company behind the SPANR platform, today announced a growth investment of up to $8 million."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "OpenFlowKit 2",
-      "published_at": "2026-10-12T20:05:36-07:00",
-      "link": "https://www.producthunt.com/products/openflowkit",
-      "summary": "Free, open-source diagrams you and your agent edit together Discussion | Link"
+      "title": "Genchi",
+      "published_at": "2026-10-08T15:18:54-07:00",
+      "link": "https://www.producthunt.com/products/genchi",
+      "summary": "Project delivery predictions, from the people doing the work Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,23 +60,23 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Luca Ferrari: The Operating System Behind Bending Spoons",
+      "title": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=hZxmbhsbvyw",
+      "link": "https://www.youtube.com/watch?v=L4SWQebqhek",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Nobel Economist: Where He Sees the Real Money in AI",
+      "title": "Top Google Exec: Why the AI Job Panic Is Actually Your Biggest Advantage",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=0lsasYuzhL4",
+      "link": "https://www.youtube.com/watch?v=Jijc0XokSpQ",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Atlassian CEO: Why Agents Won't Replace Interfaces | Why Enterprises Won't Trust Chinese Models",
+      "title": "Atlassian CEO: Enterprises Won't Trust Chinese AI | Why The Jury’s Still Out on Specialised Models",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=_qRv_CveLik",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Can AI Cure All Disease? — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+      "title": "Robots That Predict the Future: Dyna-2 & Physical AI — Jason Ma, Dyna Robotics",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=NufiHZfMwaw",
+      "link": "https://www.youtube.com/watch?v=BHiYomkfoGQ",
       "summary": ""
     },
     {
