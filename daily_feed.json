@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-14T05:32:14Z",
+  "generated_at": "2026-10-15T05:20:40Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The $108 Billion AI Opportunity for Specialty Practices",
-      "published_at": "Tue, 13 Oct 2026 14:04:32 GMT",
-      "link": "https://www.a16z.news/p/the-108-billion-ai-opportunity-for",
-      "summary": "Four ways AI can help practices reach the patients they’re missing and get paid for care already delivered. Together, they’re worth up to $125,000 (or 10%) per physician a year, without adding staff."
+      "title": "Winning the Relay Race: Long-Running Agents in High-Value Customer Journeys",
+      "published_at": "Wed, 14 Oct 2026 14:04:13 GMT",
+      "link": "https://www.a16z.news/p/winning-the-relay-race-long-running",
+      "summary": "What an AI-native Red Ventures could look like"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
-      "published_at": "Tue, 13 Oct 2026 20:00:00 +0000",
-      "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
-      "summary": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier."
+      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "published_at": "Thu, 15 Oct 2026 00:30:00 +0000",
+      "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+      "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Aatmunn Secures $8M Growth Round",
-      "published_at": "13 Oct 2026 15:07:09 CDT",
-      "link": "https://vcnewsdaily.com/aatmunn/venture-capital-funding/brcsytqkvl",
-      "summary": "LIVONIA, MI, Aatmunn, the industrial intelligence company behind the SPANR platform, today announced a growth investment of up to $8 million."
+      "title": "Forgepoint Collects $9.8M Seed Round",
+      "published_at": "14 Oct 2026 15:15:13 CDT",
+      "link": "https://vcnewsdaily.com/forgepoint/venture-capital-funding/sbfslqlyfp",
+      "summary": "SAN FRANCISCO, CA, Forgepoint announced a $9.8 million seed round led by Primary Venture Partners and a16z speedrun."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Genchi",
-      "published_at": "2026-10-08T15:18:54-07:00",
-      "link": "https://www.producthunt.com/products/genchi",
-      "summary": "Project delivery predictions, from the people doing the work Discussion | Link"
+      "title": "Confidence by Spotify",
+      "published_at": "2026-10-12T07:15:03-07:00",
+      "link": "https://www.producthunt.com/products/spotify",
+      "summary": "Build products at full speed, with both hands on the wheel Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Recursive Self-Improvement and the Future of AI",
+      "title": "Can Open Models Keep Up With OpenAI and Anthropic? | Nathan Lambert",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=3Q1mdn5ZGvM",
+      "link": "https://www.youtube.com/watch?v=BKuK0M6oDTI",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Top Google Exec: Why the AI Job Panic Is Actually Your Biggest Advantage",
+      "title": "Top Google Exec: Who Actually Gets Paid in the AI Economy",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Jijc0XokSpQ",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Atlassian CEO: Enterprises Won't Trust Chinese AI | Why The Jury’s Still Out on Specialised Models",
+      "title": "Atlassian CEO: Why Agents Won't Replace Interfaces | Why Enterprises Won't Trust Chinese Models",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=_qRv_CveLik",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Robots That Predict the Future: Dyna-2 & Physical AI — Jason Ma, Dyna Robotics",
+      "title": "Why Models Trained on Public Data Learn the Chemist, Not the Chemistry — Ian Quigley, Leash Bio",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=BHiYomkfoGQ",
+      "link": "https://www.youtube.com/watch?v=hQSBJVreLms",
       "summary": ""
     },
     {
