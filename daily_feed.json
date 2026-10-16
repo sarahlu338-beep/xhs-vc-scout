@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-15T05:20:40Z",
+  "generated_at": "2026-10-16T05:11:42Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Winning the Relay Race: Long-Running Agents in High-Value Customer Journeys",
-      "published_at": "Wed, 14 Oct 2026 14:04:13 GMT",
-      "link": "https://www.a16z.news/p/winning-the-relay-race-long-running",
-      "summary": "What an AI-native Red Ventures could look like"
+      "title": "Wallet Wars",
+      "published_at": "Thu, 15 Oct 2026 14:08:21 GMT",
+      "link": "https://www.a16z.news/p/wallet-wars",
+      "summary": "Personal agents have arrived, setting off a race for who controls how they spend consumers money."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-      "published_at": "Thu, 15 Oct 2026 00:30:00 +0000",
-      "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-      "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals."
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "published_at": "Thu, 15 Oct 2026 23:44:56 +0000",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Forgepoint Collects $9.8M Seed Round",
-      "published_at": "14 Oct 2026 15:15:13 CDT",
-      "link": "https://vcnewsdaily.com/forgepoint/venture-capital-funding/sbfslqlyfp",
-      "summary": "SAN FRANCISCO, CA, Forgepoint announced a $9.8 million seed round led by Primary Venture Partners and a16z speedrun."
+      "title": "Fission Pulls In $10M Series A Round",
+      "published_at": "15 Oct 2026 14:56:43 CDT",
+      "link": "https://vcnewsdaily.com/fission/venture-capital-funding/rzyxtkwlvd",
+      "summary": "NEW YORK, NY, Fission, a blockchain-enabled financial technology company building liquidity infrastructure for tokenized investment funds, today announced it has closed a $10 million Series A funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Confidence by Spotify",
-      "published_at": "2026-10-12T07:15:03-07:00",
-      "link": "https://www.producthunt.com/products/spotify",
-      "summary": "Build products at full speed, with both hands on the wheel Discussion | Link"
+      "title": "Daddy Issues",
+      "published_at": "2026-10-08T06:59:20-07:00",
+      "link": "https://www.producthunt.com/products/daddy-issues",
+      "summary": "Think ahead. Fight less. A weekly family briefing for dads. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Can Open Models Keep Up With OpenAI and Anthropic? | Nathan Lambert",
+      "title": "What Happens When AI Agents Can Spend Your Money?",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=BKuK0M6oDTI",
+      "link": "https://www.youtube.com/watch?v=q8cb1XL9sXA",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Top Google Exec: Who Actually Gets Paid in the AI Economy",
+      "title": "Top Google Exec: AI Moves Fast, Jobs Move Slow. Use the Gap",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Jijc0XokSpQ",
       "summary": ""
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Atlassian CEO: Why Agents Won't Replace Interfaces | Why Enterprises Won't Trust Chinese Models",
+      "title": "Valar Atomics Sues Day One Ventures | NVIDIA Eyes $30B Reflection Deal | Jev Raises $870M at a $7.5B",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=_qRv_CveLik",
+      "link": "https://www.youtube.com/watch?v=B-QeGihxbFE",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Why Models Trained on Public Data Learn the Chemist, Not the Chemistry — Ian Quigley, Leash Bio",
+      "title": "Why a 4-Billion-Point Kaggle Dataset Still Couldn’t Beat Chance — Ian Quigley, Leash Bio",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=hQSBJVreLms",
       "summary": ""
