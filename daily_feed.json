@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T05:06:31Z",
+  "generated_at": "2026-10-18T05:13:19Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Palomino",
-      "published_at": "2026-10-10T17:10:42-07:00",
-      "link": "https://www.producthunt.com/products/palomino",
-      "summary": "Ultrafast workspace for agents to run in parallel Discussion | Link"
+      "title": "NitroStack",
+      "published_at": "2026-10-08T08:53:30-07:00",
+      "link": "https://www.producthunt.com/products/nitrostack",
+      "summary": "Build, test, and deploy MCP servers in one place Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Production Systems Are AI's Next Big Hurdle",
+      "title": "Why AI Can Write Code But Can’t Keep It Running (Yet)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=blkIGLlZePg",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Top Google Exec: AI Moves Fast, Jobs Move Slow. Use the Gap",
+      "title": "Top Google Exec: Who Actually Gets Paid in the AI Economy",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Jijc0XokSpQ",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Valar Atomics Sues Day One Ventures | Meta is Back to the AI Frontier With Muse Wonder",
+      "title": "Horizontal vs Vertical Agents: Who Wins? | The Future of Inference Market | LangChain CEO",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=B-QeGihxbFE",
+      "link": "https://www.youtube.com/watch?v=1jDCPEHwQfI",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "How Jeetu Patel Runs Cisco Like the World’s Largest Startup",
+      "title": "AI Safety Fact vs. Fiction | YC Paper Club",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ofxAtQhV-xA",
+      "link": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
       "summary": ""
     }
   ]
