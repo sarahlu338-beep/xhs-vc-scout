@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:13:19Z",
+  "generated_at": "2026-10-19T05:24:58Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "published_at": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]"
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "published_at": "Sun, 18 Oct 2026 16:30:00 +0000",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "NitroStack",
-      "published_at": "2026-10-08T08:53:30-07:00",
-      "link": "https://www.producthunt.com/products/nitrostack",
-      "summary": "Build, test, and deploy MCP servers in one place Discussion | Link"
+      "title": "Inbox Zero",
+      "published_at": "2026-10-10T09:45:36-07:00",
+      "link": "https://www.producthunt.com/products/inbox-zero-2",
+      "summary": "Open-source Superhuman alternative Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Top Google Exec: Who Actually Gets Paid in the AI Economy",
+      "title": "Top Google Exec: AI Moves Fast, Jobs Move Slow. Use the Gap",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Jijc0XokSpQ",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "High Taste Testers: The State of AI Products",
+      "title": "High Taste Testers: The AI Tools We Keep Coming Back To",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=ZOH8Q401vt0",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)",
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=3I6QYkccd3o",
+      "link": "https://www.youtube.com/watch?v=JHo-aiePjoM",
       "summary": ""
     },
     {
