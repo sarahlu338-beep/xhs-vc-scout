@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T05:24:58Z",
+  "generated_at": "2026-10-20T05:27:07Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,18 +12,18 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "published_at": "Sun, 18 Oct 2026 16:30:00 +0000",
-      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer."
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "published_at": "Mon, 19 Oct 2026 20:09:24 +0000",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Switched Source Secures $17M",
-      "published_at": "16 Oct 2026 15:03:25 CDT",
-      "link": "https://vcnewsdaily.com/switched-source/venture-capital-funding/jllcybzkjv",
-      "summary": "CHICAGO, IL, Switched Source, a leading developer of grid-enhancing distribution automation technologies, has secured over $17 million in funding."
+      "title": "Fragment Grabs $12M Series A Round",
+      "published_at": "19 Oct 2026 15:04:12 CDT",
+      "link": "https://vcnewsdaily.com/fragment/venture-capital-funding/vtqrtrhrlx",
+      "summary": "NEW YORK, NY, Fragment, an AI-enabled financial infrastructure startup, raised $12 million to help vertical AI businesses automate their customers' financial operations."
     },
     {
       "source": "YC Launches",
@@ -36,25 +36,25 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Inbox Zero",
-      "published_at": "2026-10-10T09:45:36-07:00",
-      "link": "https://www.producthunt.com/products/inbox-zero-2",
-      "summary": "Open-source Superhuman alternative Discussion | Link"
+      "title": "Lookout (for Slack)",
+      "published_at": "2026-10-16T17:44:10-07:00",
+      "link": "https://www.producthunt.com/products/lookout-for-slack",
+      "summary": "Urgent Slack messages, handled instantly. Powered by Jev. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "TypeSafe: The Jevolution",
-      "published_at": "Sat, 10 Oct 2026 00:00:00 -0000",
-      "link": "https://www.sequoiacap.com/article/typesafe-the-jevolution",
-      "summary": "What if machine intelligence were as dependable as a database query?"
+      "title": "Partnering with Blacksmith",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0000",
+      "link": "https://www.sequoiacap.com/article/partnering-with-blacksmith",
+      "summary": "JP, Aayush and Maru are building infrastructure for developers to validate and ship trustworthy code as fast as agents can write it."
     },
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why AI Can Write Code But Can’t Keep It Running (Yet)",
+      "title": "Why a $1M Startup Wasn’t Worth Building in the Age of AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=blkIGLlZePg",
+      "link": "https://www.youtube.com/watch?v=o_5f4N6Nq80",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Top Google Exec: AI Moves Fast, Jobs Move Slow. Use the Gap",
+      "title": "Top Google Exec: Who Actually Gets Paid in the AI Economy",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=Jijc0XokSpQ",
       "summary": ""
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Horizontal vs Vertical Agents: Who Wins? | The Future of Inference Market | LangChain CEO",
+      "title": "You Need $1B To Do Seed Today | Why Margin & Price Matter Less in a World of AI | Sameer Dholakia",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=1jDCPEHwQfI",
+      "link": "https://www.youtube.com/watch?v=-r2_5LboWL8",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "High Taste Testers: The AI Tools We Keep Coming Back To",
+      "title": "The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ZOH8Q401vt0",
+      "link": "https://www.youtube.com/watch?v=DWHyPWnzGAI",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "title": "A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=JHo-aiePjoM",
       "summary": ""
