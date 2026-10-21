@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-20T05:27:07Z",
+  "generated_at": "2026-10-21T05:25:52Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "This Week in Charts: Agents Denied",
-      "published_at": "Fri, 16 Oct 2026 14:00:39 GMT",
-      "link": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
-      "summary": "Super-Pareto TikTok Shop; Cure to High Prices is High Prices; Zoomers Living Large?"
+      "title": "Superhuman Hardware Design Is The Easy Part",
+      "published_at": "Tue, 20 Oct 2026 18:09:13 GMT",
+      "link": "https://www.a16z.news/p/superhuman-hardware-design-is-the",
+      "summary": "The interface between the digital and physical world is lossy"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "published_at": "Mon, 19 Oct 2026 20:09:24 +0000",
-      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "published_at": "Tue, 20 Oct 2026 17:55:12 +0000",
+      "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "summary": "Eric Schmidt’s fortune is about to get even bigger."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Fragment Grabs $12M Series A Round",
-      "published_at": "19 Oct 2026 15:04:12 CDT",
-      "link": "https://vcnewsdaily.com/fragment/venture-capital-funding/vtqrtrhrlx",
-      "summary": "NEW YORK, NY, Fragment, an AI-enabled financial infrastructure startup, raised $12 million to help vertical AI businesses automate their customers' financial operations."
+      "title": "Atombeam Receives $18.3M Series A+",
+      "published_at": "20 Oct 2026 14:58:21 CDT",
+      "link": "https://vcnewsdaily.com/atombeam/venture-capital-funding/lvdwjqxqdz",
+      "summary": "MORAGA, CA, Atombeam today announces the close of a $18.3 million Series A+ round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Lookout (for Slack)",
-      "published_at": "2026-10-16T17:44:10-07:00",
-      "link": "https://www.producthunt.com/products/lookout-for-slack",
-      "summary": "Urgent Slack messages, handled instantly. Powered by Jev. Discussion | Link"
+      "title": "Hoistbay",
+      "published_at": "2026-10-09T02:18:23-07:00",
+      "link": "https://www.producthunt.com/products/hoistbay",
+      "summary": "Open-source desktop app for Amazon S3 and CloudFront Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,25 +52,25 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why a $1M Startup Wasn’t Worth Building in the Age of AI",
+      "title": "Should You Trust ChatGPT With Your Health?",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=o_5f4N6Nq80",
+      "link": "https://www.youtube.com/watch?v=9n0MI4D7TCM",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience",
+      "title": "Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=L4SWQebqhek",
+      "link": "https://www.youtube.com/watch?v=0idrTKCDhuE",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Top Google Exec: Who Actually Gets Paid in the AI Economy",
+      "title": "Claude Engineering Lead: \"Stop Using Claude Like It’s 2024\"",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Jijc0XokSpQ",
+      "link": "https://www.youtube.com/watch?v=D-SVFneJ_Nk",
       "summary": ""
     },
     {
@@ -84,15 +84,15 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi",
+      "title": "AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman & CJ Hess",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=DWHyPWnzGAI",
+      "link": "https://www.youtube.com/watch?v=Vki6cklFqxo",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)",
+      "title": "Is AI as dangerous as we think? Inside the black box of AI | Emmanuel Ameisen (Anthropic)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=JHo-aiePjoM",
       "summary": ""
