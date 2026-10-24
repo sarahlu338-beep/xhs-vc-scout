@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-23T05:29:25Z",
+  "generated_at": "2026-10-24T05:08:13Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Meet the a16z Ops Engineering Fellows",
-      "published_at": "Thu, 22 Oct 2026 16:30:53 GMT",
-      "link": "https://www.a16z.news/p/meet-the-a16z-ops-engineering-fellows",
-      "summary": "The 40 fellows we’ve selected to join the inaugural cohort"
+      "title": "Patch or Die",
+      "published_at": "Fri, 23 Oct 2026 14:20:41 GMT",
+      "link": "https://www.a16z.news/p/patch-or-die",
+      "summary": "Five Drastic Changes Every Company Leader Should Consider Now"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "published_at": "Thu, 22 Oct 2026 23:15:00 +0000",
-      "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-      "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement."
+      "title": "Startups don’t need to go viral to win customers",
+      "published_at": "Fri, 23 Oct 2026 23:07:45 +0000",
+      "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Warp Sciences Emerges With $215M",
-      "published_at": "22 Oct 2026 14:58:27 CDT",
-      "link": "https://vcnewsdaily.com/warp-sciences/venture-capital-funding/bjfkykcrbn",
-      "summary": "SAN FRANCISCO, CA, Warp Sciences today emerged from stealth with $215 million in funding to create the infrastructure that enables biotech and pharmaceutical companies to discover new medicines faster."
+      "title": "Thrive Therapies Receives $7.7M",
+      "published_at": "23 Oct 2026 14:59:16 CDT",
+      "link": "https://vcnewsdaily.com/thrive-therapies/venture-capital-funding/wwqgmvtgsk",
+      "summary": "DALLAS, TX, Thrive Therapies, a tech-enabled pediatric healthcare company, has announced $7.7 million in funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "DeepCell",
-      "published_at": "2026-10-20T07:39:01-07:00",
-      "link": "https://www.producthunt.com/products/deepcell",
-      "summary": "Your deadline survival kit for office work Discussion | Link"
+      "title": "Monish",
+      "published_at": "2026-10-22T07:38:26-07:00",
+      "link": "https://www.producthunt.com/products/monish",
+      "summary": "Your AI agents, live on your iPhone lock screen Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "The Frontier Ideas a16z Wants to Fund Now | Marc Andreessen, Ben Horowitz & Chris Dixon",
+      "title": "Amazon CEO Andy Jassy on the $220 Billion AI Buildout",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=-9XQMHhpypc",
+      "link": "https://www.youtube.com/watch?v=-YMMRQ1qscI",
       "summary": ""
     },
     {
@@ -68,15 +68,15 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Claude Engineering Lead: \"Stop Using Claude Like It’s 2024\"",
+      "title": "Top UCSF Doctor: AI is Coming for Every Medical Specialty",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=D-SVFneJ_Nk",
+      "link": "https://www.youtube.com/watch?v=iJfF_VC10tI",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The New VC Game | CoreWeave Sell-Off Creates Panic | Revenue Multiples Out of Control",
+      "title": "Trillion or Bust: The New VC Game | Revenue Multiples Out of Control | General Atlantic Eyes IPO",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=OJX2L21e4fA",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "How To Stand Out In A World Of AI Designs",
+      "title": "This Is How You Should Actually Make Launch Videos",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=2tZT2-pS_pI",
+      "link": "https://www.youtube.com/watch?v=v12aSIZIXUs",
       "summary": ""
     }
   ]
