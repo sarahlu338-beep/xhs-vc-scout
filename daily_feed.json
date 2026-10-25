@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:08:13Z",
+  "generated_at": "2026-10-25T05:24:33Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Monish",
-      "published_at": "2026-10-22T07:38:26-07:00",
-      "link": "https://www.producthunt.com/products/monish",
-      "summary": "Your AI agents, live on your iPhone lock screen Discussion | Link"
+      "title": "Basedash Scheduled CSV Exports",
+      "published_at": "2026-10-23T10:51:50-07:00",
+      "link": "https://www.producthunt.com/products/basedash",
+      "summary": "Ask once. Get a fresh CSV in Slack or email every week. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Amazon CEO Andy Jassy on the $220 Billion AI Buildout",
+      "title": "Amazon CEO Andy Jassy on the Infrastructure the AI Era Needs",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=-YMMRQ1qscI",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Trillion or Bust: The New VC Game | Revenue Multiples Out of Control | General Atlantic Eyes IPO",
+      "title": "Inference Will Be $10TRN Market: What No One Sees | Software Investors are F***ed | Naveen Rao",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=OJX2L21e4fA",
+      "link": "https://www.youtube.com/watch?v=4UmFfI8CWuA",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "This Is How You Should Actually Make Launch Videos",
+      "title": "Why Inference Matters 12x More Than Training | YC Paper Club",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=v12aSIZIXUs",
+      "link": "https://www.youtube.com/watch?v=mHNKuH-9OxU",
       "summary": ""
     }
   ]
