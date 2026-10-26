@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T05:24:33Z",
+  "generated_at": "2026-10-26T05:29:05Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Basedash Scheduled CSV Exports",
-      "published_at": "2026-10-23T10:51:50-07:00",
-      "link": "https://www.producthunt.com/products/basedash",
-      "summary": "Ask once. Get a fresh CSV in Slack or email every week. Discussion | Link"
+      "title": "Llama Windows",
+      "published_at": "2026-10-23T19:40:27-07:00",
+      "link": "https://www.producthunt.com/products/llama-windows",
+      "summary": "One local AI server for all your Windows apps Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Amazon CEO Andy Jassy on the Infrastructure the AI Era Needs",
+      "title": "Amazon CEO Andy Jassy on Reinventing Amazon for the AI Era",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=-YMMRQ1qscI",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Inference Will Be $10TRN Market: What No One Sees | Software Investors are F***ed | Naveen Rao",
+      "title": "Why Robotics Will be 100X Bigger Than Coding Agents & Inference Will Be $10TRN Market | Naveen Rao",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=4UmFfI8CWuA",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=JHo-aiePjoM",
+      "link": "https://www.youtube.com/watch?v=19qrLchbQEc",
       "summary": ""
     },
     {
