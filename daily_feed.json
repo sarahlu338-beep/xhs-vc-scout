@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-27T05:44:41Z",
+  "generated_at": "2026-10-28T06:23:23Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Announcing the Third a16z New Media Fellowship",
-      "published_at": "Mon, 26 Oct 2026 16:58:44 GMT",
-      "link": "https://www.a16z.news/p/announcing-the-third-a16z-nmf",
-      "summary": "NMF3 will run for eight weeks, starting in January 2027"
+      "title": "Databricks & the Future of the Firm",
+      "published_at": "Tue, 27 Oct 2026 14:02:28 GMT",
+      "link": "https://www.a16z.news/p/databricks-and-the-future-of-the",
+      "summary": "How agents and new database technology will change the shape of the firm—and what we do at work all day"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-      "published_at": "Mon, 26 Oct 2026 22:00:00 +0000",
-      "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team."
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "published_at": "Wed, 28 Oct 2026 01:15:28 +0000",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Coherence Neuro Brings in $45M Series A Funding",
-      "published_at": "26 Oct 2026 14:14:50 CDT",
-      "link": "https://vcnewsdaily.com/coherence-neuro/venture-capital-funding/bgljymcxkm",
-      "summary": "SAN FRANCISCO, CA, Coherence Neuro, a neurotechnology company developing implantable devices to monitor and potentially treat cancer, raised $45 million in Series A funding co-led by Founders Fund and the OpenAI Startup Fund."
+      "title": "Maxinsights Inks $30M Seed Round",
+      "published_at": "27 Oct 2026 18:41:01 CDT",
+      "link": "https://vcnewsdaily.com/maxinsights/venture-capital-funding/dhvbcjhfhq",
+      "summary": "SANTA CLARA, CA, Maxinsights, the company building the data layer for physical AI, has announced $30 million in seed funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "VibeiDE",
-      "published_at": "2026-10-25T14:30:48-07:00",
-      "link": "https://www.producthunt.com/products/vibeide",
-      "summary": "Queue agent tasks in parallel and review each result Discussion | Link"
+      "title": "SavorApp_AI",
+      "published_at": "2026-09-12T09:45:52-07:00",
+      "link": "https://www.producthunt.com/products/savor-3",
+      "summary": "Capture what matters and move your intentions forward Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why OpenAI Is Racing to Make Computer Use Superhuman",
+      "title": "Alpha School's Radical Vision for the Future of Education",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=9v42ZOdiBJY",
+      "link": "https://www.youtube.com/watch?v=T4u2FoIm3pw",
       "summary": ""
     },
     {
@@ -84,15 +84,15 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "New Open Environments to Test AI Agents on Real Chemistry - Ian Quigley, Leash Bio",
+      "title": "How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=vhPCo-8K78U",
+      "link": "https://www.youtube.com/watch?v=MRQTlwcW-aQ",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "A (short) pragmatic guide to finding product market fit | Rob Snyder (Author, The Power of Pull)",
+      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=19qrLchbQEc",
       "summary": ""
