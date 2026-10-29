@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-28T06:23:23Z",
+  "generated_at": "2026-10-29T06:34:01Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Databricks & the Future of the Firm",
-      "published_at": "Tue, 27 Oct 2026 14:02:28 GMT",
-      "link": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-      "summary": "How agents and new database technology will change the shape of the firm—and what we do at work all day"
+      "title": "The New Security Agenda",
+      "published_at": "Wed, 28 Oct 2026 16:00:31 GMT",
+      "link": "https://www.a16z.news/p/the-new-security-agenda",
+      "summary": "What CISOs told us about AI, budgets, and the priorities shaping 2027."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "published_at": "Wed, 28 Oct 2026 01:15:28 +0000",
-      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "published_at": "Wed, 28 Oct 2026 23:15:00 +0000",
+      "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Maxinsights Inks $30M Seed Round",
-      "published_at": "27 Oct 2026 18:41:01 CDT",
-      "link": "https://vcnewsdaily.com/maxinsights/venture-capital-funding/dhvbcjhfhq",
-      "summary": "SANTA CLARA, CA, Maxinsights, the company building the data layer for physical AI, has announced $30 million in seed funding."
+      "title": "Casap Scores $56M Series B Funding",
+      "published_at": "28 Oct 2026 14:34:24 CDT",
+      "link": "https://vcnewsdaily.com/casap/venture-capital-funding/qwgsdvyssv",
+      "summary": "NEW YORK, NY, Casap, the AI agent platform for financial services, announced a $56 million Series B funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "SavorApp_AI",
-      "published_at": "2026-09-12T09:45:52-07:00",
-      "link": "https://www.producthunt.com/products/savor-3",
-      "summary": "Capture what matters and move your intentions forward Discussion | Link"
+      "title": "App Store Screenshots",
+      "published_at": "2026-10-04T00:57:55-07:00",
+      "link": "https://www.producthunt.com/products/app-store-screenshots",
+      "summary": "Your coding agent designs your app store screenshots Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,17 +52,17 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Alpha School's Radical Vision for the Future of Education",
+      "title": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=T4u2FoIm3pw",
+      "link": "https://www.youtube.com/watch?v=5UWDUD6qaM4",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots",
+      "title": "European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=0idrTKCDhuE",
+      "link": "https://www.youtube.com/watch?v=qhIabMKHJlA",
       "summary": ""
     },
     {
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang",
+      "title": "Why Agents Love Supabase — with Paul Copplestone and Ant Wilson",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=MRQTlwcW-aQ",
+      "link": "https://www.youtube.com/watch?v=zHG6sAss_kE",
       "summary": ""
     },
     {
