@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-29T06:34:01Z",
+  "generated_at": "2026-10-30T06:33:01Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The New Security Agenda",
-      "published_at": "Wed, 28 Oct 2026 16:00:31 GMT",
-      "link": "https://www.a16z.news/p/the-new-security-agenda",
-      "summary": "What CISOs told us about AI, budgets, and the priorities shaping 2027."
+      "title": "AD 50 2026: Production is Deterrence",
+      "published_at": "Thu, 29 Oct 2026 14:00:21 GMT",
+      "link": "https://www.a16z.news/p/ad-50-2026-production-is-deterrence",
+      "summary": "50 Companies Rebuilding and Protecting America"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-      "published_at": "Wed, 28 Oct 2026 23:15:00 +0000",
-      "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price."
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "published_at": "Thu, 29 Oct 2026 16:21:00 +0000",
+      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Casap Scores $56M Series B Funding",
-      "published_at": "28 Oct 2026 14:34:24 CDT",
-      "link": "https://vcnewsdaily.com/casap/venture-capital-funding/qwgsdvyssv",
-      "summary": "NEW YORK, NY, Casap, the AI agent platform for financial services, announced a $56 million Series B funding round."
+      "title": "Skoka Pulls In $21.5M",
+      "published_at": "29 Oct 2026 23:56:40 CDT",
+      "link": "https://vcnewsdaily.com/skoka/venture-capital-funding/dwnymdnxqd",
+      "summary": "AUSTIN, TX, Skoka today announced it has raised a $21.5 million funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "App Store Screenshots",
-      "published_at": "2026-10-04T00:57:55-07:00",
-      "link": "https://www.producthunt.com/products/app-store-screenshots",
-      "summary": "Your coding agent designs your app store screenshots Discussion | Link"
+      "title": "StoreLocale",
+      "published_at": "2026-10-28T04:24:39-07:00",
+      "link": "https://www.producthunt.com/products/storelocale",
+      "summary": "Translate app UI in App Store & Google Play screenshots Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,17 +52,17 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires",
+      "title": "How to Build the Next SpaceX or Tesla",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=5UWDUD6qaM4",
+      "link": "https://www.youtube.com/watch?v=cRJ7CfaK1Vc",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback",
+      "title": "Crusoe CEO Chase Lochmiller: Turning Stranded Energy Into Intelligence",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=qhIabMKHJlA",
+      "link": "https://www.youtube.com/watch?v=64vUl9k-IAQ",
       "summary": ""
     },
     {
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Satya Nadella on Open vs Closed Models: Who Wins | Why Companies Need to Own Their Own Intelligence",
+      "title": "Anthropic Files S1 | Microsoft Cuts 27,000 Jobs While Meta Taps Equity Markets for $95B CapEx",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=24XUcWhqY_4",
+      "link": "https://www.youtube.com/watch?v=2-aUmDMZgLE",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+      "title": "A (short) pragmatic guide to finding product market fit | Rob Snyder (Author, The Power of Pull)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=19qrLchbQEc",
       "summary": ""
