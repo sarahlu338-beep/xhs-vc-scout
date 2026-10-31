@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-30T06:33:01Z",
+  "generated_at": "2026-10-31T06:23:08Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "AD 50 2026: Production is Deterrence",
-      "published_at": "Thu, 29 Oct 2026 14:00:21 GMT",
-      "link": "https://www.a16z.news/p/ad-50-2026-production-is-deterrence",
-      "summary": "50 Companies Rebuilding and Protecting America"
+      "title": "New Founder Archetypes in the AI Age",
+      "published_at": "Fri, 30 Oct 2026 16:02:46 GMT",
+      "link": "https://www.a16z.news/p/new-founder-archetypes-in-the-ai",
+      "summary": "What types of founders will thrive in the new cycle"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "published_at": "Thu, 29 Oct 2026 16:21:00 +0000",
-      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States."
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "published_at": "Fri, 30 Oct 2026 23:21:23 +0000",
+      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Skoka Pulls In $21.5M",
-      "published_at": "29 Oct 2026 23:56:40 CDT",
-      "link": "https://vcnewsdaily.com/skoka/venture-capital-funding/dwnymdnxqd",
-      "summary": "AUSTIN, TX, Skoka today announced it has raised a $21.5 million funding round."
+      "title": "Serval Secures $150M Series C Round",
+      "published_at": "30 Oct 2026 15:05:18 CDT",
+      "link": "https://vcnewsdaily.com/serval/venture-capital-funding/cpnbchqnwr",
+      "summary": "SAN FRANCISCO, CA, Serval, the enterprise service management and automation platform, has announced a $150 million Series C led by Sequoia, valuing the company at $3 billion."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "StoreLocale",
-      "published_at": "2026-10-28T04:24:39-07:00",
-      "link": "https://www.producthunt.com/products/storelocale",
-      "summary": "Translate app UI in App Store & Google Play screenshots Discussion | Link"
+      "title": "StereoLift Live",
+      "published_at": "2026-10-25T10:43:45-07:00",
+      "link": "https://www.producthunt.com/products/stereolift-live",
+      "summary": "your desktop in real 3D, live on your Quest Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "How to Build the Next SpaceX or Tesla",
+      "title": "Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=cRJ7CfaK1Vc",
+      "link": "https://www.youtube.com/watch?v=iRMmPjunm3Q",
       "summary": ""
     },
     {
@@ -68,15 +68,15 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Top UCSF Doctor: AI is Coming for Every Medical Specialty",
+      "title": "Harvard AI Professor: The People Most at Risk From AI Aren’t Who You Think",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=iJfF_VC10tI",
+      "link": "https://www.youtube.com/watch?v=vFOnDsy58NU",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Anthropic Files S1 | Microsoft Cuts 27,000 Jobs While Meta Taps Equity Markets for $95B CapEx",
+      "title": "Instinct Worth 30BN? | Microsoft Cuts 27,000 Jobs While Meta Taps Equity Markets for $95B CapEx",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=2-aUmDMZgLE",
       "summary": ""
@@ -84,15 +84,15 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Why Agents Love Supabase — with Paul Copplestone and Ant Wilson",
+      "title": "Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=zHG6sAss_kE",
+      "link": "https://www.youtube.com/watch?v=v-d1WTqIULs",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "A (short) pragmatic guide to finding product market fit | Rob Snyder (Author, The Power of Pull)",
+      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=19qrLchbQEc",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The New Full-Stack Designer",
+      "title": "What Happens When Everyone Can Build Software",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=eojywvxqoLc",
+      "link": "https://www.youtube.com/watch?v=vl7HiMdGfjo",
       "summary": ""
     }
   ]
