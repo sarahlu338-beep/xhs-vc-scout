@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-02T06:55:50Z",
+  "generated_at": "2026-11-03T07:19:14Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "New Founder Archetypes in the AI Age",
-      "published_at": "Fri, 30 Oct 2026 16:02:46 GMT",
-      "link": "https://www.a16z.news/p/new-founder-archetypes-in-the-ai",
-      "summary": "What types of founders will thrive in the new cycle"
+      "title": "Investing in Tutor Intelligence",
+      "published_at": "Mon, 02 Nov 2026 16:05:44 GMT",
+      "link": "https://www.a16z.news/p/investing-in-tutor-intelligence",
+      "summary": "a16z leads Tutor Intelligence’s Series B"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "published_at": "Sat, 31 Oct 2026 21:36:07 +0000",
-      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door."
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "published_at": "Tue, 03 Nov 2026 00:35:52 +0000",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Serval Secures $150M Series C Round",
-      "published_at": "30 Oct 2026 15:05:18 CDT",
-      "link": "https://vcnewsdaily.com/serval/venture-capital-funding/cpnbchqnwr",
-      "summary": "SAN FRANCISCO, CA, Serval, the enterprise service management and automation platform, has announced a $150 million Series C led by Sequoia, valuing the company at $3 billion."
+      "title": "Dren Bio Announces $350 Million Financing",
+      "published_at": "02 Nov 2026 14:18:22 CDT",
+      "link": "https://vcnewsdaily.com/dren-bio/venture-capital-funding/hldfmdwdly",
+      "summary": "SAN CARLOS, CA, Dren Bio, a privately held, clinical-stage biotechnology company developing first-in-class antibody therapeutics, announced the closing of an oversubscribed $350 million private financing."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "ernd",
-      "published_at": "2026-10-31T01:07:30-07:00",
-      "link": "https://www.producthunt.com/products/ernd",
-      "summary": "The credit card for the AI stack Discussion | Link"
+      "title": "diff-tour",
+      "published_at": "2026-10-29T00:28:50-07:00",
+      "link": "https://www.producthunt.com/products/diff-tour",
+      "summary": "AI writes the code. Learn to read it like a senior engineer. Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,15 +52,15 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Hip Hop’s Origin Story, Told by the Legends Who Lived It",
+      "title": "Why a Robotics Company Needs More Than a Great AI Model",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=_d83IiEU7_0",
+      "link": "https://www.youtube.com/watch?v=lXkjXSul6yg",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Crusoe CEO Chase Lochmiller: Turning Stranded Energy Into Intelligence",
+      "title": "From the Electron to the Token: Crusoe’s Chase Lochmiller",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=64vUl9k-IAQ",
       "summary": ""
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Why High Ownership & Concentration is BS & The Lean Startup is a Fake | David Tisch",
+      "title": "Modal CEO: Who Wins the Inference Market | What Happens to the Cost of Compute",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=BsvXF-0_G-Y",
+      "link": "https://www.youtube.com/watch?v=1dwyL6Iz_PU",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Using Agents for Long-Horizon Financial Work — Aman Singh, Arca",
+      "title": "Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=KM3VQZKjpiY",
+      "link": "https://www.youtube.com/watch?v=bJBEFzlKPoQ",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+      "title": "86 minutes of paid-growth alpha | Hector Serrano",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=KzS5Qs7vSMg",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "What Happens When Everyone Can Build Software",
+      "title": "The $1B Company Fixing AI’s Software Bottleneck",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=vl7HiMdGfjo",
+      "link": "https://www.youtube.com/watch?v=NVzgt2AEvDg",
       "summary": ""
     }
   ]
