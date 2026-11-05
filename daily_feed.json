@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-04T07:01:27Z",
+  "generated_at": "2026-11-05T07:28:01Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The State of Longevity",
-      "published_at": "Tue, 03 Nov 2026 15:06:11 GMT",
-      "link": "https://www.a16z.news/p/the-state-of-longevity",
-      "summary": "The healthmaxxing economy is here"
+      "title": "Is Private Equity Cooked?",
+      "published_at": "Wed, 04 Nov 2026 15:01:56 GMT",
+      "link": "https://www.a16z.news/p/is-private-equity-cooked",
+      "summary": "Or has it already incinerated?"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "published_at": "Tue, 03 Nov 2026 19:34:43 +0000",
-      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "published_at": "Wed, 04 Nov 2026 22:13:16 +0000",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
     },
     {
       "source": "VC News Daily",
@@ -36,25 +36,25 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Teamily AI",
-      "published_at": "2026-06-02T18:43:42-07:00",
-      "link": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
-      "summary": "Your personal agent, agent teams & people in one messenger Discussion | Link"
+      "title": "Wanaka Studio",
+      "published_at": "2026-10-28T06:18:07-07:00",
+      "link": "https://www.producthunt.com/products/wanaka-studio",
+      "summary": "Make and publish 3D games with the first AI game engine Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "Cresta: From Stanford Research to AI at Work",
-      "published_at": "Tue, 03 Nov 2026 00:00:00 -0000",
-      "link": "https://www.sequoiacap.com/article/cresta-from-stanford-research-to-ai-at-work",
-      "summary": "Congratulations to the Cresta team on joining Salesforce."
+      "title": "Partnering with Edelbyte: Data Infrastructure That Keeps Up With AI's Curiosity",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0000",
+      "link": "https://www.sequoiacap.com/article/partnering-with-edelbyte-data-infrastructure-that-keeps-up-with-ai-s-curiosity",
+      "summary": "AI agents will ask far more questions of a company's data than people ever did. Edelbyte is building the data platform that can answer all of them, fast and at a price that makes sense."
     },
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Andrew Huberman on Focus, Energy, and Performing at Your Best",
+      "title": "Three AI Agents Planned the Same Trip. Here’s What Happened.",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Ezi-nwe6LlY",
+      "link": "https://www.youtube.com/watch?v=dSiTwPl0t1U",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "TIME100 AI Expert: This Is the Golden Age of Entrepreneurship",
+      "title": "Wharton’s Top AI Professor: Stop Starting Software Companies — The Real AI Money Is Here",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=sHHYVvG_C4Q",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Modal CEO: Who Wins the Inference Market | What Happens to the Cost of Compute",
+      "title": "Modal CEO: Has Open-Source LLM Inference Peaked? | What Happens to the Cost of Compute",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=1dwyL6Iz_PU",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev",
+      "title": "Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=LL0YmIyBKSU",
+      "link": "https://www.youtube.com/watch?v=QmDLDy3ZSNE",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The $1B Company Fixing AI’s Software Bottleneck",
+      "title": "10 Habits PhDs Must Unlearn To Build a Startup | Startup School",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=NVzgt2AEvDg",
+      "link": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
       "summary": ""
     }
   ]
