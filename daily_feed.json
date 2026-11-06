@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-05T07:28:01Z",
+  "generated_at": "2026-11-06T07:27:47Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Is Private Equity Cooked?",
-      "published_at": "Wed, 04 Nov 2026 15:01:56 GMT",
-      "link": "https://www.a16z.news/p/is-private-equity-cooked",
-      "summary": "Or has it already incinerated?"
+      "title": "The Exploit Was the Bottleneck",
+      "published_at": "Thu, 05 Nov 2026 15:01:00 GMT",
+      "link": "https://www.a16z.news/p/the-exploit-was-the-bottleneck",
+      "summary": "What 23 Years of Data Say About AI and the Patch Gap"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "published_at": "Wed, 04 Nov 2026 22:13:16 +0000",
-      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
+      "title": "Harbinger raises $240M after expanding into defense",
+      "published_at": "Thu, 05 Nov 2026 17:52:44 +0000",
+      "link": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+      "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "BRIJ Medical Lands $5M",
-      "published_at": "03 Nov 2026 16:45:50 CDT",
-      "link": "https://vcnewsdaily.com/brij-medical/venture-capital-funding/pbgnmbnryz",
-      "summary": "SAN DIEGO, CA, BRIJ Medical, a medical technology company advancing surgical incision management, today announced that it has closed a $5 million financing round."
+      "title": "firmly Inks $15M Series A Round",
+      "published_at": "05 Nov 2026 15:01:02 CDT",
+      "link": "https://vcnewsdaily.com/firmly/venture-capital-funding/wtqgjmnbcb",
+      "summary": "SEATTLE, WA, firmly, the 'no-code' agentic commerce platform connecting merchants to high-intent digital channels, today announced a $15 million Series A funding round."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Wanaka Studio",
-      "published_at": "2026-10-28T06:18:07-07:00",
-      "link": "https://www.producthunt.com/products/wanaka-studio",
-      "summary": "Make and publish 3D games with the first AI game engine Discussion | Link"
+      "title": "Nemotron 3.5 Transcribe",
+      "published_at": "2026-11-04T20:51:07-08:00",
+      "link": "https://www.producthunt.com/products/nvidia",
+      "summary": "Intelligent Transcription with a Speech LLM Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,41 +52,41 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Three AI Agents Planned the Same Trip. Here’s What Happened.",
+      "title": "Why Figma’s CFO Isn’t Giving Up Spreadsheets for AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=dSiTwPl0t1U",
+      "link": "https://www.youtube.com/watch?v=9iAQdKxyiQc",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "Turning Stranded Energy Into Intelligence: Crusoe CEO Chase Lochmiller",
+      "title": "A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=64vUl9k-IAQ",
+      "link": "https://www.youtube.com/watch?v=32vxW6GMeLY",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Wharton’s Top AI Professor: Stop Starting Software Companies — The Real AI Money Is Here",
+      "title": "Former YouTube CEO: Health Mistake Most People Make | Susan Wojcicki Foundation",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=sHHYVvG_C4Q",
+      "link": "https://www.youtube.com/watch?v=lrIVD2eyPb8",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Modal CEO: Has Open-Source LLM Inference Peaked? | What Happens to the Cost of Compute",
+      "title": "OpenAI Cuts Valuation to $1.25T | DoorDash Buys Instacart for $17B | Kalshi Raises $1B",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=1dwyL6Iz_PU",
+      "link": "https://www.youtube.com/watch?v=4nKt18AZDsQ",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+      "title": "Multicellular Systems - Fabian Theis, Helmholtz Munich",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=QmDLDy3ZSNE",
+      "link": "https://www.youtube.com/watch?v=DLKg78H1wSI",
       "summary": ""
     },
     {
