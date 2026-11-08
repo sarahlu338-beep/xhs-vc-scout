@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-07T06:39:51Z",
+  "generated_at": "2026-11-08T06:45:40Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Defense in Depth, Rebuilt for Machine Speed",
-      "published_at": "Fri, 06 Nov 2026 17:00:37 GMT",
-      "link": "https://www.a16z.news/p/defense-in-depth-rebuilt-for-machine",
-      "summary": "Six generational opportunities we see"
+      "title": "Hip-Hop Has No Social Security. Paid in Full Is Trying to Change That.",
+      "published_at": "Sat, 07 Nov 2026 15:02:03 GMT",
+      "link": "https://www.a16z.news/p/hip-hop-has-no-social-security-paid",
+      "summary": "At the 2026 Hip Hop Grandmaster Awards, the pioneers who built a multibillion-dollar culture finally collected on a debt nearly fifty years overdue."
     },
     {
       "source": "TechCrunch Startups",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "PostMyPace",
-      "published_at": "2026-11-05T05:26:15-08:00",
-      "link": "https://www.producthunt.com/products/postmypace",
-      "summary": "Turn your run into a ready-to-post Instagram Story or Reel Discussion | Link"
+      "title": "ChatGPT Images 2.6",
+      "published_at": "2026-11-05T08:20:03-08:00",
+      "link": "https://www.producthunt.com/products/openai",
+      "summary": "Create, edit, and animate images with AI Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Salesforce’s Deal Chief on Marc Benioff’s AI Playbook",
+      "title": "How Salesforce Chooses the AI Companies It Wants to Buy",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=y4BdOtm40SA",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Former YouTube CEO: The One Rule Behind Susan Wojcicki’s Career | Her Family Speaks",
+      "title": "How YouTube’s CEO Raised 5 Kids and Built Google: Her Family Speaks",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=lrIVD2eyPb8",
       "summary": ""
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "OpenAI Cuts Valuation to $1.25T | DoorDash Buys Instacart for $17B | Kalshi Raises $1B",
+      "title": "From $8BN to $19BN: Inside WashU's Endowment Fund | Scott Wilson",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=4nKt18AZDsQ",
+      "link": "https://www.youtube.com/watch?v=iG0UO-KAByY",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter",
+      "title": "Rebuilding GitHub for the Agent Era — Jay Parikh, EVP of CoreAI, Microsoft",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=P735f1xlpL0",
+      "link": "https://www.youtube.com/watch?v=rSWiNE92xqM",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+      "title": "A UGC masterclass from the 22-year-old who built Wispr Flow’s growth machine | Hector Serrano",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=KzS5Qs7vSMg",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The Future of Supersonic Travel with Blake Scholl",
+      "title": "How To Build The Future: Paul Graham & Amjad Masad",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=NYGf--dBeHA",
+      "link": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
       "summary": ""
     }
   ]
