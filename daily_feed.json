@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-10T07:49:29Z",
+  "generated_at": "2026-11-11T07:17:15Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "America Can Build Again. Here’s How",
-      "published_at": "Mon, 09 Nov 2026 15:02:51 GMT",
-      "link": "https://www.a16z.news/p/america-can-build-again-heres-how",
-      "summary": "Permitting Reform And The Race to Rebuild America"
+      "title": "Investing in General Translation",
+      "published_at": "Tue, 10 Nov 2026 16:30:36 GMT",
+      "link": "https://www.a16z.news/p/investing-in-general-translation",
+      "summary": "a16z leads General Translation’s Series A"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-      "published_at": "Mon, 09 Nov 2026 19:21:46 +0000",
-      "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation."
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "published_at": "Tue, 10 Nov 2026 21:08:52 +0000",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Numica Scores $21M Funding",
-      "published_at": "09 Nov 2026 14:30:06 CDT",
-      "link": "https://vcnewsdaily.com/numica/venture-capital-funding/fmtsvcnblc",
-      "summary": "NEW YORK, NY, Numica, a provider of an AI-first accounting platform that acquires and optimize small U.S. accounting practices, raised $21M in combined equity and debt financing."
+      "title": "WhiteMatter Receives $20M Series A",
+      "published_at": "10 Nov 2026 15:00:16 CDT",
+      "link": "https://vcnewsdaily.com/whitematter/venture-capital-funding/twclskvpxd",
+      "summary": "SAN FRANCISCO, CA, WhiteMatter, which quietly built its platform under the name QuilrAI, has raised $20 million in Series A funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Arcjet AI security models",
-      "published_at": "2026-11-06T07:23:25-08:00",
-      "link": "https://www.producthunt.com/products/arcjet",
-      "summary": "A family of custom-trained security models for coding agents Discussion | Link"
+      "title": "Ember",
+      "published_at": "2026-11-09T09:00:33-08:00",
+      "link": "https://www.producthunt.com/products/ember-117",
+      "summary": "Free, open-source Slack you host on Cloudflare in one click Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Salesforce’s Deal Chief on Marc Benioff’s AI Playbook",
+      "title": "Why HubSpot’s Co-Founder Is Betting Against the SaaSpocalypse",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=y4BdOtm40SA",
+      "link": "https://www.youtube.com/watch?v=s4lXP9IuHjk",
       "summary": ""
     },
     {
@@ -68,15 +68,15 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Susan Wojcicki’s Family on Her Life, Leadership and 9 Years Running YouTube",
+      "title": "DeepMind Veteran: How to Get Real Value From AI Agents",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=lrIVD2eyPb8",
+      "link": "https://www.youtube.com/watch?v=yIFhTVMOH98",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Mistral CEO: Why Energy Is Not the Bottleneck | Why OpenAI & Anthropic Will Come for Your Business",
+      "title": "Mistral CEO: Why OpenAI & Anthropic Will Come for Your Business | Are Chinese Models Truly Safe?",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=KotQbLX8pOw",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+      "title": "Designing for Agents — Zeno Rocha, Resend",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=v5IJwVnTxzg",
+      "link": "https://www.youtube.com/watch?v=bdIoODXsu8k",
       "summary": ""
     },
     {
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Can AI Decode The Language Of Life? | YC Paper Club",
+      "title": "How AI Can Cure Diseases Never Before Possible | YC Paper Club",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=-XL2gClQ2gg",
       "summary": ""
