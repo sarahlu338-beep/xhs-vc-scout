@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-11T07:17:15Z",
+  "generated_at": "2026-11-12T07:48:18Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Investing in General Translation",
-      "published_at": "Tue, 10 Nov 2026 16:30:36 GMT",
-      "link": "https://www.a16z.news/p/investing-in-general-translation",
-      "summary": "a16z leads General Translation’s Series A"
+      "title": "Welcome to the B2A Economy",
+      "published_at": "Wed, 11 Nov 2026 15:02:38 GMT",
+      "link": "https://www.a16z.news/p/welcome-to-the-b2a-economy",
+      "summary": "Companies spent decades keeping bots out. Now they’ll compete for their business."
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "published_at": "Tue, 10 Nov 2026 21:08:52 +0000",
-      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "published_at": "Wed, 11 Nov 2026 19:34:55 +0000",
+      "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Ember",
-      "published_at": "2026-11-09T09:00:33-08:00",
-      "link": "https://www.producthunt.com/products/ember-117",
-      "summary": "Free, open-source Slack you host on Cloudflare in one click Discussion | Link"
+      "title": "Shot.video",
+      "published_at": "2026-11-10T03:14:30-08:00",
+      "link": "https://www.producthunt.com/products/shot-video",
+      "summary": "Multi-camera videos with the phones you already own Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why HubSpot’s Co-Founder Is Betting Against the SaaSpocalypse",
+      "title": "Inside the Economics of AI Supply and Demand | Mike Volpi",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=s4lXP9IuHjk",
+      "link": "https://www.youtube.com/watch?v=LI3lxzHfRrU",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "DeepMind Veteran: How to Get Real Value From AI Agents",
+      "title": "DeepMind Veteran: The Business Opportunity in AI’s Missing Data",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=yIFhTVMOH98",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "How AI Can Cure Diseases Never Before Possible | YC Paper Club",
+      "title": "Inside Theranos with ex-Employee Tyler Shultz",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=-XL2gClQ2gg",
+      "link": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
       "summary": ""
     }
   ]
