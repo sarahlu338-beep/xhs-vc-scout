@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T07:06:14Z",
+  "generated_at": "2026-11-15T07:17:23Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Google Pixel Tag",
-      "published_at": "2026-11-10T16:54:47-08:00",
-      "link": "https://www.producthunt.com/products/google",
-      "summary": "Google’s $30 Android-ready tracking tag Discussion | Link"
+      "title": "MAP & GO!",
+      "published_at": "2026-10-21T13:14:51-07:00",
+      "link": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
+      "summary": "See your day on the map Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "How to Defend Against AI Hackers, with Wiz’s Ami Luttwak",
+      "title": "Cyberattacks Used to Take Months. AI Can Do It in Minutes.",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=PbD9pVXxsYM",
       "summary": ""
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Sequoia Leaves London, Close Scout Program & End Evergreen Fund | NASDAQ Loses $2.5T in 24 hours",
+      "title": "The AI Compute Crisis: Why We Need Thousands of Times More Computing Power | Fractile Founder",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=ffh7fdwfrWU",
+      "link": "https://www.youtube.com/watch?v=UZ8eYaAf08M",
       "summary": ""
     },
     {
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Inside Theranos with ex-Employee Tyler Shultz",
+      "title": "The Rise Of AI Coworkers",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
+      "link": "https://www.youtube.com/watch?v=y1-9yeYLJUo",
       "summary": ""
     }
   ]
