@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T07:17:23Z",
+  "generated_at": "2026-11-16T07:23:29Z",
   "items": [
     {
       "source": "a16z News",
@@ -12,10 +12,10 @@
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "published_at": "Fri, 13 Nov 2026 22:43:00 +0000",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "published_at": "Sun, 15 Nov 2026 23:30:00 +0000",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
     },
     {
       "source": "VC News Daily",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "MAP & GO!",
-      "published_at": "2026-10-21T13:14:51-07:00",
-      "link": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
-      "summary": "See your day on the map Discussion | Link"
+      "title": "Emayler",
+      "published_at": "2026-11-12T15:32:53-08:00",
+      "link": "https://www.producthunt.com/products/emayler",
+      "summary": "Custom email on your domain, minus the headache Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Cyberattacks Used to Take Months. AI Can Do It in Minutes.",
+      "title": "Wiz’s Cofounder on the New Rules of AI Security",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=PbD9pVXxsYM",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
+      "title": "Why Meta’s Muse worked: The story behind the number one app this year | Mona Sarantakos (Meta VP)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=qGf2Yvan4Wg",
+      "link": "https://www.youtube.com/watch?v=WY0cdD4gNoQ",
       "summary": ""
     },
     {
