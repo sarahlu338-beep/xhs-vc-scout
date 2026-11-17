@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-16T07:23:29Z",
+  "generated_at": "2026-11-17T08:35:43Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Big Pharma Can Rival Big Software",
-      "published_at": "Fri, 13 Nov 2026 15:03:24 GMT",
-      "link": "https://www.a16z.news/p/big-pharma-can-rival-big-software",
-      "summary": "AI Will Make Pharma Even Bigger"
+      "title": "The Dream of the 1990s Is Alive Again in Cybersecurity",
+      "published_at": "Mon, 16 Nov 2026 15:02:26 GMT",
+      "link": "https://www.a16z.news/p/the-dream-of-the-1990s-is-alive-again",
+      "summary": "History is indeed repeating itself, which is actually good news"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "published_at": "Sun, 15 Nov 2026 23:30:00 +0000",
-      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "published_at": "Mon, 16 Nov 2026 23:32:32 +0000",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Garage Obtains $41M Series B",
-      "published_at": "13 Nov 2026 14:06:57 CDT",
-      "link": "https://vcnewsdaily.com/garage/venture-capital-funding/xrypgrgmxz",
-      "summary": "NEW YORK, NY, Garage, the leading AI-powered marketplace for America's essential equipment, announced $41 million in Series B funding."
+      "title": "Remedy Robotics Finalizes $62M Series B Funding",
+      "published_at": "16 Nov 2026 14:23:12 CDT",
+      "link": "https://vcnewsdaily.com/remedy-robotics/venture-capital-funding/jzgfgwqybl",
+      "summary": "SAN FRANCISCO, CA, Remedy Robotics, a leading healthcare and physical AI company developing robotic systems for cardiovascular care and endovascular intervention, announced it has raised $62 million in Series B funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Emayler",
-      "published_at": "2026-11-12T15:32:53-08:00",
-      "link": "https://www.producthunt.com/products/emayler",
-      "summary": "Custom email on your domain, minus the headache Discussion | Link"
+      "title": "Versine",
+      "published_at": "2026-11-04T18:07:47-08:00",
+      "link": "https://www.producthunt.com/products/versine",
+      "summary": "Venmo for AI agents Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Wiz’s Cofounder on the New Rules of AI Security",
+      "title": "What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=PbD9pVXxsYM",
+      "link": "https://www.youtube.com/watch?v=g_67TmQ8lGY",
       "summary": ""
     },
     {
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The AI Compute Crisis: Why We Need Thousands of Times More Computing Power | Fractile Founder",
+      "title": "Jev Creator: Why Data Matters More Than Compute | The Cost of Intelligence & Tokens | Diogo Almeida",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=UZ8eYaAf08M",
+      "link": "https://www.youtube.com/watch?v=BE2JqjsN4aY",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Designing for Agents — Zeno Rocha, Resend",
+      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=bdIoODXsu8k",
+      "link": "https://www.youtube.com/watch?v=8cGfJOU3AlQ",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Why Meta’s Muse worked: The story behind the number one app this year | Mona Sarantakos (Meta VP)",
+      "title": "Meta’s Muse: Inside the launch of the most successful consumer product this year | Mona Sarantakos",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=WY0cdD4gNoQ",
       "summary": ""
