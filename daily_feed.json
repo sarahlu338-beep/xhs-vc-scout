@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-17T08:35:43Z",
+  "generated_at": "2026-11-18T07:59:47Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The Dream of the 1990s Is Alive Again in Cybersecurity",
-      "published_at": "Mon, 16 Nov 2026 15:02:26 GMT",
-      "link": "https://www.a16z.news/p/the-dream-of-the-1990s-is-alive-again",
-      "summary": "History is indeed repeating itself, which is actually good news"
+      "title": "The Boring Company & the Future Underground",
+      "published_at": "Tue, 17 Nov 2026 15:30:54 GMT",
+      "link": "https://www.a16z.news/p/the-boring-company-and-the-future",
+      "summary": "How cheaper tunneling could put traffic underground and finally make Elon Musk’s hyperloop possible"
     },
     {
       "source": "TechCrunch Startups",
       "type": "website",
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "published_at": "Mon, 16 Nov 2026 23:32:32 +0000",
-      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+      "title": "",
+      "published_at": "",
+      "link": "https://techcrunch.com/category/startups/feed/",
+      "summary": "FETCH_ERROR: HTTP Error 403: Forbidden"
     },
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Remedy Robotics Finalizes $62M Series B Funding",
-      "published_at": "16 Nov 2026 14:23:12 CDT",
-      "link": "https://vcnewsdaily.com/remedy-robotics/venture-capital-funding/jzgfgwqybl",
-      "summary": "SAN FRANCISCO, CA, Remedy Robotics, a leading healthcare and physical AI company developing robotic systems for cardiovascular care and endovascular intervention, announced it has raised $62 million in Series B funding."
+      "title": "Aarden Receives $8M Financing Round",
+      "published_at": "17 Nov 2026 15:06:50 CDT",
+      "link": "https://vcnewsdaily.com/aarden/venture-capital-funding/zldzlvnzgw",
+      "summary": "SEATTLE, WA, Today, Aarden announced it has raised $8 million led by Overture Ventures, with participation from Madrona and Propeller Ventures."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Versine",
-      "published_at": "2026-11-04T18:07:47-08:00",
-      "link": "https://www.producthunt.com/products/versine",
-      "summary": "Venmo for AI agents Discussion | Link"
+      "title": "Lasso",
+      "published_at": "2026-11-07T12:23:28-08:00",
+      "link": "https://www.producthunt.com/products/lasso-11",
+      "summary": "Draw on your Mac screen, then let AI agents see it Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas",
+      "title": "OpenAI’s Cofounder & Research Chief Explain Self-Improving AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=g_67TmQ8lGY",
+      "link": "https://www.youtube.com/watch?v=h_aA1-R70E8",
       "summary": ""
     },
     {
@@ -68,9 +68,9 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "AI’s Next Trillion-Dollar Market Isn’t Software | Max Jaderberg, President of Isomorphic Labs",
+      "title": "Head of Instagram: Stop Starting Every AI Chat From Zero",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=yIFhTVMOH98",
+      "link": "https://www.youtube.com/watch?v=CN8c1edTCew",
       "summary": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Meta’s Muse: Inside the launch of the most successful consumer product this year | Mona Sarantakos",
+      "title": "The rise of Muse: Inside the launch of the most successful consumer product this year",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=WY0cdD4gNoQ",
       "summary": ""
