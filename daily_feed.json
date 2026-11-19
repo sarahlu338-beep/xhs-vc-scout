@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-18T07:59:47Z",
+  "generated_at": "2026-11-19T08:03:00Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The Boring Company & the Future Underground",
-      "published_at": "Tue, 17 Nov 2026 15:30:54 GMT",
-      "link": "https://www.a16z.news/p/the-boring-company-and-the-future",
-      "summary": "How cheaper tunneling could put traffic underground and finally make Elon Musk’s hyperloop possible"
+      "title": "Investing in Linq",
+      "published_at": "Wed, 18 Nov 2026 17:05:33 GMT",
+      "link": "https://www.a16z.news/p/investing-in-linq",
+      "summary": "a16z leads Linq’s Series B"
     },
     {
       "source": "TechCrunch Startups",
@@ -20,10 +20,10 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Aarden Receives $8M Financing Round",
-      "published_at": "17 Nov 2026 15:06:50 CDT",
-      "link": "https://vcnewsdaily.com/aarden/venture-capital-funding/zldzlvnzgw",
-      "summary": "SEATTLE, WA, Today, Aarden announced it has raised $8 million led by Overture Ventures, with participation from Madrona and Propeller Ventures."
+      "title": "Speakeasy Announces $18.8 Million Series A",
+      "published_at": "18 Nov 2026 11:58:29 CDT",
+      "link": "https://vcnewsdaily.com/speakeasy/venture-capital-funding/qgmxnzrrxd",
+      "summary": "NEW YORK, NY, Speakeasy, the infrastructure powering live experiences and the in-real-life (IRL) economy, announced the completion of an oversubscribed $18.8 million Series A."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Lasso",
-      "published_at": "2026-11-07T12:23:28-08:00",
-      "link": "https://www.producthunt.com/products/lasso-11",
-      "summary": "Draw on your Mac screen, then let AI agents see it Discussion | Link"
+      "title": "Verse Engine by Ctruh",
+      "published_at": "2026-11-17T06:44:33-08:00",
+      "link": "https://www.producthunt.com/products/verse-engine-by-ctruh",
+      "summary": "Blender, Unity or Unreal to a live 3D link in one click Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,23 +52,23 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "OpenAI’s Cofounder & Research Chief Explain Self-Improving AI",
+      "title": "What It Takes to Run a Personal Assistant Around the Clock",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=h_aA1-R70E8",
+      "link": "https://www.youtube.com/watch?v=kBJe4H_WobA",
       "summary": ""
     },
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning",
+      "title": "The Boomerang CEO(s): With MongoDB’s Dev Ittycheria",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=32vxW6GMeLY",
+      "link": "https://www.youtube.com/watch?v=uMO3zS5FLoc",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Head of Instagram: Stop Starting Every AI Chat From Zero",
+      "title": "Head of Instagram Reveals How the Top 1% Actually Work With AI",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=CN8c1edTCew",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Jev Creator: Why Data Matters More Than Compute | The Cost of Intelligence & Tokens | Diogo Almeida",
+      "title": "Jev Creator on Data Matters More Than Compute | Will US Open Models Catch Chinese | Diogo Almeida",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=BE2JqjsN4aY",
       "summary": ""
@@ -84,15 +84,15 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "title": "⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=8cGfJOU3AlQ",
+      "link": "https://www.youtube.com/watch?v=wX8nDtGIfYA",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The rise of Muse: Inside the launch of the most successful consumer product this year",
+      "title": "Meta’s Muse: Inside the launch of the most successful consumer product this year | Mona Sarantakos",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=WY0cdD4gNoQ",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The Rise Of AI Coworkers",
+      "title": "Ramp’s Bet on the 100x Employee",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=y1-9yeYLJUo",
+      "link": "https://www.youtube.com/watch?v=0Hvs6-XODgU",
       "summary": ""
     }
   ]
