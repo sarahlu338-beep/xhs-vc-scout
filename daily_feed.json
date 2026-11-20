@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-19T08:03:00Z",
+  "generated_at": "2026-11-20T07:50:41Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Investing in Linq",
-      "published_at": "Wed, 18 Nov 2026 17:05:33 GMT",
-      "link": "https://www.a16z.news/p/investing-in-linq",
-      "summary": "a16z leads Linq’s Series B"
+      "title": "The a16z FDE Fellowship is back",
+      "published_at": "Thu, 19 Nov 2026 17:26:00 GMT",
+      "link": "https://www.a16z.news/p/the-a16z-fde-fellowship-is-back",
+      "summary": "An eight-week cohort of FDE leaders from SpaceXSI, OpenAI, Harvey, and more"
     },
     {
       "source": "TechCrunch Startups",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Verse Engine by Ctruh",
-      "published_at": "2026-11-17T06:44:33-08:00",
-      "link": "https://www.producthunt.com/products/verse-engine-by-ctruh",
-      "summary": "Blender, Unity or Unreal to a live 3D link in one click Discussion | Link"
+      "title": "Stripo Email Widgets",
+      "published_at": "2026-11-11T00:31:59-08:00",
+      "link": "https://www.producthunt.com/products/stripo-email",
+      "summary": "Put a game, quiz or survey in your next email. No coding Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "What It Takes to Run a Personal Assistant Around the Clock",
+      "title": "Why Nick Bostrom Thinks Superintelligence Could End Aging",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=kBJe4H_WobA",
+      "link": "https://www.youtube.com/watch?v=gDW9An30_c0",
       "summary": ""
     },
     {
@@ -76,23 +76,23 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Jev Creator on Data Matters More Than Compute | Will US Open Models Catch Chinese | Diogo Almeida",
+      "title": "Anthropic Set for Largest IPO of All Time | Kalshi, Mercor, Fractile Mega-Rounds Continue",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=BE2JqjsN4aY",
+      "link": "https://www.youtube.com/watch?v=RZ4BBkSZ3io",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC",
+      "title": "Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=wX8nDtGIfYA",
+      "link": "https://www.youtube.com/watch?v=x0VSm6IjcDQ",
       "summary": ""
     },
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Meta’s Muse: Inside the launch of the most successful consumer product this year | Mona Sarantakos",
+      "title": "Muse Deep-Dive: Behind the most successful consumer AI product launch this year | Mona Sarantakos",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=WY0cdD4gNoQ",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Ramp’s Bet on the 100x Employee",
+      "title": "Jacob Coxon vs. Robin Hanson: Should We Slow Down AI?",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=0Hvs6-XODgU",
+      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
       "summary": ""
     }
   ]
