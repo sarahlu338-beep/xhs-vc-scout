@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T07:50:41Z",
+  "generated_at": "2026-11-21T07:46:49Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "The a16z FDE Fellowship is back",
-      "published_at": "Thu, 19 Nov 2026 17:26:00 GMT",
-      "link": "https://www.a16z.news/p/the-a16z-fde-fellowship-is-back",
-      "summary": "An eight-week cohort of FDE leaders from SpaceXSI, OpenAI, Harvey, and more"
+      "title": "Charts of the Week: There is No Gen Z",
+      "published_at": "Fri, 20 Nov 2026 15:08:14 GMT",
+      "link": "https://www.a16z.news/p/charts-of-the-week-there-is-no-gen",
+      "summary": "AI Wins FAArmageddon And Other Travel Woes; Druck Presides At TomorrowX and Uncertainty Abounds"
     },
     {
       "source": "TechCrunch Startups",
@@ -20,10 +20,10 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Speakeasy Announces $18.8 Million Series A",
-      "published_at": "18 Nov 2026 11:58:29 CDT",
-      "link": "https://vcnewsdaily.com/speakeasy/venture-capital-funding/qgmxnzrrxd",
-      "summary": "NEW YORK, NY, Speakeasy, the infrastructure powering live experiences and the in-real-life (IRL) economy, announced the completion of an oversubscribed $18.8 million Series A."
+      "title": "Scuba Raises $34M Pre-Seed and Seed",
+      "published_at": "20 Nov 2026 15:03:12 CDT",
+      "link": "https://vcnewsdaily.com/scuba/venture-capital-funding/kyqhmvgrjd",
+      "summary": "NEW YORK, NY, Scuba, the shared context engine for teams and their agents, has emerged from stealth with $34 million in funding over two rounds."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Stripo Email Widgets",
-      "published_at": "2026-11-11T00:31:59-08:00",
-      "link": "https://www.producthunt.com/products/stripo-email",
-      "summary": "Put a game, quiz or survey in your next email. No coding Discussion | Link"
+      "title": "FFMPA Kids News",
+      "published_at": "2026-11-12T21:03:20-08:00",
+      "link": "https://www.producthunt.com/products/ffmpa-kids-news",
+      "summary": "Calm, fact-checked news for kids 5 to 15 Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,9 +52,9 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why Nick Bostrom Thinks Superintelligence Could End Aging",
+      "title": "Why AI Has DHH Working 16-Hour Days",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=gDW9An30_c0",
+      "link": "https://www.youtube.com/watch?v=TtOoLanFzGw",
       "summary": ""
     },
     {
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Anthropic Set for Largest IPO of All Time | Kalshi, Mercor, Fractile Mega-Rounds Continue",
+      "title": "Will Jensen Return to NVIDIA | Anthropic Set for Largest IPO of All Time",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=RZ4BBkSZ3io",
       "summary": ""
@@ -84,7 +84,7 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO",
+      "title": "How Linear Pivoted Beyond Issue Tracking — Cristina Cordova, COO",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=x0VSm6IjcDQ",
       "summary": ""
