@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T07:46:49Z",
+  "generated_at": "2026-11-22T07:33:18Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "FFMPA Kids News",
-      "published_at": "2026-11-12T21:03:20-08:00",
-      "link": "https://www.producthunt.com/products/ffmpa-kids-news",
-      "summary": "Calm, fact-checked news for kids 5 to 15 Discussion | Link"
+      "title": "AlterContacts",
+      "published_at": "2026-11-17T02:25:12-08:00",
+      "link": "https://www.producthunt.com/products/alter-contacts-ai-client-relationships",
+      "summary": "AI client relationship assistant that thinks and does ahead Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -76,15 +76,15 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Will Jensen Return to NVIDIA | Anthropic Set for Largest IPO of All Time",
+      "title": "Why Neo-Clouds are Great Businesses & The State of Compute with Kush Bavaria, Co-Founder @ Ornn",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=RZ4BBkSZ3io",
+      "link": "https://www.youtube.com/watch?v=3ZkDiDrxDeY",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "How Linear Pivoted Beyond Issue Tracking — Cristina Cordova, COO",
+      "title": "Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=x0VSm6IjcDQ",
       "summary": ""
@@ -92,7 +92,7 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "Muse Deep-Dive: Behind the most successful consumer AI product launch this year | Mona Sarantakos",
+      "title": "The rise of Muse: Inside the launch of the most successful consumer product this year",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=WY0cdD4gNoQ",
       "summary": ""
