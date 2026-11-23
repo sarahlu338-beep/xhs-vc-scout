@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T07:33:18Z",
+  "generated_at": "2026-11-23T08:20:47Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "AlterContacts",
-      "published_at": "2026-11-17T02:25:12-08:00",
-      "link": "https://www.producthunt.com/products/alter-contacts-ai-client-relationships",
-      "summary": "AI client relationship assistant that thinks and does ahead Discussion | Link"
+      "title": "Modem",
+      "published_at": "2026-08-17T12:08:59-07:00",
+      "link": "https://www.producthunt.com/products/modem",
+      "summary": "Find, fix, and follow up on every customer concern Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "Why AI Has DHH Working 16-Hour Days",
+      "title": "DHH on Local AI and Keeping the Frontier Labs Honest",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=TtOoLanFzGw",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Why Neo-Clouds are Great Businesses & The State of Compute with Kush Bavaria, Co-Founder @ Ornn",
+      "title": "The State of Compute: What Everyone Needs to Know | Why Neo-Clouds are Great Businesses",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=3ZkDiDrxDeY",
       "summary": ""
@@ -92,9 +92,9 @@
     {
       "source": "Lenny's Podcast",
       "type": "youtube",
-      "title": "The rise of Muse: Inside the launch of the most successful consumer product this year",
+      "title": "Why “everyone becoming a builder” isn't working",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=WY0cdD4gNoQ",
+      "link": "https://www.youtube.com/watch?v=hRtmV1mCBSE",
       "summary": ""
     },
     {
