@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-23T08:20:47Z",
+  "generated_at": "2026-11-24T10:29:51Z",
   "items": [
     {
       "source": "a16z News",
       "type": "website",
-      "title": "Charts of the Week: There is No Gen Z",
-      "published_at": "Fri, 20 Nov 2026 15:08:14 GMT",
-      "link": "https://www.a16z.news/p/charts-of-the-week-there-is-no-gen",
-      "summary": "AI Wins FAArmageddon And Other Travel Woes; Druck Presides At TomorrowX and Uncertainty Abounds"
+      "title": "Investing in Embo",
+      "published_at": "Mon, 23 Nov 2026 17:02:28 GMT",
+      "link": "https://www.a16z.news/p/investing-in-embo",
+      "summary": "a16z leads Embo’s round"
     },
     {
       "source": "TechCrunch Startups",
@@ -20,10 +20,10 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Scuba Raises $34M Pre-Seed and Seed",
-      "published_at": "20 Nov 2026 15:03:12 CDT",
-      "link": "https://vcnewsdaily.com/scuba/venture-capital-funding/kyqhmvgrjd",
-      "summary": "NEW YORK, NY, Scuba, the shared context engine for teams and their agents, has emerged from stealth with $34 million in funding over two rounds."
+      "title": "LanceDB Snares $57.5M Series B Funding",
+      "published_at": "23 Nov 2026 14:28:10 CDT",
+      "link": "https://vcnewsdaily.com/lancedb/venture-capital-funding/vhqnsnxgmt",
+      "summary": "SAN FRANCISCO, CA, LanceDB has raised $57.5M in its Series B funding to bring the LanceDB multimodal lakehouse to its users."
     },
     {
       "source": "YC Launches",
@@ -36,25 +36,25 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Modem",
-      "published_at": "2026-08-17T12:08:59-07:00",
-      "link": "https://www.producthunt.com/products/modem",
-      "summary": "Find, fix, and follow up on every customer concern Discussion | Link"
+      "title": "Rotara",
+      "published_at": "2026-11-22T08:59:41-08:00",
+      "link": "https://www.producthunt.com/products/rotara",
+      "summary": "Mac workspaces, one flick away Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
       "type": "website",
-      "title": "Partnering with Edelbyte: Data Infrastructure That Keeps Up With AI's Curiosity",
-      "published_at": "Wed, 11 Nov 2026 00:00:00 -0000",
-      "link": "https://www.sequoiacap.com/article/partnering-with-edelbyte-data-infrastructure-that-keeps-up-with-ai-s-curiosity",
-      "summary": "AI agents will ask far more questions of a company's data than people ever did. Edelbyte is building the data platform that can answer all of them, fast and at a price that makes sense."
+      "title": "Partnering with Isomorphic Labs: Drug Discovery Is an AI Problem",
+      "published_at": "Mon, 23 Nov 2026 00:00:00 -0000",
+      "link": "https://www.sequoiacap.com/article/partnering-with-isomorphic-labs-drug-discovery-is-an-ai-problem",
+      "summary": "Demis Hassabis, Max Jaderberg and their team are on a mission to improve human health by solving disease with AI."
     },
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "DHH on Local AI and Keeping the Frontier Labs Honest",
+      "title": "OpenAI’s Plan to Reinvent Drug Discovery",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=TtOoLanFzGw",
+      "link": "https://www.youtube.com/watch?v=RwYz8XhZiu0",
       "summary": ""
     },
     {
@@ -76,9 +76,9 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The State of Compute: What Everyone Needs to Know | Why Neo-Clouds are Great Businesses",
+      "title": "The US Sold Too Many Chips To China | Why the Inference Layer is Uninvestable | Anj Midha",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=3ZkDiDrxDeY",
+      "link": "https://www.youtube.com/watch?v=mg4yo5HUMuQ",
       "summary": ""
     },
     {
