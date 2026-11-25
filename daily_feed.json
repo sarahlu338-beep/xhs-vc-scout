@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:29:51Z",
+  "generated_at": "2026-11-25T09:18:00Z",
   "items": [
     {
       "source": "a16z News",
@@ -20,10 +20,10 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "LanceDB Snares $57.5M Series B Funding",
-      "published_at": "23 Nov 2026 14:28:10 CDT",
-      "link": "https://vcnewsdaily.com/lancedb/venture-capital-funding/vhqnsnxgmt",
-      "summary": "SAN FRANCISCO, CA, LanceDB has raised $57.5M in its Series B funding to bring the LanceDB multimodal lakehouse to its users."
+      "title": "Avicena Pulls In $100M Series C",
+      "published_at": "24 Nov 2026 14:59:14 CDT",
+      "link": "https://vcnewsdaily.com/avicenatech/venture-capital-funding/hzfzrzpggm",
+      "summary": "SUNNYVALE, CA, Avicena, the pioneer in microLED-based optical interconnects, today announced that it has raised over $100 million in Series C funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Rotara",
-      "published_at": "2026-11-22T08:59:41-08:00",
-      "link": "https://www.producthunt.com/products/rotara",
-      "summary": "Mac workspaces, one flick away Discussion | Link"
+      "title": "Airbot",
+      "published_at": "2026-11-19T08:45:54-08:00",
+      "link": "https://www.producthunt.com/products/airbots",
+      "summary": "The AI chief of staff that texts you first Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,23 +60,23 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "The Boomerang CEO(s): With MongoDB’s Dev Ittycheria",
+      "title": "OpenAI’s Noam Brown on Teaching AI to Think Before Acting (Live at No Limit Finals)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=uMO3zS5FLoc",
+      "link": "https://www.youtube.com/watch?v=tRaFbDFBl_A",
       "summary": ""
     },
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Head of Instagram Reveals How the Top 1% Actually Work With AI",
+      "title": "Robinhood CEO: How to Build Wealth in the AI Era (Before It's Too Late)",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=CN8c1edTCew",
+      "link": "https://www.youtube.com/watch?v=drrMoBocXZ0",
       "summary": ""
     },
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The US Sold Too Many Chips To China | Why the Inference Layer is Uninvestable | Anj Midha",
+      "title": "\"Fire the Bankers\": Most VCs Won't Survive AI | Why the Inference Layer is Uninvestable | Anj Midha",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=mg4yo5HUMuQ",
       "summary": ""
@@ -100,9 +100,9 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "Jacob Coxon vs. Robin Hanson: Should We Slow Down AI?",
+      "title": "How To Build A Jet Engine From Scratch",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "link": "https://www.youtube.com/watch?v=-ieJwYq4j-o",
       "summary": ""
     }
   ]
