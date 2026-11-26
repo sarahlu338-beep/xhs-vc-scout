@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:18:00Z",
+  "generated_at": "2026-11-26T08:57:52Z",
   "items": [
     {
       "source": "a16z News",
@@ -20,10 +20,10 @@
     {
       "source": "VC News Daily",
       "type": "website",
-      "title": "Avicena Pulls In $100M Series C",
-      "published_at": "24 Nov 2026 14:59:14 CDT",
-      "link": "https://vcnewsdaily.com/avicenatech/venture-capital-funding/hzfzrzpggm",
-      "summary": "SUNNYVALE, CA, Avicena, the pioneer in microLED-based optical interconnects, today announced that it has raised over $100 million in Series C funding."
+      "title": "Nodal Networks Inks $11.3M Seed Round",
+      "published_at": "25 Nov 2026 15:03:47 CDT",
+      "link": "https://vcnewsdaily.com/nodal-networks/venture-capital-funding/plfqmjhwzx",
+      "summary": "LOS ANGELES, CA, Nodal Networks, which builds AI decision intelligence for the world's container terminals, has announced $11.3 million in seed funding."
     },
     {
       "source": "YC Launches",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Airbot",
-      "published_at": "2026-11-19T08:45:54-08:00",
-      "link": "https://www.producthunt.com/products/airbots",
-      "summary": "The AI chief of staff that texts you first Discussion | Link"
+      "title": "Watch Reader",
+      "published_at": "2026-11-22T00:47:07-08:00",
+      "link": "https://www.producthunt.com/products/watch-reader",
+      "summary": "Books and articles, read aloud on your Apple Watch Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "\"Fire the Bankers\": Most VCs Won't Survive AI | Why the Inference Layer is Uninvestable | Anj Midha",
+      "title": "The US Sold Too Many Chips To China | Why the Inference Layer is Uninvestable | Anj Midha",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=mg4yo5HUMuQ",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO",
+      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=x0VSm6IjcDQ",
+      "link": "https://www.youtube.com/watch?v=Qe9d9dWyED0",
       "summary": ""
     },
     {
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "How To Build A Jet Engine From Scratch",
+      "title": "The Jet Engine That Could Power AI and Supersonic Flight",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=-ieJwYq4j-o",
       "summary": ""
