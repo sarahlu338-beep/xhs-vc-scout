@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:57:52Z",
+  "generated_at": "2026-11-27T09:10:57Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "Watch Reader",
-      "published_at": "2026-11-22T00:47:07-08:00",
-      "link": "https://www.producthunt.com/products/watch-reader",
-      "summary": "Books and articles, read aloud on your Apple Watch Discussion | Link"
+      "title": "gpyou",
+      "published_at": "2026-11-24T12:36:16-08:00",
+      "link": "https://www.producthunt.com/products/gpyou",
+      "summary": "The OpenRouter for compute for the cheapest GPU in stock Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "OpenAI’s Noam Brown on Teaching AI to Think Before Acting (Live at No Limit Finals)",
+      "title": "OpenAI’s Noam Brown: Why AI Still Can’t Build a Great Pokerbot on Its Own (Live at No Limit Finals)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=tRaFbDFBl_A",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Robinhood CEO: How to Build Wealth in the AI Era (Before It's Too Late)",
+      "title": "Robinhood CEO: How Regular People Build Wealth in the AI Era",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=drrMoBocXZ0",
       "summary": ""
@@ -76,17 +76,17 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "The US Sold Too Many Chips To China | Why the Inference Layer is Uninvestable | Anj Midha",
+      "title": "Anthropic's IPO: How It Changes Venture | Applied Compute, Bill.com & Mailchimp Acquisitions",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=mg4yo5HUMuQ",
+      "link": "https://www.youtube.com/watch?v=UGSSg8vv8vg",
       "summary": ""
     },
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=Qe9d9dWyED0",
+      "link": "https://www.youtube.com/watch?v=qjPcaZf_plo",
       "summary": ""
     },
     {
@@ -100,7 +100,7 @@
     {
       "source": "YC Official",
       "type": "youtube",
-      "title": "The Jet Engine That Could Power AI and Supersonic Flight",
+      "title": "How To Build A Jet Engine From Scratch",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=-ieJwYq4j-o",
       "summary": ""
