@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:10:57Z",
+  "generated_at": "2026-11-28T08:30:55Z",
   "items": [
     {
       "source": "a16z News",
@@ -36,10 +36,10 @@
     {
       "source": "Product Hunt",
       "type": "website",
-      "title": "gpyou",
-      "published_at": "2026-11-24T12:36:16-08:00",
-      "link": "https://www.producthunt.com/products/gpyou",
-      "summary": "The OpenRouter for compute for the cheapest GPU in stock Discussion | Link"
+      "title": "RetainIQ",
+      "published_at": "2026-11-14T02:10:18-08:00",
+      "link": "https://www.producthunt.com/products/retainiq-2",
+      "summary": "Know which customers need attention, why & what to do next Discussion | Link"
     },
     {
       "source": "Sequoia Stories",
@@ -52,7 +52,7 @@
     {
       "source": "a16z",
       "type": "youtube",
-      "title": "OpenAI’s Plan to Reinvent Drug Discovery",
+      "title": "Why OpenAI Acquired a Biotech Startup",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=RwYz8XhZiu0",
       "summary": ""
@@ -60,7 +60,7 @@
     {
       "source": "Sequoia Capital",
       "type": "youtube",
-      "title": "OpenAI’s Noam Brown: Why AI Still Can’t Build a Great Pokerbot on Its Own (Live at No Limit Finals)",
+      "title": "OpenAI’s Noam Brown on Teaching AI to Think Before Acting (Live at No Limit Finals)",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=tRaFbDFBl_A",
       "summary": ""
@@ -68,7 +68,7 @@
     {
       "source": "Silicon Valley Girl",
       "type": "youtube",
-      "title": "Robinhood CEO: How Regular People Build Wealth in the AI Era",
+      "title": "Robinhood CEO: The Real AI Winners Aren’t Who You Think",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=drrMoBocXZ0",
       "summary": ""
@@ -76,7 +76,7 @@
     {
       "source": "20VC",
       "type": "youtube",
-      "title": "Anthropic's IPO: How It Changes Venture | Applied Compute, Bill.com & Mailchimp Acquisitions",
+      "title": "Jensen Huang's $1TRN Return: What Happens Now | Applied Compute, Bill.com & Mailchimp Acquisitions",
       "published_at": "",
       "link": "https://www.youtube.com/watch?v=UGSSg8vv8vg",
       "summary": ""
@@ -84,9 +84,9 @@
     {
       "source": "Latent Space",
       "type": "youtube",
-      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
       "published_at": "",
-      "link": "https://www.youtube.com/watch?v=qjPcaZf_plo",
+      "link": "https://www.youtube.com/watch?v=lCtMq8jegvo",
       "summary": ""
     },
     {
